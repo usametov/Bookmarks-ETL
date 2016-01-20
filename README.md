@@ -1,17 +1,9 @@
-# You've added your first Readme file!
-A README.md file is intended to quickly orient readers to what your project can do.  New to Markdown? [Learn more](http://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
-
-## Edit this README and commit your change to a topic branch
-In Git, branches are cheap.  You should use them whenever you're making changes to your repository.  Edit this file by clicking on the edit icon.
-
-Then make some changes to this README file.
+## Card Sort Utility
 
 > Make some **edits** to _this_ blockquote
 
-When you are done, click the dropdown arrow next to the save button - that will allow you to commit your changes to a new branch.
 
-## Create a pull request to contribute your changes back into master
-Pull requests are the way to move changes from a topic branch back into the master branch.
+## How to build
 
 Click on the **Pull Requests** page in the **CODE** hub, then click "New Pull Request" to create a new pull request from your topic branch to the master branch.
 
