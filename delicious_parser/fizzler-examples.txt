@@ -1,0 +1,31 @@
+// Load the document using HTMLAgilityPack as normal
+var html = new HtmlDocument();
+html.LoadHtml(@"
+  <html>
+      <head></head>
+      <body>
+        <div>
+          <p class='content'>Fizzler</p>
+          <p>CSS Selector Engine</p></div>
+      </body>
+  </html>");
+
+// Fizzler for HtmlAgilityPack is implemented as the 
+// QuerySelectorAll extension method on HtmlNode
+
+var document = html.DocumentNode;
+
+// yields: [<p class="content">Fizzler</p>]
+document.QuerySelectorAll(".content"); 
+
+// yields: [<p class="content">Fizzler</p>,<p>CSS Selector Engine</p>]
+document.QuerySelectorAll("p");
+
+// yields empty sequence
+document.QuerySelectorAll("body>p");
+
+// yields [<p class="content">Fizzler</p>,<p>CSS Selector Engine</p>]
+document.QuerySelectorAll("body p");
+
+// yields [<p class="content">Fizzler</p>]
+document.QuerySelectorAll("p:first-child");
