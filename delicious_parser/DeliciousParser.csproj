@@ -7,8 +7,8 @@
     <ProjectGuid>{9F14F763-EE9D-478D-A751-56D9054DA317}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>delicious_parser</RootNamespace>
-    <AssemblyName>delicious_parser</AssemblyName>
+    <RootNamespace>DeliciousParser</RootNamespace>
+    <AssemblyName>DeliciousParser</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>

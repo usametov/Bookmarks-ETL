@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solr_import_util", "solr_import_util\solr_import_util.csproj", "{640DA3B0-30C0-4BA6-AEE2-08BA8ECDCC95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delicious_parser", "delicious_parser\delicious_parser.csproj", "{9F14F763-EE9D-478D-A751-56D9054DA317}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliciousParser", "delicious_parser\DeliciousParser.csproj", "{9F14F763-EE9D-478D-A751-56D9054DA317}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookmarks.Common", "Common\Bookmarks.Common.csproj", "{917AAFD0-6698-4476-93E6-0DDFB7154CA9}"
 EndProject
