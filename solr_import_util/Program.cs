@@ -1,5 +1,5 @@
 ﻿using System;
-namespace solr_import_util
+namespace ImportUtil
 {
     class Program
     {
