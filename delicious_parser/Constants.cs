@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace delicious_parser
+namespace DeliciousParser
 {
     public static class Constants
     {

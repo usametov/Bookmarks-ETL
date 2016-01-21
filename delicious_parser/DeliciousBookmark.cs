@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace delicious_parser
+namespace DeliciousParser
 {
     public class DeliciousBookmark : IBookmark
     {

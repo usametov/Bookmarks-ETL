@@ -62,9 +62,9 @@
       <Project>{917aafd0-6698-4476-93e6-0ddfb7154ca9}</Project>
       <Name>Bookmarks.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\delicious_parser\delicious_parser.csproj">
+    <ProjectReference Include="..\delicious_parser\DeliciousParser.csproj">
       <Project>{9f14f763-ee9d-478d-a751-56d9054da317}</Project>
-      <Name>delicious_parser</Name>
+      <Name>DeliciousParser</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

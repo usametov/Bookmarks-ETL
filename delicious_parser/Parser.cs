@@ -4,7 +4,7 @@ using Bookmarks.Common;
 using Fizzler.Systems.HtmlAgilityPack;
 using HtmlAgilityPack;
 
-namespace delicious_parser
+namespace DeliciousParser
 {
     public class Parser : IBookmarkParser
     {
