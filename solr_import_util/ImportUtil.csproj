@@ -7,8 +7,8 @@
     <ProjectGuid>{640DA3B0-30C0-4BA6-AEE2-08BA8ECDCC95}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>solr_import_util</RootNamespace>
-    <AssemblyName>solr_import_util</AssemblyName>
+    <RootNamespace>ImportUtil</RootNamespace>
+    <AssemblyName>ImportUtil</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
