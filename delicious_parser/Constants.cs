@@ -5,6 +5,8 @@ namespace DeliciousParser
     public static class Constants
     {
         public const string DOC_NODE = "p";
+
+        public const string ANCHOR_NODE = "a";
                 
         public const string PRIVATE_ATTR = "PRIVATE";
 

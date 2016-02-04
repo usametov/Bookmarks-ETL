@@ -56,8 +56,13 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="storage\delicious-2016-01-13.html" />
+    <Content Include="storage\delicious-feb4-2016.html" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BookmarkProcessor\BookmarkProcessor.csproj">
+      <Project>{92604300-bfb5-4e24-a352-67272850d842}</Project>
+      <Name>BookmarkProcessor</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Bookmarks.Common.csproj">
       <Project>{917aafd0-6698-4476-93e6-0ddfb7154ca9}</Project>
       <Name>Bookmarks.Common</Name>

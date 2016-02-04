@@ -17,5 +17,7 @@ namespace Bookmarks.Common
         bool IsPrivate { get; set; }
 
         List<string> Tags { get; set; }
+
+        string Description { get; set; }
     }
 }
