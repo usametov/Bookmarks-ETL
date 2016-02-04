@@ -1,0 +1,7 @@
+cell struct Tag
+{
+    [Index]    	
+	String Term;
+	
+	int TermCount;
+}

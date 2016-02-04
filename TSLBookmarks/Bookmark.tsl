@@ -1,0 +1,12 @@
+cell struct BookmarkCell
+{
+	String LinkUrl;
+    
+	[Index]    
+    String LinkText;
+	
+    List<long> Tags;
+	
+	[Index]    
+	String Description;
+}

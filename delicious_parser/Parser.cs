@@ -23,25 +23,34 @@ namespace DeliciousParser
 
             foreach (var node in nodes) 
             {
+                var anchor = node.QuerySelector(Constants.ANCHOR_NODE);
+                
+                var url = anchor.Attributes[Constants.HREF_ATTR].Value.ToString();
+                
+                var title = anchor.InnerText.Trim();
+                
+                var tags = new List<string>(anchor.Attributes[Constants.TAGS_ATTR].Value.ToString().Split(','));
+                
+                var innerTxt = node.InnerText.Split(new string[]{"---"}, StringSplitOptions.RemoveEmptyEntries);
+                var descTxt =  string.Empty;
+
+                if(innerTxt.Length > 1)
+                    descTxt = string.Join("---", innerTxt, 1, innerTxt.Length - 1);     
+                
                 var bookmark = new DeliciousBookmark
                 {
-                    IsPrivate = node.ChildNodes[1].Attributes[Constants.PRIVATE_ATTR].ToString().Equals(Constants.ONE_STR)
+                    LinkUrl = url
                     ,
-                    LinkUrl = node.ChildNodes[1].Attributes[Constants.HREF_ATTR].ToString()
+                    LinkText = title
                     ,
-                    LinkText = node.ChildNodes[1].InnerText.Trim()
+                    Tags = tags
                     ,
-                    Tags = new List<string>(node.ChildNodes[1].Attributes[Constants.TAGS_ATTR].ToString().Split(','))
-                    ,
-                    Description = node.ChildNodes.Count > 2 ? node.ChildNodes[2].InnerText.Trim() : string.Empty
+                    Description = descTxt
                 };
 
                 result.Add(bookmark);
             }
-                        
-            Console.WriteLine("nodes processed: "+ result.Count);
-            Console.ReadLine();
-
+            
             return result;
         }
     }

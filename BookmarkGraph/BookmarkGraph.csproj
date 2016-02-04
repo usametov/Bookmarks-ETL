@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x64</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7741304-8CA8-4D47-819C-11A26618F9C4}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BookmarkGraph</RootNamespace>
+    <AssemblyName>BookmarkGraph</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Fizzler, Version=0.1.15619.0, Culture=neutral, PublicKeyToken=4ebff4844e382110, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fizzler.1.0.0\lib\net35\Fizzler.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fizzler.Systems.HtmlAgilityPack, Version=0.1.15619.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fizzler.Systems.HtmlAgilityPack.1.0.0\lib\net35\Fizzler.Systems.HtmlAgilityPack.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.4.6.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.4.6\lib\Net45\HtmlAgilityPack.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Trinity.Core">
+      <HintPath>GraphEngine.Lib\Trinity.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Bookmarks.Common.csproj">
+      <Project>{917aafd0-6698-4476-93e6-0ddfb7154ca9}</Project>
+      <Name>Bookmarks.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\delicious_parser\DeliciousParser.csproj">
+      <Project>{9f14f763-ee9d-478d-a751-56d9054da317}</Project>
+      <Name>DeliciousParser</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TSLBookmarks\TSLBookmarks.tproj">
+      <Project>{24B9AD5B-6AE3-4A50-8FA6-BA01F2BE7DB1}</Project>
+      <Name>TSLBookmarks</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <ZipperPath>"$(TrinityPath)\Zipper.exe"</ZipperPath>
+    <GraphEnginePackageName>$(AssemblyName).DeploymentPackage</GraphEnginePackageName>
+  </PropertyGroup>
+  <Target Name="DeployBuild">
+    <RemoveDir Directories="$(OutputPath)$(GraphEnginePackageName)" ContinueOnError="true" />
+    <MakeDir Directories="$(OutputPath)$(GraphEnginePackageName)" ContinueOnError="true" />
+    <MSBuild Projects="$(MSBuildProjectFullPath)" Properties="TrinityPath=$(TrinityPath);OutputPath=$(OutputPath)$(GraphEnginePackageName)" Targets="Build" />
+  </Target>
+  <Target Name="MakeDeploymentPackage">
+    <Exec Command="$(ZipperPath) zip &quot;$(OutputPath)$(GraphEnginePackageName)&quot; &quot;$(OutputPath)$(GraphEnginePackageName).zip&quot;" ContinueOnError="false" />
+  </Target>
+  <UsingTask TaskName="Trinity.TSL.GenerateGraphEngineAssemblyInfo" AssemblyFile="$(TrinityPath)\Trinity.TSL.CompilerTask.dll" />
+  <Target Name="BeforeBuild" DependsOnTargets="ResolveProjectReferences;ResolveAssemblyReferences">
+    <GenerateGraphEngineAssemblyInfo ReferencedAssemblies="@(_ResolveAssemblyReferenceResolvedFiles)" Output="Properties\GraphEngine.AssemblyInfo.cs" />
+    <ItemGroup>
+      <Compile Include="Properties\GraphEngine.AssemblyInfo.cs" />
+    </ItemGroup>
+    <Copy SourceFiles="$(TrinityPath)\Trinity.Core.dll" DestinationFolder="$(MSBuildProjectDirectory)\GraphEngine.Lib" ContinueOnError="true" />
+    <Copy SourceFiles="$(TrinityPath)\Trinity.Core.xml" DestinationFolder="$(MSBuildProjectDirectory)\GraphEngine.Lib" ContinueOnError="true" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
