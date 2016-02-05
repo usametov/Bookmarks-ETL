@@ -6,8 +6,14 @@ using System.Linq;
 using System.IO;
 using BookmarkProcessor;
 
+
 namespace ImportUtil
 {
+    /// <summary>
+    /// this code will retire soon
+    /// to run card sort method use unit test project
+    /// </summary>
+    [Obsolete]
     class Program
     {
         static void Main(string[] args)
