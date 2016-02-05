@@ -25,11 +25,11 @@ namespace DeliciousParser
             {
                 var anchor = node.QuerySelector(Constants.ANCHOR_NODE);
                 
-                var url = anchor.Attributes[Constants.HREF_ATTR].Value.ToString();
+                var url = anchor.Attributes[Constants.HREF_ATTR].Value;
                 
                 var title = anchor.InnerText.Trim();
                 
-                var tags = new List<string>(anchor.Attributes[Constants.TAGS_ATTR].Value.ToString().Split(','));
+                var tags = new List<string>(anchor.Attributes[Constants.TAGS_ATTR].Value.ToLower().Split(','));
                 
                 var innerTxt = node.InnerText.Split(new string[]{"---"}, StringSplitOptions.RemoveEmptyEntries);
                 var descTxt =  string.Empty;

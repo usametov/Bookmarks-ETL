@@ -10,4 +10,4 @@
                 , "mssql", "russinovich", "windows_OS", "vs2013", "c#libraries", "awsome.net", "c#frameworks", "visual-studio"
                 , "visual_studio", "c-sharp", "skype-c#", "platform-invoke", "IIS", "ATL", "Dotnet-Strings", "c#_types", "AutoResetEvent"
                 , ".net-threading", "rhino-etl", "sdr#", "vs2012", "automapper", ".net utility library craigs", "Excel", "svchost", "win"
-                , "IIS7", "xbox360", "Entity_Framework", "wcf-data-services", ".NET"
+                , "IIS7", "xbox360", "Entity_Framework", "wcf-data-services", ".NET", "dotfuscator"
