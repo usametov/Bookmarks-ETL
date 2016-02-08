@@ -134,5 +134,5 @@ smartcard
 hybridmobile
 icecreamsandwich
 premiumsms
-
+syncadapter
 				
