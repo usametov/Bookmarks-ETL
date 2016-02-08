@@ -170,3 +170,5 @@ vacuumcleaner
 rftransmitterreceiver
 absorbco2
 biosensors
+generator
+leathermaking
