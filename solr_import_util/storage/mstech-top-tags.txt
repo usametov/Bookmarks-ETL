@@ -11,4 +11,4 @@
                 , "visual_studio", "c-sharp", "skype-c#", "platform-invoke", "IIS", "ATL", "Dotnet-Strings", "c#_types", "AutoResetEvent"
                 , ".net-threading", "rhino-etl", "sdr#", "vs2012", "automapper", ".net utility library craigs", "Excel", "svchost", "win"
                 , "IIS7", "xbox360", "Entity_Framework", "wcf-data-services", ".NET", "dotfuscator", "c#job", "mvpcertification"
-				,"msbuild","win32calls","linqprovider"
+				,"msbuild","win32calls","linqprovider", "dnn", "msoffice", "kigg", "wss"

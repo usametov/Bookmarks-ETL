@@ -54,3 +54,6 @@ johntheripper
 victorshoup
 rc4
 lisencingsystems
+oauth
+gpg
+scrypt

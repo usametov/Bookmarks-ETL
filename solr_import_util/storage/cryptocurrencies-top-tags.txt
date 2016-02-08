@@ -27,3 +27,5 @@ ledger
 openbazaar
 digitalcurrency
 wallet
+scrypt
+
