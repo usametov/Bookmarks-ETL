@@ -62,10 +62,26 @@ namespace BookmarkProcessorUnitTest
         //        , "computer-networks-associated.txt"
         //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\computer-networks-top-tags.txt"
         //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-computer-networks.txt")]
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "books-associated.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\books-top-tags.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-books.txt")]   
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "linux-associated.txt" 
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\linux-top-tags.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-linux.txt")]  
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "cryptocurrencies-associated.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\cryptocurrencies-top-tags.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-cryptocurrencies.txt")]  
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "cryptography-associated.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\cryptography-top-tags.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
         [TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
-               , "books-associated.txt"
-               , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\books-top-tags.txt"
-               , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-books.txt")]   
+               , "video-associated.txt"
+               , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\video-top-tags.txt"
+               , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-video.txt")]  
         public void TestGetAssociatedTerms(string bookmarksFile
             , string outputPath, string tagBundleFile, string excludeFile) 
         {
@@ -119,7 +135,16 @@ namespace BookmarkProcessorUnitTest
         //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-computer-networks.txt")]   
         //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "books-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-books.txt")]   
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-books.txt")]  
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "linux-top-counts.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-linux.txt")]  
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "cryptocurrencies-top-counts.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-cryptocurrencies.txt")]  
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "video-top-counts.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-video.txt")]  
         public void TestGetMostFrequentTags(string bookmarksFile, string outputPath, string excludeFile)
         {
             var parser = new DeliciousParser.Parser();
@@ -127,6 +152,23 @@ namespace BookmarkProcessorUnitTest
                         
             var processedTags = Processor.CalculateTermCounts(bookmarks);
             
+            var freqTerms = Processor.GetMostFrequentTags(processedTags.Item2, LoadTagBundle(excludeFile), 80);
+            PrintTerms(freqTerms, outputPath);
+        }
+        
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\security-top-tags.txt" 
+        //       , "cryptography-top-counts.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
+        public void TestGetMostFrequentTagsFiltered(string bookmarksFile
+            , string filterTags, string outputPath, string excludeFile)
+        {
+            var parser = new DeliciousParser.Parser();
+            var bookmarks = parser.ParseBookmarks(bookmarksFile);
+            var filteredBookmarks = Processor.FilterBookmarks(bookmarks, LoadTagBundle(filterTags));
+
+            var processedTags = Processor.CalculateTermCounts(filteredBookmarks.ToList());
+
             var freqTerms = Processor.GetMostFrequentTags(processedTags.Item2, LoadTagBundle(excludeFile), 80);
             PrintTerms(freqTerms, outputPath);
         }
