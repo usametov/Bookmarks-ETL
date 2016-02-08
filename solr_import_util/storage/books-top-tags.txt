@@ -46,3 +46,8 @@ tutorial
 tutorials
 guides
 infographics
+handsonlabs
+knuth
+help
+diveintopython
+leetcode

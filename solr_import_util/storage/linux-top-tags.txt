@@ -13,4 +13,4 @@ crosscompiler
 freebsd
 livecd
 turnkey
-
+coreos

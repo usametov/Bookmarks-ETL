@@ -233,3 +233,11 @@ dotfuscator
 rubberducky
 ethicalhacking
 hack
+hackexamples
+hackingteam
+lisencingsystems
+criptografÃ£Â­a
+oauth
+gpg
+scrypt
+snort
