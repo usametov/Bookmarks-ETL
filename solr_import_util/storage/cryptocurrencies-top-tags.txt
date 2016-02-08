@@ -26,4 +26,4 @@ cryptocoin
 ledger
 openbazaar
 digitalcurrency
-
+wallet
