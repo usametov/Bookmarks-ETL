@@ -232,3 +232,4 @@ ldap
 dotfuscator
 rubberducky
 ethicalhacking
+hack

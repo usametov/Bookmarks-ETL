@@ -45,3 +45,4 @@ springer
 tutorial
 tutorials
 guides
+infographics
