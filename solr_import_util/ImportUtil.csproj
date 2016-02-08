@@ -54,6 +54,8 @@
   <ItemGroup>
     <Content Include="storage\books-top-tags.txt" />
     <Content Include="storage\computer-networks-top-tags.txt" />
+    <Content Include="storage\cryptocurrencies-top-tags.txt" />
+    <Content Include="storage\cryptography-top-tags.txt" />
     <Content Include="storage\delicious-2015-12-19.html">
       <SubType>Designer</SubType>
     </Content>
@@ -63,15 +65,21 @@
     <Content Include="storage\exclude-list4-android.txt" />
     <Content Include="storage\exclude-list4-books.txt" />
     <Content Include="storage\exclude-list4-computer-networks.txt" />
+    <Content Include="storage\exclude-list4-cryptocurrencies.txt" />
+    <Content Include="storage\exclude-list4-cryptography.txt" />
     <Content Include="storage\exclude-list4-diy.txt" />
+    <Content Include="storage\exclude-list4-linux.txt" />
     <Content Include="storage\exclude-list4-ML.txt" />
+    <Content Include="storage\exclude-list4-video.txt" />
     <Content Include="storage\exclude-list4mstech.txt" />
     <Content Include="storage\exclude-list4security.txt" />
+    <Content Include="storage\linux-top-tags.txt" />
     <Content Include="storage\ML-top-tags.txt" />
     <Content Include="storage\mobile-top-tags.txt" />
     <Content Include="storage\mstech-top-tags.txt" />
     <Content Include="storage\mstech-top48.txt" />
     <Content Include="storage\security-top-tags.txt" />
+    <Content Include="storage\video-top-tags.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BookmarkProcessor\BookmarkProcessor.csproj">
