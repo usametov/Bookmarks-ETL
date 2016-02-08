@@ -230,3 +230,4 @@ sslstrip
 SmsSpoofing
 ldap
 dotfuscator
+rubberducky

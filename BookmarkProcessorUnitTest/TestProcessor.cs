@@ -54,6 +54,18 @@ namespace BookmarkProcessorUnitTest
         //        , "ML-associated.txt"
         //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\ML-top-tags.txt"
         //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-ML.txt")]
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , "diy-associated.txt"
+        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\diy-top-tags.txt"
+        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-diy.txt")]
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , "computer-networks-associated.txt"
+        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\computer-networks-top-tags.txt"
+        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-computer-networks.txt")]
+        [TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+               , "books-associated.txt"
+               , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\books-top-tags.txt"
+               , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-books.txt")]   
         public void TestGetAssociatedTerms(string bookmarksFile
             , string outputPath, string tagBundleFile, string excludeFile) 
         {
@@ -66,8 +78,8 @@ namespace BookmarkProcessorUnitTest
             PrintTerms(associatedTerms, outputPath);
         }
 
-        [TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
-                , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\ML-top-tags.txt")]
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\ML-top-tags.txt")]
         public void TestFilterBookmarks(string bookmarksFile, string toptags)
         {
             var parser = new DeliciousParser.Parser();
@@ -98,7 +110,16 @@ namespace BookmarkProcessorUnitTest
         //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-android.txt")]   
         //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "ML-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-ML.txt")]           
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-ML.txt")] 
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "diy-top-counts.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-diy.txt")]   
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "computer-networks-top-counts.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-computer-networks.txt")]   
+        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , "books-top-counts.txt"
+        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-books.txt")]   
         public void TestGetMostFrequentTags(string bookmarksFile, string outputPath, string excludeFile)
         {
             var parser = new DeliciousParser.Parser();
