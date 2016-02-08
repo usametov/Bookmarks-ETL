@@ -43,5 +43,5 @@ slideshare
 free books
 springer
 tutorial
-tutorial
+tutorials
 guides
