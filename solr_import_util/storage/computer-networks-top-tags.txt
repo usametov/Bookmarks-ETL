@@ -66,3 +66,5 @@ sniffer
 rtp
 tcp 				
 vpn
+sip
+dhcp
