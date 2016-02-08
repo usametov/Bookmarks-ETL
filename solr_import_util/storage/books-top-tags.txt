@@ -35,17 +35,13 @@ gettingstarted
 audiobooks
 securitybook
 succintly
-c++_papers_and_info
 periodics
-oraclemagazine
 howtos
 howto
 citeseerx
 slideshare
 free books
-hardware books
 springer
 tutorial
 tutorial
-guide
 guides
