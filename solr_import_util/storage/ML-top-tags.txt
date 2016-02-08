@@ -299,3 +299,8 @@ norvig
 indri
 3dscanning
 3dscan
+thesaurus
+informationarchitecture
+metrics
+decisiontree
+faceted_search
