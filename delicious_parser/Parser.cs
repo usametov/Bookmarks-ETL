@@ -29,7 +29,7 @@ namespace DeliciousParser
                 
                 var title = anchor.InnerText.Trim();
                 
-                var tags = new List<string>(anchor.Attributes[Constants.TAGS_ATTR].Value.ToLower().Split(','));
+                var tags = new List<string>(anchor.Attributes[Constants.TAGS_ATTR].Value.Replace("-","").ToLower().Split(','));
                 
                 var innerTxt = node.InnerText.Split(new string[]{"---"}, StringSplitOptions.RemoveEmptyEntries);
                 var descTxt =  string.Empty;
