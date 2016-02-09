@@ -174,3 +174,4 @@ generator
 leathermaking
 rangefinder
 3d
+usbiodevice
