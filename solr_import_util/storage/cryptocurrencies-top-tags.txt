@@ -28,4 +28,4 @@ openbazaar
 digitalcurrency
 wallet
 scrypt
-
+gpu
