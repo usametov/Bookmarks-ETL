@@ -59,4 +59,7 @@ calling
 dialplan
 elastix
 tapi
-
+sdr
+videostream
+videocapture
+radio

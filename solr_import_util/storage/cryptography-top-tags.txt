@@ -58,3 +58,9 @@ oauth
 gpg
 scrypt
 tribler
+crypto
+algebralogika
+gpu
+numbertheory
+algebralogika
+postquantum

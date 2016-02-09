@@ -141,3 +141,4 @@ phone
 nokia
 retrofit
 3gpp
+gps
