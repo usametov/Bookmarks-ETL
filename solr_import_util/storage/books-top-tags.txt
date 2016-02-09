@@ -51,3 +51,7 @@ knuth
 help
 diveintopython
 leetcode
+tanenbaum
+starterkits
+slides
+defcon

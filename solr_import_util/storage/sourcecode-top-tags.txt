@@ -27,3 +27,6 @@ oss
 openjdk
 f-droid
 fdroid
+sourceforge
+ace
+open_source
