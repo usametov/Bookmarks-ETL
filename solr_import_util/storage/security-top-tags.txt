@@ -14,8 +14,7 @@ tor
 malware
 hacking
 anonymity
-xss
-crypto
+xsscrypto
 remote-shell
 exploits
 metasploit
@@ -241,3 +240,10 @@ oauth
 gpg
 scrypt
 snort
+remoteshell
+sslcertificate
+activedirectory
+pcicompliance
+defcon
+rdp
+tribler

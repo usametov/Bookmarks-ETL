@@ -39,3 +39,8 @@ screencasting
 pdftk
 websitebuilder
 analyzer
+addins
+chromeextension
+maven
+yeoman
+

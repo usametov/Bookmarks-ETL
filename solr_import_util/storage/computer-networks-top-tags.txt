@@ -56,7 +56,6 @@ packetcrafting
 ping
 internetchecksum
 cdma
-tanenbaum
 mininet
 softwaredefinednetworks
 traffic
@@ -68,3 +67,9 @@ tcp
 vpn
 sip
 dhcp
+nat
+dns
+wireless
+portforwarding
+qos
+tribler

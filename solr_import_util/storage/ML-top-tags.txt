@@ -307,3 +307,16 @@ faceted_search
 graphs
 taxonomies
 rssreader
+fft
+rss
+bioinformatics
+discourse_analysis
+fourier_transform
+fourier
+fourier transform
+signal processing
+huffman
+data_compression
+kissfft
+vcdemo
+kissfft

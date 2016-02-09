@@ -8,3 +8,8 @@ subtitles
 netflix
 hulu
 videotuts
+internettv
+tvshows
+popcorntime
+cinema
+webcasting

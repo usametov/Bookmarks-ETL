@@ -136,3 +136,8 @@ icecreamsandwich
 premiumsms
 syncadapter
 appstore				
+phone
+!googleplay
+nokia
+retrofit
+3gpp
