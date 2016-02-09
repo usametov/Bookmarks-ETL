@@ -57,3 +57,5 @@ slides
 defcon
 blogs
 forums
+sdk
+donaldknuth

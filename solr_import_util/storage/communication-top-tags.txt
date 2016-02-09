@@ -63,3 +63,4 @@ sdr
 videostream
 videocapture
 radio
+msnmessengerplugins
