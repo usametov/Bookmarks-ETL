@@ -10,13 +10,18 @@ namespace BookmarkProcessorUnitTest
     [TestFixture]
     public class TestProcessor
     {
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\mstech-top-tags.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-android.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\mstech-top-tags.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-android.txt")]
         public void TestLoadTagBundle(string path) 
         {
             LoadTagBundle(path);
         }
 
+        /// <summary>
+        /// Loads tags from flat file. Removes quotes, trimming whitespaces and converts everything to lower case        
+        /// </summary>
+        /// <param name="path"></param>
+        /// <returns></returns>
         private List<string> LoadTagBundle(string path)
         {
             var result = new List<string>();
@@ -38,74 +43,74 @@ namespace BookmarkProcessorUnitTest
             return result;
         }
 
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //        , "mstech-associated.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\mstech-top-tags.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4mstech.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\mstech-top-tags.txt"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4mstech.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //        , "security-associated.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\security-top-tags.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4security.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\security-top-tags.txt"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4security.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //        , "android-associated.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\mobile-top-tags.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-android.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\mobile-top-tags.txt"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-android.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //        , "ML-associated.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\ML-top-tags.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-ML.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\ML-top-tags.txt"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-ML.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //        , "diy-associated.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\diy-top-tags.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-diy.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\diy-top-tags.txt"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-diy.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //        , "computer-networks-associated.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\computer-networks-top-tags.txt"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-computer-networks.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\computer-networks-top-tags.txt"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-computer-networks.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "books-associated.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\books-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-books.txt")]   
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\books-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-books.txt")]   
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "linux-associated.txt" 
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\linux-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-linux.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\linux-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-linux.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "cryptocurrencies-associated.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\cryptocurrencies-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-cryptocurrencies.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\cryptocurrencies-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptocurrencies.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "cryptography-associated.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\cryptography-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\cryptography-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "video-associated.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\video-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-video.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\video-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-video.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "sourcecode-associated.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\sourcecode-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-sourcecode.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\sourcecode-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-sourcecode.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "tools-associated.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\tools-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-tools.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\tools-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-tools.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "communication-associated.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\communication-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-communication.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\communication-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-communication.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "virtualization-associated.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\virtualization-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-virtualization.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\virtualization-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-virtualization.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "webdev-associated.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\webdev-top-tags.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-webdev.txt")]
-        [TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\webdev-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-webdev.txt")]
+        [TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
                , "moocs-associated.txt"
-               , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\moocs-top-tags.txt"
-               , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-moocs.txt")]  
+               , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\moocs-top-tags.txt"
+               , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-moocs.txt")]  
         public void TestGetAssociatedTerms(string bookmarksFile
             , string outputPath, string tagBundleFile, string excludeFile) 
         {
@@ -118,8 +123,8 @@ namespace BookmarkProcessorUnitTest
             PrintTerms(associatedTerms, outputPath);
         }
 
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
-        //        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\ML-top-tags.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\ML-top-tags.txt")]
         public void TestFilterBookmarks(string bookmarksFile, string toptags)
         {
             var parser = new DeliciousParser.Parser();
@@ -139,54 +144,54 @@ namespace BookmarkProcessorUnitTest
             
         }
 
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //        , "mstech-top50.txt"                
-        ////        , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4mstech.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        ////        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4mstech.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "security-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4security.txt")]
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4security.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "android-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-android.txt")]   
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-android.txt")]   
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "ML-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-ML.txt")] 
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-ML.txt")] 
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "diy-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-diy.txt")]   
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-diy.txt")]   
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "computer-networks-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-computer-networks.txt")]   
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-computer-networks.txt")]   
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "books-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-books.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-books.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "linux-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-linux.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-linux.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "cryptocurrencies-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-cryptocurrencies.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptocurrencies.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "video-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-video.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-video.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "sourcecode-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-sourcecode.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-sourcecode.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "tools-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-tools.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-tools.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "communication-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-communication.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-communication.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "virtualization-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-virtualization.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-virtualization.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "webdev-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-webdev.txt")]  
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-webdev.txt")]  
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "moocs-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-moocs.txt")]  
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-moocs.txt")]  
         public void TestGetMostFrequentTags(string bookmarksFile, string outputPath, string excludeFile)
         {
             var parser = new DeliciousParser.Parser();
@@ -197,11 +202,25 @@ namespace BookmarkProcessorUnitTest
             var freqTerms = Processor.GetMostFrequentTags(processedTags.Item2, LoadTagBundle(excludeFile), 80);
             PrintTerms(freqTerms, outputPath);
         }
+
+        public void TestGetMostFrequentTags(string bookmarksFile, string outputPath, string excludeFile, string topTagsFile)
+        {
+            var parser = new DeliciousParser.Parser();
+            var bookmarks = parser.ParseBookmarks(bookmarksFile);
+
+            var processedTags = Processor.CalculateTermCounts(bookmarks);
+
+            var excludeList = LoadTagBundle(excludeFile);
+            excludeList.AddRange(LoadTagBundle(topTagsFile));
+
+            var freqTerms = Processor.GetMostFrequentTags(processedTags.Item2, excludeList, 80);
+            PrintTerms(freqTerms, outputPath);
+        }
         
-        //[TestCase(@"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\delicious-feb4-2016.html"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\security-top-tags.txt" 
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\security-top-tags.txt" 
         //       , "cryptography-top-counts.txt"
-        //       , @"C:\code\asta-nova\Card Sort Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
         public void TestGetMostFrequentTagsFiltered(string bookmarksFile
             , string filterTags, string outputPath, string excludeFile)
         {

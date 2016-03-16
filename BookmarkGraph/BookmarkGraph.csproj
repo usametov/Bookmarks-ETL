@@ -69,10 +69,6 @@
       <Project>{9f14f763-ee9d-478d-a751-56d9054da317}</Project>
       <Name>DeliciousParser</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TSLBookmarks\TSLBookmarks.tproj">
-      <Project>{24B9AD5B-6AE3-4A50-8FA6-BA01F2BE7DB1}</Project>
-      <Name>TSLBookmarks</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
