@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using BookmarkProcessor;
 using LanguageExt;
-using static LanguageExt.Prelude;
+
 
 namespace BookmarkProcessorUnitTest
 {
@@ -71,11 +71,7 @@ namespace BookmarkProcessorUnitTest
         //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "cryptocurrencies-associated.txt"
         //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\cryptocurrencies-top-tags.txt"
-        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptocurrencies.txt")]  
-        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
-        //       , "cryptography-associated.txt"
-        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\cryptography-top-tags.txt"
-        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptocurrencies.txt")]          
         //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "video-associated.txt"
         //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\video-top-tags.txt"
@@ -104,12 +100,16 @@ namespace BookmarkProcessorUnitTest
         //       , "moocs-associated.txt"
         //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\moocs-top-tags.txt"
         //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-moocs.txt")]
+        [TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.html"
+               , "cryptography-associated.txt"
+               , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\cryptography-top-tags.txt"
+               , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
         public void TestGetAssociatedTerms(string bookmarksFile
             , string outputPath, string tagBundleFile, string excludeFile) 
         {
             var parser = new DeliciousParser.Parser();
             var bookmarks = parser.ParseBookmarks(bookmarksFile);
-
+            
             var associatedTerms = Processor.GetAssociatedTerms(bookmarks
                 , LoadTagBundle(tagBundleFile), LoadTagBundle(excludeFile));
 
@@ -182,21 +182,33 @@ namespace BookmarkProcessorUnitTest
         //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
         //       , "webdev-top-counts.txt"
         //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-webdev.txt")]  
-        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.html"
         //       , "moocs-top-counts.txt"
         //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-moocs.txt")]
-        public void TestGetMostFrequentTags(string bookmarksFile, string outputPath, string excludeFile)
+        public void TestGetMostFrequentTags(string bookmarksFile
+                                            , string outputPath
+                                            , string excludeFile
+                                            , int threshold)
         {
             var parser = new DeliciousParser.Parser();
             var bookmarks = parser.ParseBookmarks(bookmarksFile);
                         
             var processedTags = Processor.CalculateTermCounts(bookmarks);
             
-            var freqTerms = Processor.GetMostFrequentTags(processedTags.Item2, LoadTagBundle(excludeFile), 80);
+            var freqTerms = Processor.GetMostFrequentTags(processedTags.Item2, LoadTagBundle(excludeFile), threshold);
             PrintTerms(freqTerms, outputPath);
         }
 
-        public void TestGetMostFrequentTags(string bookmarksFile, string outputPath, string excludeFile, string topTagsFile)
+
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.html"
+        //       , "cryptography-top-counts.txt"               
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptography.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\cryptography-top-tags.txt", 100)]
+        public void TestGetMostFrequentTags(string bookmarksFile
+                                        , string outputPath
+                                        , string excludeFile
+                                        , string topTagsFile
+                                        , int threshold)
         {
             var parser = new DeliciousParser.Parser();
             var bookmarks = parser.ParseBookmarks(bookmarksFile);
@@ -205,15 +217,15 @@ namespace BookmarkProcessorUnitTest
 
             var excludeList = LoadTagBundle(excludeFile);
             excludeList = excludeList.Append(LoadTagBundle(topTagsFile));
-
-            var freqTerms = Processor.GetMostFrequentTags(processedTags.Item2, excludeList, 80);
+                        
+            var freqTerms = Processor.GetMostFrequentTags(processedTags.Item2, excludeList, threshold);
             PrintTerms(freqTerms, outputPath);
         }
 
-        [TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-feb4-2016.html"
-               , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\security-top-tags.txt"
-               , "cryptography-top-counts.txt"
-               , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.html"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\security-top-tags.txt"
+        //       , "cryptography-top-counts.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
         public void TestGetMostFrequentTagsFiltered(string bookmarksFile
             , string filterTags, string outputPath, string excludeFile)
         {
