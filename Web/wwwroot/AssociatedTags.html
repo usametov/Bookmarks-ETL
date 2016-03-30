@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html ng-app="TagBundleUtil">
+<head>
+    <title>Tag Bundle Util</title>
+	<meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">    
+        <!-- Bootstrap -->
+    <link href="Content/bootstrap.min.css" rel="stylesheet">
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <script src="Scripts/jquery-2.2.1.min.js"></script>
+    <script src="Scripts/rx.lite.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script>
+        var tagBundleModule = angular.module("TagBundleUtil", []);
+        tagBundleModule.controller("tagBundleCtrl", function ($scope) {
+            $scope.topTags = ['test1', 'test2', 'test3', 'test4'];
+            $scope.freqTags = ['_test1', '_test2', '_test3', '_test4'];
+            $scope.exclTags = ['__test1', '__test2', '__test3', '__test4'];
+        });
+
+        
+    </script>
+</head>
+    <body ng-controller="tagBundleCtrl">
+        <div class="container-fluid">
+
+            <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">Tag Bundle Util</a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav">
+                            <li><a href="#">Load Bookmarks</a></li>
+                            <li><a href="FreqTags.html">Process Frequent Tags</a></li>
+                            <li class="active"><a href="#">Process Associated Tags</a></li>
+                        </ul>
+                        <!--TODO: may need later-->
+                        <!--<ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Link</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Action</a></li>
+                            <li><a href="#">Another action</a></li>
+                            <li><a href="#">Something else here</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Separated link</a></li>
+                        </ul>
+                    </li>
+                </ul>-->
+
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+            </nav>
+            <br />
+            <h1 class="col-lg-offset-4">Process Associated Tags</h1>
+            <div class="col-lg-offset-4">
+                Use arrows <span class="glyphicon glyphicon-arrow-left"></span> and <span class="glyphicon glyphicon-arrow-right"></span>
+                to move tags between lists.
+            </div>
+            <br/>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-10">
+                        <span class="label label-pill label-success">
+                            :: Tag Bundle Name ::
+                        </span>&nbsp;&nbsp;
+                        <input type="text" id="tagBundleName" class="form-control" />
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-5">
+                        <span class="label label-pill label-success">
+                            :: Number of Hops::
+                        </span>&nbsp;&nbsp;
+                        <select class="form-control" id="hopsNumber">
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                        </select>
+                        
+                    </div>                    
+                    <div class="col-md-6"></div>
+                </div>
+                <div class="col-md-4"></div>
+            </div>
+            <br />
+            <div class="row">                   
+                    <div class="col-md-4">                        
+                        <div class="col-md-2"></div>
+                        <div class="col-md-10">
+                            <h4>
+                                <span class="label label-pill label-success">
+                                    ::  Tag Bundle (Processed)  ::
+                                </span>
+                            </h4>
+                            <select id="topTagsList" class="form-control" multiple size="20">
+                                <option ng-repeat="tag in topTags" value="{{tag}}">{{tag}}</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="col-md-1"></div>
+                        <div class="col-md-10">
+                            <h4>
+                                <span class="label label-pill label-success">
+                                    :: Calculated Associations ::
+                                </span>
+                            </h4>
+                            <select id="freqTagsList" class="form-control" multiple size="20">
+                                <option ng-repeat="tag in freqTags" value="{{tag}}">{{tag}}</option>
+                            </select>
+                        </div>
+                        <div class="col-md-1"></div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="col-md-1"></div>
+                        <div class="col-md-10">
+                            <h4>
+                                <span class="label label-pill label-success">
+                                    :: Tags To Exclude from Calculation ::
+                                </span>
+                            </h4>
+                            <select id="excludeTagsList" class="form-control" multiple size="20">
+                                <option ng-repeat="tag in exclTags" value="{{tag}}">{{tag}}</option>
+                            </select>
+                        </div>
+                        <div class="col-md-1"></div>
+                    </div>                
+                </div>
+
+            <br />
+            <div class="col-md-3"></div>
+            <div class="col-md-3">
+                <button type="button" class="btn btn-info form-control">:: Save::</button>
+            </div>
+            <div class="col-md-3">
+                <button type="button" class="btn btn-info form-control">:: Save And ReCalculate ::</button>
+            </div>
+            <div class="col-md-3"></div>
+            <br/>
+        </div>
+    </body>
+</html>
+   
