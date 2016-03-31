@@ -19,74 +19,59 @@
     <script src="Scripts/angular.min.js"></script>
     <script src="Scripts/rx.angular.min.js"></script>
 
-    <script>
+    <script>      
+        var states_dict = new Map();
+
+        states_dict.set('#tagBundleList', { '39': ['topTags', 'freqTags'] });
+        states_dict.set('#freqTagsList', { '37': ['freqTags', 'topTags'], '39': ['freqTags', 'exclTags'] });        
+        states_dict.set('#excludeTagsList', { '37': ['exclTags', 'freqTags'] });
+
         var tagBundleModule = angular.module("TagBundleUtil", []);
+
         tagBundleModule.controller("tagBundleCtrl", function ($scope) {
 
-            $scope.topTags = ['test1', 'test2', 'test3', 'test4'];
-            $scope.freqTags = ['_test1', '_test2', '_test3', '_test4'];
-            $scope.exclTags = ['__test1', '__test2', '__test3', '__test4'];
+        $scope.topTags = ['test1', 'test2', 'test3', 'test4'];
+        $scope.freqTags = ['_test1', '_test2', '_test3', '_test4'];
+        $scope.exclTags = ['__test1', '__test2', '__test3', '__test4'];
+        
+        var tagMover = function (x)
+        {                
+            var src_trg_arr = states_dict.get(x.srcId)[x.keyCode];                                
+            var res = move($scope[src_trg_arr[0]], $scope[src_trg_arr[1]], x.slctValue);
+            $scope[src_trg_arr[0]] = res.arrSrc;
+            $scope[src_trg_arr[1]] = res.arrTrg;
+                
+            $scope.$apply();
+            angular.element(x.srcId).val(res.val2focus);
+        }
 
-            var tagMover = function (x)
-            {
-                var selectNew = null;
-                if (x.srcId == '#tagBundleList' && x.keyCode == 39)
-                {
-                    var res = move($scope.topTags, $scope.freqTags, x.slctValue);
-                    $scope['topTags'] = res.arrSrc, $scope['freqTags'] = res.arrTrg;
-                    selectNew = res.val2focus;
-                } 
-                else if (x.srcId == '#freqTagsList' && x.keyCode == 37)
-                {
-                    var res = move($scope.freqTags, $scope.topTags, x.slctValue);
-                    $scope['freqTags'] = res.arrSrc, $scope['topTags'] = res.arrTrg;
-                    selectNew = res.val2focus;
-                } 
-                else if (x.srcId == '#freqTagsList' && x.keyCode == 39)
-                {
-                    var res = move($scope.freqTags, $scope.exclTags, x.slctValue);
-                    $scope['freqTags'] = res.arrSrc, $scope['exclTags'] = res.arrTrg;
-                    selectNew = res.val2focus;
-                } 
-                else if (x.srcId == '#excludeTagsList' && x.keyCode == 37)
-                {
-                    var res = move($scope.exclTags, $scope.freqTags, x.slctValue);
-                    $scope['exclTags'] = res.arrSrc, $scope['freqTags'] = res.arrTrg;
-                    selectNew = res.val2focus;
-                } 
+        var move = function (arrSrc, arrTrg, val) {                
 
-                $scope.$apply();
-                angular.element(x.srcId).val(selectNew);
-            }
+            var nextVal2focus = getNextVal(arrSrc, val);
+            arrSrc = arrSrc.filter(t=> t != val);
+            arrTrg = arrTrg.concat(val);
 
-            var move = function (arrSrc, arrTrg, val) {                
+            return { arrSrc: arrSrc, arrTrg: arrTrg, val2focus: nextVal2focus };
+        }
 
-                var nextVal2focus = getNextVal(arrSrc, val);
-                arrSrc = arrSrc.filter(t=> t != val);
-                arrTrg = arrTrg.concat(val);
+        var getNextVal = function (arrSrc, val) {
+            var fndIdx = getIdx(arrSrc, val);
+            var result = fndIdx > 0 ? arrSrc[fndIdx - 1] :
+                    arrSrc.length > 1 ? arrSrc[fndIdx + 1] : null;
+                        
+            return result;
+        }
 
-                return { arrSrc: arrSrc, arrTrg: arrTrg, val2focus: nextVal2focus };
-            }
+        var getIdx = function (arrSrc, val) {
+            return arrSrc.findIndex(t=> t == val);                
+        }
 
-            var getNextVal = function (arrSrc, val) {
-                var fndIdx = getIdx(arrSrc, val);
-                var result = fndIdx > 0 ? arrSrc[fndIdx - 1] :
-                      arrSrc.length > 1 ? arrSrc[fndIdx + 1] : null;
+        var arrowKeyHandler = function (listIdSelector) {
+            var srcList = $(listIdSelector);
 
-                //console.log("val: " + val + " fndIdx: " + fndIdx + " nextVal: " + result);
-                return result;
-            }
-
-            var getIdx = function (arrSrc, val) {
-                return arrSrc.findIndex(t=> t == val);                
-            }
-
-            var arrowKeyHandler = function (listIdSelector) {
-                var srcList = $(listIdSelector);
-
-                var arrowKeyUp = Rx.Observable.fromEvent(srcList, 'keyup')
-                                              .filter(e=>e.keyCode == 37 || e.keyCode == 39)
-                                              .map(function (e)
+            var arrowKeyUp = Rx.Observable.fromEvent(srcList, 'keyup')
+                                          .filter(e=>e.keyCode == 37 || e.keyCode == 39)
+                                          .map(function (e)
                                               {
                                                   return {
                                                       keyCode: e.keyCode
@@ -95,8 +80,7 @@
                                                   };
                                               });
                                               
-                arrowKeyUp.subscribe(tagMover);
-                            
+             arrowKeyUp.subscribe(tagMover);                            
             }
 
             arrowKeyHandler('#tagBundleList');
