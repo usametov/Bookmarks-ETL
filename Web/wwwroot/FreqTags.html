@@ -21,15 +21,15 @@
 
     <script>      
         var states_dict = new Map();
-
+        //transition states table
         states_dict.set('#tagBundleList', { '39': ['topTags', 'freqTags'] });
         states_dict.set('#freqTagsList', { '37': ['freqTags', 'topTags'], '39': ['freqTags', 'exclTags'] });        
         states_dict.set('#excludeTagsList', { '37': ['exclTags', 'freqTags'] });
-
+        //create application module
         var tagBundleModule = angular.module("TagBundleUtil", []);
 
         tagBundleModule.controller("tagBundleCtrl", function ($scope) {
-
+        //these are stubs, to be replaced with real data
         $scope.topTags = ['test1', 'test2', 'test3', 'test4'];
         $scope.freqTags = ['_test1', '_test2', '_test3', '_test4'];
         $scope.exclTags = ['__test1', '__test2', '__test3', '__test4'];
