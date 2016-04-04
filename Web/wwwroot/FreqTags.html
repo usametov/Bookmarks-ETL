@@ -13,87 +13,27 @@
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
           <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
-    <script src="Scripts/jquery-2.2.1.min.js"></script>
-    <script src="Scripts/rx.lite.min.js"></script>
-    <script src="Scripts/bootstrap.min.js"></script>
-    <script src="Scripts/angular.min.js"></script>
-    <script src="Scripts/rx.angular.min.js"></script>
-
-    <script>      
-        var states_dict = new Map();
-        //transition states table
-        states_dict.set('#tagBundleList', { '39': ['topTags', 'freqTags'] });
-        states_dict.set('#freqTagsList', { '37': ['freqTags', 'topTags'], '39': ['freqTags', 'exclTags'] });        
-        states_dict.set('#excludeTagsList', { '37': ['exclTags', 'freqTags'] });
-        //create application module
-        var tagBundleModule = angular.module("TagBundleUtil", []);
-
-        tagBundleModule.controller("tagBundleCtrl", function ($scope) {
-        //these are stubs, to be replaced with real data
-        $scope.topTags = ['test1', 'test2', 'test3', 'test4'];
-        $scope.freqTags = ['_test1', '_test2', '_test3', '_test4'];
-        $scope.exclTags = ['__test1', '__test2', '__test3', '__test4'];
-        
-        var tagMover = function (x)
-        {                
-            var src_trg_arr = states_dict.get(x.srcId)[x.keyCode];                                
-            var res = move($scope[src_trg_arr[0]], $scope[src_trg_arr[1]], x.slctValue);
-            $scope[src_trg_arr[0]] = res.arrSrc;
-            $scope[src_trg_arr[1]] = res.arrTrg;
-                
-            $scope.$apply();
-            angular.element(x.srcId).val(res.val2focus);
-        }
-
-        var move = function (arrSrc, arrTrg, val) {                
-
-            var nextVal2focus = getNextVal(arrSrc, val);
-            arrSrc = arrSrc.filter(t=> t != val);
-            arrTrg = arrTrg.concat(val);
-
-            return { arrSrc: arrSrc, arrTrg: arrTrg, val2focus: nextVal2focus };
-        }
-
-        var getNextVal = function (arrSrc, val) {
-            var fndIdx = getIdx(arrSrc, val);
-            var result = fndIdx > 0 ? arrSrc[fndIdx - 1] :
-                    arrSrc.length > 1 ? arrSrc[fndIdx + 1] : null;
-                        
-            return result;
-        }
-
-        var getIdx = function (arrSrc, val) {
-            return arrSrc.findIndex(t=> t == val);                
-        }
-
-        var arrowKeyHandler = function (listIdSelector) {
-            var srcList = $(listIdSelector);
-
-            var arrowKeyUp = Rx.Observable.fromEvent(srcList, 'keyup')
-                                          .filter(e=>e.keyCode == 37 || e.keyCode == 39)
-                                          .map(function (e)
-                                              {
-                                                  return {
-                                                      keyCode: e.keyCode
-                                                      , srcId: listIdSelector
-                                                      , slctValue: srcList.val()
-                                                  };
-                                              });
-                                              
-             arrowKeyUp.subscribe(tagMover);                            
-            }
-
-            arrowKeyHandler('#tagBundleList');
-
-            arrowKeyHandler('#freqTagsList');
-
-            arrowKeyHandler('#excludeTagsList');
-        });
-
-        
-    </script>
+    <script src="Scripts/lib/jquery-2.2.1.min.js"></script>
+    <script src="Scripts/lib/rx.lite.min.js"></script>
+    <script src="Scripts/lib/bootstrap.min.js"></script>
+    <script src="Scripts/lib/angular.min.js"></script>
+    <script src="Scripts/lib/rx.angular.min.js"></script>
+    <script src="Scripts/app.js"></script>
+   
 </head>
     <body ng-controller="tagBundleCtrl">
+        
+        <script>
+            //TODO: use dependency injection instead of this
+            var states_dict = new Map();
+            //transition states table
+            states_dict.set('#tagBundleList', { '39': ['topTags', 'freqTags'] });
+            states_dict.set('#freqTagsList', { '37': ['freqTags', 'topTags'], '39': ['freqTags', 'exclTags'] });
+            states_dict.set('#excludeTagsList', { '37': ['exclTags', 'freqTags'] });
+        
+            var arrowKeySrcSelectors = ['#tagBundleList', '#freqTagsList', '#excludeTagsList'];
+        </script>
+
         <div class="container-fluid">
 
             <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -148,21 +88,34 @@
                         <span class="label label-pill label-success">
                             :: Tag Bundle Name ::
                         </span>&nbsp;&nbsp;
-                        <input type="text" id="tagBundleName" class="form-control" />
+                        <input type="text" id="tagBundleName" class="form-control" ng-disabled="!isNewTagBundle();" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="col-md-1"></div>
                     <div class="col-md-6">
                         <span class="label label-pill label-success">
-                            :: Top Tags ::
+                            :: Top Tags (Threshold)::
                         </span>&nbsp;&nbsp;
                         <input type="text" class="form-control" id="threshold"/>
 
                     </div>
                     <div class="col-md-5"></div>
                 </div>
-                <div class="col-md-4"></div>
+                <div class="col-md-4">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-10">
+                        <span class="label label-pill label-success">
+                            :: Select existing tag bundle ::
+                        </span>
+                        <select class="form-control" id="tagBundles" ng-model="selectedTagBundle">
+                            <option value="new">New Tag Bundle</option>
+                            <option ng-repeat="tagBundle in existingTagBundles" value="{{tagBundle}}">{{tagBundle}}</option>
+                        </select>
+
+                    </div>
+                    <div class="col-md-1"></div>
+                </div>
             </div>
 
             <br />
@@ -175,7 +128,7 @@
                                 :: Tag Bundle (Processed) ::
                             </span>
                         </h4>
-                        <select id="tagBundleList" class="form-control" multiple size="20">
+                        <select id="tagBundleList" class="form-control" size="20">
                             <option ng-repeat="tag in topTags" value="{{tag}}">{{tag}}</option>
                         </select>
                     </div>
@@ -189,7 +142,7 @@
                                 :: Calculated Frequent Tags ::
                             </span>
                         </h4>
-                        <select id="freqTagsList" class="form-control" multiple size="20">
+                        <select id="freqTagsList" class="form-control" size="20">
                             <option ng-repeat="tag in freqTags" value="{{tag}}">{{tag}}</option>
                         </select>
                     </div>
@@ -204,7 +157,7 @@
                                 :: Tags To Exclude from Calculation ::
                             </span>
                         </h4>
-                        <select id="excludeTagsList" class="form-control" multiple size="20">
+                        <select id="excludeTagsList" class="form-control" size="20">
                             <option ng-repeat="tag in exclTags" value="{{tag}}">{{tag}}</option>
                         </select>
                     </div>
