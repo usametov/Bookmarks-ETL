@@ -1,15 +1,10 @@
 ﻿
-var tagBundleModule = angular.module("TagBundleUtil", []);
-
-tagBundleModule.controller("tagBundleCtrl", function ($scope, $location, $window) {
-    //these are stubs, to be replaced with real data
-    $scope.topTags = ['test1', 'test2', 'test3', 'test4'];
-    $scope.freqTags = ['_test1', '_test2', '_test3', '_test4'];
-    $scope.exclTags = ['__test1', '__test2', '__test3', '__test4'];
-
-    $scope.existingTagBundles = ['cryptography','security','machine-learning','tools'];
-    
+var tagBundleModule = angular.module("TagBundleUtil", []).controller
+    ("tagBundleCtrl", ['$scope', '$location', '$window', 'tagRepository'
+    , function ($scope, $location, $window, tagRepository) {
+        
     $scope.states_transition_matrix = {};
+    $scope.threshold = 70;
 
     var tagMover = function (x) {
         //src array and target array names are specified in states transition matrix
@@ -72,4 +67,43 @@ tagBundleModule.controller("tagBundleCtrl", function ($scope, $location, $window
         //wire arrowKeyHandler to select boxes
         angular.forEach($scope.arrowKeySrcSelectors, function (selector) { arrowKeyHandler(selector); });
     }
-});
+
+    $scope.topTags = tagRepository.getTagBundle($scope.selectedTagBundle);
+    $scope.freqTags = tagRepository.getMostFrequentTags($scope.selectedTagBundle, $scope.threshold);
+    $scope.exclTags = tagRepository.getExcludeList($scope.selectedTagBundle);
+    $scope.associatedTags = tagRepository.getTagAssociations($scope.selectedTagBundle);
+
+    $scope.existingTagBundles = ['cryptography', 'security', 'machine-learning', 'tools'];
+
+    }]).factory("tagRepository", ['$http', function ($http) {
+
+            //these are stubs, to be replaced with real data
+            var getTagBundle = function (tagBundle) {
+                return ['test1', 'test2', 'test3', 'test4'];
+            };
+
+            var getMostFrequentTags = function (excludeList, threshold) {
+                return ['_test1', '_test2', '_test3', '_test4'];
+            };
+
+            var getTagAssociations = function (tagBundle, excludeList) {
+                return ['_tst1_ass_', '_tst2_ass_', '_tst3_ass_', '_tst4_ass_'];
+            }
+
+            var getExcludeList = function (tagBundle) {
+                return ['__test1', '__test2', '__test3', '__test4'];
+            }
+            
+            var tagService = {
+                getTagBundle: getTagBundle,
+                getMostFrequentTags: getMostFrequentTags,
+                getTagAssociations: getTagAssociations,
+                getExcludeList: getExcludeList
+            };
+        
+            return tagService;
+        }]);
+
+
+
+
