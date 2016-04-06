@@ -1,16 +1,19 @@
 ﻿
 var tagBundleModule = angular.module("TagBundleUtil", []);
 
-tagBundleModule.controller("tagBundleCtrl", function ($scope, $location) {
+tagBundleModule.controller("tagBundleCtrl", function ($scope, $location, $window) {
     //these are stubs, to be replaced with real data
     $scope.topTags = ['test1', 'test2', 'test3', 'test4'];
     $scope.freqTags = ['_test1', '_test2', '_test3', '_test4'];
     $scope.exclTags = ['__test1', '__test2', '__test3', '__test4'];
 
     $scope.existingTagBundles = ['cryptography','security','machine-learning','tools'];
+    
+    $scope.states_transition_matrix = {};
 
     var tagMover = function (x) {
-        var src_trg_arr = states_dict.get(x.srcId)[x.keyCode];
+        //src array and target array names are specified in states transition matrix
+        var src_trg_arr = $scope.states_transition_matrix.get(x.srcId)[x.keyCode];
         var res = move($scope[src_trg_arr[0]], $scope[src_trg_arr[1]], x.slctValue);
         $scope[src_trg_arr[0]] = res.arrSrc;
         $scope[src_trg_arr[1]] = res.arrTrg;
@@ -60,9 +63,13 @@ tagBundleModule.controller("tagBundleCtrl", function ($scope, $location) {
         console.log("$scope.selectedTagBundle: " + $scope.selectedTagBundle);
         return !$scope.selectedTagBundle || $scope.selectedTagBundle == 'new';
     }
-
-    angular.forEach(arrowKeySrcSelectors, function (selector) { arrowKeyHandler(selector); });
     
     $scope.selectedTagBundle = $location.search()['tagBundle'] ? $location.search()['tagBundle'] : 'new';
-   
+       
+    $scope.SetStateTranstions = function () {
+        $scope.states_transition_matrix = $window.states_dict;
+        $scope.arrowKeySrcSelectors = Array.from($scope.states_transition_matrix.keys());
+        //wire arrowKeyHandler to select boxes
+        angular.forEach($scope.arrowKeySrcSelectors, function (selector) { arrowKeyHandler(selector); });
+    }
 });

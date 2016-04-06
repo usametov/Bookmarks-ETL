@@ -18,19 +18,17 @@
     <script src="Scripts/lib/bootstrap.min.js"></script>
     <script src="Scripts/lib/angular.min.js"></script>
     <script src="Scripts/app.js"></script>
-   
-</head>
-    <body ng-controller="tagBundleCtrl">
-        <script>
-            //TODO: use dependency injection instead of this
-            var states_dict = new Map();
-            //transition states table
-            states_dict.set('#topTagsList', { '39': ['topTags', 'freqTags'] });
-            states_dict.set('#associatedTagsList', { '37': ['freqTags', 'topTags'], '39': ['freqTags', 'exclTags'] });
-            states_dict.set('#excludeTagsList', { '37': ['exclTags', 'freqTags'] });
+    <script>
+       var states_dict = new Map();
+        //save states transition table in $window service, it will be used inside SetStateTranstions
+       states_dict.set('#topTagsList', { '39': ['topTags', 'freqTags'] });
+       states_dict.set('#associatedTagsList', { '37': ['freqTags', 'topTags'], '39': ['freqTags', 'exclTags'] });
+       states_dict.set('#excludeTagsList', { '37': ['exclTags', 'freqTags'] });
+    </script>
 
-            var arrowKeySrcSelectors = ['#topTagsList', '#associatedTagsList', '#excludeTagsList'];
-        </script>
+</head>
+    <body ng-controller="tagBundleCtrl" ng-init='SetStateTranstions()'>
+        
         <div class="container-fluid">
 
             <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -82,21 +80,27 @@
                     <div class="col-md-2"></div>
                     <div class="col-md-10">
                         <span class="label label-pill label-success">
+                            :: Select existing tag bundle ::
+                        </span>
+                        <select class="form-control" id="tagBundles" ng-model="selectedTagBundle">
+                            <option ng-repeat="tagBundle in existingTagBundles" value="{{tagBundle}}">{{tagBundle}}</option>
+                        </select>
+                        <!--<span class="label label-pill label-success">
                             :: Tag Bundle Name ::
                         </span>&nbsp;&nbsp;
-                        <input type="text" id="tagBundleName" class="form-control" ng-disabled="!isNewTagBundle();" />
+                        <input type="text" id="tagBundleName" class="form-control" ng-disabled="!isNewTagBundle();" />-->
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="col-md-1"></div>
                     <div class="col-md-10">
-                        <span class="label label-pill label-success">
+                        <!--<span class="label label-pill label-success">
                             :: Select existing tag bundle ::
                         </span>
                         <select class="form-control" id="tagBundles" ng-model="selectedTagBundle">
                             <option value="new">New Tag Bundle</option>
                             <option ng-repeat="tagBundle in existingTagBundles" value="{{tagBundle}}">{{tagBundle}}</option>
-                        </select>
+                        </select>-->
                         
                     </div>                    
                     <div class="col-md-1"></div>
