@@ -56,7 +56,7 @@
                             
                             <li><a href="FreqTags.html">Process Frequent Tags</a></li>
                             <li class="active"><a href="#">Process Associated Tags</a></li>
-                            <li><a href="newTagBundle.html">
+                            <li><a href="addEditTagBundle.html">
                                 <span class="glyphicon glyphicon-plus"></span>
                                 Add/Edit Tag Bundle</a></li>
                         </ul>
@@ -95,22 +95,12 @@
                         <select class="form-control" id="tagBundles" ng-model="selectedTagBundle">
                             <option ng-repeat="tagBundle in existingTagBundles" value="{{tagBundle}}">{{tagBundle}}</option>
                         </select>
-                        <!--<span class="label label-pill label-success">
-                            :: Tag Bundle Name ::
-                        </span>&nbsp;&nbsp;
-                        <input type="text" id="tagBundleName" class="form-control" ng-disabled="!isNewTagBundle();" />-->
+                       
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="col-md-1"></div>
                     <div class="col-md-10">
-                        <!--<span class="label label-pill label-success">
-                            :: Select existing tag bundle ::
-                        </span>
-                        <select class="form-control" id="tagBundles" ng-model="selectedTagBundle">
-                            <option value="new">New Tag Bundle</option>
-                            <option ng-repeat="tagBundle in existingTagBundles" value="{{tagBundle}}">{{tagBundle}}</option>
-                        </select>-->
                         
                     </div>                    
                     <div class="col-md-1"></div>
