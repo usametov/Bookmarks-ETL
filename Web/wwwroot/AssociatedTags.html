@@ -22,9 +22,9 @@
     <script>
        var states_dict = new Map();
         //save states transition table in $window service, it will be used inside SetStateTranstions
-       states_dict.set('#topTagsList', { '39': ['topTags', 'freqTags'] });
-       states_dict.set('#associatedTagsList', { '37': ['freqTags', 'topTags'], '39': ['freqTags', 'exclTags'] });
-       states_dict.set('#excludeTagsList', { '37': ['exclTags', 'freqTags'] });
+       states_dict.set('#topTagsList', { '39': ['topTags', 'associatedTags'] });
+       states_dict.set('#associatedTagsList', { '37': ['associatedTags', 'topTags'], '39': ['associatedTags', 'exclTags'] });
+       states_dict.set('#excludeTagsList', { '37': ['exclTags', 'associatedTags'] });
     </script>
 
 </head>
@@ -132,7 +132,7 @@
                                 </span>
                             </h4>
                             <select id="associatedTagsList" class="form-control" multiple size="20">
-                                <option ng-repeat="tag in freqTags" value="{{tag}}">{{tag}}</option>
+                                <option ng-repeat="tag in associatedTags" value="{{tag}}">{{tag}}</option>
                             </select>
                         </div>
                         <div class="col-md-1"></div>
