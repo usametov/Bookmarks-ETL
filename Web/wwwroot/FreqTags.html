@@ -29,7 +29,7 @@
     </script>
 
 </head>
-    <body ng-controller="tagBundleCtrl" ng-init='SetStateTranstions()'>
+    <body ng-controller="tagBundleCtrl" ng-init='InitFreqTagsModel()'>
         
         <div class="container-fluid" >
 
@@ -177,14 +177,14 @@
             <br />
             <div class="col-md-3"></div>
             <div class="col-md-3">
-                <button type="button" class="btn btn-info form-control">
+                <button type="button" class="btn btn-info form-control" ng-click="SaveTagBundleAndExcludeList();">
                 <span class="glyphicon glyphicon-save"></span>
                 Save </button>
             </div>
             <div class="col-md-3">
-                <button type="button" class="btn btn-info form-control">
+                <button type="button" class="btn btn-info form-control" ng-click="GetMostFrequentTags();">
                 <span class="glyphicon glyphicon-play-circle"></span>
-                 Save And ReCalculate </button>
+                 ReCalculate Tag Counts</button>
             </div>
             <div class="col-md-3"></div>
             <br />
