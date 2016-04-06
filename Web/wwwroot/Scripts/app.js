@@ -58,8 +58,6 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
         console.log("$scope.selectedTagBundle: " + $scope.selectedTagBundle);
         return !$scope.selectedTagBundle || $scope.selectedTagBundle == 'new';
     }
-    
-    $scope.selectedTagBundle = $location.search()['tagBundle'] ? $location.search()['tagBundle'] : 'new';
        
     $scope.SetStateTranstions = function () {
         $scope.states_transition_matrix = $window.states_dict;
@@ -68,13 +66,43 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
         angular.forEach($scope.arrowKeySrcSelectors, function (selector) { arrowKeyHandler(selector); });
     }
 
-    $scope.topTags = tagRepository.getTagBundle($scope.selectedTagBundle);
-    $scope.freqTags = tagRepository.getMostFrequentTags($scope.selectedTagBundle, $scope.threshold);
-    $scope.exclTags = tagRepository.getExcludeList($scope.selectedTagBundle);
-    $scope.associatedTags = tagRepository.getTagAssociations($scope.selectedTagBundle);
+    $scope.SaveTagBundleAndExcludeList = function () {
+        tagRepository.saveTagBundle($scope.selectedTagBundle, $scope.topTags);
+        tagRepository.saveExcludeList($scope.selectedTagBundle, $scope.exclTags);
+    }
 
-    $scope.existingTagBundles = ['cryptography', 'security', 'machine-learning', 'tools'];
+    $scope.GetMostFrequentTags = function () {
+        $scope.freqTags = tagRepository.getMostFrequentTags($scope.selectedTagBundle, $scope.threshold);
+    }
+    
+    $scope.GetTagAssociations = function () {
+        $scope.associatedTags = tagRepository.getTagAssociations($scope.selectedTagBundle);
+    }
 
+    $scope.SetSlctdTagBundle = function () {
+        $scope.selectedTagBundle = $location.search()['tagBundle'] ? $location.search()['tagBundle']
+                                    : $scope.existingTagBundles ? $scope.existingTagBundles[0]
+                                    : 'new';
+    }
+
+    $scope.InitFreqTagsModel = function () {
+        $scope.SetStateTranstions();
+        $scope.topTags = tagRepository.getTagBundle($scope.selectedTagBundle);
+        $scope.GetMostFrequentTags();
+        $scope.exclTags = tagRepository.getExcludeList($scope.selectedTagBundle);        
+        $scope.existingTagBundles = tagRepository.getTagBundles();
+        $scope.SetSlctdTagBundle();
+    }
+
+    $scope.InitAssociatedTagsModel = function () {
+        $scope.SetStateTranstions();
+        $scope.topTags = tagRepository.getTagBundle($scope.selectedTagBundle);        
+        $scope.exclTags = tagRepository.getExcludeList($scope.selectedTagBundle);
+        $scope.GetTagAssociations();
+        $scope.existingTagBundles = tagRepository.getTagBundles();
+        $scope.SetSlctdTagBundle();
+    }
+    
     }]).factory("tagRepository", ['$http', function ($http) {
 
             //these are stubs, to be replaced with real data
@@ -82,11 +110,17 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
                 return ['test1', 'test2', 'test3', 'test4'];
             };
 
+            var getTagBundles = function () {
+                return ['cryptography', 'security', 'machine-learning', 'tools','linux'];
+            };
+
             var getMostFrequentTags = function (excludeList, threshold) {
+                console.log('getMostFrequentTags');
                 return ['_test1', '_test2', '_test3', '_test4'];
             };
 
             var getTagAssociations = function (tagBundle, excludeList) {
+                console.log('getTagAssociations');
                 return ['_tst1_ass_', '_tst2_ass_', '_tst3_ass_', '_tst4_ass_'];
             }
 
@@ -94,11 +128,24 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
                 return ['__test1', '__test2', '__test3', '__test4'];
             }
             
+            var saveExcludeList = function (tagBundle, exclTags) {
+                //call api here
+                console.log('saving exclTags', exclTags);
+            }
+
+            var saveTagBundle = function (tagBundle, topTags) {
+                //call api here
+                console.log('saving topTags', topTags);
+            }
+
             var tagService = {
                 getTagBundle: getTagBundle,
+                getTagBundles: getTagBundles,
                 getMostFrequentTags: getMostFrequentTags,
                 getTagAssociations: getTagAssociations,
-                getExcludeList: getExcludeList
+                getExcludeList: getExcludeList,
+                saveExcludeList: saveExcludeList,
+                saveTagBundle: saveTagBundle
             };
         
             return tagService;
