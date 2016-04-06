@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">    
         <!-- Bootstrap -->
-    <link href="Content/bootstrap.min.css" rel="stylesheet">
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/styles.css" rel="stylesheet" />
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -42,14 +43,21 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#">Tag Bundle Util</a>
+                        <a class="navbar-brand" href="#">
+                            <span class="glyphicon glyphicon-tags"></span>
+                            &nbsp;Tag Bundle Util</a>
                     </div>
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
-                            <li><a href="#">Load Bookmarks</a></li>                            
+                            <li><a href="#">
+                                <span class="glyphicon glyphicon-cloud-upload"></span>
+                                Load Bookmarks</a></li>        
                             <li class="active"><a href="#">Process Frequent Tags</a></li>
                             <li><a href="AssociatedTags.html">Process Associated Tags</a></li>                            
+                            <li><a href="newTagBundle.html">
+                                <span class="glyphicon glyphicon-plus"></span>
+                                Add/Edit Tag Bundle</a></li>
                         </ul>
                         <!--TODO: may need later-->
                         <!--<ul class="nav navbar-nav navbar-right">
@@ -169,10 +177,14 @@
             <br />
             <div class="col-md-3"></div>
             <div class="col-md-3">
-                <button type="button" class="btn btn-info form-control">:: Save::</button>
+                <button type="button" class="btn btn-info form-control">
+                <span class="glyphicon glyphicon-save"></span>
+                Save </button>
             </div>
             <div class="col-md-3">
-                <button type="button" class="btn btn-info form-control">:: Save And ReCalculate ::</button>
+                <button type="button" class="btn btn-info form-control">
+                <span class="glyphicon glyphicon-play-circle"></span>
+                 Save And ReCalculate </button>
             </div>
             <div class="col-md-3"></div>
             <br />
