@@ -29,22 +29,23 @@ namespace Web.Controllers
 
         [HttpGet("GetTagBundle")]
         public IEnumerable<string> GetTagBundle(
-            [FromBody]TagBundleRequest tagBundle)
+            [FromQuery]string bundleName, [FromQuery]string bookmarksCollectionName)
         {
             return new string[] { "test1", "test2", "test3", "test4" };
         }
 
         [HttpGet("GetTagBundles")]
-        public IEnumerable<string> GetTagBundles(string bookmarksCollection)
+        public IEnumerable<string> GetTagBundles(
+            [FromQuery]string bookmarksCollectionName)
         {
             return new string[] { "cryptography", "security", "machine-learning", "tools", "linux" };
         }
 
         [HttpGet("GetExcludeList")]
         public IEnumerable<string> GetExcludeList(
-            [FromBody]TagBundleRequest tagBundle)
+            [FromQuery]string bundleName)
         {
-            return new string[] { "_test1_", "_test2", "_test3_", "_test4_" };
+            return new string[] { "books", "!torontopubliclibrary","papers","!filetype:pdf","paper" };
         }
 
         [HttpPost("SaveTagBundle")]
