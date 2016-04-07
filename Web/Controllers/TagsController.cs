@@ -52,14 +52,14 @@ namespace Web.Controllers
         public void SaveTagBundle(
            [FromBody]TagBundleRequest tagBundle)
         {
-            
+            //TODO: add backend call here
         }
 
         [HttpPost("SaveExcludeList")]
         public void SaveExcludeList(
            [FromBody]TagBundleRequest tagBundle)
         {
-
-        }        
+            //TODO: add backend call here
+        }
     }
 }

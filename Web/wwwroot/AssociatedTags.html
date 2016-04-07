@@ -92,7 +92,7 @@
                         <span class="label label-pill label-success">
                             :: Select existing tag bundle ::
                         </span>
-                        <select class="form-control" id="tagBundles" ng-model="selectedTagBundle">
+                        <select class="form-control" id="tagBundles" ng-model="selectedTagBundle" ng-change="ReloadPage(selectedTagBundle)">
                             <option ng-repeat="tagBundle in existingTagBundles" value="{{tagBundle}}">{{tagBundle}}</option>
                         </select>
                        

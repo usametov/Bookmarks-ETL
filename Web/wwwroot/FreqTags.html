@@ -89,15 +89,11 @@
                 <div class="col-md-4">
                     <div class="col-md-2"></div>
                     <div class="col-md-10">
-                        <!--<span class="label label-pill label-success">
-                            :: Tag Bundle Name ::
-                        </span>&nbsp;&nbsp;
-                        <input type="text" id="tagBundleName" class="form-control" ng-disabled="!isNewTagBundle();" />-->
-
+                        
                         <span class="label label-pill label-success">
                             :: Select existing tag bundle ::
                         </span>
-                        <select class="form-control" id="tagBundles" ng-model="selectedTagBundle">
+                        <select class="form-control" id="tagBundles" ng-model="selectedTagBundle" ng-change="ReloadPage(selectedTagBundle)">
                             <option ng-repeat="tagBundle in existingTagBundles" value="{{tagBundle}}">{{tagBundle}}</option>
                         </select>
 

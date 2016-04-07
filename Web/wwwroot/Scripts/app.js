@@ -67,8 +67,15 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
     }
 
     $scope.SaveTagBundleAndExcludeList = function () {
-        tagRepository.saveTagBundle($scope.selectedTagBundle, $scope.topTags);
-        tagRepository.saveExcludeList($scope.selectedTagBundle, $scope.exclTags);
+        resolvePromise(tagRepository.saveTagBundle($scope.selectedTagBundle, $scope.topTags)
+                       , function (response) {
+                           console.log("saveTagBundle, response status", response.status);
+                       });
+
+        resolvePromise(tagRepository.saveExcludeList($scope.selectedTagBundle, $scope.exclTags)
+                       , function (response) {
+                           console.log("saveTagBundle, response status", response.status);
+                       });
     }
 
     var resolvePromise = function (promise, successFn) {
@@ -101,6 +108,13 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
             $scope.$apply();
         });
     }
+    
+    $scope.ReloadPage = function (selectedTagBundle) {
+        //set url    
+        $location.search({ 'tagBundle': selectedTagBundle });
+        //now reload
+        $window.location.reload();
+    }
 
     $scope.GetSlctdTagBundle = function (firstBundle) {
         console.log("first bundle", firstBundle);
@@ -118,7 +132,7 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
             var slctBundle = $scope.GetSlctdTagBundle(response.data ? response.data[0] : null);
             angular.forEach(funcArray, function (func)
             {
-                func(slctBundle);//console.log("called " + func);
+                func(slctBundle);
             });
 
             $scope.selectedTagBundle = slctBundle;            
@@ -227,14 +241,38 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
                 return promise;
             };
             
-            var saveExcludeList = function (tagBundle, exclTags) {
-                //call api here
-                console.log('saving exclTags', exclTags);
+            var saveExcludeList = function (tagBundleName, exclTags, bookmarksCollectionName) {
+
+                console.log('tagBundle in saving exclTags', tagBundleName);
+                var promise = $http({
+                    url: "http://localhost:57809/api/tags/SaveExcludeList",
+                    method: "POST",
+                    data:
+                   {
+                       "BundleName": tagBundleName
+                     , "BookmarksCollectionName": bookmarksCollectionName
+                     , "ExcludeList": exclTags
+                   }
+                });
+
+                return promise;
             }
 
-            var saveTagBundle = function (tagBundle, topTags) {
-                //call api here
-                console.log('saving topTags', topTags);
+            var saveTagBundle = function (tagBundleName, topTags, bookmarksCollectionName) {
+                
+                console.log('tagBundle in saving toptags', tagBundleName);
+                var promise = $http({
+                    url: "http://localhost:57809/api/tags/SaveTagBundle",
+                    method: "POST",
+                    data:
+                   {
+                       "TagBundle": topTags
+                     , "BundleName": tagBundleName
+                     , "BookmarksCollectionName": bookmarksCollectionName                     
+                   }
+                });
+
+                return promise;
             }
 
             var tagService = {
