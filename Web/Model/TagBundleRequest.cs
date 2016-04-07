@@ -7,5 +7,7 @@ namespace Web.Model
         public string[] ExcludeList { get; set; }        
         public string BundleName { get; set; }
         public int Threshold { get; set; }
+        public string BookmarksCollectionName { get; set; }
     }
+
 }
