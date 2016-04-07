@@ -27,22 +27,38 @@ namespace Web.Controllers
             return new string[] { "stub1", "stub2" };
         }
 
-        //// POST api/values
-        //[HttpPost]
-        //public void Post([FromBody]string value)
-        //{
-        //}
+        [HttpGet("GetTagBundle")]
+        public IEnumerable<string> GetTagBundle(
+            [FromBody]TagBundleRequest tagBundle)
+        {
+            return new string[] { "test1", "test2", "test3", "test4" };
+        }
 
-        //// PUT api/values/5
-        //[HttpPut("{id}")]
-        //public void Put(int id, [FromBody]string value)
-        //{
-        //}
+        [HttpGet("GetTagBundles")]
+        public IEnumerable<string> GetTagBundles(string bookmarksCollection)
+        {
+            return new string[] { "cryptography", "security", "machine-learning", "tools", "linux" };
+        }
 
-        //// DELETE api/values/5
-        //[HttpDelete("{id}")]
-        //public void Delete(int id)
-        //{
-        //}
+        [HttpGet("GetExcludeList")]
+        public IEnumerable<string> GetExcludeList(
+            [FromBody]TagBundleRequest tagBundle)
+        {
+            return new string[] { "_test1_", "_test2", "_test3_", "_test4_" };
+        }
+
+        [HttpPost("SaveTagBundle")]
+        public void SaveTagBundle(
+           [FromBody]TagBundleRequest tagBundle)
+        {
+            
+        }
+
+        [HttpPost("SaveExcludeList")]
+        public void SaveExcludeList(
+           [FromBody]TagBundleRequest tagBundle)
+        {
+
+        }        
     }
 }

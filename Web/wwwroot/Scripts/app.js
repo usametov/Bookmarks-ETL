@@ -72,9 +72,26 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
     }
 
     $scope.GetMostFrequentTags = function () {
-        $scope.freqTags = tagRepository.getMostFrequentTags($scope.selectedTagBundle, $scope.threshold);
+        
+        var promise = tagRepository.getMostFrequentTags($scope.selectedTagBundle
+                            , $scope.bookmarksCollectionName || "delicious"
+                            , $scope.threshold);
+                
+        resolvePromise(promise, function (response) {
+            $scope.freqTags = response.data; console.log(response.data);
+            $scope.$apply();
+        });
+       
     }
-    
+
+    var resolvePromise = function (promise, successFn) {
+        Rx.Observable.fromPromise(promise)
+                    .subscribe(successFn, function (err) {
+                                console.log('Error: %s', err);                                    
+                                }
+                                , null);
+    }
+
     $scope.GetTagAssociations = function () {
         $scope.associatedTags = tagRepository.getTagAssociations($scope.selectedTagBundle);
     }
@@ -87,11 +104,11 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
 
     $scope.InitFreqTagsModel = function () {
         $scope.SetStateTranstions();
+        $scope.existingTagBundles = tagRepository.getTagBundles();
+        $scope.SetSlctdTagBundle();
         $scope.topTags = tagRepository.getTagBundle($scope.selectedTagBundle);
         $scope.GetMostFrequentTags();
         $scope.exclTags = tagRepository.getExcludeList($scope.selectedTagBundle);        
-        $scope.existingTagBundles = tagRepository.getTagBundles();
-        $scope.SetSlctdTagBundle();
     }
 
     $scope.InitAssociatedTagsModel = function () {
@@ -114,9 +131,20 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
                 return ['cryptography', 'security', 'machine-learning', 'tools','linux'];
             };
 
-            var getMostFrequentTags = function (excludeList, threshold) {
-                console.log('getMostFrequentTags');
-                return ['_test1', '_test2', '_test3', '_test4'];
+            var getMostFrequentTags = function (bundleName, bookmarksCollectionName, threshold) {
+                            
+                var promise = $http({
+                    url: "http://localhost:57809/api/tags/CalculateMostFreqTerms",
+                    method: "POST",
+                    data:
+                   {
+                       "Threshold": threshold
+                     , "BundleName": bundleName
+                     , "BookmarksCollectionName": bookmarksCollectionName
+                   }
+                });
+
+                return promise;                
             };
 
             var getTagAssociations = function (tagBundle, excludeList) {
