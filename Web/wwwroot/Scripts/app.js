@@ -71,67 +71,123 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
         tagRepository.saveExcludeList($scope.selectedTagBundle, $scope.exclTags);
     }
 
-    $scope.GetMostFrequentTags = function () {
+    var resolvePromise = function (promise, successFn) {
+        Rx.Observable.fromPromise(promise)
+                    .subscribe(successFn, function (err) {
+                        console.log('Error: %s', err);
+                    }
+                    , null);
+    }
+
+    $scope.SetMostFrequentTags = function (bundleName) {
         
-        var promise = tagRepository.getMostFrequentTags($scope.selectedTagBundle
+        var promise = tagRepository.getMostFrequentTags(bundleName
                             , $scope.bookmarksCollectionName || "delicious"
                             , $scope.threshold);
                 
         resolvePromise(promise, function (response) {
-            $scope.freqTags = response.data; console.log(response.data);
+            $scope.freqTags = response.data; //console.log("freq tags",response.data);
             $scope.$apply();
         });
        
     }
-
-    var resolvePromise = function (promise, successFn) {
-        Rx.Observable.fromPromise(promise)
-                    .subscribe(successFn, function (err) {
-                                console.log('Error: %s', err);                                    
-                                }
-                                , null);
+   
+    $scope.SetTagAssociations = function (bundleName) {
+        var promise = tagRepository.getTagAssociations(bundleName
+                                                     , $scope.bookmarksCollectionName || "delicious");
+        
+        resolvePromise(promise, function (response) {
+            $scope.associatedTags = response.data; //console.log("associated tags", response.data);
+            $scope.$apply();
+        });
     }
 
-    $scope.GetTagAssociations = function () {
-        $scope.associatedTags = tagRepository.getTagAssociations($scope.selectedTagBundle);
+    $scope.GetSlctdTagBundle = function (firstBundle) {
+        console.log("first bundle", firstBundle);
+        return $location.search()['tagBundle'] ? $location.search()['tagBundle']
+                                    : firstBundle || 'new';        
     }
 
-    $scope.SetSlctdTagBundle = function () {
-        $scope.selectedTagBundle = $location.search()['tagBundle'] ? $location.search()['tagBundle']
-                                    : $scope.existingTagBundles ? $scope.existingTagBundles[0]
-                                    : 'new';
+    $scope.InitPage = function (funcArray) {
+        var promise = tagRepository.getTagBundles
+                        ($scope.bookmarksCollectionName || "delicious");
+
+        resolvePromise(promise, function (response) {
+            $scope.existingTagBundles = response.data;
+            console.log("tag bundles", response.data);
+            var slctBundle = $scope.GetSlctdTagBundle(response.data ? response.data[0] : null);
+            angular.forEach(funcArray, function (func)
+            {
+                func(slctBundle);//console.log("called " + func);
+            });
+
+            $scope.selectedTagBundle = slctBundle;            
+            $scope.$apply();
+        });
+    }
+
+    $scope.SetTagBundle = function (bundleName) {
+
+        var promise = tagRepository.getTagBundle
+                                   (bundleName, $scope.bookmarksCollectionName || "delicious");
+
+        resolvePromise(promise, function (response) {
+            $scope.topTags = response.data;
+            console.log("top tags", response.data);
+            $scope.$apply();
+        });
+    }
+
+    $scope.SetExcludeList = function (bundleName) {
+        
+        var promise = tagRepository.getExcludeList
+                                    (bundleName, $scope.bookmarksCollectionName || "delicious");
+
+        resolvePromise(promise, function (response) {
+            $scope.exclTags = response.data;
+            console.log("exclude list", response.data);
+            $scope.$apply();
+        });
     }
 
     $scope.InitFreqTagsModel = function () {
         $scope.SetStateTranstions();
-        $scope.existingTagBundles = tagRepository.getTagBundles();
-        $scope.SetSlctdTagBundle();
-        $scope.topTags = tagRepository.getTagBundle($scope.selectedTagBundle);
-        $scope.GetMostFrequentTags();
-        $scope.exclTags = tagRepository.getExcludeList($scope.selectedTagBundle);        
+        $scope.InitPage
+        ([$scope.SetTagBundle
+        , $scope.SetExcludeList
+        , $scope.SetMostFrequentTags]);        
     }
 
     $scope.InitAssociatedTagsModel = function () {
         $scope.SetStateTranstions();
-        $scope.topTags = tagRepository.getTagBundle($scope.selectedTagBundle);        
-        $scope.exclTags = tagRepository.getExcludeList($scope.selectedTagBundle);
-        $scope.GetTagAssociations();
-        $scope.existingTagBundles = tagRepository.getTagBundles();
-        $scope.SetSlctdTagBundle();
+        $scope.InitPage
+        ([$scope.SetTagBundle
+        , $scope.SetExcludeList
+        , $scope.SetTagAssociations]);        
     }
     
     }]).factory("tagRepository", ['$http', function ($http) {
 
             //these are stubs, to be replaced with real data
-            var getTagBundle = function (tagBundle) {
-                return ['test1', 'test2', 'test3', 'test4'];
+        var getTagBundle = function (bundleName, bookmarksCollectionName) {
+                var promise = $http({
+                    url: "http://localhost:57809/api/tags/GetTagBundle?bundleName=" + bundleName + "&bookmarksCollectionName=" + bookmarksCollectionName,
+                    method: "GET"                    
+                });
+
+                return promise;
             };
 
-            var getTagBundles = function () {
-                return ['cryptography', 'security', 'machine-learning', 'tools','linux'];
+        var getTagBundles = function (bookmarksCollection) {
+            var promise = $http({
+                url: "http://localhost:57809/api/tags/GetTagBundles?bookmarksCollectionName="+bookmarksCollection,
+                method: "GET"
+            });
+
+            return promise;
             };
 
-            var getMostFrequentTags = function (bundleName, bookmarksCollectionName, threshold) {
+        var getMostFrequentTags = function (bundleName, bookmarksCollectionName, threshold) {
                             
                 var promise = $http({
                     url: "http://localhost:57809/api/tags/CalculateMostFreqTerms",
@@ -147,14 +203,29 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
                 return promise;                
             };
 
-            var getTagAssociations = function (tagBundle, excludeList) {
-                console.log('getTagAssociations');
-                return ['_tst1_ass_', '_tst2_ass_', '_tst3_ass_', '_tst4_ass_'];
+            var getTagAssociations = function (bundleName, bookmarksCollectionName) {
+                var promise = $http({
+                    url: "http://localhost:57809/api/tags/CalculateAssociatedTerms",
+                    method: "POST",
+                    data:
+                   {
+                       "BundleName": bundleName
+                     , "BookmarksCollectionName": bookmarksCollectionName
+                   }
+                });
+
+                return promise;                
             }
 
-            var getExcludeList = function (tagBundle) {
-                return ['__test1', '__test2', '__test3', '__test4'];
-            }
+            var getExcludeList = function (bundleName, bookmarksCollectionName) {
+
+                var promise = $http({
+                    url: "http://localhost:57809/api/tags/GetExcludeList?bundleName=" + bundleName + "&bookmarksCollectionName=" + bookmarksCollectionName,
+                    method: "GET"
+                });
+
+                return promise;
+            };
             
             var saveExcludeList = function (tagBundle, exclTags) {
                 //call api here
