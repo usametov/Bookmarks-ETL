@@ -19,6 +19,7 @@
     <script src="Scripts/lib/angular.min.js"></script>
     <script src="Scripts/lib/rx.lite.min.js"></script>
     <script src="Scripts/lib/rx.angular.min.js"></script>
+    <script src="Scripts/lib/angular-clipboard.js"></script>
     <script src="Scripts/app.js"></script>
     <script type="text/javascript">       
        var states_dict = new Map();
@@ -171,7 +172,13 @@
             </div>
 
             <br />
-            <div class="col-md-3"></div>
+            <div class="col-md-1"></div>
+            <div class="col-md-3">
+                <button type="button" class="btn btn-info form-control" clipboard text="topTags">
+                    <span class="glyphicon glyphicon-copy"></span>
+                    Copy Top Tags
+                </button>
+            </div>
             <div class="col-md-3">
                 <button type="button" class="btn btn-info form-control" ng-click="SaveTagBundleAndExcludeList();">
                 <span class="glyphicon glyphicon-save"></span>
@@ -182,7 +189,7 @@
                 <span class="glyphicon glyphicon-play-circle"></span>
                  ReCalculate Tag Counts</button>
             </div>
-            <div class="col-md-3"></div>
+            <div class="col-md-2"></div>
             <br />
         </div>
     </body>

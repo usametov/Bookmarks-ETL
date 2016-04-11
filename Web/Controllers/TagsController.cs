@@ -31,7 +31,7 @@ namespace Web.Controllers
         public IEnumerable<string> GetTagBundle(
             [FromQuery]string bundleName, [FromQuery]string bookmarksCollectionName)
         {
-            return new string[] { "test1", "test2", "test3", "test4" };
+            return new string[] { "tst1", "tst2", "tst3", "tst4" };
         }
 
         [HttpGet("GetTagBundles")]
