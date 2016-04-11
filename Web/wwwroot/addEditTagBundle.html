@@ -19,10 +19,11 @@
     <script src="Scripts/lib/angular.min.js"></script>
     <script src="Scripts/lib/rx.lite.min.js"></script>
     <script src="Scripts/lib/rx.angular.min.js"></script>
+    <script src="Scripts/lib/angular-clipboard.js"></script>
     <script src="Scripts/app.js"></script>
 
 </head>
-<body ng-controller="tagBundleCtrl">
+<body ng-controller="tagBundleCtrl" ng-init="InitAddEditTagBundle();">
 
     <div class="container-fluid">
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -82,81 +83,67 @@
         <br />
         <h1 class="col-lg-offset-4">Build exclude list for tag bundle</h1>
         <div class="col-lg-offset-4">
-            Copy tags from left and paste it to the exclude list on the right
+            To build exclude list copy top tags from <a href="FreqTags.html">here</a>
+            and paste it to the exclude list below
         </div>    
         
         
         <div class="row">
-            <div class="col-md-4">
-                <div class="col-md-2"></div>
-                <div class="col-md-10">
+            <div class="col-md-2"></div>    
+            <div class="col-md-8">            
+                 <div class="col-md-6">                 
                     <span class="label label-pill label-success">
                         :: New Tag Bundle Name ::
                     </span>&nbsp;&nbsp;
-                    <input type="text" id="tagBundleName" class="form-control" ng-disabled="!isNewTagBundle();" />
+                    <input type="text" id="tagBundleName" class="form-control" ng-disabled="!isNewTagBundle();" />                
                 </div>
-            </div>
         
-            <div class="col-md-4">
-                <div class="col-md-1"></div>
-                <div class="col-md-10">
-                    <span class="label label-pill label-success">
-                        :: List tags from existing bundle ::
-                    </span>
-                    <select class="form-control" id="tagBundles" ng-model="existingTagBundle">                        
-                        <option ng-repeat="tagBundle in existingTagBundles" value="{{tagBundle}}">{{tagBundle}}</option>
-                    </select>
-
-                </div>
-                <div class="col-md-1"></div>
-            </div>
-        
-            <div class="col-md-4">
-                <div class="col-md-1"></div>
-                <div class="col-md-10">
+                <div class="col-md-6">
                     <span class="label label-pill label-success">
                         :: Tag bundle to Build Exclude List for ::
                     </span>
-                    <select class="form-control" id="tagBundles" ng-model="selectedTagBundle">
+                    <select class="form-control" id="tagBundles" ng-model="selectedTagBundle" ng-change="ReloadPage(selectedTagBundle)">
                         <option value="new">New Tag Bundle</option>
                         <option ng-repeat="tagBundle in existingTagBundles" value="{{tagBundle}}">{{tagBundle}}</option>
                     </select>
+                </div>
+            
+            </div>
 
-                </div>
-                <div class="col-md-1"></div>
-            </div>
+            <div class="col-md-2"></div>
+
         </div>
         <br/>
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-2"></div>
+
+            <div class="col-md-8">
                 
-                <div class="col-md-11">
-                    <textarea rows="20" cols="70" id="tagBundle2Exclude"></textarea>
-                </div>
-                <div class="col-md-1"></div>
+                <textarea rows="20" cols="104" id="excludeList2edit" ng-model="exclTags"></textarea>
             </div>
-            <div class="col-md-6">
-                
-                <div class="col-md-11">
-                    <textarea rows="20" cols="70" id="excludeList"></textarea>
-                </div>
-                <div class="col-md-1"></div>
-            </div>
-        </div>
+
+            <div class="col-md-2"></div>
+       </div>
         <br/>
         <div class="row">
-            <div class="col-md-4"></div>
-            <div class="col-md-4">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
                 <div class="col-md-1"></div>
-                <div class="col-md-10">
+                <div class="col-md-5">
                     <button type="button" class="btn btn-info form-control">
                         <span class="glyphicon glyphicon-save"></span>
                         Save
                     </button>
                 </div>
+                <div class="col-md-5">
+                    <button type="button" class="btn btn-info form-control" ng-click="pasteCopiedTags('exclTags2edit');">
+                        <span class="glyphicon glyphicon-save"></span>
+                        Paste Copied Tags to Exclude list
+                    </button>
+                </div>
                 <div class="col-md-1"></div>
             </div>
-            <div class="col-md-4"></div>
+            <div class="col-md-2"></div>
         </div>
         <br />
     </div><!-- /.container-fluid -->

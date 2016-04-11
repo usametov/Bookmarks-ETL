@@ -1,5 +1,5 @@
 ﻿
-var tagBundleModule = angular.module("TagBundleUtil", []).controller
+var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).controller
     ("tagBundleCtrl", ['$scope', '$location', '$window', 'tagRepository'
     , function ($scope, $location, $window, tagRepository) {
         
@@ -141,7 +141,7 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
     }
 
     $scope.SetTagBundle = function (bundleName) {
-
+        
         var promise = tagRepository.getTagBundle
                                    (bundleName, $scope.bookmarksCollectionName || "delicious");
 
@@ -154,6 +154,12 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
 
     $scope.SetExcludeList = function (bundleName) {
         
+        if (bundleName == 'new')
+        {
+            $scope.exclTags = [];
+            return;
+        }
+
         var promise = tagRepository.getExcludeList
                                     (bundleName, $scope.bookmarksCollectionName || "delicious");
 
@@ -162,6 +168,11 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
             console.log("exclude list", response.data);
             $scope.$apply();
         });
+    }
+   
+    $scope.pasteCopiedTags = function (list2edit) {        
+        $scope[list2edit] = $scope.tagsToCopy;
+        $scope.tagsToCopy || alert("nothing copied");
     }
 
     $scope.InitFreqTagsModel = function () {
@@ -180,6 +191,10 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
         , $scope.SetTagAssociations]);        
     }
     
+    $scope.InitAddEditTagBundle = function () {        
+        $scope.InitPage([$scope.SetExcludeList]);
+    }
+
     }]).factory("tagRepository", ['$http', function ($http) {
 
             //these are stubs, to be replaced with real data
@@ -287,7 +302,6 @@ var tagBundleModule = angular.module("TagBundleUtil", []).controller
         
             return tagService;
         }]);
-
 
 
 
