@@ -52,6 +52,22 @@ namespace Web.Controllers
         public void SaveTagBundle(
            [FromBody]TagBundleRequest tagBundle)
         {
+            #region Null Checks
+            if (string.IsNullOrEmpty(tagBundle?.BookmarksCollectionName))
+            {
+                throw new ArgumentException("tagBundle?.BookmarksCollectionName");
+            }
+
+            if (string.IsNullOrEmpty(tagBundle?.BundleName))
+            {
+                throw new ArgumentException("tagBundle?.BundleName");
+            }
+
+            if (tagBundle.TagBundle == null && tagBundle.TagBundle.Count() == 0)
+            {
+                throw new ArgumentException("tagBundle.ExcludeList is null or empty");
+            }
+            #endregion
             //TODO: add backend call here
         }
 
@@ -59,6 +75,17 @@ namespace Web.Controllers
         public void CreateTagBundle(
            [FromBody]TagBundleRequest tagBundle)
         {
+            #region Null Checks
+            if (string.IsNullOrEmpty(tagBundle?.BookmarksCollectionName))
+            {
+                throw new ArgumentException("tagBundle?.BookmarksCollectionName");
+            }
+
+            if (string.IsNullOrEmpty(tagBundle?.BundleName))
+            {
+                throw new ArgumentException("tagBundle?.BundleName");
+            }
+            #endregion
             //TODO: add backend call here
         }
 
@@ -66,6 +93,23 @@ namespace Web.Controllers
         public void SaveExcludeList(
            [FromBody]TagBundleRequest tagBundle)
         {
+            #region Null Checks
+            if (string.IsNullOrEmpty(tagBundle?.BookmarksCollectionName))
+            {
+                throw new ArgumentException("tagBundle?.BookmarksCollectionName");
+            }
+
+            if(string.IsNullOrEmpty(tagBundle?.BundleName))
+            {
+                throw new ArgumentException("tagBundle?.BundleName");
+            }
+
+            if (tagBundle.ExcludeList == null && tagBundle.ExcludeList.Count() == 0)
+            {
+                throw new ArgumentException("tagBundle.ExcludeList is null or empty");
+            }
+            #endregion
+
             //TODO: add backend call here
         }
     }
