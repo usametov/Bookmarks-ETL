@@ -95,7 +95,8 @@
                     <span class="label label-pill label-success">
                         :: New Tag Bundle Name ::
                     </span>&nbsp;&nbsp;
-                    <input type="text" id="tagBundleName" class="form-control" ng-disabled="!isNewTagBundle();" />                
+                    <input type="text" id="tagBundleName" class="form-control" 
+                           ng-disabled="!isNewTagBundle();" ng-model="newTagBundleName" />                
                 </div>
         
                 <div class="col-md-6">
@@ -119,7 +120,7 @@
 
             <div class="col-md-8">
                 
-                <textarea rows="20" cols="104" id="excludeList2edit" ng-model="exclTags"></textarea>
+                <textarea rows="20" cols="104" id="excludeList2edit" ng-model="exclTagsText"></textarea>
             </div>
 
             <div class="col-md-2"></div>
@@ -128,20 +129,20 @@
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
-                <div class="col-md-1"></div>
-                <div class="col-md-5">
-                    <button type="button" class="btn btn-info form-control">
+                <div class="col-md-3"></div>
+                <div class="col-md-6">
+                    <button type="button" class="btn btn-info form-control" ng-click="addEditTagBundleAndExcludeList();">
                         <span class="glyphicon glyphicon-save"></span>
                         Save
                     </button>
                 </div>
-                <div class="col-md-5">
-                    <button type="button" class="btn btn-info form-control" ng-click="pasteCopiedTags('exclTags2edit');">
+                <!--<div class="col-md-5">
+                    <button type="button" class="btn btn-info form-control" >
                         <span class="glyphicon glyphicon-save"></span>
                         Paste Copied Tags to Exclude list
                     </button>
-                </div>
-                <div class="col-md-1"></div>
+                </div>-->
+                <div class="col-md-3"></div>
             </div>
             <div class="col-md-2"></div>
         </div>
