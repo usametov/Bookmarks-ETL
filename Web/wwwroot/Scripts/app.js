@@ -132,7 +132,8 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
                         (bundleName, $scope.GetBookmarksCollectionName());
         
         resolvePromise(promise, function (response) {
-            $scope.associatedTags = response.data; //console.log("associated tags", response.data);
+            $scope.associatedTags = response.data;
+            console.log("associated tags", response.data);
             $scope.$apply();
         });
     }
