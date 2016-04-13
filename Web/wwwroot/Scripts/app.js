@@ -17,6 +17,7 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
         angular.element(x.srcId).val(res.val2focus);
     }
 
+    // move val from src array to target array returning next value in src array to focus
     var move = function (arrSrc, arrTrg, val) {
 
         var nextVal2focus = getNextVal(arrSrc, val);
@@ -26,6 +27,7 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
         return { arrSrc: arrSrc, arrTrg: arrTrg, val2focus: nextVal2focus };
     }
 
+    //get index of value in src array, then use this index to get next value
     var getNextVal = function (arrSrc, val) {
         var fndIdx = getIdx(arrSrc, val);
         var result = fndIdx > 0 ? arrSrc[fndIdx - 1] :
@@ -38,6 +40,7 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
         return arrSrc.findIndex(t=> t == val);
     }
 
+    //hook tagmover routine to element's keyup event 
     var arrowKeyHandler = function (listIdSelector) {
         var srcList = $(listIdSelector);
 
@@ -58,7 +61,10 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
         console.log("$scope.selectedTagBundle: " + $scope.selectedTagBundle);
         return !$scope.selectedTagBundle || $scope.selectedTagBundle == 'new';
     }
-       
+    
+    //state transitions are provided by $window service
+    //keys in state transtions dictionary represent element ids (see select boxes below) 
+    //to which we hook our keyup event handlers
     $scope.SetStateTranstions = function () {
         $scope.states_transition_matrix = $window.states_dict;
         $scope.arrowKeySrcSelectors = Array.from($scope.states_transition_matrix.keys());
@@ -67,17 +73,39 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
     }
 
     $scope.SaveTagBundleAndExcludeList = function () {
-        resolvePromise(tagRepository.saveTagBundle($scope.selectedTagBundle, $scope.topTags)
+        resolvePromise(tagRepository.saveTagBundle
+                        ($scope.selectedTagBundle, $scope.topTags,
+                         $scope.bookmarksCollection)
                        , function (response) {
-                           console.log("saveTagBundle, response status", response.status);
+                           console.log("SaveTagBundleAndExcludeList, response status", response.status);
                        });
 
-        resolvePromise(tagRepository.saveExcludeList($scope.selectedTagBundle, $scope.exclTags)
-                       , function (response) {
-                           console.log("saveTagBundle, response status", response.status);
-                       });
+        $scope.saveExcludeList();
     }
 
+    $scope.addEditTagBundleAndExcludeList = function () {
+        
+        if ($scope.isNewTagBundle()) {
+            resolvePromise(tagRepository.createTagBundle($scope.newTagBundleName, $scope.bookmarksCollection)
+                        , function (response) {
+                            $scope.selectedTagBundle = $scope.newTagBundleName;
+                            $scope.exclTags = $scope.exclTagsText.split(',');
+                            $scope.$apply();
+                            $scope.saveExcludeList();
+                        });
+        } else {
+            $scope.saveExcludeList();
+        }   
+    }
+
+    $scope.saveExcludeList = function () {
+        resolvePromise(tagRepository.saveExcludeList($scope.selectedTagBundle,
+                                                     $scope.exclTags, $scope.bookmarksCollection)
+                       , function (response) {
+                           console.log("saveExcludeList, response status", response.status);
+                       });
+    }
+    
     var resolvePromise = function (promise, successFn) {
         Rx.Observable.fromPromise(promise)
                     .subscribe(successFn, function (err) {
@@ -89,7 +117,7 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
     $scope.SetMostFrequentTags = function (bundleName) {
         
         var promise = tagRepository.getMostFrequentTags(bundleName
-                            , $scope.bookmarksCollectionName || "delicious"
+                            , $scope.GetBookmarksCollectionName()
                             , $scope.threshold);
                 
         resolvePromise(promise, function (response) {
@@ -100,8 +128,8 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
     }
    
     $scope.SetTagAssociations = function (bundleName) {
-        var promise = tagRepository.getTagAssociations(bundleName
-                                                     , $scope.bookmarksCollectionName || "delicious");
+        var promise = tagRepository.getTagAssociations
+                        (bundleName, $scope.GetBookmarksCollectionName());
         
         resolvePromise(promise, function (response) {
             $scope.associatedTags = response.data; //console.log("associated tags", response.data);
@@ -122,9 +150,16 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
                                     : firstBundle || 'new';        
     }
 
+    $scope.GetBookmarksCollectionName = function () {
+        //this is a stub
+        return 'default';
+    }
+
     $scope.InitPage = function (funcArray) {
-        var promise = tagRepository.getTagBundles
-                        ($scope.bookmarksCollectionName || "delicious");
+
+        var bookmarksCollectionName = $scope.GetBookmarksCollectionName();
+
+        var promise = tagRepository.getTagBundles(bookmarksCollectionName);
 
         resolvePromise(promise, function (response) {
             $scope.existingTagBundles = response.data;
@@ -134,8 +169,10 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
             {
                 func(slctBundle);
             });
-
-            $scope.selectedTagBundle = slctBundle;            
+            
+            $scope.selectedTagBundle = slctBundle;
+            $scope.bookmarksCollection = bookmarksCollectionName;
+            
             $scope.$apply();
         });
     }
@@ -143,7 +180,7 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
     $scope.SetTagBundle = function (bundleName) {
         
         var promise = tagRepository.getTagBundle
-                                   (bundleName, $scope.bookmarksCollectionName || "delicious");
+                                   (bundleName, $scope.GetBookmarksCollectionName());
 
         resolvePromise(promise, function (response) {
             $scope.topTags = response.data;
@@ -161,7 +198,7 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
         }
 
         var promise = tagRepository.getExcludeList
-                                    (bundleName, $scope.bookmarksCollectionName || "delicious");
+                                    (bundleName, $scope.GetBookmarksCollectionName());
 
         resolvePromise(promise, function (response) {
             $scope.exclTags = response.data;
@@ -290,6 +327,22 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
                 return promise;
             }
 
+            var createTagBundle = function (tagBundleName, bookmarksCollectionName) {
+                console.log('created new tag bundle', tagBundleName);
+
+                var promise = $http({
+                    url: "http://localhost:57809/api/tags/CreateTagBundle",
+                    method: "POST",
+                    data:
+                   {
+                       "BundleName": tagBundleName
+                     , "BookmarksCollectionName": bookmarksCollectionName
+                   }
+                });
+
+                return promise;
+            }
+
             var tagService = {
                 getTagBundle: getTagBundle,
                 getTagBundles: getTagBundles,
@@ -297,7 +350,8 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
                 getTagAssociations: getTagAssociations,
                 getExcludeList: getExcludeList,
                 saveExcludeList: saveExcludeList,
-                saveTagBundle: saveTagBundle
+                saveTagBundle: saveTagBundle,
+                createTagBundle: createTagBundle
             };
         
             return tagService;
