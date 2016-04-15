@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using Web.Model;
 using Microsoft.AspNet.Mvc;
+using Microsoft.AspNet.Http;
+using Microsoft.Net.Http.Headers;
+using System.IO;
+using System.Threading.Tasks;
+using Newtonsoft.Json;
+
 
 namespace Web.Controllers
 {
@@ -112,5 +118,41 @@ namespace Web.Controllers
 
             //TODO: add backend call here
         }
+
+        //bookmarks load is ETL task
+        //[HttpPost("uploadBookmarksFile")]
+        //public async Task<JsonResult> UploadBookmarksFile()
+        //{
+        //    var file = Request.Form.Files.FirstOrDefault();
+        //    string fileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName;
+        //    await ProcessBookmarksFile(file, fileName.Replace("\"", ""));
+
+        //    return Json(new string[0]);
+        //}
+
+        //private async Task ProcessBookmarksFile(IFormFile file, string name)
+        //{
+        //    #region null checks
+        //    if (file == null || file.Length > 12000000)
+        //    {
+        //        throw new ArgumentException("stream");
+        //    }
+
+        //    if (string.IsNullOrEmpty(name))
+        //    {
+        //        throw new ArgumentException("name");
+        //    }
+        //    #endregion
+
+        //    byte[] result;
+        //    using (var stream = file.OpenReadStream())
+        //    {
+        //        result = new byte[stream.Length];
+        //        await stream.ReadAsync(result, 0, (int)stream.Length);
+        //    }
+
+        //    var content = System.Text.Encoding.UTF8.GetString(result);
+        //    //TODO: call parser here
+        //}
     }
 }
