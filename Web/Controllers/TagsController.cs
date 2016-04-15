@@ -3,18 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using Web.Model;
 using Microsoft.AspNet.Mvc;
-using Microsoft.AspNet.Http;
-using Microsoft.Net.Http.Headers;
-using System.IO;
-using System.Threading.Tasks;
-using Newtonsoft.Json;
-
+using Bookmarks5.Common;
 
 namespace Web.Controllers
 {
     [Route("api/[controller]")]
     public class TagsController : Controller
     {
+        private ITagRepository tagRepository;
+
+        public TagsController(ITagRepository tagRepo)
+        {
+            tagRepository = tagRepo;
+        }
+
         // GET: api/tags
         [HttpPost("CalculateMostFreqTerms")]
         public IEnumerable<string> CalculateMostFreqTerms([FromBody]TagBundleRequest tagBundle)
@@ -74,7 +76,7 @@ namespace Web.Controllers
                 throw new ArgumentException("tagBundle.ExcludeList is null or empty");
             }
             #endregion
-            //TODO: add backend call here
+            //TODO: add service call here
         }
 
         [HttpPost("CreateTagBundle")]
@@ -92,7 +94,7 @@ namespace Web.Controllers
                 throw new ArgumentException("tagBundle?.BundleName");
             }
             #endregion
-            //TODO: add backend call here
+            //TODO: add service call here
         }
 
         [HttpPost("SaveExcludeList")]
@@ -116,10 +118,24 @@ namespace Web.Controllers
             }
             #endregion
 
-            //TODO: add backend call here
+            //TODO: add service call here
         }
 
-        //bookmarks load is ETL task
+        [HttpGet("GetBookmarkCollections")]
+        public IEnumerable<string> GetBookmarkCollections()
+        {
+            var result = new List<string> { "delicious", "bibsonomy", "pinterest" };
+            //TODO: add service call here
+            return result;
+        }
+
+        [HttpGet("SetDefaultBookmarkCollection")]
+        public void SetDefaultBookmarkCollection()
+        {
+            //TODO: add service call here
+        }
+
+        //bookmarks load functionality should be moved to separate ETL project
         //[HttpPost("uploadBookmarksFile")]
         //public async Task<JsonResult> UploadBookmarksFile()
         //{
