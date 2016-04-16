@@ -120,55 +120,6 @@ namespace Web.Controllers
 
             //TODO: add service call here
         }
-
-        [HttpGet("GetBookmarkCollections")]
-        public IEnumerable<string> GetBookmarkCollections()
-        {
-            var result = new List<string> { "delicious", "bibsonomy", "pinterest" };
-            //TODO: add service call here
-            return result;
-        }
-
-        [HttpGet("SetDefaultBookmarkCollection")]
-        public void SetDefaultBookmarkCollection()
-        {
-            //TODO: add service call here
-        }
-
-        //bookmarks load functionality should be moved to separate ETL project
-        //[HttpPost("uploadBookmarksFile")]
-        //public async Task<JsonResult> UploadBookmarksFile()
-        //{
-        //    var file = Request.Form.Files.FirstOrDefault();
-        //    string fileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName;
-        //    await ProcessBookmarksFile(file, fileName.Replace("\"", ""));
-
-        //    return Json(new string[0]);
-        //}
-
-        //private async Task ProcessBookmarksFile(IFormFile file, string name)
-        //{
-        //    #region null checks
-        //    if (file == null || file.Length > 12000000)
-        //    {
-        //        throw new ArgumentException("stream");
-        //    }
-
-        //    if (string.IsNullOrEmpty(name))
-        //    {
-        //        throw new ArgumentException("name");
-        //    }
-        //    #endregion
-
-        //    byte[] result;
-        //    using (var stream = file.OpenReadStream())
-        //    {
-        //        result = new byte[stream.Length];
-        //        await stream.ReadAsync(result, 0, (int)stream.Length);
-        //    }
-
-        //    var content = System.Text.Encoding.UTF8.GetString(result);
-        //    //TODO: call parser here
-        //}
+        
     }
 }
