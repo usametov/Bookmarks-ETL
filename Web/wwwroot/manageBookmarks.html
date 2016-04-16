@@ -23,7 +23,6 @@
     <script src="Scripts/lib/rx.lite.min.js"></script>
     <script src="Scripts/lib/rx.angular.min.js"></script>
     <script src="Scripts/lib/angular-clipboard.js"></script>
-    
     <script src="Scripts/app.js"></script>
     <!--<script type="text/javascript">
         $(document).on('ready', function () {
@@ -44,7 +43,7 @@
         });
     </script>-->
 </head>
-<body ng-controller="tagBundleCtrl">
+<body ng-controller="bookmarksCtrl">
     <div class="container-fluid">
 
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -123,14 +122,28 @@
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-8">
-                <div class="panel-info">
-
-                    Merge Bookmark Collections on server to create new ones <br/>
-                    Filter Bookmark Collections on server to create new ones
+                <div class="panel-info">                    
+                    Set Default Bookmark Collection                     
                 </div>
             </div>
             <div class="col-md-3"></div>
         </div>    
+        <br />
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-7">
+                <ul class="list-group">
+                        <li class="list-group-item" ng-repeat="bookmarkColl in bookmarkCollections">                            
+                            <input type="radio" ng-model="defaultBookmarkCollection" name="defaultBookmarkCollectionGroup"
+                                   ng-value="bookmarkColl" ng-click="setDefaultBookmarkCollection(bookmarkColl);" />
+                            {{bookmarkColl.Name}}
+                        </li>
+                    
+                </ul>
+            </div>
+            <div class="col-md-4"></div>
         </div>
+        <br/>        
+    </div>
 </body>
 </html>
