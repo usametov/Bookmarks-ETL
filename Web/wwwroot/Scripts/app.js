@@ -208,10 +208,10 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
         });
     }
    
-    $scope.pasteCopiedTags = function (list2edit) {        
-        $scope[list2edit] = $scope.tagsToCopy;
-        $scope.tagsToCopy || alert("nothing copied");
-    }
+    //$scope.pasteCopiedTags = function (list2edit) {        
+    //    $scope[list2edit] = $scope.tagsToCopy;
+    //    $scope.tagsToCopy || alert("nothing copied");
+    //}
 
     $scope.InitFreqTagsModel = function () {
         $scope.SetStateTranstions();
@@ -358,5 +358,71 @@ var tagBundleModule = angular.module("TagBundleUtil", ['angular-clipboard']).con
             return tagService;
         }]);
 
+tagBundleModule.controller("bookmarksCtrl", ['$scope', 'bookmarkRepository', function ($scope, bookmarkRepository) {
 
+    var resolvePromise = function (promise, successFn) {
+        Rx.Observable.fromPromise(promise)
+                    .subscribe(successFn, function (err) {
+                        console.log('Error: %s', err);
+                    }
+                    , null);
+    }
+
+    var promise = bookmarkRepository.getBookmarkCollections();
+
+    resolvePromise(promise, function (response) {
+        $scope.bookmarkCollections = response.data;
+        console.log("bookmarkCollections", response.data);
+        $scope.$apply();
+        $scope.defaultBookmarkCollection = $scope.getDefaultBookmarkCollection();
+        $scope.$apply();
+    });
+
+    $scope.getDefaultBookmarkCollection = function () {
+        return $scope.bookmarkCollections.filter(b=>b.IsDefault)[0]
+    };
+
+    $scope.setDefaultBookmarkCollection = function (bookmarkColl) {
+        
+    resolvePromise(bookmarkRepository.setDefaultBookmarkCollection(bookmarkColl)
+                    , function ()
+                    {
+                        console.log("set defaultBookmarkCollection", bookmarkColl);
+                    });
+    }
+
+}]).factory('bookmarkRepository', ['$http', function ($http) {
+
+    var getBookmarkCollections = function () {
+
+        var promise = $http({
+            url: "http://localhost:57809/api/BookmarkCollections/GetBookmarkCollections",
+            method: "GET"
+            });
+
+        return promise;
+    }
+
+    var setDefaultBookmarkCollection = function (bookmarkCollection) {
+        
+        var promise = $http({
+            url: "http://localhost:57809/api/BookmarkCollections/SetDefaultBookmarkCollection",
+            method: "POST",
+            data: {
+                Name: bookmarkCollection.Name,
+                IsDefault: true
+            }
+        });
+
+        return promise;
+    }
+
+    var bookmarkService = {
+        getBookmarkCollections: getBookmarkCollections,
+        setDefaultBookmarkCollection: setDefaultBookmarkCollection
+    }
+
+    return bookmarkService;
+
+}]);
 
