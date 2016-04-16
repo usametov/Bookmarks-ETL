@@ -1,11 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using Bookmarks5.Common;
+using MongoDB.Bson;
+using MongoDB.Driver;
 
 namespace BookmarkRepository
 {
     public class TagRepository : ITagRepository
     {
+        IMongoClient _client;
+        IMongoDatabase _database;
+
+        public TagRepository() {
+            _client = new MongoClient();
+            _database = _client.GetDatabase("astanova-bookmarks");
+        }
+
         public void CreateTagBundle(string bundleName, string bookmarksCollectionName)
         {
             throw new NotImplementedException();
