@@ -16,6 +16,12 @@ namespace BookmarkRepository
             _database = _client.GetDatabase("astanova-bookmarks");
         }
 
+        public string ConnectionString
+        {
+            get;
+            set;
+        }
+
         public void CreateTagBundle(string bundleName, string bookmarksCollectionName)
         {
             throw new NotImplementedException();

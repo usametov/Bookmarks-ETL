@@ -16,6 +16,8 @@ namespace BookmarkRepository
             _database = _client.GetDatabase("astanova-bookmarks");
         }
 
+        public string ConnectionString{ get; set; }
+
         public IEnumerable<string> GetBookmarkCollections()
         {
             throw new NotImplementedException();

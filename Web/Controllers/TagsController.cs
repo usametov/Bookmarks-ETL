@@ -4,17 +4,19 @@ using System.Linq;
 using Web.Model;
 using Microsoft.AspNet.Mvc;
 using Bookmarks5.Common;
+using Microsoft.Extensions.OptionsModel;
 
 namespace Web.Controllers
 {
     [Route("api/[controller]")]
     public class TagsController : Controller
     {
-        private ITagRepository tagRepository;
+        private readonly ITagRepository tagRepository;
 
-        public TagsController(ITagRepository tagRepo)
+        public TagsController(ITagRepository tagRepo, IOptions<DbSettings> dbSettings)
         {
             tagRepository = tagRepo;
+            tagRepository.ConnectionString = dbSettings?.Value?.ConnectionString;
         }
 
         // GET: api/tags
