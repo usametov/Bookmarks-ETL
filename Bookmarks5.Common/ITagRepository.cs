@@ -4,6 +4,8 @@ namespace Bookmarks5.Common
 {
     public interface ITagRepository
     {
+        string ConnectionString { get; set; }
+
         IEnumerable<string> GetTagBundle(string bundleName
             , string bookmarksCollectionName);
 

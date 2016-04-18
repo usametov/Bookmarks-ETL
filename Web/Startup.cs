@@ -14,12 +14,14 @@ namespace Web
         {
             // Set up configuration sources.
             var builder = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json");
+                .AddJsonFile("appsettings.json")
+                .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true);
 
-            if (env.IsEnvironment("Development"))
+            if (env.IsDevelopment() /*.IsEnvironment("Development")*/)
             {
                 // This will push telemetry data through Application Insights pipeline faster, allowing you to view results immediately.
                 builder.AddApplicationInsightsSettings(developerMode: true);
+                builder.AddUserSecrets();
             }
 
             builder.AddEnvironmentVariables();
@@ -36,9 +38,12 @@ namespace Web
             services.AddApplicationInsightsTelemetry(Configuration);
 
             services.AddMvc();
+            services.AddOptions();
+            services.Configure<DbSettings>
+                (dbs => dbs.ConnectionString = Configuration["mlab-conn-str"]);// Configuration.Get("mlab-conn-str"));
 
             services.AddTransient<ITagRepository, TagRepository>();
-            services.AddTransient<IBookmarkCollectionRepository, BookmarkCollectionRepository>();
+            services.AddTransient<IBookmarkCollectionRepository, BookmarkCollectionRepository>();            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline
