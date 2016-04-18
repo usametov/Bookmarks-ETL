@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using BookmarkProcessor;
 using LanguageExt;
-
+using MongoDbImportUtil;
 
 namespace BookmarkProcessorUnitTest
 {
@@ -100,10 +100,10 @@ namespace BookmarkProcessorUnitTest
         //       , "moocs-associated.txt"
         //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\moocs-top-tags.txt"
         //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-moocs.txt")]
-        [TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.html"
-               , "cryptography-associated.txt"
-               , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\cryptography-top-tags.txt"
-               , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.html"
+        //       , "cryptography-associated.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\cryptography-top-tags.txt"
+        //       , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\exclude-list4-cryptography.txt")]
         public void TestGetAssociatedTerms(string bookmarksFile
             , string outputPath, string tagBundleFile, string excludeFile) 
         {
@@ -237,6 +237,18 @@ namespace BookmarkProcessorUnitTest
 
             var freqTerms = Processor.GetMostFrequentTags(processedTags.Item2, LoadTagBundle(excludeFile), 80);
             PrintTerms(freqTerms, outputPath);
+        }
+
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.html"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.json")]
+        public void TestWriteJson(string bookmarksFile, string outputPath)
+        {
+            var converter = new Bookmarks2Json(new DeliciousParser.Parser());
+            var content = converter.Write(bookmarksFile, outputPath);
+            using (var writer = new StreamWriter(outputPath))                
+            {
+                writer.Write(content);
+            }
         }
     }
 }
