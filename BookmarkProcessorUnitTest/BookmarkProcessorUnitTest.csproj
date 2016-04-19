@@ -112,6 +112,10 @@
       <Project>{86f29d8e-a0e6-4e03-b897-e712488f114d}</Project>
       <Name>MongoDbImportUtil</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MongoDbImportUtil\PinterestParser\PinterestParser.csproj">
+      <Project>{674b5331-d46f-4815-86dc-8ae38483bd3a}</Project>
+      <Name>PinterestParser</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

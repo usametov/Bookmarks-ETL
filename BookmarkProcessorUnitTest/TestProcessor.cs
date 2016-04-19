@@ -241,12 +241,25 @@ namespace BookmarkProcessorUnitTest
 
         //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.html"
         //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.json")]
-        [TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\bibsonomy.xml"
-                , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\bibsonomy.json")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\bibsonomy.xml"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\bibsonomy.json")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest-p1.json"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest1.json")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest-p2.json"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest2.json")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest-p3.json"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest3.json")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest-p4.json"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest4.json")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest-p5.json"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest5.json")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest-p6.json"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\pinterest6.json")]
         public void TestWriteJson(string bookmarksFile, string outputPath)
         {
             //var converter = new Bookmarks2Json(new DeliciousParser.Parser());
-            var converter = new Bookmarks2Json(new BibsonomyParser.Parser());
+            //var converter = new Bookmarks2Json(new BibsonomyParser.Parser());
+            var converter = new Bookmarks2Json(new PinterestParser.Parser());
             var content = converter.Write(bookmarksFile, outputPath);
             using (var writer = new StreamWriter(outputPath))                
             {
