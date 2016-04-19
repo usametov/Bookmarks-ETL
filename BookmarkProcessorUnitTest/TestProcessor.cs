@@ -241,9 +241,12 @@ namespace BookmarkProcessorUnitTest
 
         //[TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.html"
         //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\delicious-2016-03-16.json")]
+        [TestCase(@"C:\code\csharp6\Tagging-Util\solr_import_util\storage\bibsonomy.xml"
+                , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\bibsonomy.json")]
         public void TestWriteJson(string bookmarksFile, string outputPath)
         {
-            var converter = new Bookmarks2Json(new DeliciousParser.Parser());
+            //var converter = new Bookmarks2Json(new DeliciousParser.Parser());
+            var converter = new Bookmarks2Json(new BibsonomyParser.Parser());
             var content = converter.Write(bookmarksFile, outputPath);
             using (var writer = new StreamWriter(outputPath))                
             {

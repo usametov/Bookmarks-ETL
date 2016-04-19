@@ -2,11 +2,17 @@
 using System;
 using System.Collections.Generic;
 
-namespace DeliciousParser
+namespace BibsonomyParser
 {
-    public class DeliciousBookmark : IBookmark
+    public class BibsonomyPost : IBookmark
     {
-        public string LinkUrl
+        public DateTime AddDate
+        {
+            get;
+            set;
+        }
+
+        public string Description
         {
             get;
             set;
@@ -18,19 +24,13 @@ namespace DeliciousParser
             set;
         }
 
-        public DateTime AddDate
-        {
-            get;
-            set;
-        }
-        
-        public List<string> Tags
+        public string LinkUrl
         {
             get;
             set;
         }
 
-        public string Description
+        public List<string> Tags
         {
             get;
             set;
