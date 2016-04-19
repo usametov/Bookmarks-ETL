@@ -188,3 +188,9 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 /solr_import_util/storage/working-mongoimport.txt
+/solr_import_util/storage/pinterest-p6.json
+/solr_import_util/storage/pinterest-p5.json
+/solr_import_util/storage/pinterest-p4.json
+/solr_import_util/storage/pinterest-p3.json
+/solr_import_util/storage/pinterest-p2.json
+/solr_import_util/storage/pinterest-p1.json
