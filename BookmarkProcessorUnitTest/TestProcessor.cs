@@ -6,6 +6,7 @@ using System.Linq;
 using BookmarkProcessor;
 using LanguageExt;
 using MongoDbImportUtil;
+using System.Configuration;
 
 namespace BookmarkProcessorUnitTest
 {
@@ -267,8 +268,8 @@ namespace BookmarkProcessorUnitTest
             }
         }
 
-        [TestCase(@"C:\code\python\gitmarks\gitmarks_2\gitmark_base\public\"
-                , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\gitmarks.json")]        
+        //[TestCase(@"C:\code\python\gitmarks\gitmarks_2\gitmark_base\public\"
+        //        , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\gitmarks.json")]        
         public void TestWriteJsonFromMultipleFiles(string bookmarksRepo, string outputPath)
         {
             var converter = new Bookmarks2Json(new GitmarksParser.Parser());
@@ -278,5 +279,7 @@ namespace BookmarkProcessorUnitTest
                 writer.Write(content);
             }
         }
+        
+        
     }
 }
