@@ -1,5 +1,4 @@
-﻿
-using System.IO;
+﻿using System.IO;
 using System.Collections.Generic;
 using Bookmarks.Common;
 using Newtonsoft.Json;
@@ -13,30 +12,27 @@ namespace GitmarksParser
         public List<IBookmark> ParseBookmarks(string filePath)
         {
             var result = new List<IBookmark>();
-            
-            var bookmarkFiles = Directory.EnumerateFiles
-                (Path.Combine(filePath, Constants.BOOKMARKS_DIR));
-
-            var tagFiles = Directory.EnumerateFiles
-                (Path.Combine(filePath, Constants.TAGS_DIR));
-            
-            var inverted = tagFiles.Select(tf => new KeyValuePair<TagFormat[], string>(                                                               
-                                                            JsonConvert.DeserializeObject<TagFormat[]>
+            // enumerate tag files, read the content, sanitize and MAP it to tag name
+            var invertedTags = Directory.EnumerateFiles 
+                (Path.Combine(filePath, Constants.TAGS_DIR)).Select(tf => new KeyValuePair<TagContent[], string>
+                                                        (
+                                                            JsonConvert.DeserializeObject<TagContent[]>
                                                             (string.Format("[{0}]", File.ReadAllText(tf)).Replace("}{", "},{"))
                                                             ,
-                                                            Path.GetFileName(tf)
+                                                            Path.GetFileName(tf) // value set to tag name
                                                         ));
             
-            var urlHashComparer = new UrlHashComparer();
-
+            var urlHashComparer = new UrlHashComparer();//this will be used to REDUCE tags
+            var bookmarkFiles = Directory.EnumerateFiles // enumerate bookmarks
+                (Path.Combine(filePath, Constants.BOOKMARKS_DIR));
             //construct IBookmarks and add to result
             foreach (var boo in bookmarkFiles) {
 
-                var parsedBoo = JsonConvert.DeserializeObject<BookmarkFormat>(File.ReadAllText(boo));
+                var parsedBoo = JsonConvert.DeserializeObject<BookmarkContent>(File.ReadAllText(boo));
                 var gitmark = CreateGitmark(parsedBoo);
                 //add tags                
-                gitmark.Tags = inverted.Where(inv => inv.Key.Contains
-                                                (new TagFormat { hash = parsedBoo.hash }, urlHashComparer))
+                gitmark.Tags = invertedTags.Where(inv => inv.Key.Contains
+                                                (new TagContent { hash = parsedBoo.hash }, urlHashComparer))
                                                 .Select(inv=>inv.Value).ToList();
 
                 result.Add(gitmark);
@@ -45,7 +41,7 @@ namespace GitmarksParser
             return result;
         }
 
-        public Gitmark CreateGitmark(BookmarkFormat parsedBookmark) {
+        public Gitmark CreateGitmark(BookmarkContent parsedBookmark) {
             var gitmark = new Gitmark
             {
                 LinkUrl = parsedBookmark.uri
@@ -63,14 +59,18 @@ namespace GitmarksParser
         }
     }
 
-    public class BookmarkFormat {
-
+    public class BookmarkContent {
+        /// <summary>
+        /// this is a hash of uri below 
+        /// </summary>
         public string hash { get; set; }
 
         public string rights { get; set; }
 
         public string creator { get; set; }
-
+        /// <summary>
+        /// this is link text
+        /// </summary>
         public string uri { get; set; }
 
         public string time { get; set; }
@@ -78,27 +78,39 @@ namespace GitmarksParser
         public string title { get; set; }
     }
 
-    public class TagFormat {
+    /// <summary>
+    /// tag content obj should be one-to-one with BookmarkContent
+    /// </summary>
+    public class TagContent {
 
         public string ver { get; set; }
 
         public string creator { get; set; }
 
+        /// <summary>
+        /// this is a hash of uri below 
+        /// </summary>
         public string hash { get; set; }
 
+        /// <summary>
+        /// this is bookmark 
+        /// </summary>
         public string uri { get; set; }
 
+        /// <summary>
+        /// this is link text
+        /// </summary>
         public string title { get; set; }
     }
 
-    public class UrlHashComparer : IEqualityComparer<TagFormat>
+    public class UrlHashComparer : IEqualityComparer<TagContent>
     {
-        public bool Equals(TagFormat x, TagFormat y)
+        public bool Equals(TagContent x, TagContent y)
         {
             return x.hash.Equals(y.hash);
         }
 
-        public int GetHashCode(TagFormat obj)
+        public int GetHashCode(TagContent obj)
         {
             return obj.hash.GetHashCode();
         }
