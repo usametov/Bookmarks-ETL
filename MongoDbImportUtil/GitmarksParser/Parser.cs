@@ -13,52 +13,53 @@ namespace GitmarksParser
         public List<IBookmark> ParseBookmarks(string filePath)
         {
             var result = new List<IBookmark>();
-
-            string bookmarksDir = Path.Combine(filePath, Constants.BOOKMARKS_DIR);
-            string tagsDir = Path.Combine(filePath, Constants.TAGS_DIR);
-
-            var bookmarkFiles = Directory.EnumerateFiles(bookmarksDir);
-            var tagFiles = Directory.EnumerateFiles(tagsDir);
-
-            var parsedBookmarks = new List<BookmarkFormat>();
-            var parsedTags = new Dictionary<string, TagFormat[]>();
             
-            foreach (var tg in tagFiles) {
-                var jsonStrFix = string.Format("[{0}]", File.ReadAllText(tg)).Replace("}{", "},{");
-                parsedTags.Add
-                    (Path.GetFileName(tg)
-                    ,JsonConvert.DeserializeObject<TagFormat[]>(jsonStrFix));
-            }
+            var bookmarkFiles = Directory.EnumerateFiles
+                (Path.Combine(filePath, Constants.BOOKMARKS_DIR));
 
-            var inverted = parsedTags.Select(pt => new { TF = pt.Value, Tag = pt.Key });
+            var tagFiles = Directory.EnumerateFiles
+                (Path.Combine(filePath, Constants.TAGS_DIR));
+            
+            var inverted = tagFiles.Select(tf => new KeyValuePair<TagFormat[], string>(                                                               
+                                                            JsonConvert.DeserializeObject<TagFormat[]>
+                                                            (string.Format("[{0}]", File.ReadAllText(tf)).Replace("}{", "},{"))
+                                                            ,
+                                                            Path.GetFileName(tf)
+                                                        ));
+            
             var tagFormatComparer = new TagFormatComparer();
 
             //construct IBookmarks and add to result
             foreach (var boo in bookmarkFiles) {
 
                 var parsedBoo = JsonConvert.DeserializeObject<BookmarkFormat>(File.ReadAllText(boo));
-                var gitmark = new Gitmark
-                {
-                    LinkUrl = parsedBoo.uri
-                    ,
-                    LinkText = parsedBoo.title
-                    ,
-                    Description = string.Empty
-                };
-
-                DateTime addDate = DateTime.Now;
-                if(DateTime.TryParse(parsedBoo.time, out addDate))
-                    gitmark.AddDate = addDate;
-
+                var gitmark = CreateGitmark(parsedBoo);
                 //add tags                
-                gitmark.Tags = inverted.Where(inv => inv.TF.Contains
+                gitmark.Tags = inverted.Where(inv => inv.Key.Contains
                                                 (new TagFormat { hash = parsedBoo.hash }, tagFormatComparer))
-                                                .Select(inv=>inv.Tag).ToList();
+                                                .Select(inv=>inv.Value).ToList();
 
                 result.Add(gitmark);
             }
 
             return result;
+        }
+
+        public Gitmark CreateGitmark(BookmarkFormat parsedBookmark) {
+            var gitmark = new Gitmark
+            {
+                LinkUrl = parsedBookmark.uri
+                   ,
+                LinkText = parsedBookmark.title
+                   ,
+                Description = string.Empty
+            };
+
+            DateTime addDate = DateTime.Now;
+            if (DateTime.TryParse(parsedBookmark.time, out addDate))
+                gitmark.AddDate = addDate;
+
+            return gitmark;
         }
     }
 
