@@ -266,5 +266,17 @@ namespace BookmarkProcessorUnitTest
                 writer.Write(content);
             }
         }
+
+        [TestCase(@"C:\code\python\gitmarks\gitmarks_2\gitmark_base\public\"
+                , @"C:\code\csharp6\Tagging-Util\solr_import_util\storage\gitmarks.json")]        
+        public void TestWriteJsonFromMultipleFiles(string bookmarksRepo, string outputPath)
+        {
+            var converter = new Bookmarks2Json(new GitmarksParser.Parser());
+            var content = converter.Write(bookmarksRepo, outputPath);
+            using (var writer = new StreamWriter(outputPath))
+            {
+                writer.Write(content);
+            }
+        }
     }
 }

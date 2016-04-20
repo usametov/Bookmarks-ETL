@@ -108,6 +108,10 @@
       <Project>{9F14F763-EE9D-478D-A751-56D9054DA317}</Project>
       <Name>DeliciousParser</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MongoDbImportUtil\GitmarksParser\GitmarksParser.csproj">
+      <Project>{23c90325-fc2c-4fbd-b64f-bafa808422a9}</Project>
+      <Name>GitmarksParser</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MongoDbImportUtil\MongoDbImportUtil.csproj">
       <Project>{86f29d8e-a0e6-4e03-b897-e712488f114d}</Project>
       <Name>MongoDbImportUtil</Name>
