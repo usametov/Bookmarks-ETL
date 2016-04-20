@@ -27,7 +27,7 @@ namespace GitmarksParser
                                                             Path.GetFileName(tf)
                                                         ));
             
-            var tagFormatComparer = new TagFormatComparer();
+            var urlHashComparer = new UrlHashComparer();
 
             //construct IBookmarks and add to result
             foreach (var boo in bookmarkFiles) {
@@ -36,7 +36,7 @@ namespace GitmarksParser
                 var gitmark = CreateGitmark(parsedBoo);
                 //add tags                
                 gitmark.Tags = inverted.Where(inv => inv.Key.Contains
-                                                (new TagFormat { hash = parsedBoo.hash }, tagFormatComparer))
+                                                (new TagFormat { hash = parsedBoo.hash }, urlHashComparer))
                                                 .Select(inv=>inv.Value).ToList();
 
                 result.Add(gitmark);
@@ -91,7 +91,7 @@ namespace GitmarksParser
         public string title { get; set; }
     }
 
-    public class TagFormatComparer : IEqualityComparer<TagFormat>
+    public class UrlHashComparer : IEqualityComparer<TagFormat>
     {
         public bool Equals(TagFormat x, TagFormat y)
         {
