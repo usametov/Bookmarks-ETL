@@ -1,0 +1,13 @@
+function loadTagCounts(){
+	var tCountsCursor = db.bookmarks.aggregate
+	({$project:
+	{"_id":0, "Tags":1}
+	}, {$unwind:"$Tags"}, 
+	{$group:{_id:"$Tags", count:{$sum:1}}},
+	{$project:{"_id":0,Tag:"$_id.Tag",count:1}}, 
+	{$sort:{count:-1}});
+
+	while(tCountsCursor.hasNext()){
+		db.tagCounts.insert(tCountsCursor.next());
+	}	
+}
