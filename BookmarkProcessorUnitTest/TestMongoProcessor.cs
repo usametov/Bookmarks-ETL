@@ -36,8 +36,11 @@ namespace BookmarkProcessorUnitTest
 
         [TestCase]
         public void TestGetMostFrequentTags() {
-            var processor = new MongoProcessor();
-            processor.ConnectionString = connectionString;
+            var processor = new MongoProcessor(connectionString);
+            
+            var processedTags = processor.CalculateTermCounts();
+
+            Assert.IsNotEmpty(processedTags);
         }
     }
 }
