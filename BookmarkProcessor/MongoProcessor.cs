@@ -16,13 +16,33 @@ namespace BookmarkProcessor
 
         public MongoProcessor(string connectionString)
         {
-            
+
             ConnectionString = connectionString;
-            _client = new MongoClient(ConnectionString);            
+            _client = new MongoClient(ConnectionString);
             _database = _client.GetDatabase("astanova-bookmarks");
-            
+
+            Init();
         }
-        
+
+        private static void Init()
+        {
+            if(!BsonClassMap.IsClassMapRegistered(typeof(TagBundle)))
+                BsonClassMap.RegisterClassMap<TagBundle>(cm =>
+                                {
+                                    cm.AutoMap();
+                                    cm.MapCreator(t =>
+                                    new TagBundle
+                                    {
+                                        ExcludeTags = t.ExcludeTags
+                                        ,
+                                        Name = t.Name
+                                        ,
+                                        Tags = t.Tags
+                                    });
+                                    cm.SetIgnoreExtraElements(true);
+                                });
+        }
+
         public string ConnectionString
         {
             get;
@@ -119,5 +139,44 @@ namespace BookmarkProcessor
             , projectRename, sort, skip, limit };
             
         }
+
+        public void CreateTagBundle(TagBundle tagBundle) {
+
+            var tagBundles = _database.GetCollection<TagBundle>("tagBundles");
+
+            tagBundles?.InsertOne(tagBundle);
+        }
+
+        public void UpdateTagBundle(TagBundle tagBundle){
+
+            var tagBundles = _database.GetCollection<TagBundle>("tagBundles");
+            var builder = Builders<TagBundle>.Filter;
+            var filter = builder.Eq(t => t.Name, tagBundle.Name);
+            var update = Builders<TagBundle>.Update
+                .Set(t=>t.Tags, tagBundle.Tags)
+                .Set(t => t.ExcludeTags, tagBundle.ExcludeTags) 
+                .CurrentDate("lastModified");
+
+            tagBundles.UpdateOne(filter, update);
+        }
+
+        public IEnumerable<TagBundle> GetTagBundles(string name)
+        {
+            IEnumerable<TagBundle> result = null;
+            var tagBundles = _database.GetCollection<TagBundle>("tagBundles");
+            
+            if (string.IsNullOrEmpty(name)){
+                result = tagBundles.Find(new BsonDocument()).ToList();
+            }
+            else {
+                var builder = Builders<TagBundle>.Filter;
+                var filter = builder.Eq(t => t.Name, name);
+                result = tagBundles.Find(filter).ToList();
+            }
+
+            return result;
+        }
+
+
     }
 }
