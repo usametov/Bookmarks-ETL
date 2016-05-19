@@ -57,7 +57,13 @@ namespace BookmarkProcessor
 
             return aggregate.ToList();
         }
-
+        /// <summary>
+        /// builds pipeline definitions
+        /// TODO: try using memoization here
+        /// </summary>
+        /// <param name="skipNum"></param>
+        /// <param name="take">TODO: this should be controlled by providing proper buffer size</param>
+        /// <returns></returns>
         private PipelineDefinition<BsonDocument, TagCount> BuildTagCountsPipelineDefinition(int skipNum, int take)
         {
             var projectTags = new BsonDocument
