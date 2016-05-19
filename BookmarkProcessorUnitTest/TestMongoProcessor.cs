@@ -148,8 +148,8 @@ namespace BookmarkProcessorUnitTest
             processor.UpdateTagBundle(tagBundle2Update);
         }
 
-        [TestCase(null)]
-        //[TestCase("tools")]
+        //[TestCase(null)]
+        //[TestCase("webdev")]
         public void TestGetTagBundles(string name) {
 
             var processor = new MongoProcessor(connectionString);
