@@ -1,0 +1,7 @@
+#:C:\code\csharp6\Tagging-Util\Bookmarks5.Common\Bookmarks5.Common.xproj
+#:C:\code\csharp6\Tagging-Util\BookmarkRepository\BookmarkRepository.xproj
+C:\code\csharp6\Tagging-Util\BookmarkRepository\BookmarkRepository.xproj|C:\code\csharp6\Tagging-Util\Bookmarks5.Common\Bookmarks5.Common.xproj
+#:C:\code\csharp6\Tagging-Util\Web\TagsWebApi.xproj
+C:\code\csharp6\Tagging-Util\Web\TagsWebApi.xproj|C:\code\csharp6\Tagging-Util\BookmarkRepository\BookmarkRepository.xproj
+C:\code\csharp6\Tagging-Util\Web\TagsWebApi.xproj|C:\code\csharp6\Tagging-Util\Bookmarks5.Common\Bookmarks5.Common.xproj
+C:\code\csharp6\Tagging-Util\BookmarkRepository\BookmarkRepository.xproj|C:\code\csharp6\Tagging-Util\Bookmarks5.Common\Bookmarks5.Common.xproj

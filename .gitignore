@@ -194,3 +194,5 @@ ModelManifest.xml
 /solr_import_util/storage/pinterest-p3.json
 /solr_import_util/storage/pinterest-p2.json
 /solr_import_util/storage/pinterest-p1.json
+/MongoDbImportUtil/packages
+/MongoDbImportUtil/.vs/config/applicationhost.config
