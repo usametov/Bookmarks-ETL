@@ -22,7 +22,7 @@ namespace Web.Controllers
         // GET: api/tags
         [HttpPost("CalculateMostFreqTerms")]
         public IEnumerable<string> CalculateMostFreqTerms([FromBody]TagBundleRequest tagBundle)
-        {
+        {//this is stub
             return @"cryptography
                     encryption
                     ssl
@@ -33,28 +33,28 @@ namespace Web.Controllers
         [HttpPost("CalculateAssociatedTerms")]
         public IEnumerable<string> CalculateAssociatedTerms(
             [FromBody]TagBundleRequest tagBundle)
-        {
+        {//this is stub
             return new string[] { "stub1", "stub2" };
         }
 
         [HttpGet("GetTagBundle")]
         public IEnumerable<string> GetTagBundle(
             [FromQuery]string bundleName, [FromQuery]string bookmarksCollectionName)
-        {
+        {//this is stub
             return new string[] { "tst1", "tst2", "tst3", "tst4" };
         }
 
         [HttpGet("GetTagBundles")]
         public IEnumerable<string> GetTagBundles(
             [FromQuery]string bookmarksCollectionName)
-        {
+        {//this is stub
             return new string[] { "cryptography", "security", "machine-learning", "tools", "linux" };
         }
 
         [HttpGet("GetExcludeList")]
         public IEnumerable<string> GetExcludeList(
             [FromQuery]string bundleName)
-        {
+        {//this is stub
             return new string[] { "books", "!torontopubliclibrary","papers","!filetype:pdf","paper" };
         }
 
