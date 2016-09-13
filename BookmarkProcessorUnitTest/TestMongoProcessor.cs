@@ -35,7 +35,7 @@ namespace BookmarkProcessorUnitTest
         [SetUp]
         public void SetupConnectionString()
         {
-            string appConfigFilePath = 
+            string appConfigFilePath =
                 @"C:\code\csharp6\Tagging-Util\BookmarkProcessorUnitTest\app.config";
 
             Configuration config = ConfigurationManager.OpenExeConfiguration
@@ -49,16 +49,26 @@ namespace BookmarkProcessorUnitTest
                 as ConnectionStringsSection;
 
             connectionString = section.ConnectionStrings[0].ConnectionString;
-            
+
         }
 
         //[TestCase]
         public void TestGetMostFrequentTags() {
             var processor = new MongoProcessor(connectionString);
-            
+
             var processedTags = processor.CalculateTermCounts();
 
             Assert.IsNotEmpty(processedTags);
+        }
+
+        //[TestCase("mstech")]
+        [TestCase("security")]
+        public void TestGetNextMostFrequentTags(string tagBundleName)
+        {
+            var processor = new MongoProcessor(connectionString);
+
+            var nextMostFreqTags = processor.GetNextMostFrequentTags(tagBundleName); 
+            Assert.IsNotEmpty(nextMostFreqTags);
         }
 
         //[TestCase("mstech")]
@@ -154,6 +164,13 @@ namespace BookmarkProcessorUnitTest
 
             var processor = new MongoProcessor(connectionString);
             Assert.IsNotEmpty(processor.GetTagBundles(name));
+        }
+
+        //[TestCase("571da189083989dcf1e6e920")]
+        public void TestGetTagBundleById(string objId)
+        {
+            var processor = new MongoProcessor(connectionString);
+            Assert.IsNotNull(processor.GetTagBundleById(objId));
         }
     }
 }

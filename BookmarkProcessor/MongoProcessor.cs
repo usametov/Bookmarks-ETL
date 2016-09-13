@@ -11,15 +11,21 @@ namespace BookmarkProcessor
 {
     public class MongoProcessor
     {
+        public const string DEFAULT_BOOKMARKS_COLLECTION = "bookmarks";
+        private const string DEFAULT_BOOKMARK_DB = "astanova-bookmarks";
+        private const int TAG_COUNTS_PAGE_SIZE = 1000;
+
+        public string BookmarksCollection { get; set; }
         IMongoClient _client;
         IMongoDatabase _database;
 
-        public MongoProcessor(string connectionString)
+        public MongoProcessor(string connectionString, string bookmarksCollection = DEFAULT_BOOKMARKS_COLLECTION)
         {
 
             ConnectionString = connectionString;
             _client = new MongoClient(ConnectionString);
-            _database = _client.GetDatabase("astanova-bookmarks");
+            _database = _client.GetDatabase(DEFAULT_BOOKMARK_DB);
+            BookmarksCollection = bookmarksCollection; 
 
             Init();
         }
@@ -33,6 +39,8 @@ namespace BookmarkProcessor
                                     cm.MapCreator(t =>
                                     new TagBundle
                                     {
+                                        Id = t.Id
+                                        ,
                                         ExcludeTags = t.ExcludeTags
                                         ,
                                         Name = t.Name
@@ -49,14 +57,24 @@ namespace BookmarkProcessor
             set;
         }
 
+        /// <summary>
+        /// TODO: should this be cached?
+        /// </summary>
+        /// <returns></returns>
         public IEnumerable<TagCount> CalculateTermCounts()
         {
-            var bookmarks = _database.GetCollection<BsonDocument>("bookmarks");
-                        
-            var aggregate = bookmarks.Aggregate(BuildTagCountsPipelineDefinition(0, 1000));
+            var bookmarks = _database.GetCollection<BsonDocument>(BookmarksCollection);
+            int bufferSize = GetTagCountsBufferSize();
+            var aggregate = bookmarks.Aggregate(BuildTagCountsPipelineDefinition(0, bufferSize));
 
             return aggregate.ToList();
         }
+
+        private static int GetTagCountsBufferSize()
+        {
+            return TAG_COUNTS_PAGE_SIZE;
+        }
+
         /// <summary>
         /// builds pipeline definitions
         /// TODO: try using memoization here
@@ -165,7 +183,12 @@ namespace BookmarkProcessor
 
             tagBundles.UpdateOne(filter, update);
         }
-
+        
+        /// <summary>
+        /// gets tag bundle(s)
+        /// </summary>
+        /// <param name="name">if this is null or empty then get all</param>
+        /// <returns></returns>
         public IEnumerable<TagBundle> GetTagBundles(string name)
         {
             IEnumerable<TagBundle> result = null;
@@ -183,6 +206,35 @@ namespace BookmarkProcessor
             return result;
         }
 
+        public TagBundle GetTagBundleById(string objId)
+        {
+            if (string.IsNullOrEmpty(objId))
+                throw new ArgumentNullException("objId");
+                        
+            var tagBundles = _database.GetCollection<TagBundle>("tagBundles");            
+                        
+            var builder = Builders<TagBundle>.Filter;
+            var filter = builder.Eq(t => t.Id, new ObjectId(objId));
 
+            var resultTask = tagBundles.Find(filter).FirstAsync();            
+
+            return resultTask.Result;
+        }
+
+        public IEnumerable<TagCount> GetNextMostFrequentTags(string tagBundleName)
+        {            
+            var tagCounts = CalculateTermCounts();
+            //get tag bundle by name
+            var tagBundle = GetTagBundles(tagBundleName).FirstOrDefault();
+
+            if (tagBundle == null)
+                throw new ApplicationException("tagBundle not found");
+            
+            var filteredTags = tagCounts.Filter(tc => !tagBundle.ExcludeTags.Contains(tc.Tag)
+                                                      && !tagBundle.Tags.Contains(tc.Tag))
+                                        .OrderByDescending(tc => tc.Count).ToList();
+
+            return filteredTags;
+        }
     }
 }
