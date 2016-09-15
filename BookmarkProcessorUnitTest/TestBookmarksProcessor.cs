@@ -11,7 +11,7 @@ using Bookmarks.Common;
 namespace BookmarkProcessorUnitTest
 {
     [TestFixture]
-    public class TestMongoProcessor
+    public class TestBookmarksProcessor
     {
         string connectionString;
 
@@ -54,7 +54,7 @@ namespace BookmarkProcessorUnitTest
 
         //[TestCase]
         public void TestGetMostFrequentTags() {
-            var processor = new MongoProcessor(connectionString);
+            var processor = new BookmarksContext(connectionString);
 
             var processedTags = processor.CalculateTermCounts();
 
@@ -62,10 +62,10 @@ namespace BookmarkProcessorUnitTest
         }
 
         //[TestCase("mstech")]
-        [TestCase("security")]
+        //[TestCase("security")]
         public void TestGetNextMostFrequentTags(string tagBundleName)
         {
-            var processor = new MongoProcessor(connectionString);
+            var processor = new BookmarksContext(connectionString);
 
             var nextMostFreqTags = processor.GetNextMostFrequentTags(tagBundleName); 
             Assert.IsNotEmpty(nextMostFreqTags);
@@ -90,7 +90,7 @@ namespace BookmarkProcessorUnitTest
         //[TestCase("sourcecode")]
         public void TestCreateTagBundle(string name) {
 
-            var processor = new MongoProcessor(connectionString);
+            var processor = new BookmarksContext(connectionString);
             processor.CreateTagBundle(new TagBundle { Name = name });
         }
 
@@ -154,7 +154,7 @@ namespace BookmarkProcessorUnitTest
             tagBundle2Update.Tags = LoadTagBundle(tagBundleFile).ToArray();
             tagBundle2Update.ExcludeTags = LoadTagBundle(excludeFile).ToArray();
 
-            var processor = new MongoProcessor(connectionString);
+            var processor = new BookmarksContext(connectionString);
             processor.UpdateTagBundle(tagBundle2Update);
         }
 
@@ -162,15 +162,23 @@ namespace BookmarkProcessorUnitTest
         //[TestCase("webdev")]
         public void TestGetTagBundles(string name) {
 
-            var processor = new MongoProcessor(connectionString);
+            var processor = new BookmarksContext(connectionString);
             Assert.IsNotEmpty(processor.GetTagBundles(name));
         }
 
         //[TestCase("571da189083989dcf1e6e920")]
         public void TestGetTagBundleById(string objId)
         {
-            var processor = new MongoProcessor(connectionString);
+            var processor = new BookmarksContext(connectionString);
             Assert.IsNotNull(processor.GetTagBundleById(objId));
+        }
+
+        [TestCase("mstech")]
+        public void TestGetBookmarksByTagBundle(string tagBundleName)
+        {
+            var processor = new BookmarksContext(connectionString);
+            var bookmarks = processor.GetBookmarksByTagBundle(tagBundleName);
+            Assert.IsNotEmpty(bookmarks);
         }
     }
 }
