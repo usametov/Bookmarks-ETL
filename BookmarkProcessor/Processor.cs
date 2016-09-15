@@ -7,13 +7,11 @@ using static Bookmarks.Common.Utils;
 
 namespace BookmarkProcessor
 {
+    /// <summary>
+    /// this one uses in-memory LINQ
+    /// </summary>
     public class Processor
-    {
-        //public static IEnumerable<int> GetTermCounts(Dictionary<string, int> processedTags)
-        //{
-        //    return processedTags.Values.OrderByDescending(v=>v);            
-        //}
-
+    {        
         /// <summary>
         /// calculates term counts by using bookmarks to map terms collection, 
         /// and then reducing non-unique terms seq to (term, count) pairs
