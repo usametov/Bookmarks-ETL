@@ -85,7 +85,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
-    <Compile Include="TestMongoProcessor.cs" />
+    <Compile Include="TestBookmarksProcessor.cs" />
     <Compile Include="TestProcessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
