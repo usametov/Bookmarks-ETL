@@ -183,7 +183,22 @@ namespace BookmarkProcessor
 
             tagBundles.UpdateOne(filter, update);
         }
-        
+
+        public void UpdateTagBundleById(TagBundle tagBundle)
+        {
+
+            var tagBundles = _database.GetCollection<TagBundle>(TAG_BUNDLES_COLLECTION);
+            var builder = Builders<TagBundle>.Filter;
+            var filter = builder.Eq(t => t.Id, tagBundle.Id);
+            var update = Builders<TagBundle>.Update
+                .Set(t => t.Name, tagBundle.Name)
+                .Set(t => t.Tags, tagBundle.Tags)
+                .Set(t => t.ExcludeTags, tagBundle.ExcludeTags)
+                .CurrentDate("lastModified");
+
+            tagBundles.UpdateOne(filter, update);
+        }
+
         /// <summary>
         /// gets tag bundle(s)
         /// </summary>
