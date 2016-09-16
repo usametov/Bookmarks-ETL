@@ -6,12 +6,14 @@ using MongoDB.Driver.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace BookmarkProcessor
 {
     public class BookmarksContext
     {
         public const string DEFAULT_BOOKMARKS_COLLECTION = "bookmarks";
+        public const string USERS_COLLECTION = "users";
         private const string DEFAULT_BOOKMARK_DB = "astanova-bookmarks";
         private const int TAG_COUNTS_PAGE_SIZE = 1000;
         private const string TAG_BUNDLES_COLLECTION = "tagBundles";
@@ -240,20 +242,61 @@ namespace BookmarkProcessor
             return filteredTags;
         }
 
-        public IEnumerable<IBookmark> GetBookmarksByTagBundle(string tagBundleName) {
+        public IEnumerable<IBookmark> GetBookmarksByTagBundle(string tagBundleName, int skip, int take)
+        {
 
             //get tag bundle by name
             var tagBundle = GetTagBundles(tagBundleName).FirstOrDefault();
 
             if (tagBundle == null)
                 throw new ApplicationException("tagBundle not found");
+            //should be in tagBundle.Tags
+            //HACK!
+            var filterDef = string.Format("{{ 'Tags': {{$elemMatch: {{$in: ['{0}'] }} }} }}", string.Join("','", tagBundle.Tags));
 
-            var bookmarks = _database.GetCollection<Bookmark>(BookmarksCollection);
+            return FilterBookmarks(filterDef, skip, take).ToList();
+        }
+
+        public IEnumerable<IBookmark> GetBookmarksByTagBundle(string tagBundleName, int? skip, int? take) {
+
+            //get tag bundle by name
+            var tagBundle = GetTagBundles(tagBundleName).FirstOrDefault();
+
+            if (tagBundle == null)
+                throw new ApplicationException("tagBundle not found");
             //should be in tagBundle.Tags
             //HACK!
             var filterDef = string.Format("{{ 'Tags': {{$elemMatch: {{$in: ['{0}'] }} }} }}", string.Join("','", tagBundle.Tags));
             
-            return bookmarks.Find(filterDef).ToList();            
+            return FilterBookmarks(filterDef, skip, take).ToList();            
+        }
+
+        public Task<List<Bookmark>> GetBookmarksByTagBundleAsync(string tagBundleName, int? skip, int? take)
+        {
+
+            //get tag bundle by name
+            var tagBundle = GetTagBundles(tagBundleName).FirstOrDefault();
+
+            if (tagBundle == null)
+                throw new ApplicationException("tagBundle not found");
+            //should be in tagBundle.Tags
+            //HACK!
+            var filterDef = string.Format("{{ 'Tags': {{$elemMatch: {{$in: ['{0}'] }} }} }}", string.Join("','", tagBundle.Tags));
+
+            return FilterBookmarks(filterDef,skip,take).ToListAsync();
+        }
+
+        private IFindFluent<Bookmark, Bookmark> FilterBookmarks(string filterDef, int? skip, int? take)
+        {
+            var bookmarks = _database.GetCollection<Bookmark>(BookmarksCollection);
+            return bookmarks.Find(filterDef).Skip(skip).Limit(take);
+        }
+
+        public User GetUserByUsernameAndPasswdHash(string userName, string passwordHash) {
+
+            var users = _database.GetCollection<User>(USERS_COLLECTION);
+
+            return users.Find(u => u.Name == userName && u.PasswordHash == passwordHash).FirstOrDefault();
         }
     }
 }
