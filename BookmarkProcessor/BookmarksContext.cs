@@ -66,19 +66,14 @@ namespace BookmarkProcessor
         /// Calculate term counts
         /// </summary>
         /// <returns></returns>
-        public IEnumerable<TagCount> CalculateTermCounts()
+        public IEnumerable<TagCount> CalculateTermCounts(int bufferSize = TAG_COUNTS_PAGE_SIZE)
         {
-            var bookmarks = _database.GetCollection<BsonDocument>(BookmarksCollection);
-            int bufferSize = GetTagCountsBufferSize();
+            var bookmarks = _database.GetCollection<BsonDocument>(BookmarksCollection);            
             var aggregate = bookmarks.Aggregate(BuildTagCountsPipelineDefinition(0, bufferSize));
 
             return aggregate.ToList();
         }
-
-        private static int GetTagCountsBufferSize()
-        {
-            return TAG_COUNTS_PAGE_SIZE;
-        }
+               
 
         /// <summary>
         /// builds pipeline definitions
@@ -226,9 +221,9 @@ namespace BookmarkProcessor
             return resultTask.Result;
         }
 
-        public IEnumerable<TagCount> GetNextMostFrequentTags(string tagBundleName)
+        public IEnumerable<TagCount> GetNextMostFrequentTags(string tagBundleName, int limitTermCounts = TAG_COUNTS_PAGE_SIZE)
         {            
-            var tagCounts = CalculateTermCounts();
+            var tagCounts = CalculateTermCounts(limitTermCounts);
             //get tag bundle by name
             var tagBundle = GetTagBundles(tagBundleName).FirstOrDefault();
 
