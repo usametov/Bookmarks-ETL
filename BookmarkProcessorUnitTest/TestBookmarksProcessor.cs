@@ -196,5 +196,25 @@ namespace BookmarkProcessorUnitTest
             var bookmarksTask = processor.GetBookmarksByTagBundleAsync(tagBundleName, null, null);
             Assert.IsNotEmpty(bookmarksTask.Result);
         }
+
+        //[TestCase("ukatay", "test@test.ca", "6pgMQ16OGh2fMZk4dkkfn0uuY85O4IftT1sIL69B3v4=")]
+        //public void TestCreateUser(string userName, string email, string passwordHash)
+        //{
+        //    ///var sha = SHA256Managed.Create();
+        //    //var bytes = sha.ComputeHash(Encoding.UTF8.GetBytes("pwd of ukatay:)"));//comes from passwd manager            
+        //    //var hash = Convert.ToBase64String(bytes);
+
+        //    var processor = new BookmarksContext(connectionString);
+        //    var user = new User { Name = userName, Email = email, PasswordHash = passwordHash };
+        //    processor.CreateUser(user);
+        //}
+
+        //[TestCase("ukatay", "6pgMQ16OGh2fMZk4dkkfn0uuY85O4IftT1sIL69B3v4=")]
+        public void TestGetUserByUsernameAndPasswdHash(string userName, string passwordHash)
+        {
+            var processor = new BookmarksContext(connectionString);            
+            var user = processor.GetUserByUsernameAndPasswdHash(userName, passwordHash);
+            Assert.IsNotNull(user);
+        }
     }
 }
