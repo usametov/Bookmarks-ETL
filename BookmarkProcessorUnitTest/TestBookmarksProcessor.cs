@@ -173,12 +173,28 @@ namespace BookmarkProcessorUnitTest
             Assert.IsNotNull(processor.GetTagBundleById(objId));
         }
 
-        [TestCase("mstech")]
+        //[TestCase("mstech")]
         public void TestGetBookmarksByTagBundle(string tagBundleName)
         {
             var processor = new BookmarksContext(connectionString);
-            var bookmarks = processor.GetBookmarksByTagBundle(tagBundleName);
+            var bookmarks = processor.GetBookmarksByTagBundle(tagBundleName,null,null);
             Assert.IsNotEmpty(bookmarks);
+        }
+
+        //[TestCase("security")]
+        public void TestGetBookmarksByTagBundleLimited(string tagBundleName)
+        {
+            var processor = new BookmarksContext(connectionString);
+            var bookmarks = processor.GetBookmarksByTagBundle(tagBundleName, 10, 50);
+            Assert.IsNotEmpty(bookmarks);
+        }
+
+        //[TestCase("security")]
+        public void TestGetBookmarksByTagBundleAsync(string tagBundleName)
+        {
+            var processor = new BookmarksContext(connectionString);
+            var bookmarksTask = processor.GetBookmarksByTagBundleAsync(tagBundleName, null, null);
+            Assert.IsNotEmpty(bookmarksTask.Result);
         }
     }
 }
