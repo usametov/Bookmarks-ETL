@@ -9,6 +9,11 @@ namespace GitmarksParser
 {
     public class Parser : IBookmarkParser
     {
+        /// <summary>
+        /// reads and parses gitmarks
+        /// </summary>
+        /// <param name="filePath"></param>
+        /// <returns></returns>
         public List<IBookmark> ParseBookmarks(string filePath)
         {
             var result = new List<IBookmark>();
@@ -40,7 +45,11 @@ namespace GitmarksParser
 
             return result;
         }
-
+        /// <summary>
+        /// makes bookmark from gitmark content
+        /// </summary>
+        /// <param name="parsedBookmark"></param>
+        /// <returns></returns>
         public Gitmark CreateGitmark(BookmarkContent parsedBookmark) {
             var gitmark = new Gitmark
             {
