@@ -298,5 +298,11 @@ namespace BookmarkProcessor
 
             return users.Find(u => u.Name == userName && u.PasswordHash == passwordHash).FirstOrDefault();
         }
+
+        //public void CreateUser(User user)
+        //{
+        //    var users = _database.GetCollection<User>(USERS_COLLECTION);
+        //    users.InsertOne(user);            
+        //}
     }
 }
