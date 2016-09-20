@@ -7,6 +7,7 @@ using BookmarkProcessor;
 using MongoDbImportUtil;
 using System.Configuration;
 using Bookmarks.Common;
+using LanguageExt;
 
 namespace BookmarkProcessorUnitTest
 {
@@ -215,6 +216,20 @@ namespace BookmarkProcessorUnitTest
             var processor = new BookmarksContext(connectionString);            
             var user = processor.GetUserByUsernameAndPasswdHash(userName, passwordHash);
             Assert.IsNotNull(user);
+        }
+
+        //[TestCase("bookmarks")]
+        public void TestCreateBookmarksCollection(string name) {
+            var processor = new BookmarksContext(connectionString);
+            
+            processor.CreateBookmarksCollection(name);
+        }
+
+        //[TestCase]
+        public void TestGetBookmarksCollections() {
+            var processor = new BookmarksContext(connectionString);
+
+            Assert.IsNotEmpty(processor.GetBookmarksCollections());
         }
     }
 }

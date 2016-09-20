@@ -279,7 +279,11 @@ namespace BookmarkProcessorUnitTest
                 writer.Write(content);
             }
         }
-        
-        
+
+        [TestCase("mstech")]
+        public void TestGetBookmarksByTagBundle(string tagBundleName)
+        {
+
+        }
     }
 }
