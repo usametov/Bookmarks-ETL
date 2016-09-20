@@ -1,4 +1,5 @@
 ﻿using Bookmarks.Common;
+using LanguageExt;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization;
 using MongoDB.Driver;
@@ -13,6 +14,7 @@ namespace BookmarkProcessor
     public class BookmarksContext
     {
         public const string DEFAULT_BOOKMARKS_COLLECTION = "bookmarks";
+        public const string BOOKMARKS_COLLECTIONS = "bookmarks_collections";
         public const string USERS_COLLECTION = "users";
         private const string DEFAULT_BOOKMARK_DB = "astanova-bookmarks";
         private const int TAG_COUNTS_PAGE_SIZE = 1000;
@@ -309,6 +311,19 @@ namespace BookmarkProcessor
             return users.Find(u => u.Name == userName && u.PasswordHash == passwordHash).FirstOrDefault();
         }
 
+        public IEnumerable<BookmarksCollection> GetBookmarksCollections()
+        {
+            var bookmarksCollections = _database.GetCollection<BookmarksCollection>(BOOKMARKS_COLLECTIONS);
+
+            return bookmarksCollections.Find(new BsonDocument()).ToList();
+        }
+
+        public void CreateBookmarksCollection(string name)
+        {
+            var bookmarksCollections = _database.GetCollection<BookmarksCollection>(BOOKMARKS_COLLECTIONS);
+            bookmarksCollections?.InsertOne(new BookmarksCollection { Name = name });
+        }
+    
         //public void CreateUser(User user)
         //{
         //    var users = _database.GetCollection<User>(USERS_COLLECTION);

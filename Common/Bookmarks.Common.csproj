@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bookmark.cs" />
+    <Compile Include="BookmarksCollection.cs" />
     <Compile Include="IBookmark.cs" />
     <Compile Include="IBookmarkParser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
