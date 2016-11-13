@@ -8,7 +8,7 @@ namespace Bookmarks.Common
     /// <summary>
     /// maps to bookmarks table
     /// </summary>
-    public class BookmarksCollection
+    public class BookmarksCollections
     {
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }

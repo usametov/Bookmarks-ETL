@@ -311,17 +311,17 @@ namespace BookmarkProcessor
             return users.Find(u => u.Name == userName && u.PasswordHash == passwordHash).FirstOrDefault();
         }
 
-        public IEnumerable<BookmarksCollection> GetBookmarksCollections()
+        public IEnumerable<BookmarksCollections> GetBookmarksCollections()
         {
-            var bookmarksCollections = _database.GetCollection<BookmarksCollection>(BOOKMARKS_COLLECTIONS);
+            var bookmarksCollections = _database.GetCollection<BookmarksCollections>(BOOKMARKS_COLLECTIONS);
 
             return bookmarksCollections.Find(new BsonDocument()).ToList();
         }
 
         public void CreateBookmarksCollection(string name)
         {
-            var bookmarksCollections = _database.GetCollection<BookmarksCollection>(BOOKMARKS_COLLECTIONS);
-            bookmarksCollections?.InsertOne(new BookmarksCollection { Name = name });
+            var bookmarksCollections = _database.GetCollection<BookmarksCollections>(BOOKMARKS_COLLECTIONS);
+            bookmarksCollections?.InsertOne(new BookmarksCollections { Name = name });
         }
     
         //public void CreateUser(User user)
