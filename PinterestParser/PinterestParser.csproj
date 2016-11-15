@@ -46,7 +46,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Common\Bookmarks.Common.csproj">
+    <ProjectReference Include="..\Common\Bookmarks.Common.csproj">
       <Project>{917aafd0-6698-4476-93e6-0ddfb7154ca9}</Project>
       <Name>Bookmarks.Common</Name>
     </ProjectReference>
