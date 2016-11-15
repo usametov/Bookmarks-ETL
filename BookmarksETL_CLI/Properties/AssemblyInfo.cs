@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BookmarkGraph")]
+[assembly: AssemblyTitle("BookmarksETL_CLI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BookmarkGraph")]
+[assembly: AssemblyProduct("BookmarksETL_CLI")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("535be047-80df-47dc-a42e-913247409b93")]
+[assembly: Guid("4bf8d6a1-c882-4c64-9193-e72d3243a5d6")]
 
 // Version information for an assembly consists of the following four values:
 //
