@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MongoDbImportUtil;
+using System;
+using System.IO;
 
 namespace BookmarksETL_CLI
 {
@@ -10,6 +8,20 @@ namespace BookmarksETL_CLI
     {
         static void Main(string[] args)
         {
+            if (args.Length < 2)
+                throw new ArgumentException("src or dest file is missing");
+
+            string bookmarksFile = args[0];
+            string outputPath = args[1];
+
+            //var converter = new Bookmarks2Json(new DeliciousParser.Parser());
+            //var converter = new Bookmarks2Json(new BibsonomyParser.Parser());
+            var converter = new Bookmarks2Json(new PinterestParser.Parser());
+            var content = converter.Write(bookmarksFile, outputPath);
+            using (var writer = new StreamWriter(outputPath))
+            {
+                writer.Write(content);
+            }
         }
     }
 }
