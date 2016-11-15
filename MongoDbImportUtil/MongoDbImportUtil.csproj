@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Convert2Json.cs" />
     <Compile Include="EqualityComparer.cs" />
+    <Compile Include="MergeBookmarks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
