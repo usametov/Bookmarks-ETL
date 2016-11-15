@@ -1,3 +1,5 @@
+//calculate tag counts in MongoDB
+//this is mostly for debugging purposes
 function loadTagCounts(){
 	db.bookmarks.aggregate(
 		{
