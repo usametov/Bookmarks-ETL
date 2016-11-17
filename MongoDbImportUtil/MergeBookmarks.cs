@@ -24,12 +24,12 @@ namespace MongoDbImportUtil
                                 new Bookmark
                                 {
                                     LinkUrl = bg.Key
-                                    ,
+                                    ,//concatenate descriptions
                                     Description = string.Join(" ... ", bg.SelectMany(b => b.Description).Distinct().ToArray())
-                                    ,
+                                    ,//concatenate anchor text
                                     LinkText = string.Join(" ... ", bg.SelectMany(b => b.LinkText).Distinct().ToArray())
-                                    ,
-                                    Tags = bg.SelectMany(b => b.Tags).ToList()
+                                    ,//merge tags
+                                    Tags = bg.SelectMany(b => b.Tags).Distinct().ToList()
                                 })
                       .ToList();            
         }

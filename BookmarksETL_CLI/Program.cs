@@ -8,8 +8,13 @@ namespace BookmarksETL_CLI
     {
         static void Main(string[] args)
         {
+            ParseBookmarks(args);
+        }
+
+        private static void ParseBookmarks(string[] args)
+        {
             if (args.Length < 2)
-                throw new ArgumentException("src or dest file is missing");
+                throw new ArgumentException("src or dest is missing");
 
             string bookmarksFile = args[0];
             string outputPath = args[1];
