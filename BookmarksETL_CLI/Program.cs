@@ -2,6 +2,7 @@
 using System;
 using System.IO;
 using CommandLine;
+using System.Text;
 
 namespace BookmarksETL_CLI
 {
@@ -9,14 +10,22 @@ namespace BookmarksETL_CLI
     {
         static void Main(string[] args)
         {
+            if (args.Length == 0)
+            {
+                Console.Write(@"Usage: 
+parse -p [parser_type] -i input -o output_file 
+merge --file1 [file1] --file2 [file2]");
+
+                Console.ReadKey();
+                return;
+            }
+
             string invokedVerb = null;
             object invokedVerbInstance = null;
 
             var options = new Options();
             if (!Parser.Default.ParseArguments(args, options, (verb, subOptions) =>
                           {
-                              // if parsing succeeds the verb name and correct instance
-                              // will be passed to onVerbCommand delegate (string,object)
                               invokedVerb = verb;
                               invokedVerbInstance = subOptions;
                           }))
@@ -66,23 +75,41 @@ namespace BookmarksETL_CLI
         
     internal class ParseOptions
     {
-        [Option('p', "parser", HelpText = "provide parser type")]
+        [Option('p', "parser", HelpText = "provide parser type", Required = true)]
         public string ParserType { get; set; }
 
-        [Option('i', "input", HelpText = "pass input file")]
+        [Option('i', "input", HelpText = "pass input file", Required = true)]
         public string InputFile { get; set; }    
 
-        [Option('o', "output", HelpText = "provide output path")]
+        [Option('o', "output", HelpText = "provide output path", Required = true)]
         public string OutputFile { get; set; }
+
+        [HelpOption]
+        public string GetUsage()
+        {
+            var usage = new StringBuilder();
+            usage.AppendLine("Usage:");
+            usage.AppendLine("parse -p [parser_type] -i input -o output_file");
+            return usage.ToString();
+        }
     }
 
     internal class MergeOptions
     {
-        [Option("file1", HelpText = "pass bookmarksFile1")]
+        [Option("file1", HelpText = "pass bookmarksFile1", Required = true)]
         public string File1 { get; set; }
 
-        [Option("file2", HelpText = "pass bookmarksFile2")]
+        [Option("file2", HelpText = "pass bookmarksFile2", Required = true)]
         public string File2 { get; set; }
+
+        [HelpOption]
+        public string GetUsage()
+        {
+            var usage = new StringBuilder();
+            usage.AppendLine("Usage:");
+            usage.AppendLine("merge --file1 [file1] --file2 [file2]");
+            return usage.ToString();
+        }
     }
 
     internal class Options
