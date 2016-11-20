@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Bookmarks.Common;
 using Newtonsoft.Json;
 using System.IO;
+using NullGuard;
 
 namespace PinterestParser
 {
@@ -32,6 +33,8 @@ namespace PinterestParser
                     Tags = tags
                     ,
                     AddDate = DateTime.Now
+                    , 
+                    Description = title                    
                 };
 
                 result.Add(bookmark);
@@ -53,6 +56,7 @@ namespace PinterestParser
 
         public string original_link { get; set; }
 
+        [AllowNull]
         public Board board { get; set; }
     }
 
