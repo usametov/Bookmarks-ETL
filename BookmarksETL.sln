@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitmarksParser", "GitmarksP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinterestParser", "PinterestParser\PinterestParser.csproj", "{674B5331-D46F-4815-86DC-8AE38483BD3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMongoDbImport", "TestMongoDbImport\TestMongoDbImport.csproj", "{2767B390-D154-45B2-9930-ADCB927C8A8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{674B5331-D46F-4815-86DC-8AE38483BD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{674B5331-D46F-4815-86DC-8AE38483BD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{674B5331-D46F-4815-86DC-8AE38483BD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2767B390-D154-45B2-9930-ADCB927C8A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2767B390-D154-45B2-9930-ADCB927C8A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2767B390-D154-45B2-9930-ADCB927C8A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2767B390-D154-45B2-9930-ADCB927C8A8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
