@@ -1,0 +1,17 @@
+linux
+ubuntu
+unix
+gdb
+gcc
+vagrant
+docker
+llvm
+centos
+bsd
+dualboot
+crosscompiler
+freebsd
+livecd
+turnkey
+coreos
+bash

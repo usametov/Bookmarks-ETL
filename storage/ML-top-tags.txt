@@ -1,0 +1,333 @@
+machinelearning
+statistics
+mathematics
+rproject
+ai
+hadoop
+searchengine
+datamining
+imageprocessing
+textmining
+bigdata
+semanticweb
+semantic
+math
+nlp
+statistical inference
+neuralnetworks
+science
+visualization
+solr
+ocr
+analytics
+linguistics
+bayesian
+optimization
+olap
+spark
+octave
+machine_learning
+ontology
+wordnet
+fulltextsearch
+deeplearning
+bayes
+taxonomy
+computervision
+mapreduce
+classification
+datascience
+r
+clustering
+ml
+netlogo
+ipython
+scala
+socialbookmarking
+opencv
+machine-learning
+r-project
+network-analysis
+text-mining
+search-engine
+natural-language-parser
+data-mining
+image-processing
+taxonomy-tools
+graph-processing
+big-data
+computer-vision
+information-retrieval
+deep-learning
+signal-processing
+semantic-web
+data_mining
+nltk
+neuralnetwork
+tesseract
+maths
+map-reduce
+rstats
+svm
+rhadoop
+neural
+hbase
+cran
+rdf
+lda
+weka
+machine learning
+combinatorics
+timeseries
+sna
+sparql
+shiny
+information-theory
+lucene
+hive
+stemming
+recognition
+numerics
+social_network_analysis
+big_data
+data-visualization
+sage
+idf
+data mining
+time-series
+bi
+igraph
+multiagent
+regression
+logistic
+machine-learning course
+r datamining
+pgm
+semantic+web
+semantic_web
+titan
+hdinsight
+mesos
+#spark
+tensorflow
+solver
+linear-programming
+lpsolve
+natural-language-processing
+bookmarklets
+readlater
+savearticles
+sentimentanalysis
+tf-idf
+tagging
+pig
+pigudf
+hdfs
+facedetector
+face detector
+numerical
+fuzzy-logic
+bookmarking
+bookmarkingsystem
+bayesianmethod
+probabilistic
+deep learning
+graphviz
+full-text-search
+fulltext
+video-processing
+gephi
+markov
+monte-carlo-methods
+tag-system
+linear_algebra
+social network analysis books iwant
+elasticsearch
+revolution-r
+arules
+matrix-manipulation
+r-lang
+speech_recognition
+graph-databases
+mrf
+information_retrieval
+indexing
+rtutorial
+randomforest
+maxent
+anaconda
+mahout
+graphdatabase
+graph-db
+pca
+autotagging
+crf
+splunk
+hbase book
+recommender-systems
+geneticprogramming
+knowledgegraph
+graphdb
+email-marketing
+commoncrawl
+webcrawling
+association-rules
+bag of words
+bagofwords
+numpy
+graphlab
+mapr
+rapidminer
+java math library
+markov-random-fields
+spss demo
+spss
+text-analysis
+taghelper
+contentanalysis
+bayesiannetworks
+graphicalmodels
+deep belief networks boltzmann machines
+deep belief networks
+hierachical-temporal-model
+hierarchical-temporal-model
+search_engine
+nlp stanford
+course nlp readme video
+textanalytics
+text_processing
+dirichlet
+tools_text_matching
+latent-semantec-indexing
+informationretrieval
+textprocessing
+inverse-document-frequency
+compression datacompression
+data-compression-guide
+indexing fulltext search
+invertedindex
+dataanalysis
+quantile_regression
+arima
+libsvm
+plyr
+datawrangling
+r-documentation
+time series
+r-workshop
+text mining r twitter tutorial
+textmining r code
+machine_learning pattern_recognition frameworks
+algorithm edu princeton analytic combinatoric
+machinelearning_courses
+bayesian reasoning machine learning
+convex
+page_rank
+graph_network_analysis
+neural.nets
+algorithm_graph
+semweb
+ai_partners
+sna-tools-and-libs
+similarity
+clasificacion
+storm
+shark
+drill
+knowledge_management
+impala
+cloudera
+power-law
+powerlaw
+complex-networks
+agent-based-model examples models
+multi-agent
+agent_based_systems_engineering
+model-selection
+data.analysis
+rstatistics
+poisson
+binomial
+acoustic-engineering
+sparse-modeling
+model fitting
+glm
+glm example r
+machine-translation
+statistical-translation
+rlab
+oreilly free books big data
+roger_peng
+rprogramming
+non-linear-regression
+naive-baes-classifier
+confidence-intervals
+informationtheory
+openbugs
+networkanalysis
+network-analysis
+levenshtein
+pythonnlp
+opencog
+unsupervised
+probability
+naturallanguageparser
+graphprocessing
+signalprocessing
+datavisualization
+videoprocessing
+stats
+montecarlomethods
+revolutionr
+tagsystem
+tfidf
+matrixmanipulation
+rlang
+graphdatabases
+tagmosis
+pajek
+peternorvig
+3dimagereconstruction
+machinelearning course
+linearprogramming
+naturallanguageprocessing
+fuzzylogic
+recommendersystems
+associationrules
+taxonomytools
+norvig
+indri
+3dscanning
+3dscan
+thesaurus
+informationarchitecture
+metrics
+decisiontree
+faceted_search
+graphs
+taxonomies
+rssreader
+fft
+rss
+bioinformatics
+discourse_analysis
+fourier_transform
+fourier
+fourier transform
+signal processing
+huffman
+data_compression
+kissfft
+vcdemo
+kissfft
+graph
+scraping
+crawler
+matlab
+opendata
+datafeed
+webcrawler
+game theory
+gametheory
+acousticengineering
+facetedsearch
