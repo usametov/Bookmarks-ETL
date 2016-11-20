@@ -9,11 +9,7 @@ namespace MongoDbImportUtil
     public static class MergeBookmarks
     {
         public static List<Bookmark> Merge(string bookmarksFile1, string bookmarksFile2)
-        {
-            //if (string.IsNullOrEmpty(bookmarksFile1)
-            // || string.IsNullOrEmpty(bookmarksFile2))
-            //    throw new ArgumentException("empty path provided");
-
+        {            
             var bookmarks1 = JsonConvert.DeserializeObject<List<Bookmark>>(bookmarksFile1);
             var bookmarks2 = JsonConvert.DeserializeObject<List<Bookmark>>(bookmarksFile2);            
             //union all
@@ -35,10 +31,7 @@ namespace MongoDbImportUtil
         }
 
         private static bool Equals(Bookmark b1, Bookmark b2)
-        {
-            if (b1 == null || b2 == null)
-                throw new ArgumentException("b1 or b2 is null");
-
+        {            
             var tag1 = new HashSet<string>(b1.Tags.Distinct());
             var tag2 = new HashSet<string>(b2.Tags.Distinct());
                         
