@@ -10,9 +10,9 @@ namespace MongoDbImportUtil
     {
         public static List<Bookmark> Merge(string bookmarksFile1, string bookmarksFile2)
         {
-            if (string.IsNullOrEmpty(bookmarksFile1)
-             || string.IsNullOrEmpty(bookmarksFile2))
-                throw new ArgumentException("empty path provided");
+            //if (string.IsNullOrEmpty(bookmarksFile1)
+            // || string.IsNullOrEmpty(bookmarksFile2))
+            //    throw new ArgumentException("empty path provided");
 
             var bookmarks1 = JsonConvert.DeserializeObject<List<Bookmark>>(bookmarksFile1);
             var bookmarks2 = JsonConvert.DeserializeObject<List<Bookmark>>(bookmarksFile2);            
