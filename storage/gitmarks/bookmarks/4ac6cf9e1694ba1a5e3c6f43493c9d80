@@ -1,0 +1,9 @@
+{
+    "hash": "4ac6cf9e1694ba1a5e3c6f43493c9d80", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee353894.aspx", 
+    "private": false, 
+    "time": "2016-03-21T12:28:31Z", 
+    "title": "List.fold&lt;'T,'State&gt; Function (F#)"
+}

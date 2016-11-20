@@ -1,0 +1,31 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "07cbff86b4733259945257fdf8c385cc", 
+    "uri": "http://hypirion.com/musings/transducers-to-conduits-and-back", 
+    "title": "polymatheia - From Transducers to Conduits and Back Again"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "214b61c49f67dc641fdcc7f955e86303", 
+    "uri": "http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html", 
+    "title": "Clojure :: Clojure core.async Channels"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b391b61883de360abda196a5558c326f", 
+    "uri": "https://msdn.microsoft.com/magazine/jj991977", 
+    "title": "Async/Await - Best Practices in Asynchronous Programming"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c910a36ae9ecbba77c32cbace10f65de", 
+    "uri": "http://hangfire.io/", 
+    "title": "Hangfire \u2013 Background jobs and workers for ASP.NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9ef122a79ed4126e440ca506e70eb096", 
+    "uri": "https://github.com/replikativ/superv.async", 
+    "title": "GitHub - replikativ/superv.async: This is a Clojure(Script) library that extends core.async with error handling and includes a number of convenience functions and macros."
+}

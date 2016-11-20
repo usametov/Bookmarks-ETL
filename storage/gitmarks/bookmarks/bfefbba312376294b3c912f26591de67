@@ -1,0 +1,9 @@
+{
+    "hash": "bfefbba312376294b3c912f26591de67", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "http://respo.site", 
+    "private": false, 
+    "time": "2016-10-02T01:45:22Z", 
+    "title": "Respo: an MVC library in ClojureScript"
+}

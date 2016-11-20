@@ -1,0 +1,655 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "66d7cbbdbb648ab4f1d5b934097f0bab", 
+    "uri": "https://baconjs.github.io/", 
+    "title": "Bacon.js - Functional Reactive Programming library for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "037ea079eb4ddb2f031062fb2b0f0cd9", 
+    "uri": "http://ramdajs.com/0.19.1/index.html", 
+    "title": "Ramda Documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bf81c969787dde6a72973cb600074b09", 
+    "uri": "https://github.com/lodash/lodash/wiki/FP-Guide", 
+    "title": "FP Guide \u00b7 lodash/lodash Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc3fa2d982e41b1f06a180e78b5d6e7a", 
+    "uri": "https://github.com/MostlyAdequate/mostly-adequate-guide/tree/master/code", 
+    "title": "mostly-adequate-guide/code at master \u00b7 MostlyAdequate/mostly-adequate-guide \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b2ffdd441c4b769abf4d43c24df4dfd8", 
+    "uri": "https://github.com/ramda/ramda/wiki", 
+    "title": "Home \u00b7 ramda/ramda Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8cadc163177051e5adcf968875647605", 
+    "uri": "http://pinboard.in/t:ramda/", 
+    "title": "Pinboard bookmarks tagged ramda"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5b134a7abf6faa51adf07143487948c2", 
+    "uri": "https://facebook.github.io/react/docs/thinking-in-react.html", 
+    "title": "Thinking in React | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42e83aacf379e733fc2c8d0b2d7b08cd", 
+    "uri": "https://egghead.io/series/getting-started-with-redux", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "07430a7d43dd81d8067d98a5c928fcb2", 
+    "uri": "https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch6.html", 
+    "title": "Chapter 6: Example Application | mostly-adequate-guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3aaac4dd0212b136fd71702a5f70f381", 
+    "uri": "https://www.youtube.com/watch?v=65-RbBwZQdU", 
+    "title": "Vyacheslav Egorov - LXJS 2013 - Performance and benchmarking - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "226990a3fa6594b94fdfe4c22e826d63", 
+    "uri": "http://flowtype.org/", 
+    "title": "Flow | A static type checker for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f14e80aec43d9ff5c33c645a96d59b9f", 
+    "uri": "https://github.com/donnut/typescript-ramda", 
+    "title": "GitHub - donnut/typescript-ramda: TypeScript&#39;s type definitions for Ramda"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4acd447deaa21540c85fd6a2c88aa867", 
+    "uri": "http://definitelytyped.org/", 
+    "title": "Home | DefinitelyTyped"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a7e2bf7ad435025f1ad3c94f5bc5b74f", 
+    "uri": "https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/sum-types", 
+    "title": "Sum Types - School of Haskell | School of Haskell"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "31e5ac35b9e26d7d67fe16ab14e4392d", 
+    "uri": "http://folktalejs.org/", 
+    "title": "Overview - The Folktale framework for generic programming in JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b135550e4e5a4a78b4577f9b408bd9cc", 
+    "uri": "https://github.com/fantasyland/fantasy-land", 
+    "title": "GitHub - fantasyland/fantasy-land: Specification for interoperability of common algebraic structures in JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "24382ace49c823240eb690bc0557e150", 
+    "uri": "https://github.com/loop-recur/lambdajs", 
+    "title": "GitHub - loop-recur/lambdajs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bece746df1b9efd9022c6b16fc8a212c", 
+    "uri": "https://rawgit.com/loop-recur/lambdajs/master/docs/docs.html", 
+    "title": "Lambdajs Documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "313a4e8f57dd8432c396f388f8f1eba7", 
+    "uri": "https://github.com/ramda/ramdangular", 
+    "title": "GitHub - ramda/ramdangular: Ramda adapter for AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42de7ec1b9ffe2df59bb2161fc584c79", 
+    "uri": "https://github.com/oreillymedia/beautiful_javascript", 
+    "title": "GitHub - oreillymedia/beautiful_javascript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c8f960c40b3e16a698219c77d5a829df", 
+    "uri": "https://developers.google.com/closure/library/docs/introduction", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9e14992faad4ac7b4c0ef99f80046eaa", 
+    "uri": "http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/", 
+    "title": "A Plain English Guide to JavaScript Prototypes - Sebastian's Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c6fd1a219b694cba22837ba295ffc2de", 
+    "uri": "http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/", 
+    "title": "JavaScript&#8217;s Apply, Call, and Bind Methods are Essential for JavaScript Professionals | JavaScript is Sexy"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "572b2345570d3c8a1c5867043ee226e8", 
+    "uri": "https://github.com/jashkenas/coffeescript/wiki", 
+    "title": "Home \u00b7 jashkenas/coffeescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "84610344a4db40bd40646d742d273a4f", 
+    "uri": "http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/", 
+    "title": "Boost the Performance of an AngularJS Application Using Immutable Data &#8211; Minko Gechev's blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bb4fd8098940486edb6855b3d668be47", 
+    "uri": "Boost the Performance of an AngularJS Application Using Immutable Data", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c01cea4f56b6a01482a2226b55e13f17", 
+    "uri": "https://github.com/lauripiispanen/angular-bacon", 
+    "title": "GitHub - lauripiispanen/angular-bacon: Angular-bacon.js bindings"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ceb3dda9af298a78969206ca0efb0b57", 
+    "uri": "bacon.js bindings for angularJs", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9c86886d64b5317992f6108c6f374b6d", 
+    "uri": "http://reactivex.io/learnrx/", 
+    "title": "Functional Programming in Javascript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ecf47e5afab2d4c45e9343982fd5f8ea", 
+    "uri": "interactive tutorial", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9def52ac4dbfbb0465690799f2e3a0fd", 
+    "uri": "https://gist.github.com/seanxwh/f575104c81c2bcbdcfba", 
+    "title": "Hardcore Function Javascript - Compose Ex \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "231843bce0d6e6a3f8e5b5c1e41323c6", 
+    "uri": "solutions for hardcore functional programming in javascript", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "74865de4dc7a7947c06ad9a39f00581f", 
+    "uri": "https://github.com/jkup/functional-javascript", 
+    "title": "GitHub - jkup/functional-javascript: A list of functional javascript resources"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9a4311bc8b1d10f84ceacee12109ae6b", 
+    "uri": "Functional JavaScript Resources", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3f05a84de4572e8e30244279d72710b6", 
+    "uri": "https://leanpub.com/javascriptallongesix/read", 
+    "title": "Read JavaScript Allong\u00e9, the &quot;Six&quot; Edition | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cb52dcfaf3038fcef0dcd61e05820e80", 
+    "uri": "https://leanpub.com/javascriptallongesix", 
+    "title": "JavaScript\u2026  by Reg \u201craganwald\u201d Braithwaite [PDF/iPad/Kindle]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cca462fb68deee3f28cffdf60e1c13a5", 
+    "uri": "http://clojure.org/about/clojurescript", 
+    "title": "Clojure - ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "566e0981021bea73a848157cd6ac170c", 
+    "uri": "https://gist.github.com/seanxwh/cf87d244456f4a392a7d", 
+    "title": "Hardcore Functional JS- Future,Bacon&amp;etc \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "70d17cb4612dcd953a360146da9117eb", 
+    "uri": "https://gist.github.com/seanxwh", 
+    "title": "seanxwh\u2019s gists \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03c81ace500b3f9de93338d16b3743fb", 
+    "uri": "https://docs.google.com/presentation/d/1WmIH538r0ubjW5zfKh43I1_Up4OnqQnNhICETyDnhSI/", 
+    "title": "Pristine master slides - Google Slides"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a22784f9c6a4735106befa452456969f", 
+    "uri": "https://github.com/begriffs/immutube", 
+    "title": "GitHub - begriffs/immutube: Youtube + functors, a most unlikely combo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ee80d9181d930a1b37a3b9cb932bc28a", 
+    "uri": "https://github.com/ramda/ramda/wiki/Cookbook", 
+    "title": "Cookbook \u00b7 ramda/ramda Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8158b422a76b9e4e5206d3eb457106e", 
+    "uri": "http://jsfiddle.net/vjeux/kb3gN/", 
+    "title": "Edit fiddle - JSFiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dbc8910c46d4c22c3d348324f287838c", 
+    "uri": "https://github.com/rileyteige/learn-react-js", 
+    "title": "GitHub - rileyteige/learn-react-js: Learning ReactJS by following along with the Pluralsight course &quot;React Fundamentals&quot;."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "029adebbfd515ba3de9262367c62aacd", 
+    "uri": "https://habrahabr.ru/post/215607/", 
+    "title": "AngularJS \u0438 ReactJS \u0438\u043b\u0438 \u043a\u0430\u043a \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0430\u0448\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0431\u044b\u0441\u0442\u0440\u0435\u0435 / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d25d2fbe3cfc4971c841c2fc497a6a2d", 
+    "uri": "http://stackoverflow.com/questions/20947191/using-reactjs-with-angularjs", 
+    "title": "Access denied | stackoverflow.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c99b73aff06e7aa1e8aa78d4db8264c", 
+    "uri": "http://www.slideshare.net/borisdinkevich/using-reactjs-in-angularjs", 
+    "title": "Using ReactJS in AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7f2820dee9229964c163a2bfeefdcaff", 
+    "uri": "http://www.reactexamples.com/", 
+    "title": "Access denied | www.reactexamples.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "67ba088cf2514782ef3f2f67dff50d1a", 
+    "uri": "http://jsfiddle.net/69z2wepo/9519/", 
+    "title": "React Base Fiddle (JSX) - JSFiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "04a1b817a4562503fcc98bcc6763a3b1", 
+    "uri": "http://jsfiddle.net/69z2wepo/9524/", 
+    "title": "React Base Fiddle (JSX) - JSFiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4f88648dac4800e3e3262b54eb03949f", 
+    "uri": "http://jsfiddle.net/69z2wepo/9525/", 
+    "title": "React Base Fiddle (JSX) - JSFiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f695fd79b1b9378cff77d954a9738d7a", 
+    "uri": "http://redux.js.org/index.html", 
+    "title": "Read Me | Redux"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc1ac20bb674682da20993d3e252dc36", 
+    "uri": "https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree", 
+    "title": "Redux: The Single Immutable State Tree - js Video Tutorial #free @eggheadio"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b9f52aa2704d3a1140f7db67f80af34", 
+    "uri": "https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming", 
+    "title": "Reactive Programming - What is RxJS? - rx Video Tutorial #free @eggheadio"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fb5c64dc505723945e25c475261b7f4d", 
+    "uri": "https://egghead.io/series/introduction-to-reactive-programming", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "611a3ba43c7c53f23adcedefb14e015f", 
+    "uri": "https://github.com/Reactive-Extensions/RxJS", 
+    "title": "GitHub - Reactive-Extensions/RxJS: The Reactive Extensions for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7658f240dc087d12398ddd2531b6cc84", 
+    "uri": "http://apfelmus.nfshost.com/blog/2011/03/28-essence-frp.html", 
+    "title": "apfelmus - Reactive-banana and the essence of FRP"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ccdfdebd27f2e86d28f41283f078b7b3", 
+    "uri": "https://egghead.io/series/cycle-js-fundamentals", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "71dc717a2236dc77b19414c9dc5022a5", 
+    "uri": "http://cycle.js.org/", 
+    "title": "Cycle.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6dc0ea3a2720108145eaae0ac7b708e6", 
+    "uri": "http://blog.edanschwartz.com/2015/09/18/dead-simple-rxjs-todo-list/", 
+    "title": "Edan Schwartz- Web Developer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "352141a40eed9ccbca8b677ff8b5046e", 
+    "uri": "http://jasmine.github.io/", 
+    "title": "Jasmine: Behavior-Driven JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ea89378a5f448f52b8d7bdcfd6909022", 
+    "uri": "http://phantomjs.org/", 
+    "title": "PhantomJS | PhantomJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "50f1b1c9a6cac8ffccf8d8f41f1332ad", 
+    "uri": "http://snippets.aktagon.com/snippets/534-how-to-scrape-web-pages-with-phantomjs-and-jquery", 
+    "title": "How to scrape web pages with PhantomJS and jQuery"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "344d44955e202dfd98c2a79fe3a6513f", 
+    "uri": "http://debug.elm-lang.org/", 
+    "title": "Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f79aba50fe0b47df1471df872920478d", 
+    "uri": "https://github.com/Reactive-Extensions/RxJS-DOM", 
+    "title": "GitHub - Reactive-Extensions/RxJS-DOM: HTML DOM Bindings for the Reactive Extensions for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e5d635f7f5feaae660e755c8895998a9", 
+    "uri": "http://exploringjs.com/es6/", 
+    "title": "Exploring ES6"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a12277a9aeea7222244ad110eac0bea1", 
+    "uri": "http://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data", 
+    "title": "Transducers.js: A JavaScript Library for Transformation of Data"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cbe5e6fc4c0d9b04ea1d14d7c485df61", 
+    "uri": "https://github.com/jlongster/transducers.js", 
+    "title": "GitHub - jlongster/transducers.js: A small library for generalized transformation of data (inspired by Clojure&#39;s transducers)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "39d4cc7f9ce3484da1da199efe21f890", 
+    "uri": "https://github.com/cognitect-labs/transducers-js", 
+    "title": "GitHub - cognitect-labs/transducers-js: Transducers for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dcfb40a20902873451a26ae85145c5ed", 
+    "uri": "https://github.com/ichpuchtli/awesome-rxjs", 
+    "title": "GitHub - ichpuchtli/awesome-rxjs: A collection of awesome RxJS resources"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8deea2f22f371b1ebf85647fa4d37d82", 
+    "uri": "http://gregorowicz.blogspot.com/2010/12/using-underscorejs-with-mongodb.html", 
+    "title": "Andy's Blog: Using Underscore.js with MongoDB"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78ef254fedd63b10051c99b7fb502a0f", 
+    "uri": "https://github.com/scottie1984/mongo-func", 
+    "title": "GitHub - scottie1984/mongo-func: A functional approach to MongoDB"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2af7aea22acda7ecde923d219c7b92cf", 
+    "uri": "https://docs.mongodb.org/manual/tutorial/store-javascript-function-on-server/", 
+    "title": "Store a JavaScript Function on the Server &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0e955b4d298ec06b13aa5097caf1c8b6", 
+    "uri": "http://casajasmina.arduino.cc/projects/aker-kits/", 
+    "title": "AKER Kits | "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d02e2dead34deb114632f85e6ad4067c", 
+    "uri": "http://node-ardx.org/", 
+    "title": "Arduino Experimenter&#39;s Guide for NodeJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "608f887298c0e9a822f37e4c0346c9aa", 
+    "uri": "https://github.com/timekit-io/booking-js", 
+    "title": "GitHub - timekit-io/booking-js: Make a beautiful embeddable booking widget in minutes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ce50303fc432f8cfeb1cc67e95db3e8b", 
+    "uri": "https://github.com/thejameskyle/babel-handbook", 
+    "title": "GitHub - thejameskyle/babel-handbook: A guided handbook on how to use Babel and how to create plugins for Babel."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3fa95cc9111d69be63e607a2db9c755c", 
+    "uri": "http://koajs.com/", 
+    "title": "Koa - next generation web framework for node.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "219ae199b5143f8023f6f9796f211663", 
+    "uri": "https://github.com/clojure/clojurescript/", 
+    "title": "GitHub - clojure/clojurescript: Clojure to JS compiler"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f7a63d4c51eb03b22c1c3ce051656174", 
+    "uri": "http://slimerjs.org/", 
+    "title": "SlimerJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "281331486d5c709b6e670524c2dda339", 
+    "uri": "http://himera.herokuapp.com/synonym.html", 
+    "title": "Himera Synonym"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8211bb581152d161ef53b73a33a60054", 
+    "uri": "https://www.packtpub.com/books/content/rxjs-observable-promise-users-part-1", 
+    "title": "(RxJS) Observable for Promise Users : Part 1 | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2cd5266573c7594410dc9e6560142e69", 
+    "uri": "https://www.packtpub.com/books/content/rxjs-observable-promise-users-part-2", 
+    "title": "(RxJS) Observable for Promise Users : Part 2 | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a23983b069fbf7efa71f4826523d5752", 
+    "uri": "https://github.com/adam-s/js-interview-review", 
+    "title": "GitHub - adam-s/js-interview-review: The JS interview review. As I&#39;m reviewing several resources I&#39;ve bookmarked on JavaScript development, I&#39;ll share them here."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "50b904e05b6a0cc1fa1dedf12dc2ee67", 
+    "uri": "http://nakkaya.com/2009/04/19/intercepting-links-in-firefox/", 
+    "title": "Intercepting Links in Firefox"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2956361934403b4c0330aaf304070e28", 
+    "uri": "http://elm-lang.org/blog/how-to-use-elm-at-work", 
+    "title": "how-to-use-elm-at-work"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "18d81bb86cf989c042f9727e963f047a", 
+    "uri": "https://gist.github.com/morganrallen/f07f59802884bcdcad4a", 
+    "title": "Janky Browser \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db4e42bf79c91200be3078e2d714263f", 
+    "uri": "https://github.com/breach/thrust", 
+    "title": "GitHub - breach/thrust: Chromium-based cross-platform / cross-language application framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "675589e59e3b6fb180b1edc11bb8496e", 
+    "uri": "https://facebook.github.io/react/docs/getting-started.html", 
+    "title": "Getting Started | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6725bda21f5ca2c1e94371ce8c45e1df", 
+    "uri": "https://github.com/egor-smirnov/egorsmirnov.me-examples", 
+    "title": "GitHub - egor-smirnov/egorsmirnov.me-examples: Code examples from http://egorsmirnov.me/"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96f01a6987785c944a616112d55232d3", 
+    "uri": "https://leanpub.com/purescript/read", 
+    "title": "Read PureScript by Example | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1bead8c133831c05421361e73aa01469", 
+    "uri": "https://facebook.github.io/immutable-js/docs/", 
+    "title": "Immutable.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0916eafeeb53a15dbc7407f6dfa9aea2", 
+    "uri": "https://github.com/reactjs/react-router", 
+    "title": "GitHub - reactjs/react-router: A complete routing library for React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "849974500ca8b391a0c454fe47d4e3b2", 
+    "uri": "http://eslint.org/docs/user-guide/getting-started", 
+    "title": "Getting Started with ESLint - ESLint - Pluggable JavaScript linter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe8529c89f21bd9787d6e2f2eb357d5f", 
+    "uri": "http://blog.klipse.tech//lambda/2016/08/10/almost-y-combinator-javascript.html", 
+    "title": "Recursions without names: Introduction to the Y combinator in javascript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1fa40a1eff4bf7df13526197910a07dc", 
+    "uri": "https://alpha.trycarbide.com", 
+    "title": "Access denied | alpha.trycarbide.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8624e1e7769e4fae00daf7e095392985", 
+    "uri": "https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.xay2s8t5z", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12d6d521be66ccb13507cd9371bc96d5", 
+    "uri": "http://electron.atom.io/apps/", 
+    "title": "Apps - Electron"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f1ad95a0ea627a6b4d7047c7ac67e9d9", 
+    "uri": "http://ysangkok.github.io/mitre-datalog.js/wrapper.html", 
+    "title": "Datalog.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c77baa6da5a6730cecdd08a7ea9d1ca9", 
+    "uri": "http://eslint.org", 
+    "title": "ESLint - Pluggable JavaScript linter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57b80565b7c142977fd99646c4ed9814", 
+    "uri": "https://dzone.com/refcardz/functional-programming-with-javascript", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd6940c691b67fd490a2baeb35e21826", 
+    "uri": "https://cylonjs.com/", 
+    "title": "Access denied | cylonjs.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "48bbe93b2d8315d58e74958732306796", 
+    "uri": "http://leafletjs.com", 
+    "title": "Leaflet - a JavaScript library for interactive maps"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bfcde03dc79bde166808f6df3b63a65f", 
+    "uri": "https://cljsjs.github.io/", 
+    "title": "Javascript Libraries packaged for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1d88e462563b43276fe54c4565b4271f", 
+    "uri": "http://cerebral.github.io/cerebral-website/", 
+    "title": "Cerebral"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de5988ff32fb6103b74f4ce00d82be3a", 
+    "uri": "https://github.com/reactjs/redux/", 
+    "title": "GitHub - reactjs/redux: Predictable state container for JavaScript apps"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e44e47970396c0ef63e4d57d1b8a7061", 
+    "uri": "https://docs.getexponent.com/versions/v11.0.0/index.html", 
+    "title": "Learn Exponent &mdash; Exponent v11.0.0 documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9454a8fc1a4ba754c937a72ada910fea", 
+    "uri": "https://medium.com/@tiensonqin/why-exponent-on-react-native-especially-for-clojurescript-9bb1417c0c65", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7e55a713b825a6d3b9cb84fb224902af", 
+    "uri": "http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html", 
+    "title": "Understanding Monads With JavaScript \u2014 igstan.ro"
+}

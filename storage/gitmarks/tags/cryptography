@@ -1,0 +1,415 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eb843cc7557ec4ba5b4a53b545c7d73d", 
+    "uri": "https://en.wikipedia.org/wiki/Axolotl_%28protocol%29", 
+    "title": "Axolotl (protocol) - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0354d3816e140cf21b03c0b6fc101404", 
+    "uri": "http://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html", 
+    "title": "Lecture Notes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "beb82db7c47ca33d5f7bbc2a5d540b56", 
+    "uri": "http://practicalcryptography.com/cryptanalysis/text-characterisation/statistics/", 
+    "title": "Practical Cryptography"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2c8c450d43d933b472018f47c184e8a2", 
+    "uri": "http://prismproof.org/index.html", 
+    "title": "Project: The Mathematical Mesh"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a3aec32149953919774a2fd7e5596c63", 
+    "uri": "http://people.maths.ox.ac.uk/petit/", 
+    "title": "Charles Petit, cryptography professor @ oxford"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "28db76f4a058a1aa9d92333379f2075c", 
+    "uri": "https://sourceforge.net/p/ed448goldilocks/code/ci/decaf/tree/", 
+    "title": "experimental implementation of a new 448-bit elliptic-curve called Ed448-Goldilocks"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4c196dad601414361878f4f407aceb4a", 
+    "uri": "https://eprint.iacr.org/2015/625.pdf", 
+    "title": "experimental implementation of a new 448-bit elliptic-curve called Ed448-Goldilocks"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8b4643cadc7c5fc8ea549774afbe2826", 
+    "uri": "https://github.com/mimoo/Diffie-Hellman_Backdoor", 
+    "title": "GitHub - mimoo/Diffie-Hellman_Backdoor: How to backdoor Diffie-Hellman"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "180c770aa831ff984ccb5d133464d0dd", 
+    "uri": "http://www.jointmathematicsmeetings.org/mcom/1995-64-209/S0025-5718-1995-1260124-2/S0025-5718-1995-1260124-2.pdf", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b8a0333355b42e367498bc9e72fbd1cb", 
+    "uri": "http://lifehacker.com/this-massive-vpn-comparison-spreadsheet-helps-you-choos-1764427219", 
+    "title": "This Massive VPN Comparison Spreadsheet Helps You Choose the Best for You"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5994d40a39cfc663597ef836cce72487", 
+    "uri": "https://ellipticnews.wordpress.com/2016/03/31/ecdlp-can-be-solved-in-24-th-root-time/", 
+    "title": "ECDLP can be solved in 24-th root time | ellipticnews"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ecbfd28531b0f5623d3a3fcfbc619ad2", 
+    "uri": "https://github.com/Spark-Innovations/SC4", 
+    "title": "GitHub - Spark-Innovations/SC4: SC4 - Strong Crypto for Mere Mortals"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4e969b601330077fa3f8c6c6bfd98ddf", 
+    "uri": "http://noiseprotocol.org/noise.html", 
+    "title": "Access denied | noiseprotocol.org used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b2f666a90695ace32efda04793210374", 
+    "uri": "http://eprint.iacr.org/2016/386", 
+    "title": "Cryptology ePrint Archive: Report 2016/386"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c1ec27389ffbb34bbf26deb2f9f7ee6b", 
+    "uri": "https://github.com/holiman/loclass", 
+    "title": null
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7167049eaa6a3c95b22d80df2ebfc51b", 
+    "uri": "https://github.com/dedis/cothority", 
+    "title": "GitHub - dedis/cothority: Scalable collective authority prototype"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fc73e2706b575d6a43fe8c123de61fcc", 
+    "uri": "https://threatpost.com/academics-make-theoretical-breakthrough-in-random-number-generation/118150/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7b000441edbdda779dfb96b90c09fbf0", 
+    "uri": "https://news.ycombinator.com/item?id=11719543", 
+    "title": "Academics Make Theoretical Breakthrough in Random Number Generation | Hacker News"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "156e730188c31e71899294e8633feb8b", 
+    "uri": "http://eccc.hpi-web.de/report/2015/119/", 
+    "title": "ECCC - TR15-119"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "189c3785feb05f55e974cc8aaf9aa5f2", 
+    "uri": "https://factorable.net", 
+    "title": "Widespread Weak Keys in Network Devices - factorable.net"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "149bf56fe991c91fd9522d946a1cb8b6", 
+    "uri": "http://blogs.msmvps.com/alunj/2016/05/26/untrusting-the-blue-coat-intermediate-ca-from-windows/", 
+    "title": "Untrusting the Blue Coat Intermediate CA from Windows | Tales from the Crypto"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7413745a0407695d83319c794ecec11f", 
+    "uri": "http://m.cacm.acm.org/magazines/2016/6/202646-physical-key-extraction-attacks-on-pcs/fulltext", 
+    "title": "Physical Key Extraction Attacks on PCs | June 2016 | Communications of the ACM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1a17aeb9b0b855a2fed1c895ada81c93", 
+    "uri": "http://www.cs.tau.ac.il/~tromer/ecdh/", 
+    "title": "ECDH Key-Extraction via Low-Bandwidth Electromagnetic Attacks on PCs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1390a0f9cb7ba69a793eeb5c99dd5fc5", 
+    "uri": "http://yournewswire.com/encryption-security-may-not-be-secure-anymore/", 
+    "title": "Encryption Security May Not Be Secure Anymore | Your News Wire"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "582e5f8e7779b11c0e7ad58e0f232d22", 
+    "uri": "https://github.com/xwiki-labs/cryptpad", 
+    "title": "GitHub - xwiki-labs/cryptpad: Unity is Strength - Collaboration is Key - CryptPad is the zero knowledge realtime collaborative editor."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c5ff857cd659f77aeb0c8bf2f4c25437", 
+    "uri": "https://en.wikibooks.org/wiki/Goldbug", 
+    "title": "Goldbug - Wikibooks, open books for an open world"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7edf2427859724fa5ba88b886d67b556", 
+    "uri": "https://help.github.com/articles/generating-an-ssh-key/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4b0c0bdfb485b7ca628a9a890129b8d5", 
+    "uri": "https://github.com/gluk256/misc/blob/master/encryption/randomization.md", 
+    "title": "misc/randomization.md at master \u00b7 gluk256/misc \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1b512135c8c6b84466bc37cb04dbc190", 
+    "uri": "https://learning.mozilla.org/codemoji/", 
+    "title": "Codemoji \u2013 A fun tool to learn about ciphers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e4f29909a224f2fc2c157ac2702a1437", 
+    "uri": "http://s13.zetaboards.com/Crypto/topic/7234475/1/", 
+    "title": "Access denied | s13.zetaboards.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d11be05e73c850085f25d49807e0e0e2", 
+    "uri": "https://safecurves.cr.yp.to", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "85d72b34fc8d6af7eb90168278943b29", 
+    "uri": "http://wstein.org/edu/2007/spring/ent/ent-html/node89.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5ecbfa779890d5bb9a911079bda14def", 
+    "uri": "http://wstein.org/edu/2007/spring/ent/ent-html/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8682b2978504787820c6c2e87cfbb5f", 
+    "uri": "http://thefutureisbright.net/game.php", 
+    "title": "TFIB - The Game of Phishing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b75f4ccb4af6fcb2916a0bbcf784fb47", 
+    "uri": "https://threatpost.com/android-keystore-encryption-scheme-broken-researchers-say/119092/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2e71e7e10cd51686c0365ee69f1712da", 
+    "uri": "http://web.archive.org/web/20131112190634/http://www.nsa.gov/business/programs/elliptic_curve.shtml", 
+    "title": "The Case for Elliptic Curve Cryptography  - NSA/CSS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6fb5c8f790b175e172d19f29c626583d", 
+    "uri": "http://nakamotoinstitute.org/literature/", 
+    "title": "Satoshi Nakamoto Institute"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6d34f1195750602984466cff7ff01f6e", 
+    "uri": "http://www.cryptol.net/", 
+    "title": "Cryptol"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aec70d0f2c1a8e4dabafaa2f02291f4a", 
+    "uri": "https://github.com/pi3ch/ssh_anysoftkeyboard", 
+    "title": "GitHub - pi3ch/ssh_anysoftkeyboard: SSH keyboard for Android"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "847c1bb5f0a6f8f7fbb3bbaf46b8f408", 
+    "uri": "https://github.com/connectbot/connectbot", 
+    "title": "GitHub - connectbot/connectbot: ConnectBot is the first SSH client for Android."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "87fd5361f9c6b4daf29198bf56e463d2", 
+    "uri": "https://github.com/vx/connectbot", 
+    "title": "GitHub - vx/connectbot: Enhanced version of the popular ConnectBot SSH and telnet client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d7996ec0d2dcdb7f188d4180c770b1a0", 
+    "uri": "https://github.com/losttime/cooper", 
+    "title": "GitHub - losttime/cooper: Lightweight client for simple remote file editing and command execution"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7f58c2bfb53cd995b7692428ea75ac6e", 
+    "uri": "https://github.com/BartMassey/anrand", 
+    "title": "GitHub - BartMassey/anrand: chaoskey random bits analyzer in Haskell"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca1acf810830f014978583bb066d0abc", 
+    "uri": "https://github.com/smuellerDD/chacha20_drng", 
+    "title": "GitHub - smuellerDD/chacha20_drng: ChaCha20 DRNG"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "20de77e6953e4d1487efe765b111da6f", 
+    "uri": "https://github.com/NTRUOpenSourceProject", 
+    "title": "NTRU Open Source Project \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca4c40ffe7dec194f36dd669a879f7b3", 
+    "uri": "https://github.com/PascalCoin/PascalCoin", 
+    "title": "GitHub - PascalCoin/PascalCoin: P2P cryptocurrency without need of historical operations"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "44b414a5036a3bedad46c7e769cecf8c", 
+    "uri": "https://github.com/suvash/one-time", 
+    "title": "GitHub - suvash/one-time: One Time Password (TOTP and HOTP) library for Clojure. TOTP/HOTP is widely used for Two / Multi Factor Authentication."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f60356b68923e9c43314db4db6bcc544", 
+    "uri": "https://github.com/briansmith/ring", 
+    "title": "GitHub - briansmith/ring: Safe, fast, small crypto using Rust"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f7503bfc4a32159fc303581d89bd0f4b", 
+    "uri": "https://github.com/briansmith/webpki", 
+    "title": "GitHub - briansmith/webpki: WebPKI X.509 Certificate Validation in Rust"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57e8b60978c325f94de10e91868aa50f", 
+    "uri": "https://github.com/ctz/rustls", 
+    "title": "GitHub - ctz/rustls: Embryonic Rust TLS library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "408ae5c49f7ced2e2100e6d712da2c61", 
+    "uri": "http://blog.cryptographyengineering.com/2016/08/attack-of-week-64-bit-ciphers-in-tls.html", 
+    "title": "A Few Thoughts on Cryptographic Engineering: Attack of the week: 64-bit ciphers in TLS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a8a8298ddd76a7040af71304639ecbcd", 
+    "uri": "http://home.pipeline.com/~hbaker1/Use1Var.html", 
+    "title": "'Use-Once' Variables and Linear Objects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b98b7431295cbf91f241925f0a953fda", 
+    "uri": "https://github.com/Sauermann/emacs-aes", 
+    "title": "GitHub - Sauermann/emacs-aes: Emacs Lisp implementation of AES"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "004769f25956cf48fa31a965f4bcd8ab", 
+    "uri": "https://github.com/hueniverse/hawk", 
+    "title": "GitHub - hueniverse/hawk: HTTP Holder-Of-Key Authentication Scheme"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "23215ffcb4a345146765da9cf11eb9ea", 
+    "uri": "https://github.com/pcibraro/hawknet/", 
+    "title": "GitHub - pcibraro/hawknet: Hawk protocol implementation for .NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "202aed043892cc51d5f760b637466641", 
+    "uri": "https://github.com/cryptolok/CryptoTrooper", 
+    "title": "GitHub - cryptolok/CryptoTrooper: CryptoTrooper was the world&#39;s first Linux white-box ransomware for learning purpose"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a2979644558fa1837d2847c40e30bec5", 
+    "uri": "https://www.agwa.name/blog/post/duplicate_signature_key_selection_attack_in_lets_encrypt", 
+    "title": "Duplicate Signature Key Selection Attack in Let's Encrypt"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd3b289055ee9e929a7ec8d6ec5ea966", 
+    "uri": "https://github.com/WhisperSystems/Signal-Desktop", 
+    "title": "GitHub - WhisperSystems/Signal-Desktop: Signal Private Messenger for the Desktop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5a5fffa0d7f61686b990b7846fdbd52b", 
+    "uri": "https://bada55.cr.yp.to", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b5f9c192fdb1cb40a573ae60f8ad3d95", 
+    "uri": "http://thehackernews.com/2016/10/nsa-crack-encryption.html", 
+    "title": "Researchers Demonstrated How NSA Broke Trillions of Encrypted Connections"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "39bdff7d1797abce37af2f27a77297ce", 
+    "uri": "https://github.com/google/trillian", 
+    "title": "GitHub - google/trillian"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1df589382d63bcb244c6051830917b1", 
+    "uri": "https://github.com/sshnet/SSH.NET", 
+    "title": "GitHub - sshnet/SSH.NET: SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "059429130006e90e0e99654603290dd3", 
+    "uri": "https://github.com/adamcaudill/libsodium-net", 
+    "title": "GitHub - adamcaudill/libsodium-net: libsodium for .NET - A secure cryptographic library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "388b866a0e7199c1ec58c3862cd34746", 
+    "uri": "https://github.com/maqp/tfc", 
+    "title": "GitHub - maqp/tfc: Tinfoil Chat"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ea919298c5da0898d30130e5a3f43b74", 
+    "uri": "https://pomcor.com", 
+    "title": "Pomcor &#8211; Research in Mobile and Web Technology"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ab0dc8b619bdcbaf878d7627a9393a07", 
+    "uri": "http://jotasapiens.com", 
+    "title": "Jotasapiens"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "098ed503ead17f9444cf3694d280aa0a", 
+    "uri": "https://open.umich.edu/find/open-educational-resources/mathematics/math-679-elliptic-curves", 
+    "title": "Math 679 - Elliptic Curves | Open Michigan"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dcb4a54a2283eef06ec81b8b098a1399", 
+    "uri": "http://z.caudate.me/hara-security-making-sense-of-the-jca/", 
+    "title": "hara.security - making sense of the JCA"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5ecc782d6157a9c19426833835decc60", 
+    "uri": "https://cryptech.is", 
+    "title": "CrypTech.is &#8211; Making the Internet a little bit safer"
+}

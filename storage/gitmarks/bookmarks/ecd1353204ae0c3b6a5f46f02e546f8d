@@ -1,0 +1,9 @@
+{
+    "hash": "ecd1353204ae0c3b6a5f46f02e546f8d", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/levand/immuconf", 
+    "private": false, 
+    "time": "2016-09-06T14:51:35Z", 
+    "title": "GitHub - levand/immuconf: A small library for managing config files in Clojure projects"
+}

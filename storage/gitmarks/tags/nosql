@@ -1,0 +1,37 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3892adbb45e5e1bc5d25401a948ee957", 
+    "uri": "http://grandnode.com", 
+    "title": "GrandNode - Open Source eCommerce, Shopping Cart platform on ASP.NET and MongoDB"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ad6a937e9050287dcc761786f06c9053", 
+    "uri": "http://clojurecassandra.info/", 
+    "title": "Cassaforte, a modern Clojure client for Apache Cassandra"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3d42234cfaff50b5538a58f94929ab1", 
+    "uri": "http://clojuremongodb.info/", 
+    "title": "Monger, a MongoDB Clojure client for a more civilized age | MongoDB library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a3645e7cb66d34a3bf4ec209049d542f", 
+    "uri": "https://github.com/aboekhoff/congomongo", 
+    "title": "GitHub - aboekhoff/congomongo: Clojure wrapper for the mongo-db java api"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b85bd3ba275d870f748ab8afee0c4da", 
+    "uri": "https://github.com/MSOpenTech/redis", 
+    "title": "GitHub - MSOpenTech/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca2fbe245b12c54cb49c533bbc1ce2fb", 
+    "uri": "https://github.com/ptaoussanis/carmine", 
+    "title": "GitHub - ptaoussanis/carmine: Redis client and message queue for Clojure"
+}

@@ -1,0 +1,37 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59eb3e93452e500d3305832dd7978f86", 
+    "uri": "http://armpit.sourceforge.net/", 
+    "title": "A Scheme Interpreter for ARM Microcontrollers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "35b11581f4bce17453d437848bf31010", 
+    "uri": "http://www.ccs.neu.edu/home/stamourv/papers/picobit.pdf", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "089981b5638256d129199295dfe09164", 
+    "uri": "http://repo.or.cz/w/picobit.git", 
+    "title": "Public Git Hosting - picobit.git/summary"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42ad9edbd84cfaec8d75e9013a4c149e", 
+    "uri": "https://web.archive.org/web/20120105005420/http://hedgehog.oliotalo.fi/", 
+    "title": "Hedgehog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a827467a9b3e9a8cd91e41c6d2bd27b6", 
+    "uri": "http://dropbox.nakkaya.com/builds/ferret-manual.html", 
+    "title": "Ferret User's Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b0faeaa45f7ba51bba851dfaceb4b208", 
+    "uri": "http://nakkaya.com/2016/06/10/ferret-a-hard-real-time-clojure-for-lisp-machines/", 
+    "title": "Ferret - A Hard Real-Time Clojure for Lisp Machines"
+}

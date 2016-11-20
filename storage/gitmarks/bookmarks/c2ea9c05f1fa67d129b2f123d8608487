@@ -1,0 +1,9 @@
+{
+    "hash": "c2ea9c05f1fa67d129b2f123d8608487", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/lynaghk/zmq-async", 
+    "private": false, 
+    "time": "2016-06-29T10:41:04Z", 
+    "title": "GitHub - lynaghk/zmq-async: Threadsafe Clojure core.async interface to ZeroMQ"
+}

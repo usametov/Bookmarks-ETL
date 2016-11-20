@@ -1,0 +1,73 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "efbb64c43c7036bbe2fd8e38aca31a51", 
+    "uri": "http://www.fdi.ucm.es/profesor/fernan/des/index.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "89e22dae5a2b1e53e2ed7a3389b2330b", 
+    "uri": "https://code.google.com/archive/p/clojure-contrib/wikis/DatalogOverview.wiki", 
+    "title": "Google Code Archive - Long-term storage for Google Code Project Hosting."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "228e6cbd17f083df5bd5e81bec46f6bc", 
+    "uri": "http://zef.me/blog/5580/declaring-reality-an-introduction-to-datalog-part-ii", 
+    "title": "Declaring Reality: An Introduction to Datalog, part II \u2014 Zef.me"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d15c0e1742687aa10d339bf02f0baf32", 
+    "uri": "http://docs.datomic.com/query.html", 
+    "title": "Datomic Queries and Rules | Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d819061139adcc7ab173c7bb1d7679b7", 
+    "uri": "http://blog.datomic.com/2015/01/datalog-enhancements.html", 
+    "title": "Datomic: More Power for Datomic Datalog: Negation, Disjunction, and Range Optimizations"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1a5ac50cdd48c01049215873cc266dd5", 
+    "uri": "http://docs.racket-lang.org/datalog/index.html", 
+    "title": "Access denied | docs.racket-lang.org used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4dab3991bb5c0d025e9576fb3c5bc4fa", 
+    "uri": "https://www.infoq.com/presentations/Datalog", 
+    "title": "The Reemergence of Datalog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c8772d6abae8a34481c5e5fc9f8912a6", 
+    "uri": "http://datalog.sourceforge.net/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f1ad95a0ea627a6b4d7047c7ac67e9d9", 
+    "uri": "http://ysangkok.github.io/mitre-datalog.js/wrapper.html", 
+    "title": "Datalog.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f65ee99833f10c016a72fb64b179b555", 
+    "uri": "http://www.ccs.neu.edu/home/ramsdell/tools/datalog/datalog.html", 
+    "title": "Datalog User Manual"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc64d74e3458434fa6c333322789a490", 
+    "uri": "https://github.com/fogus/bacwn", 
+    "title": "GitHub - fogus/bacwn: clojure + datalog = &lt;3"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e2469803e18f3d4208044faba58d4b5b", 
+    "uri": "http://fkettelhoit.github.io/bottom-up-datalog-js/docs/dl.html", 
+    "title": "Bottom Up Datalog"
+}

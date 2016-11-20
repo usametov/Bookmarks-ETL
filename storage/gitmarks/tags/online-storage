@@ -1,0 +1,19 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "08efbc137d06163b10e8654570accca8", 
+    "uri": "https://syncthing.net/", 
+    "title": "Syncthing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4357ee4d191530fd2efb7ce10dd496be", 
+    "uri": "https://github.com/syncany/syncany", 
+    "title": "GitHub - syncany/syncany: Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a77a5f8d21aca93262506dcf7f884ad2", 
+    "uri": "https://github.com/haiwen/seafile", 
+    "title": "GitHub - haiwen/seafile: Open source cloud storage with file encryption and group sharing, and emphasis on reliability and high performance."
+}

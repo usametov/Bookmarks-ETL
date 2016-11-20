@@ -1,0 +1,9 @@
+{
+    "hash": "f58a108d8510165e1e39dac0daa75503", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "http://neanderthal.uncomplicate.org/", 
+    "private": false, 
+    "time": "2016-08-12T14:46:01Z", 
+    "title": "Neanderthal - Fast Native Matrix and Linear Algebra in Clojure"
+}

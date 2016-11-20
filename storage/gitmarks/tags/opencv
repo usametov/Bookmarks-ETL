@@ -1,0 +1,31 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0d3ee5691606118cac8dc332acde640", 
+    "uri": "https://github.com/shimat/opencvsharp", 
+    "title": "GitHub - shimat/opencvsharp: .NET Framework wrapper for OpenCV"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4a687cac25a56fb5f6ddf58f4dc260fb", 
+    "uri": "https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis/", 
+    "title": "GitHub - Microsoft/Cognitive-Samples-VideoFrameAnalysis: A library with sample apps for continuous analysis of live video, using the Microsoft Cognitive Services Vision APIs."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5823283832fe082ba5a378bb5deb3412", 
+    "uri": "https://github.com/pierceboggan/smarter-apps", 
+    "title": "GitHub - pierceboggan/smarter-apps: Learn how to build smarter mobile apps using Microsoft Cognitive Services &amp; Xamarin."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd3267bb27cea6e094bf57b4a11dd3ac", 
+    "uri": "https://github.com/Microsoft/Cognitive-face-windows", 
+    "title": "GitHub - Microsoft/Cognitive-Face-Windows: Windows SDK for the Microsoft Face API, part of Cognitive Services"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a7b6fd3942ed930932573c41864aaa9", 
+    "uri": "https://github.com/ms-iot/Facial-Recognition-Door", 
+    "title": "GitHub - ms-iot/Facial-Recognition-Door"
+}

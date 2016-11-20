@@ -1,0 +1,61 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1253883f9e58b18d67ed0bdf5db3c809", 
+    "uri": "http://developer.android.com/intl/ru/tools/performance/index.html", 
+    "title": "Performance Profiling Tools | Android Developers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e5d6412e50f06c02fe41df5a2dcd6dec", 
+    "uri": "http://developer.android.com/intl/ru/training/articles/perf-tips.html", 
+    "title": "Performance Tips | Android Developers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6741343e1a6d69708e7c05fb9730eb97", 
+    "uri": "http://clojure.org/reference/transients", 
+    "title": "Clojure - Transient Data Structures"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1f082a37fd6a9cd97a27b45632eb9ba", 
+    "uri": "https://github.com/hugoduncan/criterium", 
+    "title": "GitHub - hugoduncan/criterium: Benchmarking library for clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d6c819d1d1141f691afc92cf118b7700", 
+    "uri": "https://github.com/plumatic/hiphip", 
+    "title": "GitHub - plumatic/hiphip: hiphip (array)! simple, performant array manipulation in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef32ff118aced39a481192ad4cc7e53e", 
+    "uri": "https://gist.github.com/w01fe/7132440", 
+    "title": "hiphip benchmarks \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c3d9e40c5af0e3c255ba569f86dae4ac", 
+    "uri": "https://github.com/ztellman/vertigo", 
+    "title": "GitHub - ztellman/vertigo: heterogeneous structs for clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "18d2aab1b5d67271f84c619faebea188", 
+    "uri": "https://devcenter.heroku.com/articles/java-memory-issues", 
+    "title": "Troubleshooting Memory Issues in Java Applications | Heroku Dev Center"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "521d9d58c2dc2650c82b8aae1fe48277", 
+    "uri": "http://objectlayout.org/", 
+    "title": "ObjectLayout "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4ea56edef197edbe92361fc04db655ef", 
+    "uri": "https://dataexcursions.wordpress.com/2012/07/14/cascalog-performance-tuning-or-avoiding-java-reflection-at-all-costs/", 
+    "title": "Cascalog Performance Tuning (or avoiding Java reflection at all costs) &laquo; Data Excursions"
+}

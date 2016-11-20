@@ -1,0 +1,19 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c50ffc9e28755d3b622c8852e52817db", 
+    "uri": "http://clojure.org/api/cheatsheet", 
+    "title": "Clojure - Cheatsheet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47a3123628a83a5fba854623dc5fae26", 
+    "uri": "https://gist.github.com/ghoseb/287710/", 
+    "title": "Clojure ns syntax cheat-sheet \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6cff9cf535f32e30289fda4c99d17203", 
+    "uri": "http://cljs.info/cheatsheet/", 
+    "title": "ClojureScript Cheatsheet"
+}

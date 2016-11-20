@@ -1,0 +1,55 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "135f2defa5f576271d35f8a129f5b8b7", 
+    "uri": "http://www.gigamonkeys.com/book/syntax-and-semantics.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59446bfb42b6334bdda8b30dd5e26767", 
+    "uri": "http://www.ccs.neu.edu/home/matthias/HtDP2e/", 
+    "title": "How to Design Programs, Second Edition"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45a436c38d5aabbaf8cb5414f26cf0cb", 
+    "uri": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html", 
+    "title": "Code Like a Pythonista: Idiomatic Python"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5ecbfa779890d5bb9a911079bda14def", 
+    "uri": "http://wstein.org/edu/2007/spring/ent/ent-html/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f8af8124c8b07e7f044291fa5b28611b", 
+    "uri": "http://www.gigamonkeys.com/book/", 
+    "title": "Practical Common Lisp"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e8ba0fbe2c7e8c6ede8b33fe3e1e920e", 
+    "uri": "https://github.com/pcl-ru/pcl-ru", 
+    "title": "GitHub - pcl-ru/pcl-ru"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "978ffe71ab48f5fd6ce05a71393fe3f3", 
+    "uri": "http://web.archive.org/web/19971009064824/www.cs.oberlin.edu/classes/cs280/labs/lab4/lab4.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fdc4cf128fde2f31eba233f68a7534b6", 
+    "uri": "http://learnprolognow.org/", 
+    "title": "Learn Prolog Now!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d2f82d6ee9810d13c5c03ca76d634f52", 
+    "uri": "https://ccrma.stanford.edu/~jos/sasp/", 
+    "title": "[No Title]"
+}

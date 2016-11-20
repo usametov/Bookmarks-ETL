@@ -1,0 +1,25 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0354d3816e140cf21b03c0b6fc101404", 
+    "uri": "http://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html", 
+    "title": "Lecture Notes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "522efd781761fc4734598d6f30604f49", 
+    "uri": "https://cs.anu.edu.au/courses/comp3610/lectures/", 
+    "title": "Index of /courses/comp3610/lectures"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46b1969950726d948e2d9a9621dd097e", 
+    "uri": "http://www.mscs.dal.ca/~selinger/papers/", 
+    "title": "Peter Selinger: Papers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f8541926acf02e0c8b8aa0019e7bdf8d", 
+    "uri": "https://github.com/aphyr/distsys-class", 
+    "title": "GitHub - aphyr/distsys-class: Class materials for a distributed systems lecture series"
+}

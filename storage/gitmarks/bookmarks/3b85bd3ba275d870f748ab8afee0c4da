@@ -1,0 +1,9 @@
+{
+    "hash": "3b85bd3ba275d870f748ab8afee0c4da", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/MSOpenTech/redis", 
+    "private": false, 
+    "time": "2016-06-29T11:38:42Z", 
+    "title": "GitHub - MSOpenTech/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes"
+}

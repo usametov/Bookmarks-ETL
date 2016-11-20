@@ -1,0 +1,55 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b561fc09463d49b7bae5a7fb33c46e5e", 
+    "uri": "https://github.com/clojure/algo.monads", 
+    "title": "GitHub - clojure/algo.monads"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db65bf6d948a3ac5f2a72631c990e364", 
+    "uri": "https://github.com/khinsen/monads-in-clojure", 
+    "title": "GitHub - khinsen/monads-in-clojure: Konrad Hinsen&#39;s OnClojure.com tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6725bda21f5ca2c1e94371ce8c45e1df", 
+    "uri": "https://github.com/egor-smirnov/egorsmirnov.me-examples", 
+    "title": "GitHub - egor-smirnov/egorsmirnov.me-examples: Code examples from http://egorsmirnov.me/"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0ac7a90fa85ecbd6a534277aa0236cf4", 
+    "uri": "https://github.com/ChristosChristofidis/awesome-deep-learning", 
+    "title": "GitHub - ChristosChristofidis/awesome-deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6cffe5d5e83a66396aeabfea652bd32f", 
+    "uri": "http://www.blendernation.com/2013/11/08/introduction-of-video-editing-in-blender/", 
+    "title": "Introduction to video editing in Blender - BlenderNation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9c6074e8ffafa3c0e7f631bc31023c84", 
+    "uri": "https://www.youtube.com/playlist?list=PLZI9BDZ5udV2aSW9Fifl5lqynLxyHTKom", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ed92ebe40ef93366811cd9a09d575e18", 
+    "uri": "https://www.youtube.com/results?search_query=how+to+edit+videos+in+blender+.72b", 
+    "title": "how to edit videos in blender .72b - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "97562ab025c7c767b8b0bdcac2f65543", 
+    "uri": "http://blog.klipse.tech//clojure/2016/10/25/core-match.html", 
+    "title": "Core.match interactive tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3aa65a356e20d50718a0d68a52b7d75a", 
+    "uri": "https://christopherdbui.com/clojure-repl-workflow/", 
+    "title": "[No Title]"
+}

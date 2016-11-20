@@ -1,0 +1,91 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bd756463d2da5b34290f34ce6b67e68", 
+    "uri": "https://github.com/wiseman/turboshrimp", 
+    "title": "GitHub - wiseman/turboshrimp: Clojure API for the Parrot AR.Drone."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "951226c200b8552eb15ab13ec0cb3ace", 
+    "uri": "https://github.com/gigasquid/clj-drone", 
+    "title": "GitHub - gigasquid/clj-drone: Clojure Copter - Control for the AR Parrot Drone"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "22980dcf20a6bc0f70fb8e53193c83ec", 
+    "uri": "https://hackingroomba.com/code/roombacomm/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "464c65e8016db4a9f39ab7d6b5d4a6ad", 
+    "uri": "http://www.dprg.org/projects/2009-07a/", 
+    "title": "DPRG: RoombaComm"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "36b263a023a94abc0689a553921cdb91", 
+    "uri": "https://github.com/gigasquid/clj-roomba", 
+    "title": "GitHub - gigasquid/clj-roomba: Sample project to control your Roomba with the Clojure REPL"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3ff7a64d748d971e622516ebf8d79c2f", 
+    "uri": "https://github.com/gigasquid/roomba-drone-friends", 
+    "title": "GitHub - gigasquid/roomba-drone-friends: Roomba and AR Drone are Friends"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5d1b93aa4ade277cf653882199484c80", 
+    "uri": "https://www.quora.com/Im-looking-for-a-free-online-course-in-mechatronics-Where-can-I-find-one", 
+    "title": "I&#039;m looking for a free online course in mechatronics. Where can I find one? - Quora"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7195c9d51cc89d1ca702e69d0bc26250", 
+    "uri": "http://nakkaya.com/2011/07/28/holonomic-control/", 
+    "title": "Holonomic Control"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8c31d0bbeb190fa796a63f292a680813", 
+    "uri": "http://www.cnccookbook.com/", 
+    "title": "CNCCookbook: Be a Better CNC'er"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4634893ed4b18585a269a7e3b5d90d9a", 
+    "uri": "https://github.com/kelu124/echomods", 
+    "title": "GitHub - kelu124/echomods: Creating modules out of the murgen board"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bbca9a8e31fc940ee1831bf0d72647f", 
+    "uri": "https://github.com/kelu124/murgen-dev-kit", 
+    "title": "GitHub - kelu124/murgen-dev-kit: Imaging ultrasound dev/hacking kit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "66c167d3081f5265c0381accfef59950", 
+    "uri": "http://echopen.org/index.php/Main_Page", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd6940c691b67fd490a2baeb35e21826", 
+    "uri": "https://cylonjs.com/", 
+    "title": "Access denied | cylonjs.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "119f5d1a0c807c33e65c78bd3a27e0b7", 
+    "uri": "https://github.com/david-mcneil/bolo", 
+    "title": "GitHub - david-mcneil/bolo: Toy DSL for robot tanks"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9eeb476cb11e444cb025feefc3023acd", 
+    "uri": "http://neuronrobotics.com/", 
+    "title": "Neuron Robotics Cooperative"
+}

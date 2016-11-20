@@ -1,0 +1,43 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b2f666a90695ace32efda04793210374", 
+    "uri": "http://eprint.iacr.org/2016/386", 
+    "title": "Cryptology ePrint Archive: Report 2016/386"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1f08df1b4178a0371e189a12c82f98c6", 
+    "uri": "https://www.cs.rice.edu/~javaplt/311/Readings/supplemental.pdf", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "26ea124c8023c670614745d327e0dc8d", 
+    "uri": "http://www.scs.stanford.edu/brop/", 
+    "title": "Blind Return Oriented Programming (BROP)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7413745a0407695d83319c794ecec11f", 
+    "uri": "http://m.cacm.acm.org/magazines/2016/6/202646-physical-key-extraction-attacks-on-pcs/fulltext", 
+    "title": "Physical Key Extraction Attacks on PCs | June 2016 | Communications of the ACM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1a17aeb9b0b855a2fed1c895ada81c93", 
+    "uri": "http://www.cs.tau.ac.il/~tromer/ecdh/", 
+    "title": "ECDH Key-Extraction via Low-Bandwidth Electromagnetic Attacks on PCs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ab0dc8b619bdcbaf878d7627a9393a07", 
+    "uri": "http://jotasapiens.com", 
+    "title": "Jotasapiens"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5ecc782d6157a9c19426833835decc60", 
+    "uri": "https://cryptech.is", 
+    "title": "CrypTech.is &#8211; Making the Internet a little bit safer"
+}

@@ -1,0 +1,13 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "18bb22c8d9b0fd239045279ae9656d61", 
+    "uri": "http://deeplearning4j.org/word2vec", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d52824f845689f645943aa3840e4c039", 
+    "uri": "https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html", 
+    "title": "Vector Representations of Words"
+}

@@ -1,0 +1,433 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1cfd8898dc5cc8a4a4c42f74b1cb3663", 
+    "uri": "https://github.com/emezeske/lein-cljsbuild", 
+    "title": "GitHub - emezeske/lein-cljsbuild: Leiningen plugin to make ClojureScript development easy."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "219ae199b5143f8023f6f9796f211663", 
+    "uri": "https://github.com/clojure/clojurescript/", 
+    "title": "GitHub - clojure/clojurescript: Clojure to JS compiler"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1022879d1582451c6c42ef5b3af06e8", 
+    "uri": "https://github.com/clojure/core.logic/", 
+    "title": "GitHub - clojure/core.logic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a363f8b2d3c84a7403269ac930a8d842", 
+    "uri": "https://keminglabs.com/c2/", 
+    "title": "C2: Clojure(Script) data visualization"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d2d8c404ef353162ef6b464948847f02", 
+    "uri": "https://github.com/ibdknox/jayq", 
+    "title": "GitHub - ibdknox/jayq: A ClojureScript wrapper for jQuery"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f2ba51f2fd246b6d42942259de8f01a6", 
+    "uri": "http://pinboard.in/t:clojurescript/", 
+    "title": "Pinboard bookmarks tagged clojurescript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cf7789e394c71ed4246b51100555de76", 
+    "uri": "http://funcool.github.io/clojurescript-unraveled/", 
+    "title": "ClojureScript Unraveled"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ac28106e3db0204e2d1b7159035c2a28", 
+    "uri": "https://www.niwi.nz/cljs-workshop/", 
+    "title": "ClojureScript Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ffd625a8ca5c91eb4bc980eb5f9766ea", 
+    "uri": "https://github.com/clojure/clojurescript/wiki#libraries", 
+    "title": "Home \u00b7 clojure/clojurescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b61d5707c5913e265a0dd5eeb67fb6c", 
+    "uri": "http://clojurescriptmadeeasy.com/", 
+    "title": "Clojurescript Made Easy"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6cff9cf535f32e30289fda4c99d17203", 
+    "uri": "http://cljs.info/cheatsheet/", 
+    "title": "ClojureScript Cheatsheet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "815aac1a9ef1346a910f94d65d9f9c01", 
+    "uri": "https://github.com/jdeisenberg/etudes-for-clojurescript", 
+    "title": "GitHub - jdeisenberg/etudes-for-clojurescript: Practice exercises for beginning ClojureScript programmers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "561ad3fa08bedb922f089f3328cc063b", 
+    "uri": "http://google.github.io/closure-library/api/", 
+    "title": "Index"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c0d15711dfb82b50dea7ecbd9cb57d40", 
+    "uri": "https://github.com/omcljs/om-cookbook", 
+    "title": "GitHub - omcljs/om-cookbook: Home of Om recipes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "97934fec79884849cc24715fa525a11b", 
+    "uri": "https://github.com/magomimmo/modern-cljs", 
+    "title": "GitHub - magomimmo/modern-cljs: A series of tutorials on ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f7a63d4c51eb03b22c1c3ce051656174", 
+    "uri": "http://slimerjs.org/", 
+    "title": "SlimerJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1120b8d465e4891afc1333d4025d7f7a", 
+    "uri": "https://www.youtube.com/watch?v=ByNs9TG30E8", 
+    "title": "Om Next - David Nolen - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "71e3e7e7263ecde526123f9429816bcb", 
+    "uri": "https://funcool.github.io/hodgepodge/", 
+    "title": "hodgepodge"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "281331486d5c709b6e670524c2dda339", 
+    "uri": "http://himera.herokuapp.com/synonym.html", 
+    "title": "Himera Synonym"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f2347803e91ae13641d5adb772393b6f", 
+    "uri": "http://www.lispcast.com/mastering-client-side-routing-with-secretary-and-goog-history", 
+    "title": "Mastering ClojureScript Routing with Secretary and goog.History | LispCast"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "af212f0a3892d47f18c85547096002e6", 
+    "uri": "http://www.slideshare.net/borgesleonardo/high-performance-web-apps-in-om-react-and-clojurescript", 
+    "title": "High Performance web apps in Om, React and ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0baa2c4db95c18473e11fcc04e1ad99c", 
+    "uri": "http://pinboard.in/t:om/", 
+    "title": "Pinboard bookmarks tagged om"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dff92d3131efafc85c57b22944eae0cc", 
+    "uri": "https://github.com/awkay/om-tutorial", 
+    "title": "GitHub - awkay/om-tutorial: WORK IN PROGRESS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "08e4176513b8ce7da69fb9cf6bfbf0ce", 
+    "uri": "https://github.com/plumatic/om-tools", 
+    "title": "GitHub - plumatic/om-tools: Tools for building Om applications"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f99ad86b45a04477ca933e78e48b271c", 
+    "uri": "http://blog.goose.haus", 
+    "title": "Goose Haus"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b03b64a1fe004abf9bf994c24209493", 
+    "uri": "http://pinboard.in/t:core.async/", 
+    "title": "Pinboard bookmarks tagged core.async"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "43d0a3c5c51990bb0d2d127521c1cb26", 
+    "uri": "http://udayv.com", 
+    "title": "verma / blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8ba50dd7271ce1e9688b4a30cd81a88d", 
+    "uri": "http://pinboard.in/t:datomic/", 
+    "title": "Pinboard bookmarks tagged datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d3b7ea1c3493b3caf189b2d2b50c6c11", 
+    "uri": "http://reagent-project.github.io", 
+    "title": "Reagent: Minimalistic React for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "52c4950c6e559c94723549defe06eeab", 
+    "uri": "https://nervous.io/clojure/clojurescript/node/aws/2015/08/09/chemtrails/", 
+    "title": "Chasing Chemtrails with Clojurescript &#8211; Nervous Systems"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0d7e02d026c7d512d0df0562f93c00d2", 
+    "uri": "http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/", 
+    "title": "ClojureScript: JavaScript Interop &#8211; Rafal Spacjer blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "065d1a1e7d71629c628737f73a022b74", 
+    "uri": "https://github.com/Day8/re-frame", 
+    "title": "GitHub - Day8/re-frame: A Reagent Framework For Writing SPAs, in Clojurescript."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "05038017c1e57703c8a26963ffa6cfee", 
+    "uri": "https://metametadata.github.io/carry/", 
+    "title": "Carry"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db5973db791d899310ac2e476326cf67", 
+    "uri": "https://github.com/pelle/cloth", 
+    "title": "GitHub - pelle/cloth: Simple  Ethereum library for Clojure(Script)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a3e0589989729c6f3f0183c6e83631b0", 
+    "uri": "https://github.com/Gonzih/cljs-electron", 
+    "title": "GitHub - Gonzih/cljs-electron: ClojureScript + Electron + Figwheel + Reagent  = \u2764\u2764\u2764"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7d903c575741700a14fa98c5e70915c9", 
+    "uri": "https://github.com/ducky427/electron-template", 
+    "title": "GitHub - ducky427/electron-template: A Leiningen template for projects using Electron with ClojureScript."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7eb024a562fe8931b916466de1db112c", 
+    "uri": "https://github.com/karad/lein_template_descjop", 
+    "title": "GitHub - karad/lein_template_descjop: A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell)."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fcb4923f8bec7585a059a9df60956c4b", 
+    "uri": "http://descjop.org/", 
+    "title": "descjop | A Leiningen template for Web based desktop application."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9e687f5d7611f0e4a504bf8a6883d9ee", 
+    "uri": "e-string.com/articles/adventures-react-native-clojurescript/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0f39cf24f8e1b8a82ca0f08e0e94e5f7", 
+    "uri": "http://e-string.com/articles/adventures-react-native-clojurescript/", 
+    "title": "My Adventures with React Native and ClojureScript - E-String"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8778f4565d324f9c6d7bef1d06654131", 
+    "uri": "https://github.com/clojure/clojurescript/wiki/Quick-Start", 
+    "title": "Quick Start \u00b7 clojure/clojurescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "92add1db84e8bea0e30cad876f2e6135", 
+    "uri": "https://github.com/reagent-project/reagent-cookbook/", 
+    "title": "GitHub - reagent-project/reagent-cookbook: Examples of how to accomplish specific tasks in a Reagent webapp."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "736d4cc9a8c162a941c15a2b11f7262f", 
+    "uri": "https://juxt.pro/blog/posts/edge.html", 
+    "title": "Edge"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f6e688c3c339f68940798a473b47f0a", 
+    "uri": "https://github.com/juxt/edge", 
+    "title": "GitHub - juxt/edge: The (b)leading edge"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0e6ebb42864a19682576a2ca695d0426", 
+    "uri": "http://cljsjs.github.io", 
+    "title": "Javascript Libraries packaged for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae5583173ba4d2adf927a3326227053f", 
+    "uri": "https://github.com/clojure/clojurescript/wiki/Dependencies", 
+    "title": "Dependencies \u00b7 clojure/clojurescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec15ce7e95969f546784041c87dafb56", 
+    "uri": "https://github.com/oubiwann/hoplon-reveal-js", 
+    "title": "GitHub - oubiwann/hoplon-reveal-js: Slide decks in ClojureScript; derived from cndreisbach&#39;s Hoplon + Reveal.js work"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fb8c3f5ae7c06b86a58b48fe6df86602", 
+    "uri": "https://github.com/wagjo/data-cljs", 
+    "title": "GitHub - wagjo/data-cljs: Finger trees and miscellaneous functions for ClojureScript data structures."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "38a20d8561d64f970eb3e00246ec3f85", 
+    "uri": "https://github.com/swannodette/lt-cljs-tutorial", 
+    "title": "GitHub - swannodette/lt-cljs-tutorial: A ClojureScript Programming Language Tutorial for Light Table Users"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a799e9e498e2be7730724986ea4232cf", 
+    "uri": "https://github.com/clojure/clojurescript/wiki/Exception-Handling", 
+    "title": "Exception Handling \u00b7 clojure/clojurescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d28e7fdcec5c937388282ae4e839fb7b", 
+    "uri": "http://langintro.com/icljs/index.html", 
+    "title": "Transforming Data with ClojureScript &mdash; Transforming Data with ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "99c20e6ac86da649f2368f14de2664e1", 
+    "uri": "https://github.com/jdeisenberg/icljs", 
+    "title": "GitHub - jdeisenberg/icljs: Interactive Tutorial for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "137be43dab6952a1e1008dd0cecd5ae5", 
+    "uri": "https://medium.com/@thi.ng/clojurescript-webworkers-webgl-6c2f3c717d9e", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b8219b3466df934dc906488695e97857", 
+    "uri": "https://gitlab.com/ricardojmendez/relevance", 
+    "title": "Ricardo J. Mendez / Relevance \u00b7 GitLab"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "74b0e84b3471612f48cff2445a539823", 
+    "uri": "https://github.com/suprematic/khroma", 
+    "title": "GitHub - suprematic/khroma"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "88936d5a46e7872ebf18c47933ba5339", 
+    "uri": "https://github.com/ptaoussanis/tufte", 
+    "title": "GitHub - ptaoussanis/tufte: Simple profiling and performance monitoring for Clojure/Script"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc22edd5c74b8797dd05b54a76607829", 
+    "uri": "https://lambdaisland.com/guides/clojure-repls/", 
+    "title": "The Ultimate Guide To Clojure REPLs | The Ultimate Guide To Clojure REPLs Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "81a7081db80eb0755163e04c5fd408ba", 
+    "uri": "https://lambdaisland.com/episodes/reagent", 
+    "title": "Lambda Island | 9. Reagent"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef5c8b46c67d3fafb75e97693e335cb5", 
+    "uri": "http://langintro.com/icljs/", 
+    "title": "Transforming Data with ClojureScript &mdash; Transforming Data with ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42a3b6fc55ec432f25090e7ce1ea4b48", 
+    "uri": "https://www.youtube.com/watch?v=wq6ctyZBb0A", 
+    "title": "Introduction to ClojureScript and Reagent - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f7c12119fd671c27df98f3fd7cc00fcf", 
+    "uri": "https://github.com/johnmn3/clgs", 
+    "title": "GitHub - johnmn3/clgs: CLJS on Google Apps Script"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12a5c013243f9e26648a55eb6e2a7e0a", 
+    "uri": "https://github.com/nervous-systems/shapeshiftr", 
+    "title": "GitHub - nervous-systems/shapeshiftr: Clojure/script shapeshift.io client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1d05102865709cc0679e22a2b230cfa", 
+    "uri": "https://github.com/active-group/reacl", 
+    "title": "GitHub - active-group/reacl: ClojureScript library for interfacing with React framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bfcde03dc79bde166808f6df3b63a65f", 
+    "uri": "https://cljsjs.github.io/", 
+    "title": "Javascript Libraries packaged for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "059c9c32a94e558ad0e2c01ced866ee3", 
+    "uri": "http://escherize.com/cljsfiddle/", 
+    "title": "CLJS Fiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bfefbba312376294b3c912f26591de67", 
+    "uri": "http://respo.site", 
+    "title": "Respo: an MVC library in ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1628712455673a3a9e03d7f5e9300792", 
+    "uri": "https://github.com/tonsky/rum", 
+    "title": "GitHub - tonsky/rum: Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "416756c0b979b79eceb79b0980826d77", 
+    "uri": "https://www.youtube.com/watch?v=RqHnxkU9TZE", 
+    "title": "Rum workshop - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "63910d7631e820f65acfedb0a071c26d", 
+    "uri": "http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ee31bcb2d49a5921593d99751c8029ab", 
+    "uri": "https://precursorapp.com/", 
+    "title": "Precursor&mdash;fast prototyping web app, makes collaboration easy."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9454a8fc1a4ba754c937a72ada910fea", 
+    "uri": "https://medium.com/@tiensonqin/why-exponent-on-react-native-especially-for-clojurescript-9bb1417c0c65", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4c7af4321e238dfe5814ef5c2e3fc476", 
+    "uri": "www.maridonkers.info/lumo/", 
+    "title": "[No Title]"
+}

@@ -1,0 +1,9 @@
+{
+    "hash": "bfcde03dc79bde166808f6df3b63a65f", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://cljsjs.github.io/", 
+    "private": false, 
+    "time": "2016-09-20T21:42:25Z", 
+    "title": "Javascript Libraries packaged for ClojureScript"
+}

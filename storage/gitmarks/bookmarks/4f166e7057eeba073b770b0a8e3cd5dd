@@ -1,0 +1,9 @@
+{
+    "hash": "4f166e7057eeba073b770b0a8e3cd5dd", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/geoffsalmon/bytebuffer", 
+    "private": false, 
+    "time": "2016-06-28T23:03:16Z", 
+    "title": "GitHub - geoffsalmon/bytebuffer: Clojure lib for packing and unpacking binary data using a java.util.ByteBuffer"
+}

@@ -1,0 +1,115 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1caba2e7294bb70d6b7918aa1d94f074", 
+    "uri": "http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/", 
+    "title": "Functional architecture is Ports and Adapters"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c0cb417d580c9fdb5e1a43e1feb74dd6", 
+    "uri": "http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded", 
+    "title": "Blog | My Clojure Workflow, Reloaded | Relevance"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5d59c410434b875ae423f82f1895b8a3", 
+    "uri": "http://www.mscharhag.com/java/building-rest-api-with-spark", 
+    "title": "Java: Creating REST APIs with Spark"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9591bfd9d17be2f6108c4531db21e81f", 
+    "uri": "http://raganwald.com/2014/12/20/why-why-functional-programming-matters-matters.html", 
+    "title": "Why Why Functional Programming Matters Matters"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b4d0b6f494d9ee2e0c040840511b4012", 
+    "uri": "http://www.john2x.com/blog/blogging-with-orgmode.html", 
+    "title": "Blogging with Orgmode"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3e3ee1efc177b31fd0b009fd2edd0205", 
+    "uri": "http://www.clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html", 
+    "title": "Clojure :: Reducers - A Library and Model for Collection Processing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "862c4e7477177d2789183a44d1178c63", 
+    "uri": "http://www.clojure.net/2012/06/03/Monad-Protocols/", 
+    "title": "Monad Protocols &larr; "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9cd355e5d9c82d34d2b5684d05d1bb48", 
+    "uri": "https://www.panorama.com/blog/the-20-most-influential-business-intelligence-blogs/", 
+    "title": "302 Found"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "408ae5c49f7ced2e2100e6d712da2c61", 
+    "uri": "http://blog.cryptographyengineering.com/2016/08/attack-of-week-64-bit-ciphers-in-tls.html", 
+    "title": "A Few Thoughts on Cryptographic Engineering: Attack of the week: 64-bit ciphers in TLS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a75af25493065e91ecb61b29ec8a3643", 
+    "uri": "https://stuartsierra.com/2013/03/29/perils-of-dynamic-scope", 
+    "title": "On the Perils of Dynamic Scope &#8211; Digital Digressions by Stuart Sierra"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f5edd8da5a49220589b7dedf8d3fc075", 
+    "uri": "https://aphyr.com/posts/306-clojure-from-the-ground-up-state", 
+    "title": "Clojure from the ground up: state"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0cc23bc475d06fc20c67cee66b915ced", 
+    "uri": "https://dzone.com/articles/developers-guide-to-succeed-in-the-iot-era", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7c781bff24b28aa841e49943ccecd011", 
+    "uri": "http://clojureclr.blogspot.com/", 
+    "title": "ClojureCLR"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f89a675d016f5cfbb6f45f3417f33ff0", 
+    "uri": "http://machinelearningmastery.com/what-if-i-dont-have-a-degree/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ace4db56bee01079ec5e1f535555dcb6", 
+    "uri": "https://leastprivilege.com/2012/06/25/important-setting-the-client-principal-in-asp-net-web-api/", 
+    "title": "Important: Setting the Client Principal in ASP.NET Web API | leastprivilege.com"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3fb87a28e19c50a88a34009e7aff5506", 
+    "uri": "https://leastprivilege.com/2013/03/11/alternative-to-thread-currentprincipal-in-asp-net-web-api/", 
+    "title": "Alternative to Thread.CurrentPrincipal in ASP.NET Web API | leastprivilege.com"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d52a452c78c3bdd68e97f79b9f245c30", 
+    "uri": "http://www.upgradingdave.com/blog/index.html", 
+    "title": "Upgrading Dave"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9454a8fc1a4ba754c937a72ada910fea", 
+    "uri": "https://medium.com/@tiensonqin/why-exponent-on-react-native-especially-for-clojurescript-9bb1417c0c65", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "565d2886d80b9b59aa8f20f2774cf903", 
+    "uri": "http://www.planetgeek.ch/2010/06/20/how-to-select-open-source-libraries/", 
+    "title": null
+}

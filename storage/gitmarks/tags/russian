@@ -1,0 +1,97 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd64a3be8e42b917859c6b9ddd0d2b69", 
+    "uri": "https://habrahabr.ru/post/222737/", 
+    "title": "\u041a\u0430\u043a \u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043b web-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0442\u043e\u043b\u044c\u043a\u043e clojure / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b58344056747ebcd3a6c38244412d745", 
+    "uri": "https://habrahabr.ru/post/173071/", 
+    "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0441\u0442\u043e\u0438\u0442 \u0438\u0437\u0443\u0447\u0438\u0442\u044c Clojure? / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b864f4775294d64dcbfc3dd2e2f0f92", 
+    "uri": "http://alexott.net/ru/clojure/ClojureHadoop.html", 
+    "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 Hadoop \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47adabc56ff0e2cb3577b26a8af05888", 
+    "uri": "http://alexott.net/ru/clojure/video.html", 
+    "title": "\u0412\u0438\u0434\u0435\u043e-\u043b\u0435\u043a\u0446\u0438\u0438 \u0438 \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u0440\u043e Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f344dc08a3363bc38f5d9893d8b70f9", 
+    "uri": "https://habrahabr.ru/post/191742/", 
+    "title": "\u0425\u0430\u043a\u0430\u0435\u043c Transcend WiFi SDHC \u043a\u0430\u0440\u0442\u0443 \u043f\u0430\u043c\u044f\u0442\u0438 / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "53e2076eb4f6fb7b5da76dc4dfd87ce4", 
+    "uri": "http://feeds.feedburner.com/RussianClojurePlanet", 
+    "title": "Russian Clojure Planet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9941efef2a3baca38046991b56ceda55", 
+    "uri": "http://alexott.net/ru/emacs/emacs-manual/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e8ba0fbe2c7e8c6ede8b33fe3e1e920e", 
+    "uri": "https://github.com/pcl-ru/pcl-ru", 
+    "title": "GitHub - pcl-ru/pcl-ru"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eb73a4bcbe2c51f5c530827a4747b1f1", 
+    "uri": "http://fprog.ru/planet/", 
+    "title": "Russian Lambda Planet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4f95335fafb790dee8a9ea9b342134cf", 
+    "uri": "http://lectoriy.mipt.ru/lecturer/RajgorodskijAM#courses", 
+    "title": "\u0412\u0438\u0434\u0435\u043e\u043b\u0435\u043a\u0446\u0438\u0438 \u0424\u0438\u0437\u0442\u0435\u0445\u0430: \u041b\u0435\u043a\u0442\u043e\u0440\u0438\u0439 \u041c\u0424\u0422\u0418 - \u0432\u0438\u0434\u0435\u043e\u043b\u0435\u043a\u0446\u0438\u0438 \u043f\u043e \u0444\u0438\u0437\u0438\u043a\u0435, \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0435, \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0438, \u0431\u0438\u043e\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0435, \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0435 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430\u043c"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "54d194282e84e08dd36b8379cdcc16de", 
+    "uri": "http://lectoriy.mipt.ru/course/RadioTechnology-MathDigitalSignalProcessing-14L", 
+    "title": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0441\u043d\u043e\u0432\u044b \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0441\u0438\u0433\u043d\u0430\u043b\u043e\u0432 | \u0412\u0438\u0434\u0435\u043e\u043b\u0435\u043a\u0446\u0438\u0438 \u0424\u0438\u0437\u0442\u0435\u0445\u0430: \u041b\u0435\u043a\u0442\u043e\u0440\u0438\u0439 \u041c\u0424\u0422\u0418 - \u0432\u0438\u0434\u0435\u043e\u043b\u0435\u043a\u0446\u0438\u0438 \u043f\u043e \u0444\u0438\u0437\u0438\u043a\u0435, \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0435, \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0438, \u0431\u0438\u043e\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0435, \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0435 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430\u043c"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "faa3e3456ecfafdee2d58e60d6f8dab1", 
+    "uri": "http://lectoriy.mipt.ru/course/index?category=Maths&lecturer=", 
+    "title": "\u0412\u0438\u0434\u0435\u043e\u043b\u0435\u043a\u0446\u0438\u0438 \u0424\u0438\u0437\u0442\u0435\u0445\u0430: \u041b\u0435\u043a\u0442\u043e\u0440\u0438\u0439 \u041c\u0424\u0422\u0418 - \u0432\u0438\u0434\u0435\u043e\u043b\u0435\u043a\u0446\u0438\u0438 \u043f\u043e \u0444\u0438\u0437\u0438\u043a\u0435, \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0435, \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0438, \u0431\u0438\u043e\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0435, \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0435 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430\u043c"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5bc5f7e233f94032523f4577dee26530", 
+    "uri": "https://habrahabr.ru/company/yandex/blog/307260/", 
+    "title": "\u0421\u0430\u043c\u043e\u0435 \u0433\u043b\u0430\u0432\u043d\u043e\u0435 \u043e \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0445 \u0441\u0435\u0442\u044f\u0445. \u041b\u0435\u043a\u0446\u0438\u044f \u0432 \u042f\u043d\u0434\u0435\u043a\u0441\u0435 / \u0411\u043b\u043e\u0433 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u042f\u043d\u0434\u0435\u043a\u0441 / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5af7165fca87ff788ee1da0aeb26d51d", 
+    "uri": "https://habrahabr.ru/company/microsoft/blog/310812/", 
+    "title": "Microsoft, \u041e\u041e\u041d \u0438 EmerCoin: \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d \u0432 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 / \u0411\u043b\u043e\u0433 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 Microsoft / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "89ed917cbeeecb57b2032161682aeeae", 
+    "uri": "https://habrahabr.ru/post/249089/", 
+    "title": "Deep learning \u0438 Caffe \u043d\u0430 \u043d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u0438\u0445 \u043f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\u0430\u0445 / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "28bb7b9cc4406b821e38ab7767cba855", 
+    "uri": "http://eax.me/vagrant/", 
+    "title": "\u041d\u0430\u0447\u0430\u043b\u043e \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Vagrant \u0438 \u0437\u0430\u0447\u0435\u043c \u043e\u043d \u0432\u043e\u043e\u0431\u0449\u0435 \u043d\u0443\u0436\u0435\u043d | \u0417\u0430\u043f\u0438\u0441\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u0430"
+}

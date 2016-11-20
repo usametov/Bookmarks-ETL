@@ -1,0 +1,25 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "23cea5201162c7f74279923a7c1b5455", 
+    "uri": "http://codecube.net/2009/02/mapreduce-in-c-using-linq/", 
+    "title": "MapReduce in C# using LINQ"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42b80e772a29f29d3c90563bb80a3e41", 
+    "uri": "https://blog.i3arnon.com/2015/12/16/async-linq-to-objects-over-mongodb/", 
+    "title": "Async LINQ To Objects Over MongoDB | Bar Arnon"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "98b3046f9264ea879603b7d11842cdf8", 
+    "uri": "https://github.com/aloisdg/awesome-linq", 
+    "title": "GitHub - aloisdg/awesome-linq: A curated collection of awesome LINQ libraries, tools, and more."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4b247930d9f532c40b10f467661fb0f3", 
+    "uri": "http://www.dotnetcurry.com/csharp/1291/json-linq-using-json-net", 
+    "title": "[No Title]"
+}

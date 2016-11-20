@@ -1,0 +1,31 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bda4226611c5cad7be358f14d25c1f2", 
+    "uri": "http://confreaks.tv/videos/mwjs2014-asynchronous-javascript-at-netflix", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f3a337cffd922bf52b49920f7d8fb70d", 
+    "uri": "http://confreaks.tv/videos/mwjs2014-adding-even-more-fun-to-functional-programming-with-rxjs", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8211bb581152d161ef53b73a33a60054", 
+    "uri": "https://www.packtpub.com/books/content/rxjs-observable-promise-users-part-1", 
+    "title": "(RxJS) Observable for Promise Users : Part 1 | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2cd5266573c7594410dc9e6560142e69", 
+    "uri": "https://www.packtpub.com/books/content/rxjs-observable-promise-users-part-2", 
+    "title": "(RxJS) Observable for Promise Users : Part 2 | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2378fee6b796c191777004acbb0672fd", 
+    "uri": "https://github.com/channikhabra/yarr", 
+    "title": "GitHub - channikhabra/yarr: Yet Another RSS Reader"
+}

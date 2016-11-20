@@ -1,0 +1,9 @@
+{
+    "hash": "966140cb1965e3768d7c9cf6cad98eb3", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/amzn/alexa-avs-raspberry-pi", 
+    "private": false, 
+    "time": "2016-04-24T11:01:07Z", 
+    "title": "GitHub - amzn/alexa-avs-raspberry-pi: This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server."
+}

@@ -1,0 +1,103 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "313a4e8f57dd8432c396f388f8f1eba7", 
+    "uri": "https://github.com/ramda/ramdangular", 
+    "title": "GitHub - ramda/ramdangular: Ramda adapter for AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "84610344a4db40bd40646d742d273a4f", 
+    "uri": "http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/", 
+    "title": "Boost the Performance of an AngularJS Application Using Immutable Data &#8211; Minko Gechev's blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bb4fd8098940486edb6855b3d668be47", 
+    "uri": "Boost the Performance of an AngularJS Application Using Immutable Data", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c01cea4f56b6a01482a2226b55e13f17", 
+    "uri": "https://github.com/lauripiispanen/angular-bacon", 
+    "title": "GitHub - lauripiispanen/angular-bacon: Angular-bacon.js bindings"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ceb3dda9af298a78969206ca0efb0b57", 
+    "uri": "bacon.js bindings for angularJs", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "029adebbfd515ba3de9262367c62aacd", 
+    "uri": "https://habrahabr.ru/post/215607/", 
+    "title": "AngularJS \u0438 ReactJS \u0438\u043b\u0438 \u043a\u0430\u043a \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0430\u0448\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0431\u044b\u0441\u0442\u0440\u0435\u0435 / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d25d2fbe3cfc4971c841c2fc497a6a2d", 
+    "uri": "http://stackoverflow.com/questions/20947191/using-reactjs-with-angularjs", 
+    "title": "Access denied | stackoverflow.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c99b73aff06e7aa1e8aa78d4db8264c", 
+    "uri": "http://www.slideshare.net/borisdinkevich/using-reactjs-in-angularjs", 
+    "title": "Using ReactJS in AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6948d27dad5d9d41c1e02042d37fe52f", 
+    "uri": "https://github.com/Reactive-Extensions/rx.angular.js", 
+    "title": "GitHub - Reactive-Extensions/rx.angular.js: AngularJS Bindings for RxJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d3bc9c505b9e08104398916166aa136b", 
+    "uri": "https://angular-ui.github.io/bootstrap/#/getting_started", 
+    "title": "Angular directives for Bootstrap"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "15529afb9cf30189805c3f08aa01b8c9", 
+    "uri": "http://ngmodules.org/", 
+    "title": "Popular Modules - AngularJS Modules, Plugins and Directives"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7c38254ca02fb2c2d65d51838bc1634e", 
+    "uri": "https://www.youtube.com/watch?v=HCR7i5F5L8c", 
+    "title": "Google I/O 2013 - Design Decisions in AngularJS - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7b83391faf1d50875187375d79ee3955", 
+    "uri": "https://www.youtube.com/watch?v=i9MHigUZKEM", 
+    "title": "AngularJS Fundamentals In 60-ish Minutes - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c1164a77995347941c2bf9a62da15439", 
+    "uri": "http://tinyurl.com/AngularJSJumpStart", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe57cbc79fd36020192cf0a1c611aa40", 
+    "uri": "http://weblogs.asp.net/dwahlin/angularjs-in-60-ish-minutes-the-ebook", 
+    "title": "Dan Wahlin - AngularJS in 60-ish Minutes \u2013 The eBook"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d38d69ca23170665b8e882c56bd83139", 
+    "uri": "https://github.com/ninya-io/ninya.io", 
+    "title": "GitHub - ninya-io/ninya.io: Find StackOverflow users near you by tags and reputation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "25fde6096fcddce3a48d3c1668d4c6b6", 
+    "uri": "http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html", 
+    "title": "Getting Started with Django Rest Framework and AngularJS"
+}

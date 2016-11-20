@@ -1,0 +1,31 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a5f5935138f9fc409c0e63ae8e79eae6", 
+    "uri": "https://blog.docker.com/2016/03/docker-for-mac-windows-beta/", 
+    "title": "Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop | Docker Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46111e6c732ec42301104b25afe1f4ce", 
+    "uri": "https://www.oreilly.com/learning/a-quick-introduction-to-docker-security", 
+    "title": "A quick introduction to Docker security - O&#39;Reilly Media"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd359d813491373914ea770533ae6f0f", 
+    "uri": "https://www.oreilly.com/learning/tensorflow-for-poets", 
+    "title": "TensorFlow for poets - O&#39;Reilly Media"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5e5bb77f3e2acdbb89c4eeed27847d95", 
+    "uri": "https://www.contentreich.de/docker-clojure-microservices-google-and-alfresco-introducing-ecm-google-services", 
+    "title": "Docker, Clojure, Microservices, Google (and Alfresco): Introducing ECM Google Services - CONTENTREICH"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "416d555945f16dd26fc918e058ce7381", 
+    "uri": "http://www.lshift.net/blog/2014/06/30/dockerising-an-xmpp-server/", 
+    "title": "403 Forbidden"
+}

@@ -1,0 +1,151 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2b6db8a589620e67e8cb03644fea6a7f", 
+    "uri": "https://en.wikipedia.org/wiki/QuickCheck", 
+    "title": "QuickCheck - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "352141a40eed9ccbca8b677ff8b5046e", 
+    "uri": "http://jasmine.github.io/", 
+    "title": "Jasmine: Behavior-Driven JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f7a63d4c51eb03b22c1c3ce051656174", 
+    "uri": "http://slimerjs.org/", 
+    "title": "SlimerJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e955e1dd72514d578bd2782af923a36e", 
+    "uri": "https://github.com/Datomic/simulant/wiki", 
+    "title": "Home \u00b7 Datomic/simulant Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46c49679b707093b83d49e610aa5f719", 
+    "uri": "http://clojure.github.io/clojure/clojure.test-api.html", 
+    "title": "clojure.test - Clojure v1.8 API documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8c5d0a2b4034a521817b351fa908b002", 
+    "uri": "https://github.com/marick/Midje", 
+    "title": "GitHub - marick/Midje: Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "89336e9accc46144a649b3c4a2f5c234", 
+    "uri": "https://github.com/clojure/test.generative", 
+    "title": "GitHub - clojure/test.generative"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5049b10d9cce9943338b1ca36d7b3cf8", 
+    "uri": "https://github.com/clojure/test.check", 
+    "title": "GitHub - clojure/test.check: QuickCheck for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c81d72ab4b9defa861aa794b6ac7567c", 
+    "uri": "https://wiki.haskell.org/Introduction_to_QuickCheck2", 
+    "title": "Introduction to QuickCheck2 - HaskellWiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e83366e05717d65c7665a27ba2497263", 
+    "uri": "https://github.com/semperos/clj-webdriver/wiki", 
+    "title": "Home \u00b7 semperos/clj-webdriver Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "afbdfffffd0f9b6d58540bd60fec6465", 
+    "uri": "https://github.com/semperos/clj-webdriver", 
+    "title": "GitHub - semperos/clj-webdriver: Clojure API for Selenium-WebDriver"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1666391700957d5a6d9944ffccd7fff9", 
+    "uri": "https://github.com/clojure-cookbook/clojure-cookbook/tree/master/10_testing", 
+    "title": "clojure-cookbook/10_testing at master \u00b7 clojure-cookbook/clojure-cookbook \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "585a6f1252ae2a177eaba8f780474349", 
+    "uri": "http://garajeando.blogspot.com/2016/07/kata-ohce-in-clojure-using-outside-in.html", 
+    "title": "Garajeando: Kata: Ohce in Clojure using outside-in TDD with Midje"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9fcd8dbbf05f47fba4414d1b5ec5aa5d", 
+    "uri": "http://robolectric.org/", 
+    "title": "Robolectric"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "114373be1875f2b9146e482fe081a95f", 
+    "uri": "https://github.com/jaycfields/expectations", 
+    "title": "GitHub - jaycfields/expectations: a minimalist&#39;s unit testing framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "83d68e9f37e506a93a64027eca48ad27", 
+    "uri": "http://sritchie.github.io/2012/01/22/cascalog-testing-20/", 
+    "title": "Cascalog Testing 2.0"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1f2532f3c9ddcd20966707a9e029255", 
+    "uri": "http://blog.screen6.io/post/57428073723/introduction-to-testing-cascalog-with-midje", 
+    "title": "Screen6 \u2014 Introduction to testing Cascalog with Midje."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de2f0b7313388f316f2d1d8ba506caff", 
+    "uri": "http://robotframework.org", 
+    "title": "Robot Framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e8781dba968df5ae04cae48e1bb2a1df", 
+    "uri": "https://github.com/F-Secure/mittn", 
+    "title": "GitHub - F-Secure/mittn: Mittn: Security test tool runner for test automation in CI"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd0a6dc4e3f1a1c8c25ffd48acc328f5", 
+    "uri": "https://github.com/continuumsecurity/bdd-security", 
+    "title": "GitHub - continuumsecurity/bdd-security: BDD Automated Security Tests for  Web Applications"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "87cd70f13f7f843a43069ec1eb0cef5d", 
+    "uri": "http://www.mbtest.org/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59dbd8c65866ea904d881e5dec06fed2", 
+    "uri": "https://github.com/cloverage/cloverage", 
+    "title": "GitHub - cloverage/cloverage: Clojure test coverage tool"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b347a6d5f27d51ba1e4ba0480d5cad6a", 
+    "uri": "https://saucelabs.com/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe5387e52cb6f3a279d37f0a2235069e", 
+    "uri": "https://github.com/amageed/Regextra", 
+    "title": "GitHub - amageed/Regextra: Regextra simplifies some tasks typically solved via regex so that you no longer have (problems){2}"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a2904a3f484273b3bcf0f9e5b3499e16", 
+    "uri": "http://specsfor.com/", 
+    "title": "Welcome - SpecsFor - The Best BDD Framework for .NET Developers!"
+}

@@ -1,0 +1,253 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "810e83dec94da8c7231775d7b210c60d", 
+    "uri": "http://blog.codeprototype.com/2015/04/15/write-reacts-component-in-functional-way-with-ramda-and-pointfree-md/", 
+    "title": "Write Reacts components in a functional way with Ramda and PointFree | Code Prototype"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5caa3e589cbb0182d6962b1612149837", 
+    "uri": "https://github.com/panayi/calculator", 
+    "title": "GitHub - panayi/calculator: A calculator built with React, Redux and Ramda"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2bafaa611841903ba5f0fc9cfc0c017e", 
+    "uri": "https://github.com/davezuko/react-redux-starter-kit", 
+    "title": "GitHub - davezuko/react-redux-starter-kit: Get started with React, Redux, and React-Router!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "67ba088cf2514782ef3f2f67dff50d1a", 
+    "uri": "http://jsfiddle.net/69z2wepo/9519/", 
+    "title": "React Base Fiddle (JSX) - JSFiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "04a1b817a4562503fcc98bcc6763a3b1", 
+    "uri": "http://jsfiddle.net/69z2wepo/9524/", 
+    "title": "React Base Fiddle (JSX) - JSFiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4f88648dac4800e3e3262b54eb03949f", 
+    "uri": "http://jsfiddle.net/69z2wepo/9525/", 
+    "title": "React Base Fiddle (JSX) - JSFiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cadba83f9ec5047635fd99f968fb32ff", 
+    "uri": "http://facebook.github.io/react/docs/reusable-components.html", 
+    "title": "Reusable Components | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6e06edca0eb68e77ce861dd3361c513e", 
+    "uri": "https://github.com/przeor/react-router-flux-starter-kit/", 
+    "title": "GitHub - przeor/react-router-flux-starter-kit: [ReactJS+FLUX+Parse example] a starter kit for reactjs flux project - including react-router &amp; FB oauth"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f695fd79b1b9378cff77d954a9738d7a", 
+    "uri": "http://redux.js.org/index.html", 
+    "title": "Read Me | Redux"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2776d20b984badef72174eda0273043e", 
+    "uri": "https://facebook.github.io/react/docs/jsx-in-depth.html", 
+    "title": "JSX in Depth | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc1ac20bb674682da20993d3e252dc36", 
+    "uri": "https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree", 
+    "title": "Redux: The Single Immutable State Tree - js Video Tutorial #free @eggheadio"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9ac82afc3dda73f95d8a54f0fdc69e41", 
+    "uri": "https://github.com/staltz/awesome-react", 
+    "title": "GitHub - staltz/awesome-react: A collection of awesome React libraries, resources and shiny things."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e43eca6bf848e81bde16fc0ac2350632", 
+    "uri": "https://www.oreilly.com/learning/intro-to-react-and-effective-design-patterns", 
+    "title": "Intro to React and effective design patterns - O&#39;Reilly Media"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd841eccfccff8c3417abc272003fa83", 
+    "uri": "https://github.com/btholt/es6-react-pres", 
+    "title": "GitHub - btholt/es6-react-pres: Using ES6 with React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec99a2b761cb822adf67280d6791484d", 
+    "uri": "https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html", 
+    "title": "Building The Facebook News Feed With Relay | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0ba010034bdc1039d1338558e576cb57", 
+    "uri": "http://facebook.github.io/react/docs/getting-started.html", 
+    "title": "Getting Started | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2f8a4e5a996f0142cb96c9c7e5e54436", 
+    "uri": "https://www.youtube.com/watch?v=XxVg_s8xAms&feature=youtu.be", 
+    "title": "Introduction to React.js - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3493d1b7fe76640ef98e5ccf42f16005", 
+    "uri": "http://facebook.github.io/react/docs/tutorial.html", 
+    "title": "Tutorial | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fda64297ee396263233842270313ec64", 
+    "uri": "https://www.youtube.com/watch?v=DgVS-zXgMTk&feature=youtu.be", 
+    "title": "Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013 - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f3098c10661d671b3033cd5f3454e4c0", 
+    "uri": "http://swannodette.github.io/2015/12/23/year-in-review/", 
+    "title": "ClojureScript Year In Review"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e1ee3b5f3a13014a1ba842d4312d8cbb", 
+    "uri": "https://github.com/staltz/awesome-react#react-and-haskell", 
+    "title": "GitHub - staltz/awesome-react: A collection of awesome React libraries, resources and shiny things."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9aaa3a87c12e5a9efdfd0cb3bef6816a", 
+    "uri": "https://leanpub.com/reactspeedcoding/read", 
+    "title": "Read React Speed Coding | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "29a7d8974e9a0b6f2b8764455096bd7e", 
+    "uri": "http://pinboard.in/t:reactjs/t:book", 
+    "title": "Pinboard bookmarks tagged reactjs + book"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a6881c20750355790f0421cfd57f76f5", 
+    "uri": "https://www.simple-talk.com/dotnet/asp.net/a-real-world-react.js-setup-for-asp.net-core-and-mvc5/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b1813d4247062acc7ebc30c405982fd", 
+    "uri": "https://github.com/mjmeintjes/boot-react-native", 
+    "title": "GitHub - mjmeintjes/boot-react-native: Better development experience with ClojureScript and React Native"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "675589e59e3b6fb180b1edc11bb8496e", 
+    "uri": "https://facebook.github.io/react/docs/getting-started.html", 
+    "title": "Getting Started | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6725bda21f5ca2c1e94371ce8c45e1df", 
+    "uri": "https://github.com/egor-smirnov/egorsmirnov.me-examples", 
+    "title": "GitHub - egor-smirnov/egorsmirnov.me-examples: Code examples from http://egorsmirnov.me/"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0916eafeeb53a15dbc7407f6dfa9aea2", 
+    "uri": "https://github.com/reactjs/react-router", 
+    "title": "GitHub - reactjs/react-router: A complete routing library for React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8624e1e7769e4fae00daf7e095392985", 
+    "uri": "https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.xay2s8t5z", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c6d6bd00a8f781ea711b29f9cfdddf5", 
+    "uri": "https://github.com/facebookincubator/create-react-app", 
+    "title": "GitHub - facebookincubator/create-react-app: Create React apps with no build configuration."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "067e67849080168d5a9fa08b5ab532eb", 
+    "uri": "https://github.com/mars/create-react-app-buildpack", 
+    "title": "GitHub - mars/create-react-app-buildpack: Heroku Buildpack for create-react-app: static hosting for React.js web apps"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2a49874385ee1b8acf56e8b9a20b33fd", 
+    "uri": "https://www.decosoftware.com/", 
+    "title": "Deco - React Native IDE"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c77baa6da5a6730cecdd08a7ea9d1ca9", 
+    "uri": "http://eslint.org", 
+    "title": "ESLint - Pluggable JavaScript linter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "19e13610b77c58f82783a4ff79dc4e2d", 
+    "uri": "https://dzone.com/refcardz/reactjs-essentials", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a06191dabd754f7359d8d850540293d9", 
+    "uri": "http://recharts.org/", 
+    "title": "Access denied | recharts.org used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f2d54b8efb5116229c2698007f1314c", 
+    "uri": "http://www.material-ui.com/", 
+    "title": "Material-UI"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1d05102865709cc0679e22a2b230cfa", 
+    "uri": "https://github.com/active-group/reacl", 
+    "title": "GitHub - active-group/reacl: ClojureScript library for interfacing with React framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "059c9c32a94e558ad0e2c01ced866ee3", 
+    "uri": "http://escherize.com/cljsfiddle/", 
+    "title": "CLJS Fiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd9ee099b1b77b9891297355b3f0bdd0", 
+    "uri": "http://www.reactboilerplate.com", 
+    "title": "React.js Boilerplate"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "67da0ee702cacd85f95670e54850c598", 
+    "uri": "https://github.com/kriasoft/aspnet-starter-kit", 
+    "title": "GitHub - kriasoft/aspnet-starter-kit: Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e44e47970396c0ef63e4d57d1b8a7061", 
+    "uri": "https://docs.getexponent.com/versions/v11.0.0/index.html", 
+    "title": "Learn Exponent &mdash; Exponent v11.0.0 documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9454a8fc1a4ba754c937a72ada910fea", 
+    "uri": "https://medium.com/@tiensonqin/why-exponent-on-react-native-especially-for-clojurescript-9bb1417c0c65", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}

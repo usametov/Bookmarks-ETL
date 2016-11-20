@@ -1,0 +1,103 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12a2276432761b92b1b4b997e2ae9089", 
+    "uri": "http://bottlepy.org/docs/dev/index.html", 
+    "title": "Bottle: Python Web Framework &mdash; Bottle 0.13-dev documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd64a3be8e42b917859c6b9ddd0d2b69", 
+    "uri": "https://habrahabr.ru/post/222737/", 
+    "title": "\u041a\u0430\u043a \u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043b web-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0442\u043e\u043b\u044c\u043a\u043e clojure / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "71979ffa50817ed4e997cdf6574f949a", 
+    "uri": "http://www.luminusweb.net/", 
+    "title": "Luminus - a Clojure web framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "14b4115a4f91afd302fcac5dd2335341", 
+    "uri": "https://github.com/ring-clojure/ring/wiki", 
+    "title": "Home \u00b7 ring-clojure/ring Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "94370f77745c1700950f1a73f04db846", 
+    "uri": "https://www.geekbooks.me/tag/view/abtesting", 
+    "title": "A/B Testing - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78bc960b7088d47464b19fe920e45660", 
+    "uri": "https://github.com/ring-clojure/ring/wiki/Concepts", 
+    "title": "Concepts \u00b7 ring-clojure/ring Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f04a9f049051d21553ecc1b5c766b187", 
+    "uri": "https://github.com/ring-clojure/ring/wiki/Sessions", 
+    "title": "Sessions \u00b7 ring-clojure/ring Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bf0c410c4a926fc3c7af5209cd481394", 
+    "uri": "https://github.com/weavejester/compojure", 
+    "title": "GitHub - weavejester/compojure: A concise routing library for Ring/Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4d46296e323c17cd445136255e18e92f", 
+    "uri": "https://github.com/cgrand/moustache", 
+    "title": "GitHub - cgrand/moustache: a micro web framework/internal DSL to wire Ring handlers and middlewares"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e4f303ca41553d2d522237af79ffd6e2", 
+    "uri": "https://github.com/weavejester/clout", 
+    "title": "GitHub - weavejester/clout: HTTP route-matching library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f1b14c0f303e1fb65c85e9fec1347e9", 
+    "uri": "https://github.com/ericnormand/playnice", 
+    "title": "GitHub - ericnormand/playnice: A Clojure library to help build HTTP compliant servers."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "37764364049ab9af209655459ab1b075", 
+    "uri": "https://github.com/swannodette/enlive-tutorial", 
+    "title": "GitHub - swannodette/enlive-tutorial: An Easy Introduction to Enlive"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4042047408920ba5be637597796197c6", 
+    "uri": "https://github.com/yogthos/Selmer", 
+    "title": "GitHub - yogthos/Selmer: A fast, Django inspired template system in Clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "950316b7d326148db706376a5a386052", 
+    "uri": "https://github.com/weavejester/hiccup/", 
+    "title": "GitHub - weavejester/hiccup: Fast library for rendering HTML in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fcc4219c23f4be9dc79b8af5780574e6", 
+    "uri": "https://github.com/yogthos/markdown-clj", 
+    "title": "GitHub - yogthos/markdown-clj: Markdown parser in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a3f697b94b74034beac48416c52ac9b", 
+    "uri": "https://www.hypercomments.com/", 
+    "title": "HyperComments - Realtime comments system"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d70d02af8d03e9c75df29b856d9d5fbe", 
+    "uri": "https://yada.juxt.pro/index.html", 
+    "title": "yada"
+}

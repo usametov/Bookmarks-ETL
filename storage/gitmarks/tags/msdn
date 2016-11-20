@@ -1,0 +1,43 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d837a93b4f45283337a497df7c004911", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee370239.aspx", 
+    "title": "List.reduce&lt;'T&gt; Function (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4ac6cf9e1694ba1a5e3c6f43493c9d80", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee353894.aspx", 
+    "title": "List.fold&lt;'T,'State&gt; Function (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3e9978d8c99c933e18e45a1ff31294e6", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233226%28v=vs.110%29.aspx", 
+    "title": "Discriminated Unions (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "af77bba8d61ff8a7a81158d2af36752c", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233226.aspx", 
+    "title": "Discriminated Unions (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0d577dda1b3055973fbd846dffccad9", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233248.aspx", 
+    "title": "Active Patterns (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0143071ac58a750d57a3a9cbe7545fcf", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233186.aspx", 
+    "title": "Reference Cells (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c47dc681fc9a8ea51e36086b47408541", 
+    "uri": "https://msdn.microsoft.com/en-us/library/ff524512%28v=vs.93%29.aspx", 
+    "title": "Getting Started (Solver Foundation)"
+}

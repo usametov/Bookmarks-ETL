@@ -1,0 +1,169 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
+    "uri": "http://java.ociweb.com/mark/clojure/article.html", 
+    "title": "Clojure - Functional Programming for the JVM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4977925de57bb871f721333ffd832270", 
+    "uri": "http://conal.net/fran/tutorial.htm", 
+    "title": "Composing Reactive Animations"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d30f7572b060b25018cde445519aba68", 
+    "uri": "http://openmymind.net/mongly/", 
+    "title": "The MongoDB Collection"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b27797a20ff0c346039a0e9f77ee356d", 
+    "uri": "http://www.tutorialspoint.com/mongodb/mongodb_overview.htm", 
+    "title": "MongoDB Overview"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c52883ce0bb069b774dbdaf17a6dd746", 
+    "uri": "http://thenewstack.io/tutorial-prototyping-a-sensor-node-and-iot-gateway-with-arduino-and-raspberry-pi-part-1/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec99a2b761cb822adf67280d6791484d", 
+    "uri": "https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html", 
+    "title": "Building The Facebook News Feed With Relay | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3493d1b7fe76640ef98e5ccf42f16005", 
+    "uri": "http://facebook.github.io/react/docs/tutorial.html", 
+    "title": "Tutorial | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d4bec42b9a4813b6ea568bdde99fffde", 
+    "uri": "https://github.com/clojure-android/lein-droid/wiki/Tutorial", 
+    "title": "Tutorial \u00b7 clojure-android/lein-droid Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "02eb0e24360593f2adbcac576b65a68d", 
+    "uri": "https://github.com/alexander-yakushev/events/blob/master/tutorial.md", 
+    "title": "events/tutorial.md at master \u00b7 alexander-yakushev/events \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bcbef71069d6d0a384b1e01597c7e7be", 
+    "uri": "https://github.com/Datomic/day-of-datomic", 
+    "title": "GitHub - Datomic/day-of-datomic: Sample Code for Day of Datomic presentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dff92d3131efafc85c57b22944eae0cc", 
+    "uri": "https://github.com/awkay/om-tutorial", 
+    "title": "GitHub - awkay/om-tutorial: WORK IN PROGRESS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78246b57fa2ec257ccf4dd6081f8f33b", 
+    "uri": "https://gist.github.com/john2x/e1dca953548bfdfb9844", 
+    "title": "Clojure Destructuring Tutorial and Cheat Sheet \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "04eee1a2ac90a034c457fadf56f81a08", 
+    "uri": "http://www.john2x.com/blog/clojure-destructuring.html", 
+    "title": "Clojure Destructuring Tutorial and Cheat Sheet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "13bb2d2c769a11b51bd7474ca5ab5131", 
+    "uri": "https://github.com/weavejester/compojure/wiki/Destructuring-Syntax", 
+    "title": "Destructuring Syntax \u00b7 weavejester/compojure Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "63e3d7a72176556af6e1f0ec3063a092", 
+    "uri": "http://jakemccrary.com/blog/2010/12/06/trampolining-through-mutual-recursion/", 
+    "title": "Access denied | jakemccrary.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef3429fd97025ade8ddda3747b621bfc", 
+    "uri": "http://nathanmarz.com/blog/introducing-cascalog-a-clojure-based-query-language-for-hado.html", 
+    "title": "Introducing Cascalog: a Clojure-based query language for&nbsp;Hadoop - thoughts from the red planet - thoughts from the red planet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "954c8d404280d2a73ff71093e7ae4f5f", 
+    "uri": "http://ianrumford.github.io/blog/2012/09/29/using-cascalog-for-extract-transform-and-load/", 
+    "title": "Using Cascalog for extract transform and load - An Ostler in IT"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "465e37e58223a4c33b0d356ee0846ac5", 
+    "uri": "https://github.com/clojure/core.typed/wiki/User-Guide", 
+    "title": "User Guide \u00b7 clojure/core.typed Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec80f0cf50ba1c68125027f0689c2ea5", 
+    "uri": "https://practicalli.github.io/clojure/development-environments/", 
+    "title": "Development Environments \u00b7 Clojure, Practicalli"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7c37ee2a43390cfda2bcb7b3d5b6f55c", 
+    "uri": "https://github.com/Cascading/Impatient", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "38a20d8561d64f970eb3e00246ec3f85", 
+    "uri": "https://github.com/swannodette/lt-cljs-tutorial", 
+    "title": "GitHub - swannodette/lt-cljs-tutorial: A ClojureScript Programming Language Tutorial for Light Table Users"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "99c20e6ac86da649f2368f14de2664e1", 
+    "uri": "https://github.com/jdeisenberg/icljs", 
+    "title": "GitHub - jdeisenberg/icljs: Interactive Tutorial for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57c145314c77164736b72fa2995afc70", 
+    "uri": "https://github.com/jonase/learndatalogtoday", 
+    "title": "GitHub - jonase/learndatalogtoday: Interactive Datalog Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd70cbc7bc2e90687a59ef950cfb529e", 
+    "uri": "http://docs.datomic.com/tutorial.html", 
+    "title": "Tutorial | Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bcba929113537eb02f9a680a36fd635", 
+    "uri": "https://sourceforge.net/blog/is-that-really-good-quality-code-youre-writing/", 
+    "title": "Is that Really Good Quality Code You&#8217;re Writing?  |  SourceForge Community Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2631c4e0da8d13b648430a313cfb3ad0", 
+    "uri": "http://www.dotnetcurry.com/aspnet/1234/aspnet5-apps-using-visual-studio-code-vscode-yeoman", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5edc1423b1f82e6cb467cb93078723e0", 
+    "uri": "https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/", 
+    "title": "Try logic programming! A gentle introduction to Prolog &#8211; Bernardo Pires"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "28bb7b9cc4406b821e38ab7767cba855", 
+    "uri": "http://eax.me/vagrant/", 
+    "title": "\u041d\u0430\u0447\u0430\u043b\u043e \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Vagrant \u0438 \u0437\u0430\u0447\u0435\u043c \u043e\u043d \u0432\u043e\u043e\u0431\u0449\u0435 \u043d\u0443\u0436\u0435\u043d | \u0417\u0430\u043f\u0438\u0441\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u0430"
+}

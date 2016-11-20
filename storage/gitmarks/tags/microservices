@@ -1,0 +1,13 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c689b7d2a8a233b030a2436eaa9fcdfd", 
+    "uri": "https://www.consul.io/", 
+    "title": "Consul by HashiCorp"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a2a0e361f87fe5a7958c53877d6de085", 
+    "uri": "https://github.com/App-vNext/Polly", 
+    "title": "GitHub - App-vNext/Polly: Polly is a .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner."
+}

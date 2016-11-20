@@ -1,0 +1,109 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a408ffa7ca904bd0ef24f8b8b0360cc4", 
+    "uri": "http://dmlc.cs.washington.edu/xgboost.html", 
+    "title": "XGBoost"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c47dc681fc9a8ea51e36086b47408541", 
+    "uri": "https://msdn.microsoft.com/en-us/library/ff524512%28v=vs.93%29.aspx", 
+    "title": "Getting Started (Solver Foundation)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "35e261ae69a64d9888f4c23197a69df6", 
+    "uri": "https://www.geekbooks.me/book/view/introduction-to-computation-and-programming-using-python", 
+    "title": "Introduction to Computation and Programming Using Python - Download eBook PDF - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "144a313d19c35e23be9e0d7688ae4dce", 
+    "uri": "https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8", 
+    "title": "Introduction to Computer Science and Programming Using Python | edX"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cade6cb529a8a612012622126931301c", 
+    "uri": "https://github.com/jtoy/awesome-tensorflow/", 
+    "title": "GitHub - jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources http://tensorflow.org"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a264ed52373be6f91ff6058741702fd8", 
+    "uri": "http://www.datatau.com/", 
+    "title": "DataTau"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6249aa05567378088c377e03774795bb", 
+    "uri": "https://www.packtpub.com/books/content/building-recommendation-engine-spark", 
+    "title": "Building a Recommendation Engine with Spark | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5484fc9fd2dc7a73045a2eaf77bd7fce", 
+    "uri": "http://mc-stan.org/", 
+    "title": "Stan "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46ba44354a224cc5d882d332dbf68b85", 
+    "uri": "https://data-sorcery.org/book-recommendations/", 
+    "title": "Book Recommendations | Data Sorcery with Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3ce02c18ebbe782a2f2d166f8448ab5", 
+    "uri": "https://github.com/uncomplicate/bayadera", 
+    "title": "GitHub - uncomplicate/bayadera"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e65ca0362175b45929000547cd194feb", 
+    "uri": "http://blog.yhat.com/posts/moving-from-r-to-python.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1ba25903f01266a0042f61cb76023abf", 
+    "uri": "https://dzone.com/refcardz/distributed-machine-learning", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c46ba410611f2485cf5bcf1aab381ffc", 
+    "uri": "https://github.com/dakrone/cld", 
+    "title": "GitHub - dakrone/cld: Language detection for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3db9d2d5c0addee4910c469668ef2da1", 
+    "uri": "probmods.org/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3d9f99facdc00baf63a740376772bea7", 
+    "uri": "dippl.org", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7d00c2eeff634bfeae7110daaca4eab3", 
+    "uri": "hakaru-dev.github.io", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d5f052234c7ff2a76762120645396433", 
+    "uri": "http://probabilistic-programming.org/wiki/Home", 
+    "title": "Probabilistic Programming"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f4d21b8893cde246a5cc6d3d721d2a85", 
+    "uri": "https://github.com/thinktopic/cortex", 
+    "title": "GitHub - thinktopic/cortex: Machine learning in Clojure"
+}

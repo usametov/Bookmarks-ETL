@@ -1,0 +1,9 @@
+{
+    "hash": "fd8f262e6cb7cd5f2dcfda5aadcb5a32", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/miner/tagged", 
+    "private": false, 
+    "time": "2016-06-28T22:55:21Z", 
+    "title": "GitHub - miner/tagged: Clojure library for encoding Records as EDN tagged literals"
+}

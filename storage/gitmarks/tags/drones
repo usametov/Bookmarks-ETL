@@ -1,0 +1,13 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cc1139fa5694b5c700dcc74796ccc73f", 
+    "uri": "http://blog.yhat.com/posts/autonomous-droning-with-python.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aadc546c47eeb6def2fc4143085871b8", 
+    "uri": "http://nakkaya.com/2013/01/10/a-clojure-autopilot-for-parrot-ar-drone/", 
+    "title": "A Clojure Autopilot for Parrot A.R. Drone"
+}

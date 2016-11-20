@@ -1,0 +1,49 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ccfa1caf53742f2d987d94fcc35f45aa", 
+    "uri": "https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/", 
+    "title": "Too Many Requests"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8b1ddbef40a592897b9e30a46a4e53d", 
+    "uri": "https://github.com/drcode/clll", 
+    "title": "GitHub - drcode/clll: Run Ethereum LLL contract code directly in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6d6b90958383cfbdb46199ce87ca63ca", 
+    "uri": "https://github.com/pelle/clothereum", 
+    "title": "GitHub - pelle/clothereum: Native clojure library for Ethereum"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db5973db791d899310ac2e476326cf67", 
+    "uri": "https://github.com/pelle/cloth", 
+    "title": "GitHub - pelle/cloth: Simple  Ethereum library for Clojure(Script)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "664589a9e6576f08b12256c4e166b35f", 
+    "uri": "https://blogs.msdn.microsoft.com/caleteet/2016/06/19/version-1-1-of-solidity-extension-released/", 
+    "title": "Version 1.1 of Solidity Extension released! | Cale Teeter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e357e9eac73cd40c07799edd1abcae72", 
+    "uri": "http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/", 
+    "title": "Analysis of the DAO exploit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9b619e0238217ba44b7378e336422d7d", 
+    "uri": "http://www.nytimes.com/2016/06/18/business/dealbook/hacker-may-have-removed-more-than-50-million-from-experimental-cybercurrency-project.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "23a1f5bb974d7c135bd490463fc554b2", 
+    "uri": "https://medium.com/@matus.lestan/how-to-create-decentralised-apps-with-clojurescript-re-frame-and-ethereum-81de24d72ff5#.t9j1dc3r0", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}

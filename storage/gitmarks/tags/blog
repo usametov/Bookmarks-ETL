@@ -1,0 +1,103 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9e14992faad4ac7b4c0ef99f80046eaa", 
+    "uri": "http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/", 
+    "title": "A Plain English Guide to JavaScript Prototypes - Sebastian's Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c6fd1a219b694cba22837ba295ffc2de", 
+    "uri": "http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/", 
+    "title": "JavaScript&#8217;s Apply, Call, and Bind Methods are Essential for JavaScript Professionals | JavaScript is Sexy"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6696ef8bee734b0bb69d864d483a3938", 
+    "uri": "http://hiim.tv/2010/12/27/arduino-and-clojure/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "70c4360f7130f1345f3d95f49a210faf", 
+    "uri": "http://blog.gonzih.me/blog/2013/03/19/building-rc-toy-with-clojure/", 
+    "title": "Building RC Toy with Clojure - Max Gonzih"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f529a2154f9031a8e4a0bf1242e3e55", 
+    "uri": "https://stuartsierra.com/tag/dos-and-donts", 
+    "title": "do&#8217;s and don&#8217;ts &#8211; Digital Digressions by Stuart Sierra"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0c0be63e485e8516c0a5f699a9faa66a", 
+    "uri": "http://blog.higher-order.net/2009/02/01/understanding-clojures-persistentvector-implementation.html", 
+    "title": "Understanding Clojure's PersistentVector implementation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "214b61c49f67dc641fdcc7f955e86303", 
+    "uri": "http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html", 
+    "title": "Clojure :: Clojure core.async Channels"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f536494e648e1af77b9445d0c92acd45", 
+    "uri": "http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming", 
+    "title": "Transducers are Coming \u2014 Cognitect Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b401243e090f896e9f1f67d9ba6e2bf1", 
+    "uri": "http://ignaciothayer.com/post/Transducers-Are-Fundamental/", 
+    "title": "Transducers are fundamental"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f9fc787946b94e3698968f0e77a950cc", 
+    "uri": "https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1681f1e32a48279146e138ff95979b59", 
+    "uri": "https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "228e6cbd17f083df5bd5e81bec46f6bc", 
+    "uri": "http://zef.me/blog/5580/declaring-reality-an-introduction-to-datalog-part-ii", 
+    "title": "Declaring Reality: An Introduction to Datalog, part II \u2014 Zef.me"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "60b35e73f60f4cac531c814521b5c9c6", 
+    "uri": "http://www.samritchie.io/cascalog-2-0-in-depth/", 
+    "title": "Access denied | www.samritchie.io used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c13040e4bddbac5880aa0b4ab98f55e1", 
+    "uri": "http://www.samritchie.io/dynamic-cascalog-queries/", 
+    "title": "Access denied | www.samritchie.io used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "464e446446a53c0bc0d161a053909bc0", 
+    "uri": "http://entxtech.blogspot.co.uk/2010/12/which-operation-def-macro-should-i-use.html", 
+    "title": "Marc's Tech: Which operation def macro should I use in Cascalog?"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b7ae1fd098e37911dfe6999175d9cda2", 
+    "uri": "medium.com/@benbjohnson/go-walkthrough-strconv-7a24632a9e73", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ea919298c5da0898d30130e5a3f43b74", 
+    "uri": "https://pomcor.com", 
+    "title": "Pomcor &#8211; Research in Mobile and Web Technology"
+}

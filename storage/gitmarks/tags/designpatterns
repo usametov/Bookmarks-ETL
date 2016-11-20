@@ -1,0 +1,43 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec45c64fb298d61f5891037d6128e5b4", 
+    "uri": "https://wiki.haskell.org/Typeclassopedia", 
+    "title": "Typeclassopedia - HaskellWiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "339aee62b30b06ac12b61f4176543996", 
+    "uri": "https://patternsinfp.wordpress.com/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5b282c15c738617d338acaddc434593f", 
+    "uri": "http://www.androiddesignpatterns.com/2013/04/retaining-objects-across-config-changes.html", 
+    "title": "Handling Configuration Changes with Fragments | Android Design Patterns"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "433b1953c2c29aafb839c2798fd2fc04", 
+    "uri": "http://www.martinfowler.com/articles/injection.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59446bfb42b6334bdda8b30dd5e26767", 
+    "uri": "http://www.ccs.neu.edu/home/matthias/HtDP2e/", 
+    "title": "How to Design Programs, Second Edition"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8325679c3b26d58600270e49b714e421", 
+    "uri": "https://github.com/tmrts/go-patterns", 
+    "title": "GitHub - tmrts/go-patterns: A curated list of Go patterns and idioms"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47603dd12416e33aae081c865c4d65f0", 
+    "uri": "http://martinfowler.com/articles/injection.html", 
+    "title": "[No Title]"
+}

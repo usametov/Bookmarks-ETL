@@ -1,0 +1,31 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1200f39cf0582132bb309f126b512dca", 
+    "uri": "http://www.deeplearningbook.org/", 
+    "title": "Deep Learning"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d599ec3d4913909dca59dae8a34e32d3", 
+    "uri": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/", 
+    "title": "Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "919564f2b5a80398fe1a4c5b7d08e6cf", 
+    "uri": "https://mitpress.mit.edu/books/little-prover", 
+    "title": "The Little Prover | The MIT Press"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d23d3f570911d72a5401d203a834d035", 
+    "uri": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/index.htm", 
+    "title": "Geometric Folding Algorithms: Linkages, Origami, Polyhedra | Electrical Engineering and Computer Science | MIT OpenCourseWare"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6929d8343b168923911db9c5f5fef3c5", 
+    "uri": "http://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/unit-iii-fourier-series-and-laplace-transform/fourier-series-basics/", 
+    "title": "Fourier Series: Basics | Unit III: Fourier Series and Laplace Transform | Differential Equations | Mathematics | MIT OpenCourseWare"
+}

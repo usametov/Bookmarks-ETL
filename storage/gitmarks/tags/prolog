@@ -1,0 +1,25 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "08efbf01f408aa058d03d6c59c523205", 
+    "uri": "http://www.swi-prolog.org/", 
+    "title": "SWI-Prolog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fdc4cf128fde2f31eba233f68a7534b6", 
+    "uri": "http://learnprolognow.org/", 
+    "title": "Learn Prolog Now!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8baa37f55bce7f14330a2aaca620cb6b", 
+    "uri": "https://people.cs.kuleuven.be/~bart.demoen/PrologProgrammingContests/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5edc1423b1f82e6cb467cb93078723e0", 
+    "uri": "https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/", 
+    "title": "Try logic programming! A gentle introduction to Prolog &#8211; Bernardo Pires"
+}

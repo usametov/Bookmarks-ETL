@@ -1,0 +1,151 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6ffd53c5b2e5960439c2afaa9c21ee5b", 
+    "uri": "https://github.com/dominionenterprises/mongo-queue-csharp", 
+    "title": "GitHub - dominionenterprises/mongo-queue-csharp: C# message queue using MongoDB as a backend"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ccfdb7a98da67a283e6eb12bf57f4696", 
+    "uri": "https://www.udacity.com/course/data-wrangling-with-mongodb--ud032", 
+    "title": "Data Wrangling with MongoDB | Udacity"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42b80e772a29f29d3c90563bb80a3e41", 
+    "uri": "https://blog.i3arnon.com/2015/12/16/async-linq-to-objects-over-mongodb/", 
+    "title": "Async LINQ To Objects Over MongoDB | Bar Arnon"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "35f516ca3127f825754a03db3d747adb", 
+    "uri": "http://mongodb.github.io/mongo-csharp-driver/", 
+    "title": "MongoDB .NET Driver"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45a07a790e054da856554fa5954f3db5", 
+    "uri": "https://github.com/ximaoxo/awesome-mongodb", 
+    "title": "GitHub - ximaoxo/awesome-mongodb: A curated list of amazingly awesome mongodb and mongodb ecosystem resources."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec01d84eb628ca0663ce170a9aa22b5a", 
+    "uri": "http://mogade.com/", 
+    "title": "mogade helping you build great games"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d30f7572b060b25018cde445519aba68", 
+    "uri": "http://openmymind.net/mongly/", 
+    "title": "The MongoDB Collection"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b27797a20ff0c346039a0e9f77ee356d", 
+    "uri": "http://www.tutorialspoint.com/mongodb/mongodb_overview.htm", 
+    "title": "MongoDB Overview"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a03cc2ab9a32be52358796902484bdd4", 
+    "uri": "https://github.com/ramnes/awesome-mongodb", 
+    "title": "GitHub - ramnes/awesome-mongodb: A curated list of awesome MongoDB resources, libraries, tools and applications"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "715e9bd912bbccfabb44fee576ea5220", 
+    "uri": "https://docs.mongodb.org/manual/reference/operator/", 
+    "title": "Operators &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9780775cbce9944750dace33b5264dd3", 
+    "uri": "https://docs.mongodb.org/manual/reference/operator/query/type/", 
+    "title": "$type &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8deea2f22f371b1ebf85647fa4d37d82", 
+    "uri": "http://gregorowicz.blogspot.com/2010/12/using-underscorejs-with-mongodb.html", 
+    "title": "Andy's Blog: Using Underscore.js with MongoDB"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78ef254fedd63b10051c99b7fb502a0f", 
+    "uri": "https://github.com/scottie1984/mongo-func", 
+    "title": "GitHub - scottie1984/mongo-func: A functional approach to MongoDB"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2af7aea22acda7ecde923d219c7b92cf", 
+    "uri": "https://docs.mongodb.org/manual/tutorial/store-javascript-function-on-server/", 
+    "title": "Store a JavaScript Function on the Server &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1f315afb0c4afdde437463400595599", 
+    "uri": "https://docs.mongodb.org/manual/reference/operator/query/text/", 
+    "title": "$text &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "97640a950738693091e8cc20eb53eb35", 
+    "uri": "http://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835", 
+    "title": "Access denied | code.tutsplus.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3dbf57d6f71f5922195be0fcc8d1455", 
+    "uri": "https://github.com/pcarrasco23/FootlooseFinancialServices", 
+    "title": "GitHub - pcarrasco23/FootlooseFinancialServices: Sample online banking system using C#, .NET, SQL Server, Entity Framework, MongoDB, WCF, WebAPI, AngularJS, and AWS EC2 and SNS/Lamba"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4a63c9542f82dac5fdfab7fb5d17e48f", 
+    "uri": "http://www.fromdev.com/2014/02/Best-MongoDB-Books.html", 
+    "title": "','"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c44eeeb3a7a8eba18ff105e35f561497", 
+    "uri": "https://docs.mongodb.com/ecosystem/use-cases/", 
+    "title": "Use Cases"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "79c4e4618dc5dada66966bdb55d91e97", 
+    "uri": "http://www.slideshare.net/mongodb/common-use-cases-hannes", 
+    "title": "Common MongoDB Use Cases "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1905bc59da4dfe0036470dacbbb45de5", 
+    "uri": "http://bsonspec.org/", 
+    "title": "BSON - Binary JSON"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3432757ec1ec0fd6191c55269d500b5d", 
+    "uri": "http://learnmongodbthehardway.com/", 
+    "title": ""
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c7b517896a6d7f7dee057946500ccba3", 
+    "uri": "http://mongodb.github.io/mongo-csharp-driver/2.2/reference/driver/definitions/#array-operators", 
+    "title": "Definitions and Builders"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "300d928be09a088ba1c6aac178df32db", 
+    "uri": "https://docs.mongodb.com/manual/reference/sql-aggregation-comparison/", 
+    "title": "SQL to Aggregation Mapping Chart &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3a20a67deff3fdc8cec02d816cb69bb1", 
+    "uri": "http://mongotron.io/", 
+    "title": "Mongotron - Cross platform MongoDB management"
+}

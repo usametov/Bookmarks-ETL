@@ -1,0 +1,31 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3e5e5da57f07ff2f541041839360b90c", 
+    "uri": "https://www.youtube.com/watch?v=tBnu2JmK4p0", 
+    "title": "Desktop Apps with ClojureScript - Martin Klepsch - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f37ec9456589e13fdca4f60e592d415b", 
+    "uri": "https://speakerdeck.com/mklappstuhl/desktop-apps-with-clojurescript", 
+    "title": "Desktop Apps with ClojureScript // Speaker Deck"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6351709dc427d3bc3b8339c366ff99c8", 
+    "uri": "https://github.com/martinklepsch/electron-and-clojurescript", 
+    "title": "GitHub - martinklepsch/electron-and-clojurescript: Make an electron app with nothing but ClojureScript!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "50b6da536bf4374bfaa13490a4404b51", 
+    "uri": "https://youtu.be/j-kj2qwJa_E", 
+    "title": "Bruce Hauman - Developing ClojureScript With Figwheel - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "200e0feca2d505701d3b51b8475035b7", 
+    "uri": "https://github.com/JulianBirch/cljs-ajax", 
+    "title": "GitHub - JulianBirch/cljs-ajax: simple Ajax client for ClojureScript and Clojure"
+}

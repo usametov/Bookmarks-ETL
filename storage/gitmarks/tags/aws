@@ -1,0 +1,43 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "966140cb1965e3768d7c9cf6cad98eb3", 
+    "uri": "https://github.com/amzn/alexa-avs-raspberry-pi", 
+    "title": "GitHub - amzn/alexa-avs-raspberry-pi: This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3821632c007de6bb1fbc2984d8b0aba", 
+    "uri": "https://github.com/nathanmarz/storm-deploy", 
+    "title": "GitHub - nathanmarz/storm-deploy: One click deploy for Storm clusters on AWS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "446f214cbb47aa3b4a3a1bdb50ed7f49", 
+    "uri": "https://aws.amazon.com/lambda/pricing/", 
+    "title": "AWS Lambda | Pricing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e6fbc5bc86781541b5e12e158ffd8c89", 
+    "uri": "https://github.com/weavejester/clj-aws-s3", 
+    "title": "GitHub - weavejester/clj-aws-s3: S3 client library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5b0f01a730ec91433bec1085af622734", 
+    "uri": "https://github.com/weavejester/lein-beanstalk", 
+    "title": "GitHub - weavejester/lein-beanstalk: Leiningen plugin for Amazon&#39;s Elastic Beanstalk service"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "68c95b9c78136ee09d4fbd69c3ee4a81", 
+    "uri": "https://github.com/mcohen01/amazonica", 
+    "title": "GitHub - mcohen01/amazonica: A comprehensive Clojure client for the entire Amazon AWS api."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "154097fdec48a75f31addb536821015b", 
+    "uri": "https://github.com/open-guides/og-aws", 
+    "title": "GitHub - open-guides/og-aws: \ud83d\udcd9 Amazon Web Services \u2014 a practical guide"
+}

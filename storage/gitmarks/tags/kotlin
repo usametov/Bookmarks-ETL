@@ -1,0 +1,31 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2f1ea7e37a5df2eec32f59ecaf9605e8", 
+    "uri": "http://tomstechnicalblog.blogspot.co.uk/2016/02/kotlin-rxjava-what-rxjava-should-be.html", 
+    "title": "Thomas Nield: Kotlin + RxJava = Functional Powerhouse"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "972f5e9f57091c6c9ccd1213b9c704ee", 
+    "uri": "http://blog.jetbrains.com/kotlin/2015/11/webinar-recording-functional-programming-with-kotlin/", 
+    "title": "Webinar Recording: Functional Programming with Kotlin | Kotlin Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd7b2d13bd22d7104b32abb7ce042827", 
+    "uri": "http://kotlin.link/", 
+    "title": "Kotlin is Awesome!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c583d5e397ad68a8bd1a3342219d90cb", 
+    "uri": "https://github.com/Kotlin/kotlin-koans", 
+    "title": "GitHub - Kotlin/kotlin-koans: Kotlin workshop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0ef6dd55878ef29147094440950678b", 
+    "uri": "http://antonioleiva.com/kotlin-android-developers/", 
+    "title": "Kotlin for Android Developers: The book - Antonio Leiva"
+}

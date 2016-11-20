@@ -1,0 +1,259 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ab98f03b0dc78e06428a87bc1818c38e", 
+    "uri": "https://github.com/dotliquid/dotliquid", 
+    "title": "GitHub - dotliquid/dotliquid: .NET Port of Tobias L\u00fctke&#39;s Liquid template language."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "844397160aa2fbe27e79161e9fe25e35", 
+    "uri": "http://www.stringtemplate.org/", 
+    "title": "StringTemplate"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5c09b3ec55c7e8beebde843be1de1137", 
+    "uri": "http://nugetmusthaves.com/Package/Cottle", 
+    "title": "Cottle - NuGet Must Haves"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2c8c450d43d933b472018f47c184e8a2", 
+    "uri": "http://prismproof.org/index.html", 
+    "title": "Project: The Mathematical Mesh"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "08efbc137d06163b10e8654570accca8", 
+    "uri": "https://syncthing.net/", 
+    "title": "Syncthing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4357ee4d191530fd2efb7ce10dd496be", 
+    "uri": "https://github.com/syncany/syncany", 
+    "title": "GitHub - syncany/syncany: Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a77a5f8d21aca93262506dcf7f884ad2", 
+    "uri": "https://github.com/haiwen/seafile", 
+    "title": "GitHub - haiwen/seafile: Open source cloud storage with file encryption and group sharing, and emphasis on reliability and high performance."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e358c15a8ca6f381fce013a406f2dcc6", 
+    "uri": "https://github.com/netblue30/firejail", 
+    "title": "GitHub - netblue30/firejail: Linux namespaces and seccomp-bpf sandbox"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d7661d97c4c89d514c20f63394225b38", 
+    "uri": "https://github.com/tsgates/mbox", 
+    "title": "GitHub - tsgates/mbox: A lightweight sandbox tool for non-root users"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bf81c969787dde6a72973cb600074b09", 
+    "uri": "https://github.com/lodash/lodash/wiki/FP-Guide", 
+    "title": "FP Guide \u00b7 lodash/lodash Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc3fa2d982e41b1f06a180e78b5d6e7a", 
+    "uri": "https://github.com/MostlyAdequate/mostly-adequate-guide/tree/master/code", 
+    "title": "mostly-adequate-guide/code at master \u00b7 MostlyAdequate/mostly-adequate-guide \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b2ffdd441c4b769abf4d43c24df4dfd8", 
+    "uri": "https://github.com/ramda/ramda/wiki", 
+    "title": "Home \u00b7 ramda/ramda Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8b4643cadc7c5fc8ea549774afbe2826", 
+    "uri": "https://github.com/mimoo/Diffie-Hellman_Backdoor", 
+    "title": "GitHub - mimoo/Diffie-Hellman_Backdoor: How to backdoor Diffie-Hellman"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5b134a7abf6faa51adf07143487948c2", 
+    "uri": "https://facebook.github.io/react/docs/thinking-in-react.html", 
+    "title": "Thinking in React | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f14e80aec43d9ff5c33c645a96d59b9f", 
+    "uri": "https://github.com/donnut/typescript-ramda", 
+    "title": "GitHub - donnut/typescript-ramda: TypeScript&#39;s type definitions for Ramda"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4acd447deaa21540c85fd6a2c88aa867", 
+    "uri": "http://definitelytyped.org/", 
+    "title": "Home | DefinitelyTyped"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "31e5ac35b9e26d7d67fe16ab14e4392d", 
+    "uri": "http://folktalejs.org/", 
+    "title": "Overview - The Folktale framework for generic programming in JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b135550e4e5a4a78b4577f9b408bd9cc", 
+    "uri": "https://github.com/fantasyland/fantasy-land", 
+    "title": "GitHub - fantasyland/fantasy-land: Specification for interoperability of common algebraic structures in JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "24382ace49c823240eb690bc0557e150", 
+    "uri": "https://github.com/loop-recur/lambdajs", 
+    "title": "GitHub - loop-recur/lambdajs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bece746df1b9efd9022c6b16fc8a212c", 
+    "uri": "https://rawgit.com/loop-recur/lambdajs/master/docs/docs.html", 
+    "title": "Lambdajs Documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "313a4e8f57dd8432c396f388f8f1eba7", 
+    "uri": "https://github.com/ramda/ramdangular", 
+    "title": "GitHub - ramda/ramdangular: Ramda adapter for AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42de7ec1b9ffe2df59bb2161fc584c79", 
+    "uri": "https://github.com/oreillymedia/beautiful_javascript", 
+    "title": "GitHub - oreillymedia/beautiful_javascript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "572b2345570d3c8a1c5867043ee226e8", 
+    "uri": "https://github.com/jashkenas/coffeescript/wiki", 
+    "title": "Home \u00b7 jashkenas/coffeescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "84610344a4db40bd40646d742d273a4f", 
+    "uri": "http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/", 
+    "title": "Boost the Performance of an AngularJS Application Using Immutable Data &#8211; Minko Gechev's blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bb4fd8098940486edb6855b3d668be47", 
+    "uri": "Boost the Performance of an AngularJS Application Using Immutable Data", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c01cea4f56b6a01482a2226b55e13f17", 
+    "uri": "https://github.com/lauripiispanen/angular-bacon", 
+    "title": "GitHub - lauripiispanen/angular-bacon: Angular-bacon.js bindings"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ceb3dda9af298a78969206ca0efb0b57", 
+    "uri": "bacon.js bindings for angularJs", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9def52ac4dbfbb0465690799f2e3a0fd", 
+    "uri": "https://gist.github.com/seanxwh/f575104c81c2bcbdcfba", 
+    "title": "Hardcore Function Javascript - Compose Ex \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "231843bce0d6e6a3f8e5b5c1e41323c6", 
+    "uri": "solutions for hardcore functional programming in javascript", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cca462fb68deee3f28cffdf60e1c13a5", 
+    "uri": "http://clojure.org/about/clojurescript", 
+    "title": "Clojure - ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "566e0981021bea73a848157cd6ac170c", 
+    "uri": "https://gist.github.com/seanxwh/cf87d244456f4a392a7d", 
+    "title": "Hardcore Functional JS- Future,Bacon&amp;etc \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "70d17cb4612dcd953a360146da9117eb", 
+    "uri": "https://gist.github.com/seanxwh", 
+    "title": "seanxwh\u2019s gists \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03c81ace500b3f9de93338d16b3743fb", 
+    "uri": "https://docs.google.com/presentation/d/1WmIH538r0ubjW5zfKh43I1_Up4OnqQnNhICETyDnhSI/", 
+    "title": "Pristine master slides - Google Slides"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a22784f9c6a4735106befa452456969f", 
+    "uri": "https://github.com/begriffs/immutube", 
+    "title": "GitHub - begriffs/immutube: Youtube + functors, a most unlikely combo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ee80d9181d930a1b37a3b9cb932bc28a", 
+    "uri": "https://github.com/ramda/ramda/wiki/Cookbook", 
+    "title": "Cookbook \u00b7 ramda/ramda Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5caa3e589cbb0182d6962b1612149837", 
+    "uri": "https://github.com/panayi/calculator", 
+    "title": "GitHub - panayi/calculator: A calculator built with React, Redux and Ramda"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2bafaa611841903ba5f0fc9cfc0c017e", 
+    "uri": "https://github.com/davezuko/react-redux-starter-kit", 
+    "title": "GitHub - davezuko/react-redux-starter-kit: Get started with React, Redux, and React-Router!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "be5af1161b4b3325ee35cb26673ce98d", 
+    "uri": "https://simplewebrtc.com/", 
+    "title": "SimpleWebRTC.js from &amp;yet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6f7003b59600abd0c67c36ca683aae63", 
+    "uri": "https://github.com/bumptech/glide", 
+    "title": "GitHub - bumptech/glide: An image loading and caching library for Android focused on smooth scrolling"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6ffd53c5b2e5960439c2afaa9c21ee5b", 
+    "uri": "https://github.com/dominionenterprises/mongo-queue-csharp", 
+    "title": "GitHub - dominionenterprises/mongo-queue-csharp: C# message queue using MongoDB as a backend"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "70cd64c57a10bcb8141d280e91c6f00e", 
+    "uri": "https://xakep.ru/tag/github/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6351709dc427d3bc3b8339c366ff99c8", 
+    "uri": "https://github.com/martinklepsch/electron-and-clojurescript", 
+    "title": "GitHub - martinklepsch/electron-and-clojurescript: Make an electron app with nothing but ClojureScript!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7edf2427859724fa5ba88b886d67b556", 
+    "uri": "https://help.github.com/articles/generating-an-ssh-key/", 
+    "title": "[No Title]"
+}

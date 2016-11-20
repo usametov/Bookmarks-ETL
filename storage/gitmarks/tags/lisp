@@ -1,0 +1,169 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1f08df1b4178a0371e189a12c82f98c6", 
+    "uri": "https://www.cs.rice.edu/~javaplt/311/Readings/supplemental.pdf", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9fe27a4127c6896f54419bffa38679e5", 
+    "uri": "http://www.ccs.neu.edu/home/dherman/research/tutorials/monads-for-schemers.txt", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d3537ae1b2de93e7215b3a512792ea23", 
+    "uri": "http://www.lispmachine.net/", 
+    "title": "LISP Information and Resources"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "135f2defa5f576271d35f8a129f5b8b7", 
+    "uri": "http://www.gigamonkeys.com/book/syntax-and-semantics.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d599ec3d4913909dca59dae8a34e32d3", 
+    "uri": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/", 
+    "title": "Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "324ab72d945fb7e1220f85ea0d6f8ccb", 
+    "uri": "http://docs.hylang.org/en/latest/", 
+    "title": "Welcome to Hy\u2019s documentation! &mdash; hy 0.11.0 documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f2824ad7dc770d5f5d27a0219398c722", 
+    "uri": "http://joxa.org", 
+    "title": "Joxa"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fbb2344e35bc56ef756a150bffebe435", 
+    "uri": "https://github.com/glycerine/zygomys/wiki", 
+    "title": "Home \u00b7 glycerine/zygomys Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b588b4cfe082e8908060aaab7012408", 
+    "uri": "https://github.com/ashinn/chibi-scheme", 
+    "title": "GitHub - ashinn/chibi-scheme: Official chibi-scheme repository"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "441c66559c676e239a866cda4c782f09", 
+    "uri": "http://peter.michaux.ca/articles/scheme-from-scratch-introduction", 
+    "title": "peter.michaux.ca - Scheme from Scratch - Introduction"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59eb3e93452e500d3305832dd7978f86", 
+    "uri": "http://armpit.sourceforge.net/", 
+    "title": "A Scheme Interpreter for ARM Microcontrollers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "35b11581f4bce17453d437848bf31010", 
+    "uri": "http://www.ccs.neu.edu/home/stamourv/papers/picobit.pdf", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "089981b5638256d129199295dfe09164", 
+    "uri": "http://repo.or.cz/w/picobit.git", 
+    "title": "Public Git Hosting - picobit.git/summary"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42ad9edbd84cfaec8d75e9013a4c149e", 
+    "uri": "https://web.archive.org/web/20120105005420/http://hedgehog.oliotalo.fi/", 
+    "title": "Hedgehog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e99a8d00b94823999e06184ef573ec50", 
+    "uri": "https://stuarth.github.io/pixie/pixie-pi/", 
+    "title": "Pixie Pi &#8211; Stuart Hinson"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9e31d980003bf3bd73a5a0b3949b82e0", 
+    "uri": "http://gambitscheme.org/wiki/index.php/Main_Page", 
+    "title": "Main Page - Gambit wiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "89b7c0f3f9a963e9ae0558352cc82219", 
+    "uri": "http://nakkaya.com/2010/08/24/a-micro-manual-for-lisp-implemented-in-c/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f8af8124c8b07e7f044291fa5b28611b", 
+    "uri": "http://www.gigamonkeys.com/book/", 
+    "title": "Practical Common Lisp"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e8ba0fbe2c7e8c6ede8b33fe3e1e920e", 
+    "uri": "https://github.com/pcl-ru/pcl-ru", 
+    "title": "GitHub - pcl-ru/pcl-ru"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "90e2fcefa8e56d919ce490be5a19df83", 
+    "uri": "https://github.com/takeoutweight/clojure-scheme", 
+    "title": "GitHub - takeoutweight/clojure-scheme: Clojure to Scheme to C to the bare metal."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03325c2d5de639710090b38a060b9e30", 
+    "uri": "http://cjohansen.no/an-introduction-to-elisp/", 
+    "title": "An introduction to Emacs Lisp"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f3e5cb0bb359c0c08b3f90eaa621bf5", 
+    "uri": "http://lisperati.com/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b302aec19648f5590e37346adeca6219", 
+    "uri": "https://github.com/pkrumins/the-little-schemer", 
+    "title": "GitHub - pkrumins/the-little-schemer: All the Scheme code examples from the book &quot;The Little Schemer&quot;"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a8a8298ddd76a7040af71304639ecbcd", 
+    "uri": "http://home.pipeline.com/~hbaker1/Use1Var.html", 
+    "title": "'Use-Once' Variables and Linear Objects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1d4ff8490c590a2e1c30e7dcc7b71f59", 
+    "uri": "http://home.pipeline.com/~hbaker1/LQsort.html", 
+    "title": "ACM Sigplan Notices 29, 2 (Feb. 1994), 13-18."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ce48d2506f7806273ed12e6aed9f15ae", 
+    "uri": "http://home.pipeline.com/~hbaker1/LBoyer.html", 
+    "title": "ACM Sigplan Lisp Pointers VI, 4 (Oct/Dec 1993), 3-10."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2cacb9f0fb53d2ef61d091acae004737", 
+    "uri": "http://home.pipeline.com/~hbaker1/LFrpoly.html", 
+    "title": "ACM Sigsam Bull. 27, 4 (Dec. 1993), 10-14."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b98b7431295cbf91f241925f0a953fda", 
+    "uri": "https://github.com/Sauermann/emacs-aes", 
+    "title": "GitHub - Sauermann/emacs-aes: Emacs Lisp implementation of AES"
+}

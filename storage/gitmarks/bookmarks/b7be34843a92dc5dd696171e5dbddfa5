@@ -1,0 +1,9 @@
+{
+    "hash": "b7be34843a92dc5dd696171e5dbddfa5", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "http://clojurerabbitmq.info/", 
+    "private": false, 
+    "time": "2016-06-29T10:32:12Z", 
+    "title": "Langohr, an idiomatic Clojure RabbitMQ client | Clojure AMQP 0.9.1 client"
+}

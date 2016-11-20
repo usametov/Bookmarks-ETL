@@ -1,0 +1,85 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b6acfe6859f790bf8ca181a89bbbf666", 
+    "uri": "http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/", 
+    "title": "Bash Shortcuts For Maximum Productivity"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e358c15a8ca6f381fce013a406f2dcc6", 
+    "uri": "https://github.com/netblue30/firejail", 
+    "title": "GitHub - netblue30/firejail: Linux namespaces and seccomp-bpf sandbox"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d7661d97c4c89d514c20f63394225b38", 
+    "uri": "https://github.com/tsgates/mbox", 
+    "title": "GitHub - tsgates/mbox: A lightweight sandbox tool for non-root users"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6deccfb2da9c8368d8355602a9bba853", 
+    "uri": "https://danielmiessler.com/study/tmux/", 
+    "title": "A tmux Primer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e122dcbf17c0aa53b87fb0e8f4f2abfe", 
+    "uri": "https://www.systemcodegeeks.com/shell-scripting/bash/linux-cut-examples/", 
+    "title": "Access denied | www.systemcodegeeks.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "644d03605b2c96b37429d7a69c616137", 
+    "uri": "http://stackoverflow.com/questions/35435946/running-nginx-proxy-for-kestrel-aspnet5", 
+    "title": "Access denied | stackoverflow.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8963e6e1b58e1c778bc8f541c91bc303", 
+    "uri": "https://www.systemcodegeeks.com/", 
+    "title": "Access denied | www.systemcodegeeks.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de428ac0b5e87843ce923eb9ca9e4190", 
+    "uri": "https://github.com/tldr-pages/tldr/", 
+    "title": "GitHub - tldr-pages/tldr: Simplified and community-driven man pages"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "889d902cc55e9785d49bdbe53eef202a", 
+    "uri": "https://github.com/quarkslab/binmap", 
+    "title": "GitHub - quarkslab/binmap: system scanner"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "00c23bc7b22456f48475fe06d0a15fe8", 
+    "uri": "https://www.geekbooks.me/tag/view/linux", 
+    "title": "Linux - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "915e7adb2c531b81b7aa957bdeca5bc9", 
+    "uri": "http://www.tecmint.com/install-rootkit-hunter-scan-for-rootkits-backdoors-in-linux/", 
+    "title": "How to Scan for Rootkits, backdoors and Exploits Using 'Rootkit Hunter' in Linux"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a48335f15a47b7ca18e258d2f693bce3", 
+    "uri": "https://www.gnu.org/software/gawk/manual/gawk.html", 
+    "title": "The GNU Awk User&rsquo;s Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03008f5554aeb9d40a0cbcc0653ddec5", 
+    "uri": "http://www.cs.columbia.edu/~tal/3261/fall07/handout/egrep_mini-tutorial.htm", 
+    "title": "egrep mini-tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "56d3b19bebdef25126badbea4c355ae0", 
+    "uri": "http://www.cl.cam.ac.uk/research/security/capsicum/", 
+    "title": "Computer Laboratory: Capsicum: practical capabilities for UNIX"
+}

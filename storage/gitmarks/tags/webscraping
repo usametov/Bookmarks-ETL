@@ -1,0 +1,19 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "50f1b1c9a6cac8ffccf8d8f41f1332ad", 
+    "uri": "http://snippets.aktagon.com/snippets/534-how-to-scrape-web-pages-with-phantomjs-and-jquery", 
+    "title": "How to scrape web pages with PhantomJS and jQuery"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "37764364049ab9af209655459ab1b075", 
+    "uri": "https://github.com/swannodette/enlive-tutorial", 
+    "title": "GitHub - swannodette/enlive-tutorial: An Easy Introduction to Enlive"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "87c2ece515111bd58a9bd6663737f107", 
+    "uri": "http://ericsomdahl.github.io/posts/2015-03-07-gevents1.html", 
+    "title": "(defthoughts): Clojure web scraping with Enlive"
+}

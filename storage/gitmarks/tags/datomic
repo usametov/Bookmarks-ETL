@@ -1,0 +1,85 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "43d0a3c5c51990bb0d2d127521c1cb26", 
+    "uri": "http://udayv.com", 
+    "title": "verma / blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8ba50dd7271ce1e9688b4a30cd81a88d", 
+    "uri": "http://pinboard.in/t:datomic/", 
+    "title": "Pinboard bookmarks tagged datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b3a906ac454c8bf42658c9b2bc639094", 
+    "uri": "https://vimeo.com/cognitect/videos", 
+    "title": "Cognitect&rsquo;s Videos on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6130fc8bb566d28e7f6f59d9568bf791", 
+    "uri": "https://www.infoq.com/presentations/Datomic-Database-Value", 
+    "title": "The Database as a Value"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59fda0434bd1596b2a42286cf7df0a87", 
+    "uri": "http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/", 
+    "title": "Conversations with Datomic Part 2 - Squid's Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eb007c8ca4dbd3dfe7fc29b11608c2f5", 
+    "uri": "http://docs.datomic.com/best-practices.html", 
+    "title": "Datomic Best Practices | Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e49ca93c0060fb450df2c3c08b750a09", 
+    "uri": "http://www.datomic.com/training.html", 
+    "title": "Training - Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57c145314c77164736b72fa2995afc70", 
+    "uri": "https://github.com/jonase/learndatalogtoday", 
+    "title": "GitHub - jonase/learndatalogtoday: Interactive Datalog Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b568e5a352b98bdc789e5864032094c0", 
+    "uri": "https://hashrocket.com/blog/posts/using-datomic-as-a-graph-database", 
+    "title": "Using Datomic as a Graph Database | The Hashrocket Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d15c0e1742687aa10d339bf02f0baf32", 
+    "uri": "http://docs.datomic.com/query.html", 
+    "title": "Datomic Queries and Rules | Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d819061139adcc7ab173c7bb1d7679b7", 
+    "uri": "http://blog.datomic.com/2015/01/datalog-enhancements.html", 
+    "title": "Datomic: More Power for Datomic Datalog: Negation, Disjunction, and Range Optimizations"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1a4beece8f6ba1ecc7bc251a0ccb38c", 
+    "uri": "https://github.com/SparkFund/spec-tacular", 
+    "title": "GitHub - SparkFund/spec-tacular: Make the border between Clojure and Datomic a more convenient and safe place to live."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd70cbc7bc2e90687a59ef950cfb529e", 
+    "uri": "http://docs.datomic.com/tutorial.html", 
+    "title": "Tutorial | Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d62acb0c38705f978bf88d7cbe7cd129", 
+    "uri": "http://vvvvalvalval.github.io/posts/2016-07-24-datomic-web-app-a-practical-guide.html", 
+    "title": "Val on Programming: Using Datomic in your app: a practical guide"
+}

@@ -1,0 +1,9 @@
+{
+    "hash": "fee4518ce03b9b97b7a27644bfb6d2b0", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/franks42/clj-ns-browser", 
+    "private": false, 
+    "time": "2016-09-12T22:36:07Z", 
+    "title": "GitHub - franks42/clj-ns-browser: Smalltalk-like namespace/class/var/function browser for clojure docs and source-code based on seesaw"
+}

@@ -1,0 +1,9 @@
+{
+    "hash": "ae98533c6ae4018ae5bf8b8881c553c4", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/peterschwarz/clj-gpio", 
+    "private": false, 
+    "time": "2016-06-03T17:34:15Z", 
+    "title": "GitHub - peterschwarz/clj-gpio: A basic library for reading, writing and watching GPIO signals on a Raspberry PI, in a REPL-friendly way."
+}

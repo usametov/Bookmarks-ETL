@@ -1,0 +1,2341 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45823ab3e948bf070dd2b207067e24c2", 
+    "uri": "http://github.com/technomancy/leiningen", 
+    "title": "GitHub - technomancy/leiningen: Automate Clojure projects without setting your hair on fire."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2fa1f29d94374997616eaff2e74435f5", 
+    "uri": "http://dev.clojure.org/display/doc/Getting+Started", 
+    "title": "Getting Started - Clojure Documentation - Clojure Development"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6614dc07897f5d3ed20884545b2be208", 
+    "uri": "http://dev.clojure.org/display/doc/Getting+Started+with+Eclipse+and+Counterclockwise", 
+    "title": "Getting Started with Eclipse and Counterclockwise - Clojure Documentation - Clojure Development"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9b5e58843782d95fe5abb965865802ef", 
+    "uri": "http://pinboard.in/t:clojure/", 
+    "title": "Pinboard bookmarks tagged clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
+    "uri": "http://java.ociweb.com/mark/clojure/article.html", 
+    "title": "Clojure - Functional Programming for the JVM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c6240a53eeff889a0b425cecac176458", 
+    "uri": "http://www.braveclojure.com/", 
+    "title": "Learn to Program the World's Most Bodacious Language with Clojure for the Brave and True"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9fc17042a1fb265e6ad55621b36943b6", 
+    "uri": "https://aphyr.com/tags/Clojure-from-the-ground-up", 
+    "title": "Clojure from the ground up"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7efb8fd61a06ae8cd574c3aa81d963ab", 
+    "uri": "http://www.infoq.com/presentations/Simple-Made-Easy", 
+    "title": "Simple Made Easy"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c50ffc9e28755d3b622c8852e52817db", 
+    "uri": "http://clojure.org/api/cheatsheet", 
+    "title": "Clojure - Cheatsheet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c964db9b7c92622c08d9b16a361421a", 
+    "uri": "http://readwrite.com/2011/07/01/free-e-books-on-clojure/", 
+    "title": "10+ Free Resources for Learning Clojure - ReadWrite"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "88cadba7bb2bfb90cc5ebbfe3ec18e60", 
+    "uri": "https://github.com/alda-lang/alda", 
+    "title": "GitHub - alda-lang/alda: A music programming language for musicians."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c3689af3d36131e03130ec8c4a9d07b", 
+    "uri": "http://clojure-android.info/", 
+    "title": "Clojure on Android"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "37944a4ce402bc5d547884988b5303ee", 
+    "uri": "https://github.com/pw4ever/tbnl", 
+    "title": "GitHub - pw4ever/tbnl: TBNL: Rule your Android, as the Root, fully programmable, in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7f8d68ba453fb8ecfe6fe376ea6ea259", 
+    "uri": "https://github.com/oakes/Nightweb", 
+    "title": "GitHub - oakes/Nightweb: An anonymous P2P social network in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f70b6f273f6a3b2c981296f69e575ff7", 
+    "uri": "https://www.reddit.com/r/Nightcode/", 
+    "title": "Too Many Requests"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1cfd8898dc5cc8a4a4c42f74b1cb3663", 
+    "uri": "https://github.com/emezeske/lein-cljsbuild", 
+    "title": "GitHub - emezeske/lein-cljsbuild: Leiningen plugin to make ClojureScript development easy."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d4bec42b9a4813b6ea568bdde99fffde", 
+    "uri": "https://github.com/clojure-android/lein-droid/wiki/Tutorial", 
+    "title": "Tutorial \u00b7 clojure-android/lein-droid Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "02eb0e24360593f2adbcac576b65a68d", 
+    "uri": "https://github.com/alexander-yakushev/events/blob/master/tutorial.md", 
+    "title": "events/tutorial.md at master \u00b7 alexander-yakushev/events \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "236f7db26bdabe1f60e38326b15862fe", 
+    "uri": "https://github.com/gorillalabs/sparkling", 
+    "title": "GitHub - gorillalabs/sparkling: A Clojure library for Apache Spark: fast, fully-features, and developer friendly"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7423cc3d83626dd77030dc062314df39", 
+    "uri": "http://mishadoff.com/blog/spark-in-clojure/", 
+    "title": "Spark in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1022879d1582451c6c42ef5b3af06e8", 
+    "uri": "https://github.com/clojure/core.logic/", 
+    "title": "GitHub - clojure/core.logic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "128a7047d99f7e487125d3f3c23b9bf2", 
+    "uri": "http://hypirion.com/musings/understanding-persistent-vector-pt-1", 
+    "title": "polymatheia - Understanding Clojure's Persistent Vector, pt. 1"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "23b3cbcacd19408a5f74febdd74f004a", 
+    "uri": "https://aphyr.com/posts/319-clojure-from-the-ground-up-debugging", 
+    "title": "Clojure from the ground up: debugging"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47a3123628a83a5fba854623dc5fae26", 
+    "uri": "https://gist.github.com/ghoseb/287710/", 
+    "title": "Clojure ns syntax cheat-sheet \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd66e32d03ad9f40018f17ada9f3dc3f", 
+    "uri": "https://github.com/clojure-android/neko", 
+    "title": "GitHub - clojure-android/neko: The Clojure/Android Toolkit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e20fd93877c1624cf08ef4042ba3333e", 
+    "uri": "http://clojuredocs.org", 
+    "title": "Community-Powered Clojure Documentation and Examples | ClojureDocs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b5b775e328584346b342c1465d3f06e6", 
+    "uri": "http://clojure.org/java_interop#Java%20Interop-The%20Dot%20special%20form", 
+    "title": "Clojure - Java Interop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "43efad31a7dea7fd9918c3ca3bf8d7ab", 
+    "uri": "http://www.braveclojure.com/java/", 
+    "title": "Working with the JVM | Clojure for the Brave and True"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1ed2f30e2187eb9c3fb6111c2f88152b", 
+    "uri": "https://clojure.github.io/clojure/clojure.java.io-api.html", 
+    "title": "clojure.java.io - Clojure v1.8 API documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bd756463d2da5b34290f34ce6b67e68", 
+    "uri": "https://github.com/wiseman/turboshrimp", 
+    "title": "GitHub - wiseman/turboshrimp: Clojure API for the Parrot AR.Drone."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "951226c200b8552eb15ab13ec0cb3ace", 
+    "uri": "https://github.com/gigasquid/clj-drone", 
+    "title": "GitHub - gigasquid/clj-drone: Clojure Copter - Control for the AR Parrot Drone"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd64a3be8e42b917859c6b9ddd0d2b69", 
+    "uri": "https://habrahabr.ru/post/222737/", 
+    "title": "\u041a\u0430\u043a \u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043b web-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0442\u043e\u043b\u044c\u043a\u043e clojure / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d44ca1b0bf0b514ba5aeac3bf6bda89c", 
+    "uri": "http://www.braveclojure.com/multimethods-records-protocols/", 
+    "title": "Creating and Extending Abstractions with Multimethods, Protocols, and Records | Clojure for the Brave and True"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "132d9381bc3abc19b62e72326675f95c", 
+    "uri": "http://www.clojure-toolbox.com/", 
+    "title": "The Clojure Toolbox"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c6585031134e6227ed2ccb475d5c3f0", 
+    "uri": "https://github.com/jonase/eastwood", 
+    "title": "GitHub - jonase/eastwood: Clojure lint tool"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f4660f53a7ae02de1c81c81f399e948", 
+    "uri": "https://github.com/technomancy/leiningen/blob/stable/doc/TUTORIAL.md", 
+    "title": "leiningen/TUTORIAL.md at stable \u00b7 technomancy/leiningen \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "71979ffa50817ed4e997cdf6574f949a", 
+    "uri": "http://www.luminusweb.net/", 
+    "title": "Luminus - a Clojure web framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e5f4e6defa41eaafb8f170923c3ea2a7", 
+    "uri": "https://www.reddit.com/r/clojure", 
+    "title": "Too Many Requests"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ac28106e3db0204e2d1b7159035c2a28", 
+    "uri": "https://www.niwi.nz/cljs-workshop/", 
+    "title": "ClojureScript Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ffd625a8ca5c91eb4bc980eb5f9766ea", 
+    "uri": "https://github.com/clojure/clojurescript/wiki#libraries", 
+    "title": "Home \u00b7 clojure/clojurescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b61d5707c5913e265a0dd5eeb67fb6c", 
+    "uri": "http://clojurescriptmadeeasy.com/", 
+    "title": "Clojurescript Made Easy"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6cff9cf535f32e30289fda4c99d17203", 
+    "uri": "http://cljs.info/cheatsheet/", 
+    "title": "ClojureScript Cheatsheet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "44bcf75b82ad8d22cec4523b5bc8387b", 
+    "uri": "https://my.datomic.com/downloads/free", 
+    "title": "Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bcbef71069d6d0a384b1e01597c7e7be", 
+    "uri": "https://github.com/Datomic/day-of-datomic", 
+    "title": "GitHub - Datomic/day-of-datomic: Sample Code for Day of Datomic presentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "14b4115a4f91afd302fcac5dd2335341", 
+    "uri": "https://github.com/ring-clojure/ring/wiki", 
+    "title": "Home \u00b7 ring-clojure/ring Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3cb4c5958772583cf99f8d29e917f8ed", 
+    "uri": "http://www.ibm.com/developerworks/library/j-clojure-protocols/", 
+    "title": "Solving the Expression Problem with Clojure 1.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f881a9b36572d42e7e0adbdbf9370148", 
+    "uri": "https://cursive-ide.com/userguide/", 
+    "title": "Cursive: Getting Started"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "36b263a023a94abc0689a553921cdb91", 
+    "uri": "https://github.com/gigasquid/clj-roomba", 
+    "title": "GitHub - gigasquid/clj-roomba: Sample project to control your Roomba with the Clojure REPL"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3ff7a64d748d971e622516ebf8d79c2f", 
+    "uri": "https://github.com/gigasquid/roomba-drone-friends", 
+    "title": "GitHub - gigasquid/roomba-drone-friends: Roomba and AR Drone are Friends"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b58344056747ebcd3a6c38244412d745", 
+    "uri": "https://habrahabr.ru/post/173071/", 
+    "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0441\u0442\u043e\u0438\u0442 \u0438\u0437\u0443\u0447\u0438\u0442\u044c Clojure? / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b864f4775294d64dcbfc3dd2e2f0f92", 
+    "uri": "http://alexott.net/ru/clojure/ClojureHadoop.html", 
+    "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 Hadoop \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9d660e3f6cd25641055f2985cdb5d6d2", 
+    "uri": "http://planet.clojure.in/", 
+    "title": "Planet Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "35777546f25749f5e778745a76baf251", 
+    "uri": "https://vimeo.com/11236603", 
+    "title": "Clojure 1.2 Protocols on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b3a906ac454c8bf42658c9b2bc639094", 
+    "uri": "https://vimeo.com/cognitect/videos", 
+    "title": "Cognitect&rsquo;s Videos on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3861d1d14734108aa5223f67aedf299a", 
+    "uri": "https://crossclj.info/", 
+    "title": "CrossClj - cross-referencing the clojure ecosystem"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c3929435725626cf6352c46d8a6d8c3a", 
+    "uri": "https://github.com/jonase/kibit", 
+    "title": "GitHub - jonase/kibit: There&#39;s a function for that!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c0cb417d580c9fdb5e1a43e1feb74dd6", 
+    "uri": "http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded", 
+    "title": "Blog | My Clojure Workflow, Reloaded | Relevance"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "397c8932dd89146142f0772ad36d613b", 
+    "uri": "http://cider.readthedocs.io/en/latest/", 
+    "title": "CIDER: The Clojure Interactive Development Environment that Rocks"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e08d2a4679d197fe43a78e42f0eae1d5", 
+    "uri": "https://github.com/timgalebach/clj-workflow-template", 
+    "title": "GitHub - timgalebach/clj-workflow-template: Shows an example of an application instance created as a variable"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9898bb0056b8a20ca316add88f433230", 
+    "uri": "http://www.cascading.org/projects/cascalog/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "92eb94079c3c35600cc3b32568c65e9f", 
+    "uri": "http://cascalog.org", 
+    "title": "Cascalog | Data processing on Hadoop without the hassle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9d811809cf7163795d0195af8dd8f791", 
+    "uri": "https://github.com/Cascading/Impatient-Cascalog", 
+    "title": "GitHub - Cascading/Impatient-Cascalog: Cascalog for the Impatient"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "664c6b1d5b69b233a52378bdb1f1effb", 
+    "uri": "https://github.com/clojure/core.match/wiki/Overview", 
+    "title": "Overview \u00b7 clojure/core.match Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0894e5d299fafc3760a7e76ec79cc9a6", 
+    "uri": "http://clojure-doc.org/", 
+    "title": "Clojure Guides | Getting Started With Clojure | Clojure Tutorials | Clojure Documentation | Clojure Docs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "858224dcee01af5ea17aeb46f6b70da4", 
+    "uri": "https://github.com/daveray/seesaw", 
+    "title": "GitHub - daveray/seesaw: Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4db66cf56051bb69c1738e419aa823f8", 
+    "uri": "http://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html", 
+    "title": "Pattern (Java Platform SE 7 )"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c9ad5350ca18e345447a9811c2fa1be2", 
+    "uri": "https://github.com/clojure/data.finger-tree", 
+    "title": "GitHub - clojure/data.finger-tree: Finger Tree data structure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3bbc8dbaa8dcbefb9db73e64e5642769", 
+    "uri": "http://nakkaya.com/clodiuno.html", 
+    "title": "Clodiuno - Clojure API for Arduino"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9da45fdeb70f780bed1ccbc8e060454b", 
+    "uri": "https://github.com/peterschwarz/clj-firmata", 
+    "title": "GitHub - peterschwarz/clj-firmata: clj-firmata provides access to Standard Firmata (http://firmata.org/) commands via clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6696ef8bee734b0bb69d864d483a3938", 
+    "uri": "http://hiim.tv/2010/12/27/arduino-and-clojure/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "70c4360f7130f1345f3d95f49a210faf", 
+    "uri": "http://blog.gonzih.me/blog/2013/03/19/building-rc-toy-with-clojure/", 
+    "title": "Building RC Toy with Clojure - Max Gonzih"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a71fc2d26c9b5f177c98618f32d260a9", 
+    "uri": "http://pschwarz.bicycle.io/blog/2014/01/28/serial_access_via_clojure.html", 
+    "title": "Serial Access via Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae98533c6ae4018ae5bf8b8881c553c4", 
+    "uri": "https://github.com/peterschwarz/clj-gpio", 
+    "title": "GitHub - peterschwarz/clj-gpio: A basic library for reading, writing and watching GPIO signals on a Raspberry PI, in a REPL-friendly way."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4e413b9bd45415808695c31f696883ff", 
+    "uri": "https://purelyfunctional.tv/free-content/", 
+    "title": "Courses with Free Content | PurelyFunctional.tv"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5069b9d11a0e9b7485e12c5bd129866c", 
+    "uri": "https://github.com/micmarsh/coindeck", 
+    "title": "GitHub - micmarsh/coindeck: Manage all of your online wallets + cryptocurrencies in one place"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a7e746418b22d718a7b0ba2f411088c1", 
+    "uri": "http://docs.opencv.org/2.4/doc/tutorials/introduction/clojure_dev_intro/clojure_dev_intro.html", 
+    "title": "Introduction to OpenCV Development with Clojure &mdash; OpenCV 2.4.13.0 documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1539f1105c601aae4d415b0a129a68d", 
+    "uri": "https://github.com/razum2um/awesome-clojure", 
+    "title": "GitHub - razum2um/awesome-clojure: A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3cbb50508e7611b2bc4dc249b73d20c", 
+    "uri": "https://github.com/antoniogarrote/clj-tesseract", 
+    "title": "GitHub - antoniogarrote/clj-tesseract: Clojure wrapper for the Tesseract OCR software"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "37629c5481caea94744e47e664da17a4", 
+    "uri": "http://nakkaya.com/vision.html", 
+    "title": "Vision - OpenCV wrapper for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b561fc09463d49b7bae5a7fb33c46e5e", 
+    "uri": "https://github.com/clojure/algo.monads", 
+    "title": "GitHub - clojure/algo.monads"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9b19e4e6ff269fe2edd24b08517864e7", 
+    "uri": "https://github.com/funcool/cats", 
+    "title": "GitHub - funcool/cats: Category Theory and Algebraic abstractions for Clojure and ClojureScript."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "56671dc2423ecfd3631c7dab95c8c86d", 
+    "uri": "https://github.com/search?utf8=%E2%9C%93&q=awesome+clojure", 
+    "title": "Search \u00b7 awesome clojure \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8541fbed0dfdebccbfe50f25d3b86c20", 
+    "uri": "http://alexott-ru.blogspot.com/2011/04/monad-tutorial.html", 
+    "title": "Alex Ott's Russian blog about IT-related things: Monad tutorial \u0434\u043b\u044f \u043a\u043b\u043e\u0436\u0443\u0440\u044b"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47adabc56ff0e2cb3577b26a8af05888", 
+    "uri": "http://alexott.net/ru/clojure/video.html", 
+    "title": "\u0412\u0438\u0434\u0435\u043e-\u043b\u0435\u043a\u0446\u0438\u0438 \u0438 \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u0440\u043e Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f529a2154f9031a8e4a0bf1242e3e55", 
+    "uri": "https://stuartsierra.com/tag/dos-and-donts", 
+    "title": "do&#8217;s and don&#8217;ts &#8211; Digital Digressions by Stuart Sierra"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7009a3701145c170bd8c6e7f3bb3cbd4", 
+    "uri": "http://www.youtube.com/user/ClojureTV", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8b1ddbef40a592897b9e30a46a4e53d", 
+    "uri": "https://github.com/drcode/clll", 
+    "title": "GitHub - drcode/clll: Run Ethereum LLL contract code directly in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6d6b90958383cfbdb46199ce87ca63ca", 
+    "uri": "https://github.com/pelle/clothereum", 
+    "title": "GitHub - pelle/clothereum: Native clojure library for Ethereum"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1652f4bcf442e42b939978ad0babbde1", 
+    "uri": "https://github.com/clojure/jvm.tools.analyzer", 
+    "title": "GitHub - clojure/jvm.tools.analyzer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d466a310cd6f11d21815d2c202327e67", 
+    "uri": "https://christopherdbui.com/clojure-idioms/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "296400016950bac219f7a4d1fa50dbba", 
+    "uri": "https://devcenter.heroku.com/articles/using-node-js-with-clojure-and-clojurescript-applications", 
+    "title": "Using Node.js with Clojure and ClojureScript Applications | Heroku Dev Center"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d7fe2a2a7a58f0e3567e18bbf848018a", 
+    "uri": "https://github.com/malyn/figwheel-node-template", 
+    "title": "GitHub - malyn/figwheel-node-template: Leiningen template for Figwheel and Node.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f135d3ee5b746c69f9dfed1d54c75cb7", 
+    "uri": "https://github.com/bhauman/lein-figwheel/wiki/Node.js-development-with-figwheel", 
+    "title": "Node.js development with figwheel \u00b7 bhauman/lein-figwheel Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "69aec2cb32d08c407e6831a62f705a46", 
+    "uri": "https://github.com/quile/node-cljs-template", 
+    "title": "GitHub - quile/node-cljs-template: Leiningen template for a (working and useful) ClojureScript project that runs on Node.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "187870f70a2569db40c21dad79dc49f3", 
+    "uri": "https://github.com/also/node-cljs", 
+    "title": "GitHub - also/node-cljs: node.js command-line runner for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd7acbd8246f3063a97363fc28d82e35", 
+    "uri": "http://www.mase.io/code/clojure/node/2015/01/24/getting-started-with-clojurecript-and-node/", 
+    "title": "Getting Started with ClojureScript and Node.js &#8211; mase.io"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "07cbff86b4733259945257fdf8c385cc", 
+    "uri": "http://hypirion.com/musings/transducers-to-conduits-and-back", 
+    "title": "polymatheia - From Transducers to Conduits and Back Again"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "99caf94a3ef6eb6074f192b2d2c21c31", 
+    "uri": "http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html", 
+    "title": "Functional Mumbo Jumbo - ADTs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a827467a9b3e9a8cd91e41c6d2bd27b6", 
+    "uri": "http://dropbox.nakkaya.com/builds/ferret-manual.html", 
+    "title": "Ferret User's Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b0faeaa45f7ba51bba851dfaceb4b208", 
+    "uri": "http://nakkaya.com/2016/06/10/ferret-a-hard-real-time-clojure-for-lisp-machines/", 
+    "title": "Ferret - A Hard Real-Time Clojure for Lisp Machines"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e955e1dd72514d578bd2782af923a36e", 
+    "uri": "https://github.com/Datomic/simulant/wiki", 
+    "title": "Home \u00b7 Datomic/simulant Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3dad8307f7350d22db83498db14fe44f", 
+    "uri": "https://github.com/NetLogo/NetLogo/wiki/Controlling-API", 
+    "title": "Controlling API \u00b7 NetLogo/NetLogo Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a177431b1025987653c94736ba8cb29b", 
+    "uri": "https://github.com/mars0i/netlogo-clojure", 
+    "title": "GitHub - mars0i/netlogo-clojure: NetLogo extension that allows calling Clojure from NetLogo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2df7acfff1b144dfde47e2bb5bf1cb8b", 
+    "uri": "http://kotka.de/blog/2010/03/memoize_done_right.html", 
+    "title": "memoize done right"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "53e2076eb4f6fb7b5da76dc4dfd87ce4", 
+    "uri": "http://feeds.feedburner.com/RussianClojurePlanet", 
+    "title": "Russian Clojure Planet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fb1ac04db0e8268d7a7aa14aba95f607", 
+    "uri": "http://feeds.feedburner.com/clojure", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d7f03dd7233937d1b2fdd745f5212c8e", 
+    "uri": "http://www.sqlkorma.com/", 
+    "title": "sqlkorma"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b48e9ed89be515786feecc105f8f512b", 
+    "uri": "https://github.com/stuartsierra/component", 
+    "title": "GitHub - stuartsierra/component: Managed lifecycle of stateful objects in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "83c4e33aae908cff94ec28d9ff44dfb1", 
+    "uri": "https://github.com/clojure-emacs/cider", 
+    "title": "GitHub - clojure-emacs/cider: The Clojure Interactive Development Environment that Rocks for Emacs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f8baa1f1e60a2631078ccb5641f1e6b5", 
+    "uri": "https://www.emacswiki.org/emacs/EmacsForWindows", 
+    "title": "EmacsWiki: Emacs For Windows"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6130fc8bb566d28e7f6f59d9568bf791", 
+    "uri": "https://www.infoq.com/presentations/Datomic-Database-Value", 
+    "title": "The Database as a Value"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0c0be63e485e8516c0a5f699a9faa66a", 
+    "uri": "http://blog.higher-order.net/2009/02/01/understanding-clojures-persistentvector-implementation.html", 
+    "title": "Understanding Clojure's PersistentVector implementation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78246b57fa2ec257ccf4dd6081f8f33b", 
+    "uri": "https://gist.github.com/john2x/e1dca953548bfdfb9844", 
+    "title": "Clojure Destructuring Tutorial and Cheat Sheet \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6741343e1a6d69708e7c05fb9730eb97", 
+    "uri": "http://clojure.org/reference/transients", 
+    "title": "Clojure - Transient Data Structures"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b4d0b6f494d9ee2e0c040840511b4012", 
+    "uri": "http://www.john2x.com/blog/blogging-with-orgmode.html", 
+    "title": "Blogging with Orgmode"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "04eee1a2ac90a034c457fadf56f81a08", 
+    "uri": "http://www.john2x.com/blog/clojure-destructuring.html", 
+    "title": "Clojure Destructuring Tutorial and Cheat Sheet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "13bb2d2c769a11b51bd7474ca5ab5131", 
+    "uri": "https://github.com/weavejester/compojure/wiki/Destructuring-Syntax", 
+    "title": "Destructuring Syntax \u00b7 weavejester/compojure Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "63e3d7a72176556af6e1f0ec3063a092", 
+    "uri": "http://jakemccrary.com/blog/2010/12/06/trampolining-through-mutual-recursion/", 
+    "title": "Access denied | jakemccrary.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4376290cca6853086280c2ce99b8c11a", 
+    "uri": "https://github.com/zk/xmpp-clj", 
+    "title": "GitHub - zk/xmpp-clj: A lightweight clojure wrapper around the smack jabber/XMPP library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f2521ec3a7c833d6934b554c9257fbb4", 
+    "uri": "https://github.com/AdamClements/quit-yo-jibber", 
+    "title": "GitHub - AdamClements/quit-yo-jibber: A lightweight clojure wrapper around the smack jabber/XMPP library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9e687f5d7611f0e4a504bf8a6883d9ee", 
+    "uri": "e-string.com/articles/adventures-react-native-clojurescript/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0f39cf24f8e1b8a82ca0f08e0e94e5f7", 
+    "uri": "http://e-string.com/articles/adventures-react-native-clojurescript/", 
+    "title": "My Adventures with React Native and ClojureScript - E-String"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3eed2764a18140825da4c6721c96c028", 
+    "uri": "https://github.com/hyPiRion/nt", 
+    "title": "GitHub - hyPiRion/nt: Number theory in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "00ec3d0295dd60f63dd3ea403bc784a3", 
+    "uri": "https://github.com/aengelberg/nefarious.number-theory", 
+    "title": "GitHub - aengelberg/nefarious.number-theory: A collection of number theoretic and math functions ported from Racket to Clojure by the Nefarious Porpoises team"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "712d6049cdb7c24bba131c9eb7fb02c3", 
+    "uri": "https://github.com/rkneufeld/lein-try", 
+    "title": "GitHub - rkneufeld/lein-try: A Leiningen plugin for trying out new libraries"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c467fef43cf7f670bb222d11b3f20db3", 
+    "uri": "https://github.com/arcadia-unity", 
+    "title": "Arcadia \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45c638ea90218877736c1c94aa72027b", 
+    "uri": "https://github.com/clojure/tools.cli", 
+    "title": "GitHub - clojure/tools.cli: Command-line processing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6ac8b41abcb4eac2bf56b38a3e50a7c2", 
+    "uri": "https://github.com/sjl/clojure-lanterna", 
+    "title": "GitHub - sjl/clojure-lanterna: A Clojurey wrapper around the Lanterna terminal output library."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "76c24f99a289a9337e7ef3aad4b85b30", 
+    "uri": "http://stackoverflow.com/questions/4509782/simple-explanation-of-clojure-protocols/4513556#4513556", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "22cd69307090af0c7ec16c8c7951b1a4", 
+    "uri": "https://www.youtube.com/watch?v=mi3OtBc73-k", 
+    "title": "Understanding pattern matching in Clojure with core.match - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "69995aabb9ee55f1541cc5d9b75e49be", 
+    "uri": "https://www.youtube.com/watch?v=n7aE6k8o_BU", 
+    "title": "Sean Johnson - Pattern Matching in Clojure - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cb6a1d391c5304dda0ec14030c07a9bb", 
+    "uri": "http://minikanren.org/", 
+    "title": "miniKanren.org"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "18c73a33c883b9b20ca8b83fb3070390", 
+    "uri": "https://www.youtube.com/playlist?list=PLO4TbomOdn2cks2n5PvifialL8kQwt0aW", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "62780778aa8a09f646d1cf237a95a847", 
+    "uri": "https://github.com/jline/jline2", 
+    "title": "GitHub - jline/jline2: The new Jline"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "593aacafad395e074ea6cb28c89088a7", 
+    "uri": "https://github.com/hozumi/clj-commons-exec", 
+    "title": "GitHub - hozumi/clj-commons-exec: Apache Commons Exec wrapper for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd274bed4a82a77d166e5ebe52fcab08", 
+    "uri": "https://github.com/thebusby/iota", 
+    "title": "GitHub - thebusby/iota: A simple IO library for using Clojure&#39;s reducers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3e3ee1efc177b31fd0b009fd2edd0205", 
+    "uri": "http://www.clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html", 
+    "title": "Clojure :: Reducers - A Library and Model for Collection Processing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eaec9f27adde2b667f0b231d4bebbb55", 
+    "uri": "https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md", 
+    "title": "leiningen/TUTORIAL.md at master \u00b7 technomancy/leiningen \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd8f262e6cb7cd5f2dcfda5aadcb5a32", 
+    "uri": "https://github.com/miner/tagged", 
+    "title": "GitHub - miner/tagged: Clojure library for encoding Records as EDN tagged literals"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4f166e7057eeba073b770b0a8e3cd5dd", 
+    "uri": "https://github.com/geoffsalmon/bytebuffer", 
+    "title": "GitHub - geoffsalmon/bytebuffer: Clojure lib for packing and unpacking binary data using a java.util.ByteBuffer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "838cedef9aef27b776ee70403d594de4", 
+    "uri": "https://github.com/clojurewerkz/buffy", 
+    "title": "GitHub - clojurewerkz/buffy: Buffy The ByteBuffer Slayer, Clojure library for working with binary data."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c75ebefec187d61c6e76591de507a6b0", 
+    "uri": "https://github.com/ztellman/gloss", 
+    "title": "GitHub - ztellman/gloss: speaks in bytes, so you don&#39;t have to"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b5f415f2d71653ff5ecfb9161d7a2b26", 
+    "uri": "https://github.com/clojure/data.csv", 
+    "title": "GitHub - clojure/data.csv"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "60752f0a8d2b8470f409283a4caecc8d", 
+    "uri": "https://github.com/yogthos/clj-pdf", 
+    "title": "GitHub - yogthos/clj-pdf: PDF generation library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3717e030150c6b1bdd6caa8391846866", 
+    "uri": "https://github.com/dakrone/clj-http", 
+    "title": "GitHub - dakrone/clj-http: An idiomatic clojure http client wrapping the apache client. Offically supported version."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ea1adfb4b3c0879d2593e9ae358e803e", 
+    "uri": "https://github.com/Netflix/Hystrix/tree/master/hystrix-contrib/hystrix-clj", 
+    "title": "Hystrix/hystrix-contrib/hystrix-clj at master \u00b7 Netflix/Hystrix \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f1a504e414e3e18dfaf9e278f0179401", 
+    "uri": "http://www.http-kit.org/", 
+    "title": "Home | http-kit, high performance HTTP Client/Server for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c1198ad38b5fd75f071e3441c2856ac9", 
+    "uri": "https://github.com/scsibug/feedparser-clj", 
+    "title": "GitHub - scsibug/feedparser-clj: Atom/RSS Feed Parsing for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78551ea19ae13758d5ad6dd53c44f942", 
+    "uri": "https://github.com/drewr/postal", 
+    "title": "GitHub - drewr/postal: Clojure email support"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b7be34843a92dc5dd696171e5dbddfa5", 
+    "uri": "http://clojurerabbitmq.info/", 
+    "title": "Langohr, an idiomatic Clojure RabbitMQ client | Clojure AMQP 0.9.1 client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03b0a58e9e1a10c48b00de4ea952d34f", 
+    "uri": "https://github.com/clojurewerkz/machine_head", 
+    "title": "GitHub - clojurewerkz/machine_head: Clojure MQTT client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c9096b988f948ca0326bb22be766bb3f", 
+    "uri": "http://clojurewerkz.org/", 
+    "title": "Clojure libraries for MongoDB, RabbitMQ, validations, Neo4J, ElasticSearch, Apache Cassandra, Riak, Memcached, stream processing  and more"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c2ea9c05f1fa67d129b2f123d8608487", 
+    "uri": "https://github.com/lynaghk/zmq-async", 
+    "title": "GitHub - lynaghk/zmq-async: Threadsafe Clojure core.async interface to ZeroMQ"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "214b61c49f67dc641fdcc7f955e86303", 
+    "uri": "http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html", 
+    "title": "Clojure :: Clojure core.async Channels"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "14ad1e429162546b01cc7c59dd47433e", 
+    "uri": "https://www.youtube.com/watch?v=ROor6_NGIWU", 
+    "title": "The Language of the System - Rich Hickey - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd29efbf39cec6245984d56c45837709", 
+    "uri": "https://github.com/clojure/java.jdbc", 
+    "title": "GitHub - clojure/java.jdbc: JDBC from Clojure (formerly clojure.contrib.sql)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "53ab73ca788e6c4df39740b674a2a08e", 
+    "uri": "https://github.com/tomekw/hikari-cp", 
+    "title": "GitHub - tomekw/hikari-cp: A Clojure wrapper to HikariCP JDBC connection pool"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4b2bc9c0b6d9ad99df0db44cd4c8fa38", 
+    "uri": "https://github.com/weavejester/clucy", 
+    "title": "GitHub - weavejester/clucy: Clojure interface to Lucene"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef20643ebd4f977ae41c9bca77695775", 
+    "uri": "http://clojureelasticsearch.info/", 
+    "title": "Elastisch, a minimalistic Clojure client for ElasticSearch | ElasticSearch Clojure client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ad6a937e9050287dcc761786f06c9053", 
+    "uri": "http://clojurecassandra.info/", 
+    "title": "Cassaforte, a modern Clojure client for Apache Cassandra"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3d42234cfaff50b5538a58f94929ab1", 
+    "uri": "http://clojuremongodb.info/", 
+    "title": "Monger, a MongoDB Clojure client for a more civilized age | MongoDB library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a3645e7cb66d34a3bf4ec209049d542f", 
+    "uri": "https://github.com/aboekhoff/congomongo", 
+    "title": "GitHub - aboekhoff/congomongo: Clojure wrapper for the mongo-db java api"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca2fbe245b12c54cb49c533bbc1ce2fb", 
+    "uri": "https://github.com/ptaoussanis/carmine", 
+    "title": "GitHub - ptaoussanis/carmine: Redis client and message queue for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e54c7696157a18c9afff4bc89da7ee88", 
+    "uri": "https://github.com/ptaoussanis/nippy", 
+    "title": "GitHub - ptaoussanis/nippy: High-performance serialization library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59fda0434bd1596b2a42286cf7df0a87", 
+    "uri": "http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/", 
+    "title": "Conversations with Datomic Part 2 - Squid's Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eb007c8ca4dbd3dfe7fc29b11608c2f5", 
+    "uri": "http://docs.datomic.com/best-practices.html", 
+    "title": "Datomic Best Practices | Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e49ca93c0060fb450df2c3c08b750a09", 
+    "uri": "http://www.datomic.com/training.html", 
+    "title": "Training - Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b6bf8375823ed8b41ffd6b609d273a89", 
+    "uri": "https://github.com/ctford/vim-fireplace-easy", 
+    "title": "GitHub - ctford/vim-fireplace-easy: A simple setup for getting started with Clojure and Vim."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78bc960b7088d47464b19fe920e45660", 
+    "uri": "https://github.com/ring-clojure/ring/wiki/Concepts", 
+    "title": "Concepts \u00b7 ring-clojure/ring Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f04a9f049051d21553ecc1b5c766b187", 
+    "uri": "https://github.com/ring-clojure/ring/wiki/Sessions", 
+    "title": "Sessions \u00b7 ring-clojure/ring Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bf0c410c4a926fc3c7af5209cd481394", 
+    "uri": "https://github.com/weavejester/compojure", 
+    "title": "GitHub - weavejester/compojure: A concise routing library for Ring/Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0fdf27a9616e68dba4521cbb8de53327", 
+    "uri": "http://blog.jayfields.com/2010/07/clojure-destructuring.html", 
+    "title": "Jay Fields' Thoughts: Clojure: Destructuring"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4ee1b26873d192f2d0b588711d8c49c2", 
+    "uri": "https://github.com/clojure-liberator/liberator", 
+    "title": "GitHub - clojure-liberator/liberator: Liberator is a Clojure library for building RESTful applications."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4d46296e323c17cd445136255e18e92f", 
+    "uri": "https://github.com/cgrand/moustache", 
+    "title": "GitHub - cgrand/moustache: a micro web framework/internal DSL to wire Ring handlers and middlewares"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e4f303ca41553d2d522237af79ffd6e2", 
+    "uri": "https://github.com/weavejester/clout", 
+    "title": "GitHub - weavejester/clout: HTTP route-matching library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f1b14c0f303e1fb65c85e9fec1347e9", 
+    "uri": "https://github.com/ericnormand/playnice", 
+    "title": "GitHub - ericnormand/playnice: A Clojure library to help build HTTP compliant servers."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "37764364049ab9af209655459ab1b075", 
+    "uri": "https://github.com/swannodette/enlive-tutorial", 
+    "title": "GitHub - swannodette/enlive-tutorial: An Easy Introduction to Enlive"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "87c2ece515111bd58a9bd6663737f107", 
+    "uri": "http://ericsomdahl.github.io/posts/2015-03-07-gevents1.html", 
+    "title": "(defthoughts): Clojure web scraping with Enlive"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4042047408920ba5be637597796197c6", 
+    "uri": "https://github.com/yogthos/Selmer", 
+    "title": "GitHub - yogthos/Selmer: A fast, Django inspired template system in Clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "950316b7d326148db706376a5a386052", 
+    "uri": "https://github.com/weavejester/hiccup/", 
+    "title": "GitHub - weavejester/hiccup: Fast library for rendering HTML in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fcc4219c23f4be9dc79b8af5780574e6", 
+    "uri": "https://github.com/yogthos/markdown-clj", 
+    "title": "GitHub - yogthos/markdown-clj: Markdown parser in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b1100f53f70bc5b555675ff90529a1e1", 
+    "uri": "https://github.com/circleci/lein-jarbin", 
+    "title": "GitHub - circleci/lein-jarbin"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "82255dc5795b9f21d6c77d6a2b0b7863", 
+    "uri": "https://kotka.de/blog/2010/02/gen-class_how_it_works_and_how_to_use_it.html", 
+    "title": "gen-class \u2013 how it works and how to use it"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1f082a37fd6a9cd97a27b45632eb9ba", 
+    "uri": "https://github.com/hugoduncan/criterium", 
+    "title": "GitHub - hugoduncan/criterium: Benchmarking library for clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d6c819d1d1141f691afc92cf118b7700", 
+    "uri": "https://github.com/plumatic/hiphip", 
+    "title": "GitHub - plumatic/hiphip: hiphip (array)! simple, performant array manipulation in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef32ff118aced39a481192ad4cc7e53e", 
+    "uri": "https://gist.github.com/w01fe/7132440", 
+    "title": "hiphip benchmarks \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c3d9e40c5af0e3c255ba569f86dae4ac", 
+    "uri": "https://github.com/ztellman/vertigo", 
+    "title": "GitHub - ztellman/vertigo: heterogeneous structs for clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4c2d9e00e4bfa344a84d4f028a0708c1", 
+    "uri": "https://github.com/ptaoussanis/timbre", 
+    "title": "GitHub - ptaoussanis/timbre: Pure Clojure/Script logging library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8d6e81121027edc9a3be1f0db1af4039", 
+    "uri": "https://github.com/plumatic/schema", 
+    "title": "GitHub - plumatic/schema: Clojure(Script) library for declarative data description and validation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2ff1f43ca9ac7e92a9f1a085c9b7e915", 
+    "uri": "https://github.com/clojure/tools.logging/blob/master/README.md", 
+    "title": "tools.logging/README.md at master \u00b7 clojure/tools.logging \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae99c6b8a77383ba47a37b77d7066e1d", 
+    "uri": "http://cascalog.org/", 
+    "title": "Cascalog | Data processing on Hadoop without the hassle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9eef51483d8cc31ca622378351952b2a", 
+    "uri": "https://github.com/travis/lein-storm-project-template", 
+    "title": "GitHub - travis/lein-storm-project-template: a leiningen template for creating new storm projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a8f9c70ea92bfcf4ed6565ce29faf328", 
+    "uri": "https://github.com/clojure-cookbook/cascalog-samples", 
+    "title": "GitHub - clojure-cookbook/cascalog-samples: Cascalog samples for the Distributed Computing chapter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef3429fd97025ade8ddda3747b621bfc", 
+    "uri": "http://nathanmarz.com/blog/introducing-cascalog-a-clojure-based-query-language-for-hado.html", 
+    "title": "Introducing Cascalog: a Clojure-based query language for&nbsp;Hadoop - thoughts from the red planet - thoughts from the red planet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "954c8d404280d2a73ff71093e7ae4f5f", 
+    "uri": "http://ianrumford.github.io/blog/2012/09/29/using-cascalog-for-extract-transform-and-load/", 
+    "title": "Using Cascalog for extract transform and load - An Ostler in IT"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e5bbb326ae1cbc774c00b658c16bc852", 
+    "uri": "https://github.com/nathanmarz/cascalog/tree/develop/cascalog-checkpoint", 
+    "title": "cascalog/cascalog-checkpoint at develop \u00b7 nathanmarz/cascalog \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46c49679b707093b83d49e610aa5f719", 
+    "uri": "http://clojure.github.io/clojure/clojure.test-api.html", 
+    "title": "clojure.test - Clojure v1.8 API documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8c5d0a2b4034a521817b351fa908b002", 
+    "uri": "https://github.com/marick/Midje", 
+    "title": "GitHub - marick/Midje: Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "89336e9accc46144a649b3c4a2f5c234", 
+    "uri": "https://github.com/clojure/test.generative", 
+    "title": "GitHub - clojure/test.generative"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5049b10d9cce9943338b1ca36d7b3cf8", 
+    "uri": "https://github.com/clojure/test.check", 
+    "title": "GitHub - clojure/test.check: QuickCheck for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c81d72ab4b9defa861aa794b6ac7567c", 
+    "uri": "https://wiki.haskell.org/Introduction_to_QuickCheck2", 
+    "title": "Introduction to QuickCheck2 - HaskellWiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e83366e05717d65c7665a27ba2497263", 
+    "uri": "https://github.com/semperos/clj-webdriver/wiki", 
+    "title": "Home \u00b7 semperos/clj-webdriver Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "afbdfffffd0f9b6d58540bd60fec6465", 
+    "uri": "https://github.com/semperos/clj-webdriver", 
+    "title": "GitHub - semperos/clj-webdriver: Clojure API for Selenium-WebDriver"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d397c857fa0d46734dbf74d6ebeb0af4", 
+    "uri": "https://github.com/clojure/tools.trace", 
+    "title": "GitHub - clojure/tools.trace: 1.3 update of clojure.contrib.trace"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1666391700957d5a6d9944ffccd7fff9", 
+    "uri": "https://github.com/clojure-cookbook/clojure-cookbook/tree/master/10_testing", 
+    "title": "clojure-cookbook/10_testing at master \u00b7 clojure-cookbook/clojure-cookbook \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "465e37e58223a4c33b0d356ee0846ac5", 
+    "uri": "https://github.com/clojure/core.typed/wiki/User-Guide", 
+    "title": "User Guide \u00b7 clojure/core.typed Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "736d4cc9a8c162a941c15a2b11f7262f", 
+    "uri": "https://juxt.pro/blog/posts/edge.html", 
+    "title": "Edge"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f6e688c3c339f68940798a473b47f0a", 
+    "uri": "https://github.com/juxt/edge", 
+    "title": "GitHub - juxt/edge: The (b)leading edge"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5052233302049470005dcc5dff0fac71", 
+    "uri": "https://github.com/onyx-platform/onyx", 
+    "title": "GitHub - onyx-platform/onyx: Distributed, masterless, high performance, fault tolerant data processing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bf8b7681728d1c31cb3e7376190d73eb", 
+    "uri": "http://erl.nfshost.com/static/euler.uberdoc.html", 
+    "title": "About SyntaxHighlighter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "79c4d81746249962baa416d019130d34", 
+    "uri": "https://github.com/funcool/buddy", 
+    "title": "GitHub - funcool/buddy: Security library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "585a6f1252ae2a177eaba8f780474349", 
+    "uri": "http://garajeando.blogspot.com/2016/07/kata-ohce-in-clojure-using-outside-in.html", 
+    "title": "Garajeando: Kata: Ohce in Clojure using outside-in TDD with Midje"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47b65991e1ed41d39e403d7944a789ef", 
+    "uri": "https://github.com/Chouser/programming-clojure", 
+    "title": "GitHub - Chouser/programming-clojure: Sample code for the book"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd8ff7f4164a2ba0c3b389403e44c751", 
+    "uri": "http://briancarper.net/tag/49.html", 
+    "title": "briancarper.net (\u03bb) - Tag Origami"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cfd153aea42668e8ffe6e3c18a228ccb", 
+    "uri": "https://devcenter.heroku.com/articles/clojure-web-application", 
+    "title": "Building a Database-Backed Clojure Web Application | Heroku Dev Center"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "88997e492bbb7f5e91870ad893a54ff5", 
+    "uri": "http://nakkaya.com/2010/04/15/using-clojure-to-connect-to-gmail-via-imap/", 
+    "title": "Using Clojure to Connect to GMail via IMAP"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "590ea3bb573a92ba539780aa9a5db0e1", 
+    "uri": "http://nakkaya.com/2009/09/25/a-guide-to-raw-traffic-in-clojure/", 
+    "title": "A Guide to Raw Traffic in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "94e95eb633352c150199d729d5687629", 
+    "uri": "http://nakkaya.com/makeWay.html", 
+    "title": "makeWay"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aadc546c47eeb6def2fc4143085871b8", 
+    "uri": "http://nakkaya.com/2013/01/10/a-clojure-autopilot-for-parrot-ar-drone/", 
+    "title": "A Clojure Autopilot for Parrot A.R. Drone"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "072cb00f73ceed198629c5b033336f3b", 
+    "uri": "http://nakkaya.com/2009/12/16/building-a-delicious-link-recommender/", 
+    "title": "Building a del.icio.us Link Recommender"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5d36545be07b8f31e7a4939704ca9c24", 
+    "uri": "http://nakkaya.com/2012/08/20/poor-man-s-vpn-using-ppp-over-ssh/", 
+    "title": "Poor man's VPN using PPP over SSH"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0ef0ca3e3b35ddc2c2d9ee8101c4b738", 
+    "uri": "http://nakkaya.com/2010/06/22/finite-state-machine-implementation-in-clojure/", 
+    "title": "Finite State Machine Implementation in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ada1242960b914452014737e5a9d6b00", 
+    "uri": "http://nakkaya.com/2011/03/23/streaming-opencv-video-over-the-network-using-mjpeg/", 
+    "title": "Streaming OpenCV Video over the Network Using M-JPEG"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7195c9d51cc89d1ca702e69d0bc26250", 
+    "uri": "http://nakkaya.com/2011/07/28/holonomic-control/", 
+    "title": "Holonomic Control"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8da1db3049c68380b8d781170a198d6d", 
+    "uri": "http://www.clojureatlas.com/", 
+    "title": "Clojure Atlas \u2013\u00a0An experimental visualization of the Clojure language and its standard library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ccf62495e0310653ef3cec2ba76e4876", 
+    "uri": "http://nakkaya.com/2009/11/16/java-native-access-from-clojure/", 
+    "title": "Java Native Access from Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "55dbc10f629d7aca8c217f77958b15aa", 
+    "uri": "http://nakkaya.com/2012/08/13/google-hotp-totp-two-factor-authentication-for-clojure/", 
+    "title": "Google HOTP/TOTP Two-factor Authentication for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e69b11933c9dab5efbf096ed553ed764", 
+    "uri": "https://github.com/alexott/clojure-hadoop", 
+    "title": "GitHub - alexott/clojure-hadoop: Library to aid writing Hadoop jobs in Clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "227a12d43b58390f4c2dbe77b224ac3f", 
+    "uri": "https://www.infoq.com/clojure/", 
+    "title": "Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a16fbc7575626298cf0371fcd6a081b9", 
+    "uri": "https://gist.github.com/citizen428/f75c6620651c727d0051", 
+    "title": "learning-clojure.markdown \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2418cb2e401cdc0509274731ef9492a1", 
+    "uri": "https://github.com/ertugrulcetin/ClojureNews", 
+    "title": "GitHub - ertugrulcetin/ClojureNews: Clojure News Web Application - (Hacker News Clone)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "085349aa45f3f72f4fa8aef8911777fe", 
+    "uri": "https://github.com/liebke/avout", 
+    "title": "GitHub - liebke/avout: Avout: Distributed State in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f02951e49f0580f26d482cab6db7b04", 
+    "uri": "https://github.com/deeplearning4j/deeplearning4j", 
+    "title": "GitHub - deeplearning4j/deeplearning4j: Deep Learning for Java, Scala &amp; Clojure on Hadoop &amp; Spark With GPUs - From Skymind"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "923a951351ea1a911ce0acf8d8072201", 
+    "uri": "http://nd4j.org", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "515ec25e45fce4fbe24e099f6600c0b2", 
+    "uri": "https://www.youtube.com/watch?v=iUC7noGU1mQ", 
+    "title": "Managing One of the World&#39;s Largest Clojure Code Bases - Donevan Dolby - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f70c1faf23fafed4c6d98c89385dc104", 
+    "uri": "https://github.com/mattdeboard/Icarus/blob/master/README.rst", 
+    "title": "Icarus/README.rst at master \u00b7 mattdeboard/Icarus \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db65bf6d948a3ac5f2a72631c990e364", 
+    "uri": "https://github.com/khinsen/monads-in-clojure", 
+    "title": "GitHub - khinsen/monads-in-clojure: Konrad Hinsen&#39;s OnClojure.com tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "862c4e7477177d2789183a44d1178c63", 
+    "uri": "http://www.clojure.net/2012/06/03/Monad-Protocols/", 
+    "title": "Monad Protocols &larr; "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b4aaf5dff3cce87d983c03ea63fdc292", 
+    "uri": "http://jonase.github.io/kibit-demo/", 
+    "title": "Kibit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b1813d4247062acc7ebc30c405982fd", 
+    "uri": "https://github.com/mjmeintjes/boot-react-native", 
+    "title": "GitHub - mjmeintjes/boot-react-native: Better development experience with ClojureScript and React Native"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "90e2fcefa8e56d919ce490be5a19df83", 
+    "uri": "https://github.com/takeoutweight/clojure-scheme", 
+    "title": "GitHub - takeoutweight/clojure-scheme: Clojure to Scheme to C to the bare metal."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9cde8e4da5aba3bbffc618f5b1c32dd3", 
+    "uri": "http://blog.japila.pl/2012/03/clojures-java-interop-in-java/", 
+    "title": "Clojure&#8217;s Java interop in Java | Japila :: verba docent, exempla trahunt"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5e5bb77f3e2acdbb89c4eeed27847d95", 
+    "uri": "https://www.contentreich.de/docker-clojure-microservices-google-and-alfresco-introducing-ecm-google-services", 
+    "title": "Docker, Clojure, Microservices, Google (and Alfresco): Introducing ECM Google Services - CONTENTREICH"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b7ec4261c50ac7f5bb335c826916079", 
+    "uri": "https://github.com/videlalvaro/cloudfoundry-clojure-demo", 
+    "title": "GitHub - videlalvaro/cloudfoundry-clojure-demo: Demo for Clojure integration with Cloud Foundry using claude"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "20f009261c71971d55a899f9a86bbeeb", 
+    "uri": "https://github.com/mstine/heroku-buildpack-clojure", 
+    "title": "GitHub - mstine/heroku-buildpack-clojure: Clojure buildpack"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e79ce5c31c72badbd78164e13e01b12c", 
+    "uri": "https://github.com/strangeloop/clojurewest2012-slides", 
+    "title": "GitHub - strangeloop/clojurewest2012-slides: Slides from Clojure/West 2012"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b627ac66bcfc361cc3fad79b881ea423", 
+    "uri": "https://github.com/strangeloop/clojurewest2013", 
+    "title": "GitHub - strangeloop/clojurewest2013: Clojure West 2013"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "759388ecd96c016712009088bc47c812", 
+    "uri": "https://github.com/clojurewest/clojurewest2015", 
+    "title": "GitHub - clojurewest/clojurewest2015: ClojureWest 2015"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "454db59e7af866ccadc099de2e871e0a", 
+    "uri": "https://github.com/davezen1/clojurewest-2016-notes", 
+    "title": "GitHub - davezen1/clojurewest-2016-notes: Clojure West 2016 Notes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "366c89412b3be7623e3f3e9c77e23637", 
+    "uri": "https://www.infoq.com/search.action?queryString=clojurewest&page=1&searchOrder=&sst=TYMqO4kvlpq16peU", 
+    "title": "Facilitating the spread of knowledge and innovation in professional software development"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "40b6d3169ffca2f726592740f8965b59", 
+    "uri": "https://github.com/tonsky/tongue", 
+    "title": "GitHub - tonsky/tongue: Do-it-yourself i18n library for Clojure/Script"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f3e5cb0bb359c0c08b3f90eaa621bf5", 
+    "uri": "http://lisperati.com/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e506359a90b7a7293fdd7d3da3c79264", 
+    "uri": "https://vimeo.com/channels/fulldisclojure", 
+    "title": "Full Disclojure on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9b2f96904ffae414033a17019a60e8a1", 
+    "uri": "https://github.com/jolby/rincanter", 
+    "title": "GitHub - jolby/rincanter: Use embedded R from Clojure and Incanter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eb73a4bcbe2c51f5c530827a4747b1f1", 
+    "uri": "http://fprog.ru/planet/", 
+    "title": "Russian Lambda Planet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e4dd214503f9fd219242c3e4c32ff6d7", 
+    "uri": "https://github.com/LightTable/LightTable", 
+    "title": "GitHub - LightTable/LightTable: The Light Table IDE"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2adf03261ab7dedb589b79c840325c85", 
+    "uri": "https://www.youtube.com/watch?v=6mTbuzafcII", 
+    "title": "&quot;Transducers&quot; by Rich Hickey - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f536494e648e1af77b9445d0c92acd45", 
+    "uri": "http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming", 
+    "title": "Transducers are Coming \u2014 Cognitect Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "980295725aebf7f56d0d1ab594d5069a", 
+    "uri": "https://github.com/lprefontaine/Boing", 
+    "title": "GitHub - lprefontaine/Boing: Java dependency injection in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e9da63ce81d502587e016c1a4d478c08", 
+    "uri": "https://halgari.github.io/clojure-py/", 
+    "title": "Clojure-Py"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca7381b6bbc9a7be0706a4be9465d620", 
+    "uri": "https://github.com/ianrumford/clojure-transducer-examples/blob/master/doc/2014-08-08-Some-trivial-examples-of-using-Clojure-Transducers.org", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b401243e090f896e9f1f67d9ba6e2bf1", 
+    "uri": "http://ignaciothayer.com/post/Transducers-Are-Fundamental/", 
+    "title": "Transducers are fundamental"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a047a8c7f17928bc6a9f218e7fa41f5b", 
+    "uri": "http://clojure.org/reference/transducers", 
+    "title": "Clojure - Transducers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "667a6be209c86dbf025628b5707d9627", 
+    "uri": "https://github.com/Chouser/talk-finger-tree", 
+    "title": "GitHub - Chouser/talk-finger-tree: Slides for (first clojure-conj) talk, &quot;Finger Trees, Custom Persistent Collections&quot;"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4fa21a19cd196453c4910754f5fa1fe7", 
+    "uri": "http://www.staff.city.ac.uk/~ross/papers/FingerTree.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f1c102ca070dad8c6c27e0a4ef22c7a9", 
+    "uri": "https://github.com/chetbox/iApprove", 
+    "title": "GitHub - chetbox/iApprove: Chromium extension client and Clojure server allowing people to &quot;like&quot; the page you&#39;re visiting"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db4e42bf79c91200be3078e2d714263f", 
+    "uri": "https://github.com/breach/thrust", 
+    "title": "GitHub - breach/thrust: Chromium-based cross-platform / cross-language application framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d70d02af8d03e9c75df29b856d9d5fbe", 
+    "uri": "https://yada.juxt.pro/index.html", 
+    "title": "yada"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f49688c63e2cad93f9ecabc557d51dba", 
+    "uri": "http://muhuk.github.io/validation-benchmark/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec80f0cf50ba1c68125027f0689c2ea5", 
+    "uri": "https://practicalli.github.io/clojure/development-environments/", 
+    "title": "Development Environments \u00b7 Clojure, Practicalli"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7c37ee2a43390cfda2bcb7b3d5b6f55c", 
+    "uri": "https://github.com/Cascading/Impatient", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8ac1552433d56ab11554cfd71c839944", 
+    "uri": "https://yogthos.net/posts/2016-07-15-JavaSSLWorkaround.html", 
+    "title": "Working around the Java SSL trust store"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cb35c10e40b29680508e2fc7409210f9", 
+    "uri": "https://nakkaya.com/2010/06/15/clojure-io-cookbook/", 
+    "title": "Clojure I/O Cookbook"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c967937c41e0c8c6391207b5abf15c8", 
+    "uri": "https://github.com/matthiasn/Birdwatch", 
+    "title": "GitHub - matthiasn/BirdWatch: Tweet stream analysis and visualization with real-time updates."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "05eb12e6bb2a6a1334823ba2fc09e809", 
+    "uri": "https://ruedigergad.com/category/libs/", 
+    "title": "Libs. | ruedigergad"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "feab4bec743dfd518a4682493d76f184", 
+    "uri": "https://vimeo.com/8665159", 
+    "title": "Episode 6 - Point Free Clojure on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f58a108d8510165e1e39dac0daa75503", 
+    "uri": "http://neanderthal.uncomplicate.org/", 
+    "title": "Neanderthal - Fast Native Matrix and Linear Algebra in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe0137b67f3a55dc8d8d4b79ff8daacd", 
+    "uri": "https://github.com/aysylu/loom", 
+    "title": "GitHub - aysylu/loom: Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7ac3b4125ceb1441e829c2f5f96cbf46", 
+    "uri": "https://github.com/clojure-numerics", 
+    "title": "Clojure Numerics \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "137be43dab6952a1e1008dd0cecd5ae5", 
+    "uri": "https://medium.com/@thi.ng/clojurescript-webworkers-webgl-6c2f3c717d9e", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "51715998bf8dc05955a31c4d9901f42c", 
+    "uri": "https://github.com/missingfaktor/akar", 
+    "title": "GitHub - missingfaktor/akar: First-class patterns for Clojure. Made with love, functions, and just the right amount of syntax."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd27c658296c735ee48e40f6ecdf7112", 
+    "uri": "https://www.youtube.com/watch?v=8uHfMltTbqs", 
+    "title": "Expert to Expert: Erik Meijer and Rich Hickey - Clojure and Datomic - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2c437b4942502082b58bc1d3631b143a", 
+    "uri": "http://www.lispcast.com/ultimate-guide-to-learning-clojure-for-free", 
+    "title": "The Ultimate Guide to Learning Clojure for Free | LispCast"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46ba44354a224cc5d882d332dbf68b85", 
+    "uri": "https://data-sorcery.org/book-recommendations/", 
+    "title": "Book Recommendations | Data Sorcery with Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "788843b7da2e717747a8184c7205862b", 
+    "uri": "http://docs.datomic.com/", 
+    "title": "Document Index | Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8ce122ec28158fcded312ca3fb491950", 
+    "uri": "http://www.flyingmachinestudios.com/programming/datomic-for-five-year-olds/", 
+    "title": "Datomic for Five Year Olds"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57c145314c77164736b72fa2995afc70", 
+    "uri": "https://github.com/jonase/learndatalogtoday", 
+    "title": "GitHub - jonase/learndatalogtoday: Interactive Datalog Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bc695ce173bdfbb7d64d59a8de08572d", 
+    "uri": "https://github.com/ricardojmendez/tropology", 
+    "title": "GitHub - ricardojmendez/tropology: Tropology is a Clojure project to crawl TVTropes.org, converts the relationships between pages into a PostgreSQL database, and helps you visualize relationships between concepts, tropes, creators and material."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1b1f00d074dd7a240f82c0ff8139943e", 
+    "uri": "https://github.com/lvh/caesium", 
+    "title": "GitHub - lvh/caesium: Modern cryptography (libsodium/NaCl) for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "88936d5a46e7872ebf18c47933ba5339", 
+    "uri": "https://github.com/ptaoussanis/tufte", 
+    "title": "GitHub - ptaoussanis/tufte: Simple profiling and performance monitoring for Clojure/Script"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc22edd5c74b8797dd05b54a76607829", 
+    "uri": "https://lambdaisland.com/guides/clojure-repls/", 
+    "title": "The Ultimate Guide To Clojure REPLs | The Ultimate Guide To Clojure REPLs Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1f678ce128214094cbdd7f3c56c7893a", 
+    "uri": "https://clojure.news/", 
+    "title": "Access denied | clojure.news used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "81a7081db80eb0755163e04c5fd408ba", 
+    "uri": "https://lambdaisland.com/episodes/reagent", 
+    "title": "Lambda Island | 9. Reagent"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd9e2044a2294afe919f43fbfba8ccda", 
+    "uri": "https://github.com/michaelklishin/pantomime", 
+    "title": "GitHub - michaelklishin/pantomime: A tiny Clojure library that deals with MIME types (Internet media types)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f118710eef6c3b6f1812c769140fb01b", 
+    "uri": "https://github.com/mtyaka/lein-oneoff", 
+    "title": "GitHub - mtyaka/lein-oneoff: Dependency management for one-off, single-file clojure programs."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "44b414a5036a3bedad46c7e769cecf8c", 
+    "uri": "https://github.com/suvash/one-time", 
+    "title": "GitHub - suvash/one-time: One Time Password (TOTP and HOTP) library for Clojure. TOTP/HOTP is widely used for Two / Multi Factor Authentication."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4d3c17ff657eb2945443fbee9fd22ede", 
+    "uri": "https://github.com/mynomoto/repetition-hunter", 
+    "title": "GitHub - mynomoto/repetition-hunter: A tool to find repetitions in clojure code."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "83d3ca2dc3fb42162f3086b9d67c2a09", 
+    "uri": "https://lambdaisland.com/episodes", 
+    "title": "Lambda Island | Episodes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0e4f9cb8bbe3ace40170e393d54983ed", 
+    "uri": "https://stuartsierra.com/2016/clojure-how-to-ns.html", 
+    "title": "How to ns"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a0f3426b28874ec540f36585374c784", 
+    "uri": "http://blog.klipse.tech//lambda/2016/07/24/lambda-calculus-1.html", 
+    "title": "Numbers and Arithmetics with functions only: lambda calculus live tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "26691c27876c7c8e1c5c9d6ae2e25b87", 
+    "uri": "http://www.lispcast.com/hirable-in-clojure", 
+    "title": "What do I have to learn to be hirable in Clojure? | LispCast"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cf39b759e76a44953e4ea54603f8ec32", 
+    "uri": "https://www.reddit.com/r/Clojure/comments/4uvcp4/just_got_my_first_clojure_job_any_tips_for/", 
+    "title": "Too Many Requests"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b012134a1cbb06ac75ec86e9a84b95fb", 
+    "uri": "https://shipilev.net/blog/2014/jmm-pragmatics/", 
+    "title": "Java Memory Model Pragmatics (transcript)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "06de4c98edf4358315d193da0dff23b9", 
+    "uri": "https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/", 
+    "title": "Close Encounters of The Java Memory Model Kind"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0066b6e5abf8e17dc37e6a1b07d1549d", 
+    "uri": "http://www.stuttaford.me/2016/01/15/how-cognician-uses-onyx/", 
+    "title": "How Cognician uses Onyx &middot; Robert Stuttaford, Clojure Enthusiast"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3ce02c18ebbe782a2f2d166f8448ab5", 
+    "uri": "https://github.com/uncomplicate/bayadera", 
+    "title": "GitHub - uncomplicate/bayadera"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3a1e2d71d09d845a1c39ce0a3a9052cd", 
+    "uri": "https://wickstrom.tech/programming/2016/08/07/generating-sight-reading-exercises-using-constraint-logic-programming-in-clojure-part-1.html", 
+    "title": "Generating Sight-Reading Exercises using Constraint Logic Programming in Clojure, Part 1 | Func Da World"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "92720171b03130fb45e0ca777aef1d9e", 
+    "uri": "https://github.com/thegeez/thecljvector", 
+    "title": "GitHub - thegeez/thecljvector"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "035a8b4011d784ed2c25e461809ab134", 
+    "uri": "http://immutant.org/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e6fbc5bc86781541b5e12e158ffd8c89", 
+    "uri": "https://github.com/weavejester/clj-aws-s3", 
+    "title": "GitHub - weavejester/clj-aws-s3: S3 client library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0da34afb71e82f818772c5beb75e1fcd", 
+    "uri": "https://github.com/technomancy/lein-heroku", 
+    "title": "GitHub - technomancy/lein-heroku: Experimental Leiningen plugin for managing Heroku apps"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5b0f01a730ec91433bec1085af622734", 
+    "uri": "https://github.com/weavejester/lein-beanstalk", 
+    "title": "GitHub - weavejester/lein-beanstalk: Leiningen plugin for Amazon&#39;s Elastic Beanstalk service"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c34dee7f18802377fa7f5de17a1962ef", 
+    "uri": "https://github.com/dakrone/cheshire", 
+    "title": "GitHub - dakrone/cheshire: Clojure JSON and JSON SMILE (binary json format) encoding/decoding"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "114373be1875f2b9146e482fe081a95f", 
+    "uri": "https://github.com/jaycfields/expectations", 
+    "title": "GitHub - jaycfields/expectations: a minimalist&#39;s unit testing framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ecd1353204ae0c3b6a5f46f02e546f8d", 
+    "uri": "https://github.com/levand/immuconf", 
+    "title": "GitHub - levand/immuconf: A small library for managing config files in Clojure projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5073fe09a3fe9ebb0c727dad731c5e20", 
+    "uri": "https://github.com/weavejester/environ", 
+    "title": "GitHub - weavejester/environ: Library for managing environment variables in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a75af25493065e91ecb61b29ec8a3643", 
+    "uri": "https://stuartsierra.com/2013/03/29/perils-of-dynamic-scope", 
+    "title": "On the Perils of Dynamic Scope &#8211; Digital Digressions by Stuart Sierra"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "593438afe66366447b9b4a20ca13315c", 
+    "uri": "https://github.com/jafingerhut/thalia/blob/master/doc/other-topics/comparators.md", 
+    "title": "thalia/comparators.md at master \u00b7 jafingerhut/thalia \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1a4beece8f6ba1ecc7bc251a0ccb38c", 
+    "uri": "https://github.com/SparkFund/spec-tacular", 
+    "title": "GitHub - SparkFund/spec-tacular: Make the border between Clojure and Datomic a more convenient and safe place to live."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9819302229c07228e53c0319f3eb7561", 
+    "uri": "https://www.infoq.com/presentations/deforestation", 
+    "title": "Global Forest Watch: an Open Source Clojure project to Monitor Deforestation from Satellite Imagery"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc64d74e3458434fa6c333322789a490", 
+    "uri": "https://github.com/fogus/bacwn", 
+    "title": "GitHub - fogus/bacwn: clojure + datalog = &lt;3"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a45fd666f50954145368897f161f438e", 
+    "uri": "https://github.com/tulos/manifail", 
+    "title": "GitHub - tulos/manifail: Failure handling with Manifold"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f5edd8da5a49220589b7dedf8d3fc075", 
+    "uri": "https://aphyr.com/posts/306-clojure-from-the-ground-up-state", 
+    "title": "Clojure from the ground up: state"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "84ad91f00c4bdb34f4e61841f47393da", 
+    "uri": "https://github.com/r0man/cascalog-nutch", 
+    "title": "GitHub - r0man/cascalog-nutch: Cascading Schemes and Cascalog helpers for Nutch sequence files."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9106b9ce99344b1505d389726f8f5368", 
+    "uri": "http://blog.shriphani.com/2015/03/12/leveraging-a-scalable-web-crawler-in-clojure/", 
+    "title": "Leveraging a scalable web-crawler in clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "58d9efe4853282e4e05863b8502b5778", 
+    "uri": "https://juxt.pro/blog/posts/opensensors.html", 
+    "title": ""
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c46ba410611f2485cf5bcf1aab381ffc", 
+    "uri": "https://github.com/dakrone/cld", 
+    "title": "GitHub - dakrone/cld: Language detection for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "84f49817987be57ae62753cdd12b5480", 
+    "uri": "https://github.com/datacrypt-project/hitchhiker-tree", 
+    "title": "GitHub - datacrypt-project/hitchhiker-tree: Functional, persistent, off-heap, high performance data structure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9362e22a356a6fcb6e2c16499dbdaf3f", 
+    "uri": "https://github.com/replikativ/durable-persistence", 
+    "title": "GitHub - replikativ/durable-persistence: Explorations in durable persistent datastructures for Clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "38d334e03b24b4ccefd4b73ac68fc724", 
+    "uri": "https://bcbio.wordpress.com/2012/03/04/extending-the-gatk-for-custom-variant-comparisons-using-clojure/", 
+    "title": "Extending the GATK for custom variant comparisons using Clojure | Blue Collar Bioinformatics"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "afb91b3e8fd2085c8d89ebaead154777", 
+    "uri": "https://juxt.pro/radar.html", 
+    "title": "JUXT Radar"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7c781bff24b28aa841e49943ccecd011", 
+    "uri": "http://clojureclr.blogspot.com/", 
+    "title": "ClojureCLR"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "119d1be14e6b8e5d6292100d5a2336e8", 
+    "uri": "https://github.com/clojure/clojure-clr/wiki/Using-ClojureCLR-in-a-C%23-project", 
+    "title": "Using ClojureCLR in a C# project \u00b7 clojure/clojure-clr Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fbdcaf84097e06027104539431c2113e", 
+    "uri": "http://fernmac.blogspot.com/2012/02/clojure-clr-examples.html", 
+    "title": "Stuff++: Clojure-clr examples"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dfb9a3e45866630caa6d5d827e301fe8", 
+    "uri": "http://www.myclojureadventure.com/p/clojureclr-ports-page-purpose-of-this.html", 
+    "title": "My Clojure Adventure: ClojureCLR Contrib Lib Porting Status"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "470d3e9fdb3011accd067b0606fff708", 
+    "uri": "http://dev.clojure.org/display/doc/Getting+Started+with+CLR+and+Visual+Studio", 
+    "title": "Getting Started with CLR and Visual Studio - Clojure Documentation - Clojure Development"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "50a7e3c9252e3886bba496d750417232", 
+    "uri": "https://github.com/aaronc/nleiningen", 
+    "title": "GitHub - aaronc/nleiningen: Build tool for ClojureCLR"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aea0b4b421bf6e2506d44f9aefc78a0e", 
+    "uri": "http://www.myclojureadventure.com/2012/01/intro-to-clojure-clr-creating-ui-with.html", 
+    "title": "My Clojure Adventure: Intro to Clojure-clr: Creating a UI with Windows.Forms"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0052f3b87719d2f275366fa7381d45f5", 
+    "uri": "http://www.myclojureadventure.com/2011/10/getting-started-with-clojure-clr.html", 
+    "title": "My Clojure Adventure: Getting Started with Clojure-clr"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5c81c5da6bc32c43a847d30b862297fa", 
+    "uri": "https://www.eduonix.com/courses/Software-Development/clojure-fundamentals-for-beginners?coupon_code=vnlive7", 
+    "title": "Learn Clojure Functional Programming Course Online"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bb93d9435e0d92d80548687c9668136e", 
+    "uri": "https://clojure.zeef.com/vlad.bokov", 
+    "title": "Clojure by Vlad Bokov | ZEEF"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2df5e8b01b59b54545a940cdab59afb7", 
+    "uri": "https://github.com/mjul/docjure", 
+    "title": "GitHub - mjul/docjure: Read and write Office documents from Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a40f88db1eb879f7ccbf2134559252c", 
+    "uri": "https://github.com/sneerteam/sneer", 
+    "title": "GitHub - sneerteam/sneer: A Platform for Sovereign Computing Apps."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5eee5b793f908823c09cd684f718d0da", 
+    "uri": "https://github.com/dakrone/clojure-opennlp", 
+    "title": "GitHub - dakrone/clojure-opennlp: Natural Language Processing in Clojure (opennlp)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "61fafc7fc3b7f6815a1f482abfacd777", 
+    "uri": "clojure-android.info", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3912917a517d066118f35c9988a9edbf", 
+    "uri": "https://github.com/clojure/clojure-clr/wiki", 
+    "title": "Home \u00b7 clojure/clojure-clr Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bc3de1d1d704474ec120ad41e76ce5c3", 
+    "uri": "https://www.livecoding.tv/slightlycyborg/videos/", 
+    "title": "Access denied | www.livecoding.tv used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47e31fd013d2b75bfa0a5b27492c0ea4", 
+    "uri": "https://medium.com/@mickduprez/clojure-clr-from-scratch-part-1-the-tools-6037311b815e", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cf9655b41d24a70ae2f0872b4730f70c", 
+    "uri": "http://tech.metail.com/think-stats-in-clojure-i/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "119f5d1a0c807c33e65c78bd3a27e0b7", 
+    "uri": "https://github.com/david-mcneil/bolo", 
+    "title": "GitHub - david-mcneil/bolo: Toy DSL for robot tanks"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fee4518ce03b9b97b7a27644bfb6d2b0", 
+    "uri": "https://github.com/franks42/clj-ns-browser", 
+    "title": "GitHub - franks42/clj-ns-browser: Smalltalk-like namespace/class/var/function browser for clojure docs and source-code based on seesaw"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7caece84ed52fc7307afa302db360095", 
+    "uri": "https://clojars.org/repo/", 
+    "title": "Index of /repo/"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3078e0420265ebe7b55c5ffac8de7196", 
+    "uri": "http://www.deadcoderising.com/2015-09-22-concurrency-made-easy-with-clojure-and-pulsar/", 
+    "title": "Concurrency made easy with Clojure and Pulsar"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0dc439ca53b53b8e581cb4f6c0dc8d3", 
+    "uri": "http://alexkehayias.tumblr.com/post/28783286946/a-simple-real-time-chat-server-using-clojure-and", 
+    "title": "Alex Kehayias's Blog &bull; A simple real-time chat server using Clojure and..."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fa354fc2287557aa336c056ae3258142", 
+    "uri": "https://github.com/juxt/chatserver", 
+    "title": "GitHub - juxt/chatserver"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd3db247d7536906de8c5d340af64ec0", 
+    "uri": "https://github.com/yieldbot/flambo", 
+    "title": "GitHub - yieldbot/flambo: A Clojure DSL for Apache Spark"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de66350a195fe4f4377b4693837ead34", 
+    "uri": "http://hoplon.io/", 
+    "title": "Hoplon, a ClojureScript Web Framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9eeb476cb11e444cb025feefc3023acd", 
+    "uri": "http://neuronrobotics.com/", 
+    "title": "Neuron Robotics Cooperative"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2b8597f00f64fba9f27dd3946e177c19", 
+    "uri": "https://github.com/yogthos/clojure-error-message-catalog", 
+    "title": "GitHub - yogthos/clojure-error-message-catalog: a catalog of common Clojure errors and their meaning"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "85c12dee86ebf5ee2b72d5aeac9e53c5", 
+    "uri": "http://clojurians.net/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "273aaece54d653038707ca67ea3d8bf1", 
+    "uri": "http://open-source.braveclojure.com/", 
+    "title": "Open Source Clojure Projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cf7dd1f95a535195385c870760ff36e6", 
+    "uri": "https://myminutes.wordpress.com/2013/10/22/simple-caldav4j-example-in-java-and-clojure/", 
+    "title": "Simple caldav4j example in java and clojure | My Minutes (Benjamin Peter)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e518a9e5d52ba3404cf66ce02b7da6bf", 
+    "uri": "http://clojure.org/guides/threading_macros", 
+    "title": "Clojure - Threading Macros Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "81cf8989a4b2ae9530f6f35d16779f4f", 
+    "uri": "https://github.com/LonoCloud/synthread", 
+    "title": "GitHub - LonoCloud/synthread: Syntax threading macros for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8162a8d4d1ba33f4a451b606f71f37f6", 
+    "uri": "http://fgiasson.com/blog/index.php/2016/09/28/using-cognonto-to-generate-domain-specific-word2vec-models/", 
+    "title": "Using Cognonto to Generate Domain Specific word2vec Models | Frederick Giasson"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59dbd8c65866ea904d881e5dec06fed2", 
+    "uri": "https://github.com/cloverage/cloverage", 
+    "title": "GitHub - cloverage/cloverage: Clojure test coverage tool"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f3887fc5e6b601b2f8213b0fb63592a", 
+    "uri": "https://juxt.pro/blog/opensource", 
+    "title": "JUXT Opensource"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d62acb0c38705f978bf88d7cbe7cd129", 
+    "uri": "http://vvvvalvalval.github.io/posts/2016-07-24-datomic-web-app-a-practical-guide.html", 
+    "title": "Val on Programming: Using Datomic in your app: a practical guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cc1c5e3212c2a0ca79e46aadd8e65de3", 
+    "uri": "http://www.meetup.com/Clojure-Toronto/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9933099f441e484eeee4e5cf5799a8cf", 
+    "uri": "https://tbaldridge.pivotshare.com/", 
+    "title": "Clojure Tutorials - with Tim Baldridge | Logic Programming, Core.Async, Transients, and more | Watch Online Videos for Just $3.99"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f4d21b8893cde246a5cc6d3d721d2a85", 
+    "uri": "https://github.com/thinktopic/cortex", 
+    "title": "GitHub - thinktopic/cortex: Machine learning in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1e89c171ba571c521dc2814196a51191", 
+    "uri": "https://github.com/Day8/re-com", 
+    "title": "GitHub - Day8/re-com: A ClojureScript library of reusable components for Reagent"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "23a1f5bb974d7c135bd490463fc554b2", 
+    "uri": "https://medium.com/@matus.lestan/how-to-create-decentralised-apps-with-clojurescript-re-frame-and-ethereum-81de24d72ff5#.t9j1dc3r0", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9d6d5e70edabd05518dfc87d1f4d8760", 
+    "uri": "http://numergent.com/2016-10/Deploying-a-Clojure-application-from-Gitlab-CI-to-Heroku.html", 
+    "title": "Deploying a Clojure application from Gitlab CI to Heroku | Numergent"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec13148a9057721bb6deac841f1b24eb", 
+    "uri": "yogthos.net/posts/2016-10-15-AtomWithLuminus.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "68c95b9c78136ee09d4fbd69c3ee4a81", 
+    "uri": "https://github.com/mcohen01/amazonica", 
+    "title": "GitHub - mcohen01/amazonica: A comprehensive Clojure client for the entire Amazon AWS api."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d2b9b0abc94ae6e68ee80f885178ce84", 
+    "uri": "http://dragan.rocks/talks/EuroClojure2016/clojure-is-not-afraid-of-the-gpu.html", 
+    "title": "Clojure is not afraid of the GPU"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a30a89faa4d207202f0dcbc204531db3", 
+    "uri": "https://github.com/danielsz/system", 
+    "title": "GitHub - danielsz/system: Reloaded components \u00e0 la carte"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1628712455673a3a9e03d7f5e9300792", 
+    "uri": "https://github.com/tonsky/rum", 
+    "title": "GitHub - tonsky/rum: Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "416756c0b979b79eceb79b0980826d77", 
+    "uri": "https://www.youtube.com/watch?v=RqHnxkU9TZE", 
+    "title": "Rum workshop - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "63910d7631e820f65acfedb0a071c26d", 
+    "uri": "http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "97562ab025c7c767b8b0bdcac2f65543", 
+    "uri": "http://blog.klipse.tech//clojure/2016/10/25/core-match.html", 
+    "title": "Core.match interactive tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3aa65a356e20d50718a0d68a52b7d75a", 
+    "uri": "https://christopherdbui.com/clojure-repl-workflow/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9ef122a79ed4126e440ca506e70eb096", 
+    "uri": "https://github.com/replikativ/superv.async", 
+    "title": "GitHub - replikativ/superv.async: This is a Clojure(Script) library that extends core.async with error handling and includes a number of convenience functions and macros."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d52a452c78c3bdd68e97f79b9f245c30", 
+    "uri": "http://www.upgradingdave.com/blog/index.html", 
+    "title": "Upgrading Dave"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ea09662c7f1dff25f7d8aa7df71b90c1", 
+    "uri": "https://github.com/davidsantiago/hickory", 
+    "title": "GitHub - davidsantiago/hickory: HTML as data"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5c222b038c5d2be5600ff87b8d8a36ce", 
+    "uri": "https://www.lynda.com/search?q=clojure", 
+    "title": "clojure | lynda.com search"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2ff7ab643d73a71de8f645babfdf0b06", 
+    "uri": "https://www.amazon.com/gp/richpub/listmania/fullview/R3LG3ZBZS4GCTH", 
+    "title": "Amazon.com: Listmania!  "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f84245ba3212bfa095d755746184793", 
+    "uri": "http://blog.shriphani.com/2016/11/16/a-clojure-dsl-for-web-crawling/", 
+    "title": "A Clojure DSL for Web-Crawling"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dcb4a54a2283eef06ec81b8b098a1399", 
+    "uri": "http://z.caudate.me/hara-security-making-sense-of-the-jca/", 
+    "title": "hara.security - making sense of the JCA"
+}

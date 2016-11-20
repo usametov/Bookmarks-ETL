@@ -1,0 +1,9 @@
+{
+    "hash": "8ac1552433d56ab11554cfd71c839944", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://yogthos.net/posts/2016-07-15-JavaSSLWorkaround.html", 
+    "private": false, 
+    "time": "2016-08-04T07:37:05Z", 
+    "title": "Working around the Java SSL trust store"
+}

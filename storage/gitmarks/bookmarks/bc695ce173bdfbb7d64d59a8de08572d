@@ -1,0 +1,9 @@
+{
+    "hash": "bc695ce173bdfbb7d64d59a8de08572d", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/ricardojmendez/tropology", 
+    "private": false, 
+    "time": "2016-08-16T10:16:10Z", 
+    "title": "GitHub - ricardojmendez/tropology: Tropology is a Clojure project to crawl TVTropes.org, converts the relationships between pages into a PostgreSQL database, and helps you visualize relationships between concepts, tropes, creators and material."
+}

@@ -1,0 +1,13 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e358c15a8ca6f381fce013a406f2dcc6", 
+    "uri": "https://github.com/netblue30/firejail", 
+    "title": "GitHub - netblue30/firejail: Linux namespaces and seccomp-bpf sandbox"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d7661d97c4c89d514c20f63394225b38", 
+    "uri": "https://github.com/tsgates/mbox", 
+    "title": "GitHub - tsgates/mbox: A lightweight sandbox tool for non-root users"
+}

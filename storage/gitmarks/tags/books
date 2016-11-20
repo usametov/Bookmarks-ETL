@@ -1,0 +1,457 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a91d39a285563e2ca403bf47cf462ef3", 
+    "uri": "http://nbviewer.jupyter.org/", 
+    "title": "Jupyter Notebook Viewer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bea5cf1cea453784c6edc867df0a71a1", 
+    "uri": "http://www.syncfusion.com/resources/techportal/ebooks", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1caba2e7294bb70d6b7918aa1d94f074", 
+    "uri": "http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/", 
+    "title": "Functional architecture is Ports and Adapters"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "55ee9a7def3af251d2436d286f5fa399", 
+    "uri": "http://eed3si9n.com/learning-scalaz/learning-scalaz.pdf", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b4f91dac558b09e7624466982af92cc4", 
+    "uri": "https://drboolean.gitbooks.io/mostly-adequate-guide/content/", 
+    "title": "Introduction | mostly-adequate-guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd6af65f560f6122cc8b67c4a5592043", 
+    "uri": "http://www.syncfusion.com/resources/techportal/ebooks/fsharp", 
+    "title": "F# succintly"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "df6fb41f0031e6fb7adb371d575466a8", 
+    "uri": "http://en.wikibooks.org/wiki/F_Sharp_Programming", 
+    "title": "F# Programming - Wikibooks, open books for an open world"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ce50303fc432f8cfeb1cc67e95db3e8b", 
+    "uri": "https://github.com/thejameskyle/babel-handbook", 
+    "title": "GitHub - thejameskyle/babel-handbook: A guided handbook on how to use Babel and how to create plugins for Babel."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d3537ae1b2de93e7215b3a512792ea23", 
+    "uri": "http://www.lispmachine.net/", 
+    "title": "LISP Information and Resources"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "29a7d8974e9a0b6f2b8764455096bd7e", 
+    "uri": "http://pinboard.in/t:reactjs/t:book", 
+    "title": "Pinboard bookmarks tagged reactjs + book"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db21cfa22eb8a6fd8b56247edcf3fbdd", 
+    "uri": "http://www.usingcsp.com/", 
+    "title": "Index of /"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c0d15711dfb82b50dea7ecbd9cb57d40", 
+    "uri": "https://github.com/omcljs/om-cookbook", 
+    "title": "GitHub - omcljs/om-cookbook: Home of Om recipes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "97934fec79884849cc24715fa525a11b", 
+    "uri": "https://github.com/magomimmo/modern-cljs", 
+    "title": "GitHub - magomimmo/modern-cljs: A series of tutorials on ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "35e261ae69a64d9888f4c23197a69df6", 
+    "uri": "https://www.geekbooks.me/book/view/introduction-to-computation-and-programming-using-python", 
+    "title": "Introduction to Computation and Programming Using Python - Download eBook PDF - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "04e649bd450b3999e9bdc8572a5e2711", 
+    "uri": "https://www.geekbooks.me/book/view/introduction-to-algorithms", 
+    "title": "Introduction to Algorithms - Download eBook PDF - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "22dbf20bc2ff693104fb662cf779df41", 
+    "uri": "https://www.geekbooks.me/tag/view/adwords", 
+    "title": "AdWords - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "48beca0bd5772bb02a40c94b7bd706e1", 
+    "uri": "https://www.geekbooks.me/tag/view/gitlab", 
+    "title": "GitLab - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aea2c5c6240087e0426c43688a2cb8b0", 
+    "uri": "https://www.geekbooks.me/tag/view/googleanalytics", 
+    "title": "Google Analytics - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6fe5bb0a17a872120e7b723c16443e3a", 
+    "uri": "https://www.geekbooks.me/tag/view/gcc", 
+    "title": "GCC - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6380ddf663457d7a48874828d8de5406", 
+    "uri": "https://www.geekbooks.me/tag/view/unity", 
+    "title": "Unity - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6a5f8b1e75accb60c548f4847aff76a9", 
+    "uri": "https://www.geekbooks.me/tag/view/internetofthings", 
+    "title": "Internet of Things - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6f56f937cd1301f452561395f9a040bf", 
+    "uri": "https://www.geekbooks.me/tag/view/fsharp", 
+    "title": "F# - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4766551e396e70145bff14a55a35aab2", 
+    "uri": "https://www.geekbooks.me/book/view/quickbooks-2015-the-missing-manual", 
+    "title": "QuickBooks 2015: The Missing Manual - Download eBook PDF - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "94370f77745c1700950f1a73f04db846", 
+    "uri": "https://www.geekbooks.me/tag/view/abtesting", 
+    "title": "A/B Testing - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "746f14908341f9e1cb67b1f2a0bff551", 
+    "uri": "https://www.geekbooks.me/tag/view/android", 
+    "title": "Android - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2ab3c5327c836e3579bcec390cfafc7c", 
+    "uri": "https://www.geekbooks.me/tag/view/aspnet", 
+    "title": "ASP.NET - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "41e08276ce3728fc342a1074c2053d11", 
+    "uri": "https://www.geekbooks.me/tag/view/asm", 
+    "title": "Assembler - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03e4016c3974718c10ec135851f0f3f2", 
+    "uri": "https://www.geekbooks.me/tag/view/assembly", 
+    "title": "Assembly - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "402041c8d264b61d4ebb644aea72dfb6", 
+    "uri": "https://www.geekbooks.me/tag/view/asterisk", 
+    "title": "Asterisk - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e240ef147f090774e55fd0fdf640b1c4", 
+    "uri": "https://www.geekbooks.me/search?q=alfresco", 
+    "title": "Search Results - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "04f1d3dc45e5494c79f360337ee0506b", 
+    "uri": "https://www.geekbooks.me/tag/view/voip", 
+    "title": "VoIP - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9e8e2dc7a057028986d4480d4a30eb0e", 
+    "uri": "https://www.geekbooks.me/tag/view/webrtc", 
+    "title": "WebRTC - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "00c23bc7b22456f48475fe06d0a15fe8", 
+    "uri": "https://www.geekbooks.me/tag/view/linux", 
+    "title": "Linux - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "daa41da2cb2badd36e280c844e025499", 
+    "uri": "https://www.geekbooks.me/tag/view/audio", 
+    "title": "Audio - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9ab1564f475e6227cc1da2fa7dff9d91", 
+    "uri": "https://www.geekbooks.me/book/view/fl-studio-cookbook", 
+    "title": "FL Studio Cookbook - Download eBook PDF - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e6442eebf5600bfac452156becfb7d06", 
+    "uri": "https://www.geekbooks.me/book/view/digital-audio-editing-fundamentals", 
+    "title": "Digital Audio Editing Fundamentals - Download eBook PDF - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "93c1644e325722f9f0041f2d3cf55260", 
+    "uri": "https://www.geekbooks.me/book/view/digital-video-concepts-methods-and-metrics", 
+    "title": "Digital Video Concepts, Methods, and Metrics - Download eBook PDF - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "11ae10a47beeb0ed2b18828ae5469c2e", 
+    "uri": "https://www.geekbooks.me/search?q=sensors", 
+    "title": "Search Results - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cab20fa12c3235e50650ce4dc05704bf", 
+    "uri": "https://www.geekbooks.me/tag/view/r", 
+    "title": "R - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b47666b1114f953198ad95de41a587f", 
+    "uri": "http://webaudioapi.com/", 
+    "title": "Welcome | Web Audio API"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fdce009f4190d5bc2dd77c1fab8cc4f0", 
+    "uri": "http://bookzz.org/", 
+    "title": "Electronic library. Download books free. Finding books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "863fbe72cb33710efd04d22881e58ba8", 
+    "uri": "http://www.network-theory.co.uk/", 
+    "title": "Network Theory Ltd"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12f93097e2fc53cc2442c842dfe5de6b", 
+    "uri": "http://artofproblemsolving.com", 
+    "title": "Art of Problem Solving"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47b65991e1ed41d39e403d7944a789ef", 
+    "uri": "https://github.com/Chouser/programming-clojure", 
+    "title": "GitHub - Chouser/programming-clojure: Sample code for the book"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d122c779b7ba51b53281c36bf0ef64c2", 
+    "uri": "http://www.langorigami.com/publications/my-books", 
+    "title": "my-books | Robert J. Lang Origami"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6c2690f3ccbb3932de530a4aaa3d6514", 
+    "uri": "https://www.google.ca/search?q=site:langorigami.com+filetype:pdf&prmd=ivns&filter=0", 
+    "title": "Error 403 (Forbidden)!!1"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9941efef2a3baca38046991b56ceda55", 
+    "uri": "http://alexott.net/ru/emacs/emacs-manual/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "978ffe71ab48f5fd6ce05a71393fe3f3", 
+    "uri": "http://web.archive.org/web/19971009064824/www.cs.oberlin.edu/classes/cs280/labs/lab4/lab4.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f3e5cb0bb359c0c08b3f90eaa621bf5", 
+    "uri": "http://lisperati.com/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a211621a084ad6fc19a7407d5b9b79cf", 
+    "uri": "http://www.amazon.com/dp/B00BFXKMPO/ref=cm_sw_r_pi_dp_OVvutb1MFKA6H", 
+    "title": "Welding for Beginners in Fabrication, Jason Heard, eBook - Amazon.com"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96f01a6987785c944a616112d55232d3", 
+    "uri": "https://leanpub.com/purescript/read", 
+    "title": "Read PureScript by Example | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46ba44354a224cc5d882d332dbf68b85", 
+    "uri": "https://data-sorcery.org/book-recommendations/", 
+    "title": "Book Recommendations | Data Sorcery with Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "891e4e128166cb14f92ea697e5dea559", 
+    "uri": "http://www.catonmat.net/blog/top-100-books-part-four/", 
+    "title": "My Top 100 Programming, Computer and Science Books: Part Four - good coders code, great coders reuse"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "747a6b2754c79ca7d88b329578d7e9bb", 
+    "uri": "https://geekguide.linuxjournal.com/", 
+    "title": "Linux Journal"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2ab88ac94728fe225906d9ea998abfe1", 
+    "uri": "https://dzone.com/refcardz/csharp", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "71b76de223dc2d76c57c944c77efdcf1", 
+    "uri": "https://dzone.com/refcardz/core-cpp", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca282bd56a261dbc0c54e657a20b3304", 
+    "uri": "https://dzone.com/refcardz/apache-spark", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57b80565b7c142977fd99646c4ed9814", 
+    "uri": "https://dzone.com/refcardz/functional-programming-with-javascript", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bb74b765181157d0943dde7ca71be910", 
+    "uri": "https://dzone.com/refcardz/getting-started-with-mqtt", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "19e13610b77c58f82783a4ff79dc4e2d", 
+    "uri": "https://dzone.com/refcardz/reactjs-essentials", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b7f1bc9a382116a214678797d24a9c74", 
+    "uri": "https://dzone.com/refcardz/querying-graphs-neo4j", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e6a5d352b694cf23dec1cdb98a3342b7", 
+    "uri": "https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d60c8e7ef2730402127162050a9959e0", 
+    "uri": "https://dzone.com/refcardz/amqp-essentials", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "87165d233f426d0c848812cc464189df", 
+    "uri": "https://dzone.com/refcardz/getting-started-with-industrial-internet", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "34a70f37c6de13158aa0b462c965fb73", 
+    "uri": "https://dzone.com/refcardz/getting-started-apache-hadoop", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e9135f64c5ee9995b879b72f27570aec", 
+    "uri": "https://dzone.com/refcardz/iot-applications-with-java-and-raspberry-pi", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1ba25903f01266a0042f61cb76023abf", 
+    "uri": "https://dzone.com/refcardz/distributed-machine-learning", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3db9d2d5c0addee4910c469668ef2da1", 
+    "uri": "probmods.org/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3d9f99facdc00baf63a740376772bea7", 
+    "uri": "dippl.org", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d5f052234c7ff2a76762120645396433", 
+    "uri": "http://probabilistic-programming.org/wiki/Home", 
+    "title": "Probabilistic Programming"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bac1dd0d72ec8d2805f715a644152bc2", 
+    "uri": "http://greenteapress.com/thinkstats2/html/index.html", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7f572a452590151151bd9df9f47cad96", 
+    "uri": "https://www.geekbooks.me/book/view/netcat-starter", 
+    "title": "Netcat Starter - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d2f82d6ee9810d13c5c03ca76d634f52", 
+    "uri": "https://ccrma.stanford.edu/~jos/sasp/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e37184608f29384fc23186ec235a0ef3", 
+    "uri": "https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/", 
+    "title": "Creating Mobile Apps with Xamarin.Forms Book First Edition - Xamarin"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "95db7f619e419c834dce9482d7e81edc", 
+    "uri": "http://www.visualcapitalist.com/prolific-investors-startups-reading-books/", 
+    "title": "Access denied | www.visualcapitalist.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2ff7ab643d73a71de8f645babfdf0b06", 
+    "uri": "https://www.amazon.com/gp/richpub/listmania/fullview/R3LG3ZBZS4GCTH", 
+    "title": "Amazon.com: Listmania!  "
+}

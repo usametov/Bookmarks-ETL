@@ -1,0 +1,9 @@
+{
+    "hash": "128a7047d99f7e487125d3f3c23b9bf2", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "http://hypirion.com/musings/understanding-persistent-vector-pt-1", 
+    "private": false, 
+    "time": "2016-05-04T09:42:22Z", 
+    "title": "polymatheia - Understanding Clojure's Persistent Vector, pt. 1"
+}

@@ -1,0 +1,9 @@
+{
+    "hash": "fe8529c89f21bd9787d6e2f2eb357d5f", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "http://blog.klipse.tech//lambda/2016/08/10/almost-y-combinator-javascript.html", 
+    "private": false, 
+    "time": "2016-08-12T13:24:39Z", 
+    "title": "Recursions without names: Introduction to the Y combinator in javascript"
+}

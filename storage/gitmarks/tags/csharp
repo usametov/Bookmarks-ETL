@@ -1,0 +1,295 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2c8c450d43d933b472018f47c184e8a2", 
+    "uri": "http://prismproof.org/index.html", 
+    "title": "Project: The Mathematical Mesh"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "23cea5201162c7f74279923a7c1b5455", 
+    "uri": "http://codecube.net/2009/02/mapreduce-in-c-using-linq/", 
+    "title": "MapReduce in C# using LINQ"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a04402ba4f0fdfafe458bf0b4b0327be", 
+    "uri": "https://github.com/Azure/amqpnetlite", 
+    "title": "GitHub - Azure/amqpnetlite: AMQP 1.0 .NET Client Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6ffd53c5b2e5960439c2afaa9c21ee5b", 
+    "uri": "https://github.com/dominionenterprises/mongo-queue-csharp", 
+    "title": "GitHub - dominionenterprises/mongo-queue-csharp: C# message queue using MongoDB as a backend"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "35f516ca3127f825754a03db3d747adb", 
+    "uri": "http://mongodb.github.io/mongo-csharp-driver/", 
+    "title": "MongoDB .NET Driver"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a3273f03508785567ba9e9106fb9b564", 
+    "uri": "http://stackexchange.github.io/dapper-dot-net/", 
+    "title": "Dapper-dot-net by StackExchange"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c47dc681fc9a8ea51e36086b47408541", 
+    "uri": "https://msdn.microsoft.com/en-us/library/ff524512%28v=vs.93%29.aspx", 
+    "title": "Getting Started (Solver Foundation)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d241e3f37ec8c447dd2f36165da3d919", 
+    "uri": "https://github.com/ibaydan/KeyLogger/blob/master/Program.cs", 
+    "title": "KeyLogger/Program.cs at master \u00b7 ibaydan/KeyLogger \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1516238ca9efa45f73cfad88cb1a2af3", 
+    "uri": "https://github.com/Microsoft/Mobius", 
+    "title": "GitHub - Microsoft/Mobius: C# language binding and extensions to Apache Spark"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2ab3c5327c836e3579bcec390cfafc7c", 
+    "uri": "https://www.geekbooks.me/tag/view/aspnet", 
+    "title": "ASP.NET - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "794e076a354b9c51f78f09d33e437b3f", 
+    "uri": "http://keepass.info/help/v2_dev/plg_index.html", 
+    "title": "Plugin Development - KeePass"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "68b2d3dce61404ba60fb25eefb56a18c", 
+    "uri": "https://ytdownloadextension.codeplex.com", 
+    "title": "YouTube API Download Extension - Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "32096464f8e0faef22c8cb3099e1de59", 
+    "uri": "https://msdn.microsoft.com/en-us/library/system.collections.immutable.aspx", 
+    "title": "System.Collections.Immutable\u2002Namespace"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eceb3a5869bf8acbb2e97cdf430ec4ac", 
+    "uri": "https://developer.microsoft.com/en-us/windows/iot/samples/Potentiometer.htm", 
+    "title": "Potentiometer sensor - Windows IoT"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f31350b41face01a9278421615a8917c", 
+    "uri": "https://microsoft.hackster.io/en-US", 
+    "title": "Microsoft Projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2ab88ac94728fe225906d9ea998abfe1", 
+    "uri": "https://dzone.com/refcardz/csharp", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "16a589e01b350444c58c220880a31fe8", 
+    "uri": "https://github.com/Clayster", 
+    "title": "Clayster \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "804dbc05ceebeb133e7571c7c0951632", 
+    "uri": "https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6", 
+    "title": "New Language Features in C# 6 \u00b7 dotnet/roslyn Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12ca7f4efe1cc3449eb039ca703e9868", 
+    "uri": "http://stackoverflow.com/questions/11841540/setting-the-user-agent-header-for-a-webclient-request", 
+    "title": "c# - Setting the User-Agent header for a WebClient request - Stack Overflow"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7f1f82843e36ae0439e717727624f911", 
+    "uri": "https://reactiveetl.codeplex.com/", 
+    "title": "ReactiveETL - Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "305e773fc44e8993d8366e832342ae19", 
+    "uri": "https://github.com/jbakic/Shielded", 
+    "title": "GitHub - jbakic/Shielded: A strict and mostly lock-free Software Transactional Memory (STM) for .NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "efe3afe841804518c557e9089f0a7297", 
+    "uri": "https://github.com/naudio/NAudio", 
+    "title": "GitHub - naudio/NAudio: Audio and MIDI library for .NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "515ff193b98c9eee6d6fbe7a357e1ab4", 
+    "uri": "https://github.com/kappy/FlatMapper", 
+    "title": "GitHub - kappy/FlatMapper: FlatMapper is a library to import and export data from and to plain text files."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1df589382d63bcb244c6051830917b1", 
+    "uri": "https://github.com/sshnet/SSH.NET", 
+    "title": "GitHub - sshnet/SSH.NET: SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1991f9405b89c867702136275d1bc961", 
+    "uri": "https://dynamic-data.org/", 
+    "title": "Dynamic Data | dynamic data brings the power of reactive (rx) to collections"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "618b4aa3106cbe009eca33d4dd1309ce", 
+    "uri": "https://github.com/octokit/octokit.net", 
+    "title": "GitHub - octokit/octokit.net: A GitHub API client library for .NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "059b5c58ddb171d5740d59c16bec8593", 
+    "uri": "https://github.com/QuantConnect/Lean", 
+    "title": "GitHub - QuantConnect/Lean: Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#, VB, Java)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e7f35f970e0680d5391fe461fb08c5d2", 
+    "uri": "https://github.com/StockSharp/StockSharp", 
+    "title": "GitHub - StockSharp/StockSharp: Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, bitcoins and options)."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5c9c8019688bbfa9ebf9a12410470a2e", 
+    "uri": "https://github.com/sjdirect/abot", 
+    "title": "GitHub - sjdirect/abot: C# web crawler built for speed and flexibility. Please star this project! +1. Contact me with exciting opportunities!!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a3369baf5f4a0f35dcfe1a977cb38490", 
+    "uri": "https://github.com/thangchung/awesome-dotnet-core", 
+    "title": "GitHub - thangchung/awesome-dotnet-core: A collection of awesome .NET core libraries, tools, frameworks and software"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2f172c9846c46f5cddad7f96e37ee4df", 
+    "uri": "https://github.com/AngleSharp/AngleSharp", 
+    "title": "GitHub - AngleSharp/AngleSharp: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "059429130006e90e0e99654603290dd3", 
+    "uri": "https://github.com/adamcaudill/libsodium-net", 
+    "title": "GitHub - adamcaudill/libsodium-net: libsodium for .NET - A secure cryptographic library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe5387e52cb6f3a279d37f0a2235069e", 
+    "uri": "https://github.com/amageed/Regextra", 
+    "title": "GitHub - amageed/Regextra: Regextra simplifies some tasks typically solved via regex so that you no longer have (problems){2}"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c910a36ae9ecbba77c32cbace10f65de", 
+    "uri": "http://hangfire.io/", 
+    "title": "Hangfire \u2013 Background jobs and workers for ASP.NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a2904a3f484273b3bcf0f9e5b3499e16", 
+    "uri": "http://specsfor.com/", 
+    "title": "Welcome - SpecsFor - The Best BDD Framework for .NET Developers!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "618fd9815a891bedde30ad5fc92385de", 
+    "uri": "https://github.com/anjdreas/UnitsNet", 
+    "title": "GitHub - anjdreas/UnitsNet: Makes life working with units of measurement just a little bit better."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3ad557b5f861b33c0ac9d9a85bff06fa", 
+    "uri": "https://uk.sagepub.com/en-gb/eur/social-network-analysis/book237401", 
+    "title": "Social Network Analysis | SAGE Publications Ltd"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1e36d1d9cece66e69034c9ab54adb253", 
+    "uri": "https://en.wikipedia.org/wiki/Software_transactional_memory", 
+    "title": "Software transactional memory - Wikipedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e377ecf6f95aa6cbd74cfacdfce78292", 
+    "uri": "https://components.xamarin.com/gettingstarted/rxforxamarin", 
+    "title": "Getting Started with Reactive Extensions (Rx) for Xamarin"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "272ebfb99e7f5ec3a6a530b1f6229c7f", 
+    "uri": "http://reactiveui.net/", 
+    "title": "ReactiveUI: Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e37184608f29384fc23186ec235a0ef3", 
+    "uri": "https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/", 
+    "title": "Creating Mobile Apps with Xamarin.Forms Book First Edition - Xamarin"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "67da0ee702cacd85f95670e54850c598", 
+    "uri": "https://github.com/kriasoft/aspnet-starter-kit", 
+    "title": "GitHub - kriasoft/aspnet-starter-kit: Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "303ddc42f4a14f0e4fd5a9ec89691fbc", 
+    "uri": "https://github.com/benoitjadinon/awesome-xamarin", 
+    "title": "GitHub - benoitjadinon/awesome-xamarin: A collection of interesting libraries/tools for Xamarin mobile projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0d3ee5691606118cac8dc332acde640", 
+    "uri": "https://github.com/shimat/opencvsharp", 
+    "title": "GitHub - shimat/opencvsharp: .NET Framework wrapper for OpenCV"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4a687cac25a56fb5f6ddf58f4dc260fb", 
+    "uri": "https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis/", 
+    "title": "GitHub - Microsoft/Cognitive-Samples-VideoFrameAnalysis: A library with sample apps for continuous analysis of live video, using the Microsoft Cognitive Services Vision APIs."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5823283832fe082ba5a378bb5deb3412", 
+    "uri": "https://github.com/pierceboggan/smarter-apps", 
+    "title": "GitHub - pierceboggan/smarter-apps: Learn how to build smarter mobile apps using Microsoft Cognitive Services &amp; Xamarin."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd3267bb27cea6e094bf57b4a11dd3ac", 
+    "uri": "https://github.com/Microsoft/Cognitive-face-windows", 
+    "title": "GitHub - Microsoft/Cognitive-Face-Windows: Windows SDK for the Microsoft Face API, part of Cognitive Services"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a7b6fd3942ed930932573c41864aaa9", 
+    "uri": "https://github.com/ms-iot/Facial-Recognition-Door", 
+    "title": "GitHub - ms-iot/Facial-Recognition-Door"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3fbec83298dc992bdb6b153867b3c16f", 
+    "uri": "https://blog.xamarin.com/webinar-recording-building-better-apps-with-microsoft-cognitive-services-and-xamarin/", 
+    "title": "[No Title]"
+}

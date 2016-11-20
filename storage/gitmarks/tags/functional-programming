@@ -1,0 +1,643 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1caba2e7294bb70d6b7918aa1d94f074", 
+    "uri": "http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/", 
+    "title": "Functional architecture is Ports and Adapters"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96b0ef86ef9cdb7f5458957e9a304623", 
+    "uri": "http://www.infoq.com/presentations/categories-functional-programming", 
+    "title": "Categories for the Working Programmer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f16b476d5bcc7836fe9d75e303521b73", 
+    "uri": "https://www.youtube.com/watch?v=QM1iUe6IofM", 
+    "title": "Object-Oriented Programming is Bad - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "55ee9a7def3af251d2436d286f5fa399", 
+    "uri": "http://eed3si9n.com/learning-scalaz/learning-scalaz.pdf", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b4f91dac558b09e7624466982af92cc4", 
+    "uri": "https://drboolean.gitbooks.io/mostly-adequate-guide/content/", 
+    "title": "Introduction | mostly-adequate-guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd6af65f560f6122cc8b67c4a5592043", 
+    "uri": "http://www.syncfusion.com/resources/techportal/ebooks/fsharp", 
+    "title": "F# succintly"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "df6fb41f0031e6fb7adb371d575466a8", 
+    "uri": "http://en.wikibooks.org/wiki/F_Sharp_Programming", 
+    "title": "F# Programming - Wikibooks, open books for an open world"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "62d31f222e4654a4d73c5411170cebf7", 
+    "uri": "http://en.wikipedia.org/wiki/Currying#Contrast_with_partial_function_application", 
+    "title": "Currying - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "90d1f529c83723301a87bf04adbe1c67", 
+    "uri": "http://lambda-the-ultimate.org/node/2266#comment-33625", 
+    "title": "Currying != Generalized Partial Application?! | Lambda the Ultimate"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "640409798af1508695dbbc9ae881eff3", 
+    "uri": "http://en.wikipedia.org/wiki/Tail_call", 
+    "title": "Tail call - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4405171bc247a9c78a0ad7f01c37d13b", 
+    "uri": "http://liangwu.wordpress.com/2010/07/17/the-basic-of-recursive-function-in-f/", 
+    "title": "The Basic of Recursive Function in F# | On the way to be great..."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d837a93b4f45283337a497df7c004911", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee370239.aspx", 
+    "title": "List.reduce&lt;'T&gt; Function (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4ac6cf9e1694ba1a5e3c6f43493c9d80", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee353894.aspx", 
+    "title": "List.fold&lt;'T,'State&gt; Function (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "961702fb551ff134dd2a765653202d10", 
+    "uri": "http://codebetter.com/matthewpodwysocki/2008/08/13/recursing-on-recursion-continuation-passing/", 
+    "title": "Recursing on Recursion &#8211; Continuation Passing | Matthew Podwysocki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fecbb83e68ae87a6228687b6014b58fa", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee353738.aspx", 
+    "title": "Collections.List Module (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96ac1bb2751ef369c8673c73a33648c2", 
+    "uri": "http://blogs.msdn.com/b/fsharpteam/archive/2011/07/08/tail-calls-in-fsharp.aspx", 
+    "title": "Tail calls in F# | Visual Studio F# Team Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e7cc24b22cc5787dc869a493a2bf22b8", 
+    "uri": "http://msdn.microsoft.com/en-us/library/hh967652.aspx", 
+    "title": "F# Collection Types"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f8b0b0c46e9972717c9f6f64280b67b", 
+    "uri": "http://en.wikipedia.org/wiki/Closure_(computer_programming)", 
+    "title": "Closure (computer programming) - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3e9978d8c99c933e18e45a1ff31294e6", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233226%28v=vs.110%29.aspx", 
+    "title": "Discriminated Unions (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "af77bba8d61ff8a7a81158d2af36752c", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233226.aspx", 
+    "title": "Discriminated Unions (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0d577dda1b3055973fbd846dffccad9", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233248.aspx", 
+    "title": "Active Patterns (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0143071ac58a750d57a3a9cbe7545fcf", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233186.aspx", 
+    "title": "Reference Cells (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "40e9b2fa1c4eaa7e7b9d759d7912ddc7", 
+    "uri": "http://lorgonblog.wordpress.com/2008/04/06/catamorphisms-part-two/", 
+    "title": "Catamorphisms, part two &laquo; Inside F#"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6371dd86c8e63792acaeaf1c6ecd5b77", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee353754.aspx", 
+    "title": "Core.Operators Module (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca488e7115c17fd9fe7e3fb1cef68adc", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233182.aspx", 
+    "title": "Computation Expressions (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "be54b26dce958a62ce3c07eaf8f4af11", 
+    "uri": "http://en.wikipedia.org/wiki/Monad_(functional_programming)", 
+    "title": "Monad (functional programming) - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd90110dba2226845a172ddd6ed33408", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233199.aspx", 
+    "title": "Verbose Syntax (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "345cff2230c51562e9b95ead8312b619", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233221.aspx", 
+    "title": "Modules (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5bbea03a3fabe9d19ffbf3feed55d424", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233240.aspx", 
+    "title": "Resource Management: The use Keyword (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "15383be54c6a5dab19147a1e29138e3e", 
+    "uri": "https://github.com/cliftonm/DatabaseExplorer", 
+    "title": "GitHub - cliftonm/DatabaseExplorer: Source code for the Imperative to Functional Programming e-book that I wrote and is published by Syncfusion."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d850cc3e33c0db631546e6a78376680b", 
+    "uri": "http://msdn.microsoft.com/en-us/vstudio/hh388569", 
+    "title": "Visual F#"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2b6db8a589620e67e8cb03644fea6a7f", 
+    "uri": "https://en.wikipedia.org/wiki/QuickCheck", 
+    "title": "QuickCheck - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "037ea079eb4ddb2f031062fb2b0f0cd9", 
+    "uri": "http://ramdajs.com/0.19.1/index.html", 
+    "title": "Ramda Documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bf81c969787dde6a72973cb600074b09", 
+    "uri": "https://github.com/lodash/lodash/wiki/FP-Guide", 
+    "title": "FP Guide \u00b7 lodash/lodash Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc3fa2d982e41b1f06a180e78b5d6e7a", 
+    "uri": "https://github.com/MostlyAdequate/mostly-adequate-guide/tree/master/code", 
+    "title": "mostly-adequate-guide/code at master \u00b7 MostlyAdequate/mostly-adequate-guide \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b2ffdd441c4b769abf4d43c24df4dfd8", 
+    "uri": "https://github.com/ramda/ramda/wiki", 
+    "title": "Home \u00b7 ramda/ramda Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8cadc163177051e5adcf968875647605", 
+    "uri": "http://pinboard.in/t:ramda/", 
+    "title": "Pinboard bookmarks tagged ramda"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "07430a7d43dd81d8067d98a5c928fcb2", 
+    "uri": "https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch6.html", 
+    "title": "Chapter 6: Example Application | mostly-adequate-guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3aaac4dd0212b136fd71702a5f70f381", 
+    "uri": "https://www.youtube.com/watch?v=65-RbBwZQdU", 
+    "title": "Vyacheslav Egorov - LXJS 2013 - Performance and benchmarking - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a7e2bf7ad435025f1ad3c94f5bc5b74f", 
+    "uri": "https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/sum-types", 
+    "title": "Sum Types - School of Haskell | School of Haskell"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42aeefdf71972dfc8d5a040b4d2ef1f6", 
+    "uri": "https://www.haskell.org/hoogle/", 
+    "title": "  Hoogle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6054bc548ae5039f0c80883fa8020704", 
+    "uri": "http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "31e5ac35b9e26d7d67fe16ab14e4392d", 
+    "uri": "http://folktalejs.org/", 
+    "title": "Overview - The Folktale framework for generic programming in JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b135550e4e5a4a78b4577f9b408bd9cc", 
+    "uri": "https://github.com/fantasyland/fantasy-land", 
+    "title": "GitHub - fantasyland/fantasy-land: Specification for interoperability of common algebraic structures in JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec45c64fb298d61f5891037d6128e5b4", 
+    "uri": "https://wiki.haskell.org/Typeclassopedia", 
+    "title": "Typeclassopedia - HaskellWiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "339aee62b30b06ac12b61f4176543996", 
+    "uri": "https://patternsinfp.wordpress.com/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a77102290385c50227a11d63d46940b0", 
+    "uri": "http://dev.stephendiehl.com/hask/", 
+    "title": "What I Wish I Knew When Learning Haskell 2.3 ( Stephen Diehl )"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "24382ace49c823240eb690bc0557e150", 
+    "uri": "https://github.com/loop-recur/lambdajs", 
+    "title": "GitHub - loop-recur/lambdajs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bece746df1b9efd9022c6b16fc8a212c", 
+    "uri": "https://rawgit.com/loop-recur/lambdajs/master/docs/docs.html", 
+    "title": "Lambdajs Documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "313a4e8f57dd8432c396f388f8f1eba7", 
+    "uri": "https://github.com/ramda/ramdangular", 
+    "title": "GitHub - ramda/ramdangular: Ramda adapter for AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c8f960c40b3e16a698219c77d5a829df", 
+    "uri": "https://developers.google.com/closure/library/docs/introduction", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f4580c5e3d56d7ffa69259449a0ee53", 
+    "uri": "http://book.realworldhaskell.org/read/", 
+    "title": "Real World Haskell"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b7a30551b0775d25bd84f583cbc6d1f8", 
+    "uri": "http://learnyouahaskell.com/chapters", 
+    "title": "Chapters - Learn You a Haskell for Great Good!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c01cea4f56b6a01482a2226b55e13f17", 
+    "uri": "https://github.com/lauripiispanen/angular-bacon", 
+    "title": "GitHub - lauripiispanen/angular-bacon: Angular-bacon.js bindings"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ceb3dda9af298a78969206ca0efb0b57", 
+    "uri": "bacon.js bindings for angularJs", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9def52ac4dbfbb0465690799f2e3a0fd", 
+    "uri": "https://gist.github.com/seanxwh/f575104c81c2bcbdcfba", 
+    "title": "Hardcore Function Javascript - Compose Ex \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "231843bce0d6e6a3f8e5b5c1e41323c6", 
+    "uri": "solutions for hardcore functional programming in javascript", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "74865de4dc7a7947c06ad9a39f00581f", 
+    "uri": "https://github.com/jkup/functional-javascript", 
+    "title": "GitHub - jkup/functional-javascript: A list of functional javascript resources"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9a4311bc8b1d10f84ceacee12109ae6b", 
+    "uri": "Functional JavaScript Resources", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3f05a84de4572e8e30244279d72710b6", 
+    "uri": "https://leanpub.com/javascriptallongesix/read", 
+    "title": "Read JavaScript Allong\u00e9, the &quot;Six&quot; Edition | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cb52dcfaf3038fcef0dcd61e05820e80", 
+    "uri": "https://leanpub.com/javascriptallongesix", 
+    "title": "JavaScript\u2026  by Reg \u201craganwald\u201d Braithwaite [PDF/iPad/Kindle]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cca462fb68deee3f28cffdf60e1c13a5", 
+    "uri": "http://clojure.org/about/clojurescript", 
+    "title": "Clojure - ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "566e0981021bea73a848157cd6ac170c", 
+    "uri": "https://gist.github.com/seanxwh/cf87d244456f4a392a7d", 
+    "title": "Hardcore Functional JS- Future,Bacon&amp;etc \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "70d17cb4612dcd953a360146da9117eb", 
+    "uri": "https://gist.github.com/seanxwh", 
+    "title": "seanxwh\u2019s gists \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03c81ace500b3f9de93338d16b3743fb", 
+    "uri": "https://docs.google.com/presentation/d/1WmIH538r0ubjW5zfKh43I1_Up4OnqQnNhICETyDnhSI/", 
+    "title": "Pristine master slides - Google Slides"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45823ab3e948bf070dd2b207067e24c2", 
+    "uri": "http://github.com/technomancy/leiningen", 
+    "title": "GitHub - technomancy/leiningen: Automate Clojure projects without setting your hair on fire."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2fa1f29d94374997616eaff2e74435f5", 
+    "uri": "http://dev.clojure.org/display/doc/Getting+Started", 
+    "title": "Getting Started - Clojure Documentation - Clojure Development"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6614dc07897f5d3ed20884545b2be208", 
+    "uri": "http://dev.clojure.org/display/doc/Getting+Started+with+Eclipse+and+Counterclockwise", 
+    "title": "Getting Started with Eclipse and Counterclockwise - Clojure Documentation - Clojure Development"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9b5e58843782d95fe5abb965865802ef", 
+    "uri": "http://pinboard.in/t:clojure/", 
+    "title": "Pinboard bookmarks tagged clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
+    "uri": "http://java.ociweb.com/mark/clojure/article.html", 
+    "title": "Clojure - Functional Programming for the JVM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a22784f9c6a4735106befa452456969f", 
+    "uri": "https://github.com/begriffs/immutube", 
+    "title": "GitHub - begriffs/immutube: Youtube + functors, a most unlikely combo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ee80d9181d930a1b37a3b9cb932bc28a", 
+    "uri": "https://github.com/ramda/ramda/wiki/Cookbook", 
+    "title": "Cookbook \u00b7 ramda/ramda Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "810e83dec94da8c7231775d7b210c60d", 
+    "uri": "http://blog.codeprototype.com/2015/04/15/write-reacts-component-in-functional-way-with-ramda-and-pointfree-md/", 
+    "title": "Write Reacts components in a functional way with Ramda and PointFree | Code Prototype"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5caa3e589cbb0182d6962b1612149837", 
+    "uri": "https://github.com/panayi/calculator", 
+    "title": "GitHub - panayi/calculator: A calculator built with React, Redux and Ramda"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4977925de57bb871f721333ffd832270", 
+    "uri": "http://conal.net/fran/tutorial.htm", 
+    "title": "Composing Reactive Animations"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c0ee79506cac19f478e91a7c5b611a5a", 
+    "uri": "http://conal.net/papers/icfp97/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b03ccaa749e01db0a6c61a42412f6b7c", 
+    "uri": "https://wiki.haskell.org/FRP", 
+    "title": "Functional Reactive Programming - HaskellWiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7658f240dc087d12398ddd2531b6cc84", 
+    "uri": "http://apfelmus.nfshost.com/blog/2011/03/28-essence-frp.html", 
+    "title": "apfelmus - Reactive-banana and the essence of FRP"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ccdfdebd27f2e86d28f41283f078b7b3", 
+    "uri": "https://egghead.io/series/cycle-js-fundamentals", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "71dc717a2236dc77b19414c9dc5022a5", 
+    "uri": "http://cycle.js.org/", 
+    "title": "Cycle.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "344d44955e202dfd98c2a79fe3a6513f", 
+    "uri": "http://debug.elm-lang.org/", 
+    "title": "Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a12277a9aeea7222244ad110eac0bea1", 
+    "uri": "http://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data", 
+    "title": "Transducers.js: A JavaScript Library for Transformation of Data"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cbe5e6fc4c0d9b04ea1d14d7c485df61", 
+    "uri": "https://github.com/jlongster/transducers.js", 
+    "title": "GitHub - jlongster/transducers.js: A small library for generalized transformation of data (inspired by Clojure&#39;s transducers)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "39d4cc7f9ce3484da1da199efe21f890", 
+    "uri": "https://github.com/cognitect-labs/transducers-js", 
+    "title": "GitHub - cognitect-labs/transducers-js: Transducers for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "972f5e9f57091c6c9ccd1213b9c704ee", 
+    "uri": "http://blog.jetbrains.com/kotlin/2015/11/webinar-recording-functional-programming-with-kotlin/", 
+    "title": "Webinar Recording: Functional Programming with Kotlin | Kotlin Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd7b2d13bd22d7104b32abb7ce042827", 
+    "uri": "http://kotlin.link/", 
+    "title": "Kotlin is Awesome!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d6b2a211118ef280b132a106a23907d6", 
+    "uri": "https://github.com/xgrommx/awesome-functional-programming", 
+    "title": "GitHub - xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1f08df1b4178a0371e189a12c82f98c6", 
+    "uri": "https://www.cs.rice.edu/~javaplt/311/Readings/supplemental.pdf", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9fe27a4127c6896f54419bffa38679e5", 
+    "uri": "http://www.ccs.neu.edu/home/dherman/research/tutorials/monads-for-schemers.txt", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d3537ae1b2de93e7215b3a512792ea23", 
+    "uri": "http://www.lispmachine.net/", 
+    "title": "LISP Information and Resources"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "40ac516a3df00f280ce46b30a5e09b09", 
+    "uri": "http://journals.cambridge.org/action/displayJournal?jid=JFP", 
+    "title": "Access denied | journals.cambridge.org used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8541fbed0dfdebccbfe50f25d3b86c20", 
+    "uri": "http://alexott-ru.blogspot.com/2011/04/monad-tutorial.html", 
+    "title": "Alex Ott's Russian blog about IT-related things: Monad tutorial \u0434\u043b\u044f \u043a\u043b\u043e\u0436\u0443\u0440\u044b"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b0f42610f4ba1c58a417e90b26f54af3", 
+    "uri": "http://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "99caf94a3ef6eb6074f192b2d2c21c31", 
+    "uri": "http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html", 
+    "title": "Functional Mumbo Jumbo - ADTs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9591bfd9d17be2f6108c4531db21e81f", 
+    "uri": "http://raganwald.com/2014/12/20/why-why-functional-programming-matters-matters.html", 
+    "title": "Why Why Functional Programming Matters Matters"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59446bfb42b6334bdda8b30dd5e26767", 
+    "uri": "http://www.ccs.neu.edu/home/matthias/HtDP2e/", 
+    "title": "How to Design Programs, Second Edition"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db65bf6d948a3ac5f2a72631c990e364", 
+    "uri": "https://github.com/khinsen/monads-in-clojure", 
+    "title": "GitHub - khinsen/monads-in-clojure: Konrad Hinsen&#39;s OnClojure.com tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "862c4e7477177d2789183a44d1178c63", 
+    "uri": "http://www.clojure.net/2012/06/03/Monad-Protocols/", 
+    "title": "Monad Protocols &larr; "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96f01a6987785c944a616112d55232d3", 
+    "uri": "https://leanpub.com/purescript/read", 
+    "title": "Read PureScript by Example | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "522efd781761fc4734598d6f30604f49", 
+    "uri": "https://cs.anu.edu.au/courses/comp3610/lectures/", 
+    "title": "Index of /courses/comp3610/lectures"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46b1969950726d948e2d9a9621dd097e", 
+    "uri": "http://www.mscs.dal.ca/~selinger/papers/", 
+    "title": "Peter Selinger: Papers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "363a52468831788eb806a891541b46ea", 
+    "uri": "https://en.wikipedia.org/wiki/Fixed-point_combinator", 
+    "title": "Fixed-point combinator - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe8529c89f21bd9787d6e2f2eb357d5f", 
+    "uri": "http://blog.klipse.tech//lambda/2016/08/10/almost-y-combinator-javascript.html", 
+    "title": "Recursions without names: Introduction to the Y combinator in javascript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cbf7274312d920d2446209b8cdbe7e1e", 
+    "uri": "http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html", 
+    "title": "Functors, Applicatives, And Monads In Pictures - adit.io"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a0f3426b28874ec540f36585374c784", 
+    "uri": "http://blog.klipse.tech//lambda/2016/07/24/lambda-calculus-1.html", 
+    "title": "Numbers and Arithmetics with functions only: lambda calculus live tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57b80565b7c142977fd99646c4ed9814", 
+    "uri": "https://dzone.com/refcardz/functional-programming-with-javascript", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7e55a713b825a6d3b9cb84fb224902af", 
+    "uri": "http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html", 
+    "title": "Understanding Monads With JavaScript \u2014 igstan.ro"
+}

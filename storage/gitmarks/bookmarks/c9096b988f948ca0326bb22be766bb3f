@@ -1,0 +1,9 @@
+{
+    "hash": "c9096b988f948ca0326bb22be766bb3f", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "http://clojurewerkz.org/", 
+    "private": false, 
+    "time": "2016-06-29T10:36:30Z", 
+    "title": "Clojure libraries for MongoDB, RabbitMQ, validations, Neo4J, ElasticSearch, Apache Cassandra, Riak, Memcached, stream processing  and more"
+}

@@ -1,0 +1,31 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1f79aa6772d67d4fb4fbccbbda28400a", 
+    "uri": "https://www.youtube.com/watch?v=f6kdp27TYZs", 
+    "title": "Google I/O 2012 - Go Concurrency Patterns - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fbb2344e35bc56ef756a150bffebe435", 
+    "uri": "https://github.com/glycerine/zygomys/wiki", 
+    "title": "Home \u00b7 glycerine/zygomys Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b238e61f397f4102dde0379346692d67", 
+    "uri": "https://vimeo.com/49718712", 
+    "title": "Rob Pike - &#039;Concurrency Is Not Parallelism&#039; on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8325679c3b26d58600270e49b714e421", 
+    "uri": "https://github.com/tmrts/go-patterns", 
+    "title": "GitHub - tmrts/go-patterns: A curated list of Go patterns and idioms"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b7ae1fd098e37911dfe6999175d9cda2", 
+    "uri": "medium.com/@benbjohnson/go-walkthrough-strconv-7a24632a9e73", 
+    "title": "[No Title]"
+}

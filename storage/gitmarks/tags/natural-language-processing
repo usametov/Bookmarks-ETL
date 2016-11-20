@@ -1,0 +1,19 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2e3d7368ccb648f53c9eb9d7bf0107be", 
+    "uri": "http://opennlp.apache.org/", 
+    "title": "Apache OpenNLP - Welcome to Apache OpenNLP"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8fc55408275d74500c1fdf106f55063", 
+    "uri": "http://nlp.stanford.edu/software/index.shtml", 
+    "title": "Software - The Stanford Natural Language Processing Group "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5eee5b793f908823c09cd684f718d0da", 
+    "uri": "https://github.com/dakrone/clojure-opennlp", 
+    "title": "GitHub - dakrone/clojure-opennlp: Natural Language Processing in Clojure (opennlp)"
+}

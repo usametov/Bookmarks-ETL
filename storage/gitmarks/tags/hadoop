@@ -1,0 +1,67 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b864f4775294d64dcbfc3dd2e2f0f92", 
+    "uri": "http://alexott.net/ru/clojure/ClojureHadoop.html", 
+    "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 Hadoop \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9898bb0056b8a20ca316add88f433230", 
+    "uri": "http://www.cascading.org/projects/cascalog/", 
+    "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "92eb94079c3c35600cc3b32568c65e9f", 
+    "uri": "http://cascalog.org", 
+    "title": "Cascalog | Data processing on Hadoop without the hassle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9d811809cf7163795d0195af8dd8f791", 
+    "uri": "https://github.com/Cascading/Impatient-Cascalog", 
+    "title": "GitHub - Cascading/Impatient-Cascalog: Cascalog for the Impatient"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e69b11933c9dab5efbf096ed553ed764", 
+    "uri": "https://github.com/alexott/clojure-hadoop", 
+    "title": "GitHub - alexott/clojure-hadoop: Library to aid writing Hadoop jobs in Clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f02951e49f0580f26d482cab6db7b04", 
+    "uri": "https://github.com/deeplearning4j/deeplearning4j", 
+    "title": "GitHub - deeplearning4j/deeplearning4j: Deep Learning for Java, Scala &amp; Clojure on Hadoop &amp; Spark With GPUs - From Skymind"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7c37ee2a43390cfda2bcb7b3d5b6f55c", 
+    "uri": "https://github.com/Cascading/Impatient", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "583c5280d6185c69cd1e5d01613c3ec9", 
+    "uri": "https://www.factual.com/blog/clojure-on-hadoop-a-new-hope", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a20153ea2b1047ba20b884a88fb70cfc", 
+    "uri": "https://www.infoq.com/presentations/Cascalog-Hadoop", 
+    "title": "Cascalog: Logic Programming over Hadoop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "34a70f37c6de13158aa0b462c965fb73", 
+    "uri": "https://dzone.com/refcardz/getting-started-apache-hadoop", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bfb8c4ab8a43625400fc6330896b6814", 
+    "uri": "http://hortonworks.com/search-results/?search=.net", 
+    "title": "403 Forbidden"
+}

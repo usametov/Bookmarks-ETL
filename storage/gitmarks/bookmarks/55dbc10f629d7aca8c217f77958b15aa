@@ -1,0 +1,9 @@
+{
+    "hash": "55dbc10f629d7aca8c217f77958b15aa", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "http://nakkaya.com/2012/08/13/google-hotp-totp-two-factor-authentication-for-clojure/", 
+    "private": false, 
+    "time": "2016-07-17T20:07:41Z", 
+    "title": "Google HOTP/TOTP Two-factor Authentication for Clojure"
+}

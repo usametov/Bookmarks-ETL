@@ -1,0 +1,55 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a408ffa7ca904bd0ef24f8b8b0360cc4", 
+    "uri": "http://dmlc.cs.washington.edu/xgboost.html", 
+    "title": "XGBoost"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "236f7db26bdabe1f60e38326b15862fe", 
+    "uri": "https://github.com/gorillalabs/sparkling", 
+    "title": "GitHub - gorillalabs/sparkling: A Clojure library for Apache Spark: fast, fully-features, and developer friendly"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7423cc3d83626dd77030dc062314df39", 
+    "uri": "http://mishadoff.com/blog/spark-in-clojure/", 
+    "title": "Spark in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1516238ca9efa45f73cfad88cb1a2af3", 
+    "uri": "https://github.com/Microsoft/Mobius", 
+    "title": "GitHub - Microsoft/Mobius: C# language binding and extensions to Apache Spark"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "df9981ea7eaa7510bbcb8072356ef1d7", 
+    "uri": "https://www.packtpub.com/books/content/creating-supercomputer", 
+    "title": "Creating a Supercomputer | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6249aa05567378088c377e03774795bb", 
+    "uri": "https://www.packtpub.com/books/content/building-recommendation-engine-spark", 
+    "title": "Building a Recommendation Engine with Spark | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7dbfde6f0ef3ed60bb14745257cca050", 
+    "uri": "http://www.h2o.ai/download/", 
+    "title": "Download H2O today \u2014 H2O.ai - AI for Business"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca282bd56a261dbc0c54e657a20b3304", 
+    "uri": "https://dzone.com/refcardz/apache-spark", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd3db247d7536906de8c5d340af64ec0", 
+    "uri": "https://github.com/yieldbot/flambo", 
+    "title": "GitHub - yieldbot/flambo: A Clojure DSL for Apache Spark"
+}

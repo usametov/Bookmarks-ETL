@@ -1,0 +1,19 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3821632c007de6bb1fbc2984d8b0aba", 
+    "uri": "https://github.com/nathanmarz/storm-deploy", 
+    "title": "GitHub - nathanmarz/storm-deploy: One click deploy for Storm clusters on AWS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "811296ed974b4de24275be8a2c64c861", 
+    "uri": "https://github.com/mikefourie/MSBuildExtensionPack", 
+    "title": "GitHub - mikefourie/MSBuildExtensionPack"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9d6d5e70edabd05518dfc87d1f4d8760", 
+    "uri": "http://numergent.com/2016-10/Deploying-a-Clojure-application-from-Gitlab-CI-to-Heroku.html", 
+    "title": "Deploying a Clojure application from Gitlab CI to Heroku | Numergent"
+}

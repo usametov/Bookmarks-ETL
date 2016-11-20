@@ -1,0 +1,79 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c52883ce0bb069b774dbdaf17a6dd746", 
+    "uri": "http://thenewstack.io/tutorial-prototyping-a-sensor-node-and-iot-gateway-with-arduino-and-raspberry-pi-part-1/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a5cc649974779799da63ab8da18301e7", 
+    "uri": "http://www.instructables.com/id/Vertical-Hydroponic-Farm/?ALLSTEPS", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "feb4396964f411dd38aa23e2ea7891c5", 
+    "uri": "http://www.poprobot.ru/home/mlx90620_Arduino", 
+    "title": "\u0422\u0435\u043f\u043b\u043e\u0432\u0438\u0437\u043e\u0440 \u043d\u0430 \u0431\u0430\u0437\u0435 MLX90620 - \u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0430\u044f \u0440\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "24e102eb7811208d0ad3c5ec031510bb", 
+    "uri": "http://www.diy-thermocam.net/", 
+    "title": "A cheap thermographic camera based on the FLIR Lepton - DIY-Thermocam - A do-it-yourself thermal imager"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0e955b4d298ec06b13aa5097caf1c8b6", 
+    "uri": "http://casajasmina.arduino.cc/projects/aker-kits/", 
+    "title": "AKER Kits | "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d02e2dead34deb114632f85e6ad4067c", 
+    "uri": "http://node-ardx.org/", 
+    "title": "Arduino Experimenter&#39;s Guide for NodeJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3bbc8dbaa8dcbefb9db73e64e5642769", 
+    "uri": "http://nakkaya.com/clodiuno.html", 
+    "title": "Clodiuno - Clojure API for Arduino"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9da45fdeb70f780bed1ccbc8e060454b", 
+    "uri": "https://github.com/peterschwarz/clj-firmata", 
+    "title": "GitHub - peterschwarz/clj-firmata: clj-firmata provides access to Standard Firmata (http://firmata.org/) commands via clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6696ef8bee734b0bb69d864d483a3938", 
+    "uri": "http://hiim.tv/2010/12/27/arduino-and-clojure/", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "70c4360f7130f1345f3d95f49a210faf", 
+    "uri": "http://blog.gonzih.me/blog/2013/03/19/building-rc-toy-with-clojure/", 
+    "title": "Building RC Toy with Clojure - Max Gonzih"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a71fc2d26c9b5f177c98618f32d260a9", 
+    "uri": "http://pschwarz.bicycle.io/blog/2014/01/28/serial_access_via_clojure.html", 
+    "title": "Serial Access via Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12868ad1455b5e912959b00ddf1a5f94", 
+    "uri": "http://hapkit.stanford.edu/", 
+    "title": "Hapkit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae80bbfe236eb3065a25d88b026d0794", 
+    "uri": "http://garduino.dirtnail.com/", 
+    "title": "Garduino"
+}

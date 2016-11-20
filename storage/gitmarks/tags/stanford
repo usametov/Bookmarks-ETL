@@ -1,0 +1,31 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "36c252cd7a9759f563811416c7a823ae", 
+    "uri": "http://ufldl.stanford.edu/tutorial/", 
+    "title": "Unsupervised Feature Learning and Deep Learning Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1559592f315ff93cbbb17105878e96b0", 
+    "uri": "http://deepdive.stanford.edu", 
+    "title": "DeepDive"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8fc55408275d74500c1fdf106f55063", 
+    "uri": "http://nlp.stanford.edu/software/index.shtml", 
+    "title": "Software - The Stanford Natural Language Processing Group "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "92930bf9809b4f61d15c0cc1a6b57206", 
+    "uri": "http://protege.stanford.edu/", 
+    "title": "prot&eacute;g&eacute;"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d2f82d6ee9810d13c5c03ca76d634f52", 
+    "uri": "https://ccrma.stanford.edu/~jos/sasp/", 
+    "title": "[No Title]"
+}

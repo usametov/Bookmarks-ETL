@@ -1,0 +1,13 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "70d3d6dc6a35d4a9180da5c0411cc40e", 
+    "uri": "http://www.colm.net/open-source/ragel/", 
+    "title": "Ragel State Machine Compiler"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2f172c9846c46f5cddad7f96e37ee4df", 
+    "uri": "https://github.com/AngleSharp/AngleSharp", 
+    "title": "GitHub - AngleSharp/AngleSharp: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications."
+}

@@ -1,0 +1,9 @@
+{
+    "hash": "d3b7ea1c3493b3caf189b2d2b50c6c11", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "http://reagent-project.github.io", 
+    "private": false, 
+    "time": "2016-06-03T22:48:59Z", 
+    "title": "Reagent: Minimalistic React for ClojureScript"
+}

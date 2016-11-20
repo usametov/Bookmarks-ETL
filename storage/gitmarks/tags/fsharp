@@ -1,0 +1,79 @@
+{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd6af65f560f6122cc8b67c4a5592043", 
+    "uri": "http://www.syncfusion.com/resources/techportal/ebooks/fsharp", 
+    "title": "F# succintly"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "df6fb41f0031e6fb7adb371d575466a8", 
+    "uri": "http://en.wikibooks.org/wiki/F_Sharp_Programming", 
+    "title": "F# Programming - Wikibooks, open books for an open world"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fecbb83e68ae87a6228687b6014b58fa", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee353738.aspx", 
+    "title": "Collections.List Module (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96ac1bb2751ef369c8673c73a33648c2", 
+    "uri": "http://blogs.msdn.com/b/fsharpteam/archive/2011/07/08/tail-calls-in-fsharp.aspx", 
+    "title": "Tail calls in F# | Visual Studio F# Team Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e7cc24b22cc5787dc869a493a2bf22b8", 
+    "uri": "http://msdn.microsoft.com/en-us/library/hh967652.aspx", 
+    "title": "F# Collection Types"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0143071ac58a750d57a3a9cbe7545fcf", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233186.aspx", 
+    "title": "Reference Cells (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "40e9b2fa1c4eaa7e7b9d759d7912ddc7", 
+    "uri": "http://lorgonblog.wordpress.com/2008/04/06/catamorphisms-part-two/", 
+    "title": "Catamorphisms, part two &laquo; Inside F#"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6371dd86c8e63792acaeaf1c6ecd5b77", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee353754.aspx", 
+    "title": "Core.Operators Module (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6f56f937cd1301f452561395f9a040bf", 
+    "uri": "https://www.geekbooks.me/tag/view/fsharp", 
+    "title": "F# - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f373db710f71c43b9f24d6a8a921b16e", 
+    "uri": "http://fsharpforfunandprofit.com/", 
+    "title": "Home | F# for fun and profit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "95a53e37ac21df9b0852cdd9e1ab4b33", 
+    "uri": "https://www.functionalgeekery.com/episode-14-richard-minerich/", 
+    "title": "Access denied | www.functionalgeekery.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7ab905618189cc68d99afeef16f6ead4", 
+    "uri": "https://suave.io/", 
+    "title": "Suave.IO"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "216a52975702e55da50e0aef785825f7", 
+    "uri": "http://bluemountaincapital.github.io/FSharpRProvider/", 
+    "title": "[No Title]"
+}

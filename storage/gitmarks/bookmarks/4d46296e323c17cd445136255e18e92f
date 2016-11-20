@@ -1,0 +1,9 @@
+{
+    "hash": "4d46296e323c17cd445136255e18e92f", 
+    "rights": "CC BY", 
+    "creator": "alansamet", 
+    "uri": "https://github.com/cgrand/moustache", 
+    "private": false, 
+    "time": "2016-06-29T13:59:37Z", 
+    "title": "GitHub - cgrand/moustache: a micro web framework/internal DSL to wire Ring handlers and middlewares"
+}
