@@ -35,6 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
     <Reference Include="nunit.framework, Version=3.5.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
       <HintPath>..\packages\NUnit.3.5.0\lib\net45\nunit.framework.dll</HintPath>
       <Private>True</Private>
@@ -54,6 +55,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ConvertTests.cs" />
+    <Compile Include="MergeTests.cs" />
     <Compile Include="ParserTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -66,6 +69,10 @@
       <Project>{4d01d72d-f2de-4549-8e3a-b46281d2545c}</Project>
       <Name>BibsonomyParser</Name>
     </ProjectReference>
+    <ProjectReference Include="..\BookmarksETL_CLI\BookmarksBatchConsole.csproj">
+      <Project>{4bf8d6a1-c882-4c64-9193-e72d3243a5d6}</Project>
+      <Name>BookmarksBatchConsole</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Bookmarks.Common.csproj">
       <Project>{917aafd0-6698-4476-93e6-0ddfb7154ca9}</Project>
       <Name>Bookmarks.Common</Name>
@@ -77,6 +84,10 @@
     <ProjectReference Include="..\GitmarksParser\GitmarksParser.csproj">
       <Project>{23c90325-fc2c-4fbd-b64f-bafa808422a9}</Project>
       <Name>GitmarksParser</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MongoDbImportUtil\MongoDbImportUtil.csproj">
+      <Project>{86F29D8E-A0E6-4E03-B897-E712488F114D}</Project>
+      <Name>MongoDbImportUtil</Name>
     </ProjectReference>
     <ProjectReference Include="..\PinterestParser\PinterestParser.csproj">
       <Project>{674b5331-d46f-4815-86dc-8ae38483bd3a}</Project>
