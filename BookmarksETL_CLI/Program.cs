@@ -46,7 +46,7 @@ merge --file1 [file1] --file2 [file2]");
             }
         }
 
-        private static void ParseBookmarks(string parserType, string bookmarksFile, string outputPath)
+        internal static void ParseBookmarks(string parserType, string bookmarksFile, string outputPath)
         {            
             Bookmarks2Json converter = null;
             switch (parserType)
@@ -65,7 +65,7 @@ merge --file1 [file1] --file2 [file2]");
                     break;
             }
             
-            var content = converter.Write(bookmarksFile, outputPath);
+            var content = converter.Write(bookmarksFile);
             using (var writer = new StreamWriter(outputPath))
             {
                 writer.Write(content);
