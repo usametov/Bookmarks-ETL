@@ -1,5 +1,0 @@
-mongoimport -h ds015690.mlab.com:15690 -u etluser -p "add-pwd-here" -d astanova-bookmarks -c bookmarks --file C:/code/csharp6/Tagging-Util/solr_import_util/storage/gitmarks.json --jsonArray
-
-mongo ds015690.mlab.com:15690/astanova-bookmarks -u <dbuser> -p <dbpassword>
-
-mongodb://webuser2:<dbpassword>@ds015690.mlab.com:15690/astanova-bookmarks
