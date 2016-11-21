@@ -47,7 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Convert2Json.cs" />
+    <Compile Include="Bookmarks2Json.cs" />
     <Compile Include="EqualityComparer.cs" />
     <Compile Include="MergeBookmarks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

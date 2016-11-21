@@ -11,9 +11,9 @@ namespace MongoDbImportUtil
             Parser = pars;
         }
 
-        public IBookmarkParser Parser { get; set; }
+        public IBookmarkParser Parser { get; private set; }
 
-        public string Write(string bookmarksFile, string outputPath) {
+        public string Write(string bookmarksFile) {
             
             var bookmarks = Parser.ParseBookmarks(bookmarksFile);
             return JsonConvert.SerializeObject(bookmarks);

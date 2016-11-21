@@ -1,8 +1,9 @@
 ﻿using Bookmarks.Common;
 using Newtonsoft.Json;
-using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
+using System;
 
 namespace MongoDbImportUtil
 {
@@ -10,8 +11,8 @@ namespace MongoDbImportUtil
     {
         public static List<Bookmark> Merge(string bookmarksFile1, string bookmarksFile2)
         {            
-            var bookmarks1 = JsonConvert.DeserializeObject<List<Bookmark>>(bookmarksFile1);
-            var bookmarks2 = JsonConvert.DeserializeObject<List<Bookmark>>(bookmarksFile2);            
+            var bookmarks1 = JsonConvert.DeserializeObject<Bookmark[]>(File.ReadAllText(bookmarksFile1));
+            var bookmarks2 = JsonConvert.DeserializeObject<Bookmark[]>(File.ReadAllText(bookmarksFile2));            
             //union all
             var result = bookmarks1.Union(bookmarks2, new EqualityComparer<Bookmark>(Equals));
             //group and merge
@@ -21,11 +22,13 @@ namespace MongoDbImportUtil
                                 {
                                     LinkUrl = bg.Key
                                     ,//concatenate descriptions
-                                    Description = string.Join(" ... ", bg.SelectMany(b => b.Description).Distinct().ToArray())
+                                    Description = string.Join(" ... ", bg.Select(b => b.Description??string.Empty).Distinct().ToArray())
                                     ,//concatenate anchor text
-                                    LinkText = string.Join(" ... ", bg.SelectMany(b => b.LinkText).Distinct().ToArray())
+                                    LinkText = string.Join(" ... ", bg.Select(b => b.LinkText??string.Empty).Distinct().ToArray())
                                     ,//merge tags
                                     Tags = bg.SelectMany(b => b.Tags).Distinct().ToList()
+                                    ,
+                                    AddDate = bg.Select(b=>b.AddDate == DateTime.MinValue ? DateTime.Now : b.AddDate).Min()
                                 })
                       .ToList();            
         }
