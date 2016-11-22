@@ -4,6 +4,8 @@ using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System;
+using System.Security.Cryptography;
+using System.Text;
 
 namespace MongoDbImportUtil
 {
@@ -12,25 +14,37 @@ namespace MongoDbImportUtil
         public static List<Bookmark> Merge(string bookmarksFile1, string bookmarksFile2)
         {            
             var bookmarks1 = JsonConvert.DeserializeObject<Bookmark[]>(File.ReadAllText(bookmarksFile1));
-            var bookmarks2 = JsonConvert.DeserializeObject<Bookmark[]>(File.ReadAllText(bookmarksFile2));            
-            //union all
-            var result = bookmarks1.Union(bookmarks2, new EqualityComparer<Bookmark>(Equals));
-            //group and merge
-            return result.GroupBy(b => b.LinkUrl)
-                      .Select(bg =>
-                                new Bookmark
-                                {
-                                    LinkUrl = bg.Key
-                                    ,//concatenate descriptions
-                                    Description = string.Join(" ... ", bg.Select(b => b.Description??string.Empty).Distinct().ToArray())
-                                    ,//concatenate anchor text
-                                    LinkText = string.Join(" ... ", bg.Select(b => b.LinkText??string.Empty).Distinct().ToArray())
-                                    ,//merge tags
-                                    Tags = bg.SelectMany(b => b.Tags).Distinct().ToList()
-                                    ,
-                                    AddDate = bg.Select(b=>b.AddDate == DateTime.MinValue ? DateTime.Now : b.AddDate).Min()
-                                })
-                      .ToList();            
+            var bookmarks2 = JsonConvert.DeserializeObject<Bookmark[]>(File.ReadAllText(bookmarksFile2));
+
+            using (var md5 = MD5.Create())
+            {
+                //union all
+                var result = bookmarks1.Union(bookmarks2, new EqualityComparer<Bookmark>(Equals));
+                //group and merge
+                return result.GroupBy(b => b.LinkUrl)
+                          .Select(bg =>
+                                    new Bookmark
+                                    {
+                                        Id = string.Join(string.Empty
+                                                       , md5.ComputeHash(Encoding.ASCII.GetBytes(bg.Key))
+                                                                                       .Select(b=>b.ToString("X2")))
+                                        ,
+                                        LinkUrl = bg.Key
+                                        ,//concatenate descriptions
+                                        Description = string.Join(" ... "
+                                                                , bg.Select(b => b.Description ?? string.Empty)
+                                                                    .Distinct().ToArray())
+                                        ,//concatenate anchor text
+                                        LinkText = string.Join(" ... "
+                                                               , bg.Select(b => b.LinkText ?? string.Empty)
+                                                                   .Distinct().ToArray())
+                                        ,//merge tags
+                                        Tags = bg.SelectMany(b => b.Tags).Distinct().ToList()
+                                        ,
+                                        AddDate = bg.Select(b => b.AddDate == DateTime.MinValue ? DateTime.Now : b.AddDate).Min()
+                                    })
+                          .ToList();
+            }
         }
 
         private static bool Equals(Bookmark b1, Bookmark b2)
