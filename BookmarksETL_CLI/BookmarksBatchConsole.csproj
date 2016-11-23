@@ -54,8 +54,21 @@
       <HintPath>..\packages\CommandLineParser.1.9.71\lib\net45\CommandLine.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="FileHelpers">
+      <HintPath>..\..\reactiveetl\ReactiveETL\ReactiveETL\bin\Debug\FileHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\reactiveetl\ReactiveETL\ReactiveETL\bin\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="ReactiveETL">
+      <HintPath>..\..\reactiveetl\ReactiveETL\ReactiveETL\bin\Debug\ReactiveETL.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Observable">
+      <HintPath>..\..\reactiveetl\ReactiveETL\ReactiveETL\bin\Debug\System.Observable.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -64,6 +77,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GitmarksExportUtil.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
