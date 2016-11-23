@@ -15,9 +15,9 @@ namespace TestMongoDbImport
         //[TestCase(@"C:\code\csharp6\Tagging-Util\storage\backup-nov21.txt"
         //        , @"C:\code\csharp6\Tagging-Util\storage\gitmarks-nov21-2016.json"
         //        , @"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge.json")]
-        [TestCase(@"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge-nov21-2016.json"
-                , @"C:\code\csharp6\Tagging-Util\storage\pinterest-nov21-2016.json"
-                , @"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge.json")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge-nov21-2016.json"
+        //        , @"C:\code\csharp6\Tagging-Util\storage\pinterest-nov21-2016.json"
+        //        , @"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge.json")]
         public void TestMergeBookmarks(string file1, string file2, string outputPath)
         {
             var bookmarks = MergeBookmarks.Merge(file1, file2);
