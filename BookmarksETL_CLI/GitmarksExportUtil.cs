@@ -9,7 +9,12 @@ using GitmarksParser;
 namespace BookmarksETL_CLI
 {
     public static class GitmarksExportUtil
-    {        
+    {      
+        /// <summary>
+        /// exports bookmarks in gitmarks format
+        /// </summary>
+        /// <param name="bookmarksFile"></param>
+        /// <param name="bookmarksDir"></param>                  
         public static void ExportBookmarks(string bookmarksFile, string bookmarksDir)
         {
             var bookmarks = JsonConvert.DeserializeObject<Bookmark[]>(File.ReadAllText(bookmarksFile)).AsEnumerable();
@@ -32,23 +37,29 @@ namespace BookmarksETL_CLI
                                                             ,
                                                             uri = row["LinkUrl"].ToString()
                                                         };
+                                                        //dump bookmark
                                                         File.WriteAllText(fileName, JsonConvert.SerializeObject(bookmark)); 
                                                     }).Execute();
         }
-
+        /// <summary>
+        /// exports tags in gitmarks format
+        /// </summary>
+        /// <param name="bookmarksFile"></param>
+        /// <param name="tagsDir"></param>
         public static void ExportTags(string bookmarksFile, string tagsDir)
         {
             var bookmarks = JsonConvert.DeserializeObject<Bookmark[]>(File.ReadAllText(bookmarksFile)).AsEnumerable();
+            
             var invertedTags = bookmarks.SelectMany
-                (b => {
+                (b => {//invert tags
                         return b.Tags.Select(t => 
                                             {
                                                 var invalidFileNameChars = Path.GetInvalidFileNameChars()
                                                                                .Concat(new[] { '[', ']', '#', '!' });
-
+                                                //tag will become file name, so clean it up 
                                                 t = invalidFileNameChars.Aggregate(t, (current, c) => 
                                                                                        current.Replace(c.ToString(), string.Empty));
-
+                                                //map stage
                                                 return Tuple.Create(t, new TagContent
                                                                     {
                                                                         creator = "batch"
@@ -75,7 +86,7 @@ namespace BookmarksETL_CLI
                 string fileName = Path.Combine(tagsDir, tagName);
                 
                 var tagContentTuples = row["elements"] as Tuple<string, TagContent>[];
-
+                //reduce stage
                 var tagContent = tagContentTuples.Where(tpl=>tpl!=null).Select(tpl => tpl.Item2);
 
                 var content = JsonConvert.SerializeObject(tagContent.ToArray());
