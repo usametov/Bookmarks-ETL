@@ -25,9 +25,7 @@ namespace MongoDbImportUtil
                           .Select(bg =>
                                     new Bookmark
                                     {
-                                        Id = string.Join(string.Empty
-                                                       , md5.ComputeHash(Encoding.ASCII.GetBytes(bg.Key))
-                                                                                       .Select(b=>b.ToString("X2")))
+                                        Id = Utils.ComputeHash(bg.Key, md5)
                                         ,
                                         LinkUrl = bg.Key
                                         ,//concatenate descriptions
