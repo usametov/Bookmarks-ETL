@@ -19,33 +19,44 @@ namespace GitmarksParser
         {
             var result = new List<IBookmark>();
             // enumerate tag files, read the content, sanitize and MAP it to tag name
-            var invertedTags = Directory.EnumerateFiles 
+            var invertedTags = Directory.EnumerateFiles
                 (Path.Combine(filePath, Constants.TAGS_DIR)).Select(tf => new KeyValuePair<TagContent[], string>
                                                         (
-                                                            JsonConvert.DeserializeObject<TagContent[]>
-                                                            (string.Format("[{0}]", File.ReadAllText(tf)).Replace("}{", "},{"))
+                                                            JsonConvert.DeserializeObject<TagContent[]>(CleanJson(tf))
                                                             ,
-                                                            Path.GetFileName(tf) // value set to tag name
+                                                            Path.GetFileName(tf) // value set to tag name \\).
                                                         ));
-            
+
             var urlHashComparer = new UrlHashComparer();//this will be used to REDUCE tags
             var bookmarkFiles = Directory.EnumerateFiles // enumerate bookmarks
                 (Path.Combine(filePath, Constants.BOOKMARKS_DIR));
             //construct IBookmarks and add to result
-            foreach (var boo in bookmarkFiles) {
+            foreach (var boo in bookmarkFiles)
+            {
 
                 var parsedBoo = JsonConvert.DeserializeObject<BookmarkContent>(File.ReadAllText(boo));
                 var gitmark = CreateGitmark(parsedBoo);
                 //add tags                
                 gitmark.Tags = invertedTags.Where(inv => inv.Key.Contains
                                                 (new TagContent { hash = parsedBoo.hash }, urlHashComparer))
-                                                .Select(inv=>inv.Value).ToList();
+                                                .Select(inv => inv.Value).ToList();
 
                 result.Add(gitmark);
             }
 
             return result;
         }
+
+        private static string CleanJson(string tf)
+        {
+            //return string.Format("[{0}]", File.ReadAllText(tf)
+            //                                    .Replace("[{", "{")
+            //                                    .Replace("}]{", "},{")
+            //                                    .Replace("}]", "}")
+            //                                    .Replace("}{", "},{"));
+            return File.ReadAllText(tf);
+        }
+
         /// <summary>
         /// makes bookmark from gitmark content
         /// </summary>
