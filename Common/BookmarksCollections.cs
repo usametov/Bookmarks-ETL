@@ -1,7 +1,4 @@
-﻿using MongoDB.Bson;
-using MongoDB.Bson.Serialization.Attributes;
-using System;
-using System.Collections.Generic;
+﻿using System.Security.Cryptography;
 
 namespace Bookmarks.Common
 {
@@ -10,7 +7,9 @@ namespace Bookmarks.Common
     /// </summary>
     public class BookmarksCollections
     {
-        [BsonRepresentation(BsonType.ObjectId)]
+        /// <summary>
+        /// should be set to hash of name
+        /// </summary>
         public string Id { get; set; }
 
         public string Name { get; set; }

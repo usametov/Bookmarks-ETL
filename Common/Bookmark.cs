@@ -1,13 +1,13 @@
-﻿using MongoDB.Bson;
-using MongoDB.Bson.Serialization.Attributes;
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace Bookmarks.Common
 {
     public class Bookmark : IBookmark
-    {
-        [BsonRepresentation(BsonType.ObjectId)]
+    {        
+        /// <summary>
+        /// Should be set to MD5 hash of linkUrl
+        /// </summary>
         public string Id { get; set; }
 
         public bool IsPrivate { get; set; }

@@ -1,11 +1,8 @@
-﻿using MongoDB.Bson;
-using MongoDB.Bson.Serialization.Attributes;
-
-namespace Bookmarks.Common
+﻿namespace Bookmarks.Common
 {
     public class User
     {
-        [BsonRepresentation(BsonType.ObjectId)]
+        //should be set to hash of email        
         public string Id { get; set; }
 
         public string Name { get; set; }
