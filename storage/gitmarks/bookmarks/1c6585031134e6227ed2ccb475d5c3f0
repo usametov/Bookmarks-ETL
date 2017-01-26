@@ -1,9 +1,1 @@
-{
-    "hash": "1c6585031134e6227ed2ccb475d5c3f0", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/jonase/eastwood", 
-    "private": false, 
-    "time": "2016-05-07T14:21:44Z", 
-    "title": "GitHub - jonase/eastwood: Clojure lint tool"
-}
+{"hash":"1C6585031134E6227ED2CCB475D5C3F0","rights":"CC BY","creator":"batch","uri":"https://github.com/jonase/eastwood","time":"2016-11-23","title":"GitHub - jonase/eastwood: Clojure lint tool"}

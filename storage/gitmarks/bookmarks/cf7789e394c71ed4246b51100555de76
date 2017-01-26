@@ -1,9 +1,1 @@
-{
-    "hash": "cf7789e394c71ed4246b51100555de76", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://funcool.github.io/clojurescript-unraveled/", 
-    "private": false, 
-    "time": "2016-05-06T11:09:48Z", 
-    "title": "ClojureScript Unraveled"
-}
+{"hash":"CF7789E394C71ED4246B51100555DE76","rights":"CC BY","creator":"batch","uri":"http://funcool.github.io/clojurescript-unraveled/","time":"2016-11-23","title":"ClojureScript Unraveled"}

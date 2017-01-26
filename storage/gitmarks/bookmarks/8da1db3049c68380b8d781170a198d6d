@@ -1,9 +1,1 @@
-{
-    "hash": "8da1db3049c68380b8d781170a198d6d", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.clojureatlas.com/", 
-    "private": false, 
-    "time": "2016-07-17T18:22:55Z", 
-    "title": "Clojure Atlas \u2013\u00a0An experimental visualization of the Clojure language and its standard library"
-}
+{"hash":"8DA1DB3049C68380B8D781170A198D6D","rights":"CC BY","creator":"batch","uri":"http://www.clojureatlas.com/","time":"2016-11-23","title":"Clojure Atlas – An experimental visualization of the Clojure language and its standard library"}

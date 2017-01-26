@@ -1,9 +1,1 @@
-{
-    "hash": "951226c200b8552eb15ab13ec0cb3ace", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/gigasquid/clj-drone", 
-    "private": false, 
-    "time": "2016-05-06T20:16:56Z", 
-    "title": "GitHub - gigasquid/clj-drone: Clojure Copter - Control for the AR Parrot Drone"
-}
+{"hash":"951226C200B8552EB15AB13EC0CB3ACE","rights":"CC BY","creator":"batch","uri":"https://github.com/gigasquid/clj-drone","time":"2016-11-23","title":"GitHub - gigasquid/clj-drone: Clojure Copter - Control for the AR Parrot Drone"}

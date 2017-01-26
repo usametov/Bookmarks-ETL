@@ -1,9 +1,1 @@
-{
-    "hash": "58d3f00f2e525badb1f99ee85dd0044d", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/laginimaineb/ExtractKeyMaster", 
-    "private": false, 
-    "time": "2016-07-04T14:23:19Z", 
-    "title": "GitHub - laginimaineb/ExtractKeyMaster: Exploit that extracts Qualcomm&#39;s KeyMaster keys using CVE-2015-6639 and CVE-2016-2431"
-}
+{"hash":"58D3F00F2E525BADB1F99EE85DD0044D","rights":"CC BY","creator":"batch","uri":"https://github.com/laginimaineb/ExtractKeyMaster","time":"2016-11-23","title":"GitHub - laginimaineb/ExtractKeyMaster: Exploit that extracts Qualcomm&#39;s KeyMaster keys using CVE-2015-6639 and CVE-2016-2431"}

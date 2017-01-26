@@ -1,9 +1,1 @@
-{
-    "hash": "ada1242960b914452014737e5a9d6b00", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://nakkaya.com/2011/03/23/streaming-opencv-video-over-the-network-using-mjpeg/", 
-    "private": false, 
-    "time": "2016-07-17T18:10:02Z", 
-    "title": "Streaming OpenCV Video over the Network Using M-JPEG"
-}
+{"hash":"ADA1242960B914452014737E5A9D6B00","rights":"CC BY","creator":"batch","uri":"http://nakkaya.com/2011/03/23/streaming-opencv-video-over-the-network-using-mjpeg/","time":"2016-11-23","title":"Streaming OpenCV Video over the Network Using M-JPEG"}

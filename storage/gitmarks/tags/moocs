@@ -1,19 +1,7 @@
-{
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"EBFCB5B6CB190F6F8DB32FD4CA16F217","uri":"https://www.kadenze.com/courses","title":"Course Catalog | Kadenze"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D2DB40ABDD994E9EC2BEEA65D7E04F58","uri":"http://platform.europeanmoocs.eu/","title":"EMMA: The European Multiple MOOC Aggregator"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"65AE22EB1ADEB14423BA68B40F79BC9F","uri":"https://github.com/fffaraz/MOOC","title":"free online programming/CS courses"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"789CC264EE47D4F976A64CF1B019C265","uri":"http://www.getsmarter.co.za/learning-platforms","title":"Learning Platforms | GetSmarter"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"FDF97EEB8BD6BCE2BB18303974393F06","uri":"http://www.quora.com/How-do-I-learn-Python-3/answer/James-Thornton","title":"Answer \"How do I learn Python\" - on Quora"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"4899D2BB19F606BD35FAA3002DF33812","uri":"https://learning.accredible.com/all_course_providers","title":"Online MOOC providers"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D0A9291B05A6657888E67C049CE25979","uri":"http://www.openculture.com/freeonlinecourses","title":"800 Free Online Courses from Top Universities | Open Culture"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C23824B36A833EC970B6AF12ED153A58","uri":"http://www.saylor.org/pathways/","title":"saylor.org :: free and open collection of college level courses"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"B9655520BB0794DEC041557CD7BC7181","uri":"http://www.freewaregenius.com/2012/07/02/ten-of-the-best-free-online-education-resources-that-you-should-know-about/","title":"Ten of the best FREE online education resources that you should know about | freewaregenius.com"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"1566A37603A63A770E7AE518949B4537","uri":"http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html","title":"TECH LOGIC: Machine Learning Resources for Beginners and Beginners++"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"3D4EED6B3BEB7EBECB2CC91188338CE5","uri":"https://class.coursera.org/cplusplus4c-002/lecture/preview","title":"C++ For C Programmers - Video Preview | Coursera"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"6CC579EAA82547AA5CE72ACC6238070B","uri":"http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html","title":"aGupieWare: Online Learning: A Bachelor's Level Computer Science Program Curriculum"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"056C6D81714625EF0D56464CC92753B9","uri":"http://www.technoduet.com/25-awesome-open-online-educational-resources-videos-ideas-materials-books-and-more/","title":"25 Awesome Open Online Educational Resources â€“ Videos, Ideas, Materials, Books and More - TechnoDuet"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"5C222B038C5D2BE5600FF87B8D8A36CE","uri":"https://www.lynda.com/search?q=clojure","title":"clojure | lynda.com search"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"5D1B93AA4ADE277CF653882199484C80","uri":"https://www.quora.com/Im-looking-for-a-free-online-course-in-mechatronics-Where-can-I-find-one","title":"I&#039;m looking for a free online course in mechatronics. Where can I find one? - Quora"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"80244A5F59335A2BA0CE721B211E61C1","uri":"https://www.sakaiproject.org/node/105","title":"Download Sakai | Sakai"},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "80244a5f59335a2ba0ce721b211e61c1", 
-    "uri": "https://www.sakaiproject.org/node/105", 
-    "title": "Download Sakai | Sakai"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "5d1b93aa4ade277cf653882199484c80", 
-    "uri": "https://www.quora.com/Im-looking-for-a-free-online-course-in-mechatronics-Where-can-I-find-one", 
-    "title": "I&#039;m looking for a free online course in mechatronics. Where can I find one? - Quora"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "5c222b038c5d2be5600ff87b8d8a36ce", 
-    "uri": "https://www.lynda.com/search?q=clojure", 
-    "title": "clojure | lynda.com search"
-}
+    "hash": "9f535fae0ed7eb392fd8ecf3630f0be6", 
+    "uri": "http://mooc.fi/courses/2014/clojure/index.html", 
+    "title": "Functional programming with Clojure"
+}]

@@ -1,9 +1,1 @@
-{
-    "hash": "085349aa45f3f72f4fa8aef8911777fe", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/liebke/avout", 
-    "private": false, 
-    "time": "2016-07-19T12:42:22Z", 
-    "title": "GitHub - liebke/avout: Avout: Distributed State in Clojure"
-}
+{"hash":"085349AA45F3F72F4FA8AEF8911777FE","rights":"CC BY","creator":"batch","uri":"https://github.com/liebke/avout","time":"2016-11-23","title":"GitHub - liebke/avout: Avout: Distributed State in Clojure"}

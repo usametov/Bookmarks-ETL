@@ -1,9 +1,1 @@
-{
-    "hash": "66d7cbbdbb648ab4f1d5b934097f0bab", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://baconjs.github.io/", 
-    "private": false, 
-    "time": "2016-03-20T12:50:45Z", 
-    "title": "Bacon.js - Functional Reactive Programming library for JavaScript"
-}
+{"hash":"66D7CBBDBB648AB4F1D5B934097F0BAB","rights":"CC BY","creator":"batch","uri":"https://baconjs.github.io/","time":"2016-11-23","title":"Bacon.js - Functional Reactive Programming library for JavaScript"}

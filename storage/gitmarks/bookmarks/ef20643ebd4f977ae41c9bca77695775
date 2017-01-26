@@ -1,9 +1,1 @@
-{
-    "hash": "ef20643ebd4f977ae41c9bca77695775", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://clojureelasticsearch.info/", 
-    "private": false, 
-    "time": "2016-06-29T11:34:42Z", 
-    "title": "Elastisch, a minimalistic Clojure client for ElasticSearch | ElasticSearch Clojure client"
-}
+{"hash":"EF20643EBD4F977AE41C9BCA77695775","rights":"CC BY","creator":"batch","uri":"http://clojureelasticsearch.info/","time":"2016-11-23","title":"Elastisch, a minimalistic Clojure client for ElasticSearch | ElasticSearch Clojure client"}

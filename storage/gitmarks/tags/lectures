@@ -1,25 +1,13 @@
-{
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"9ABBA88DB662A5F6C416FD917E899C00","uri":"http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/","title":"MIT OpenCourseWare | Mathematics | 18.06 Linear Algebra, Spring 2010 | Video Lectures"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"4295AB85D439BDBDDCDB7A330F559202","uri":"https://github.com/prakhar1989/awesome-courses","title":"prakhar1989/awesome-courses"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D0A9291B05A6657888E67C049CE25979","uri":"http://www.openculture.com/freeonlinecourses","title":"800 Free Online Courses from Top Universities | Open Culture"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"57CA53A6BFDE059E42C1098D38B80A18","uri":"http://see.stanford.edu/see/courseinfo.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a","title":"Stanford School of Engineering - Stanford Engineering Everywhere"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CCE6C36EC462D39CCEE7D13F06A7F745","uri":"http://www.dcs.gla.ac.uk/~girolami/Machine_Learning_Module_2006/","title":"Machine Learning"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"158472C85B9DF1B889A89491D439424F","uri":"http://theory.stanford.edu/~dfreeman/cs259c-f11/lectures/","title":"stanford - /~dfreeman/cs259c-f11/lectures"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"8650533463351048A6349500292E3CF9","uri":"http://infolab.stanford.edu/~ullman/mining/mining.html","title":"None"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"EE3DC3C62580148A40BFE8D7ED37866B","uri":"http://work.caltech.edu/previous.html","title":"None"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"87CA463C7486DD073712375FAA40CBE0","uri":"http://ocw.jhsph.edu/courses/MethodsInBiostatisticsII/PDFs/lecture24.pdf","title":"None"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"46B54B398FE32AC19CA500183C75104F","uri":"http://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/","title":"MIT OpenCourseWare | Mathematics | 18.02 Multivariable Calculus, Fall 2007 | Home"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"0354D3816E140CF21B03C0B6FC101404","uri":"http://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html","title":"Lecture Notes"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"46B1969950726D948E2D9A9621DD097E","uri":"http://www.mscs.dal.ca/~selinger/papers/","title":"Peter Selinger: Papers"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"522EFD781761FC4734598D6F30604F49","uri":"https://cs.anu.edu.au/courses/comp3610/lectures/","title":"Index of /courses/comp3610/lectures"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"F8541926ACF02E0C8B8AA0019E7BDF8D","uri":"https://github.com/aphyr/distsys-class","title":"GitHub - aphyr/distsys-class: Class materials for a distributed systems lecture series"},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "0354d3816e140cf21b03c0b6fc101404", 
-    "uri": "http://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html", 
-    "title": "Lecture Notes"
-}{
+    "hash": "b93196c639c0d78e1bc7d3e4481c6787", 
+    "uri": "http://www.math.stonybrook.edu/~kirillov/tensor/tensor.html", 
+    "title": "Lectures on tensor categories and modular functor"
+},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "522efd781761fc4734598d6f30604f49", 
-    "uri": "https://cs.anu.edu.au/courses/comp3610/lectures/", 
-    "title": "Index of /courses/comp3610/lectures"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "46b1969950726d948e2d9a9621dd097e", 
-    "uri": "http://www.mscs.dal.ca/~selinger/papers/", 
-    "title": "Peter Selinger: Papers"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "f8541926acf02e0c8b8aa0019e7bdf8d", 
-    "uri": "https://github.com/aphyr/distsys-class", 
-    "title": "GitHub - aphyr/distsys-class: Class materials for a distributed systems lecture series"
-}
+    "hash": "bd895a80d4aee9a5888c381d9bbcffc5", 
+    "uri": "http://theory.caltech.edu/people/preskill/ph229/", 
+    "title": "Physics 219 Course Information"
+}]

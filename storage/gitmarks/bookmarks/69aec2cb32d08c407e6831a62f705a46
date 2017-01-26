@@ -1,9 +1,1 @@
-{
-    "hash": "69aec2cb32d08c407e6831a62f705a46", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/quile/node-cljs-template", 
-    "private": false, 
-    "time": "2016-06-12T19:15:58Z", 
-    "title": "GitHub - quile/node-cljs-template: Leiningen template for a (working and useful) ClojureScript project that runs on Node.js"
-}
+{"hash":"69AEC2CB32D08C407E6831A62F705A46","rights":"CC BY","creator":"batch","uri":"https://github.com/quile/node-cljs-template","time":"2016-11-23","title":"GitHub - quile/node-cljs-template: Leiningen template for a (working and useful) ClojureScript project that runs on Node.js"}

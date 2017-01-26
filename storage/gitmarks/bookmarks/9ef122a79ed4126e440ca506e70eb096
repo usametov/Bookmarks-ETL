@@ -1,9 +1,1 @@
-{
-    "hash": "9ef122a79ed4126e440ca506e70eb096", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/replikativ/superv.async", 
-    "private": false, 
-    "time": "2016-11-05T20:37:34Z", 
-    "title": "GitHub - replikativ/superv.async: This is a Clojure(Script) library that extends core.async with error handling and includes a number of convenience functions and macros."
-}
+{"hash":"9EF122A79ED4126E440CA506E70EB096","rights":"CC BY","creator":"batch","uri":"https://github.com/replikativ/superv.async","time":"2016-11-23","title":"GitHub - replikativ/superv.async: This is a Clojure(Script) library that extends core.async with error handling and includes a number of convenience functions and macros."}

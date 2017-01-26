@@ -1,9 +1,1 @@
-{
-    "hash": "200e0feca2d505701d3b51b8475035b7", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/JulianBirch/cljs-ajax", 
-    "private": false, 
-    "time": "2016-05-14T20:52:22Z", 
-    "title": "GitHub - JulianBirch/cljs-ajax: simple Ajax client for ClojureScript and Clojure"
-}
+{"hash":"200E0FECA2D505701D3B51B8475035B7","rights":"CC BY","creator":"batch","uri":"https://github.com/JulianBirch/cljs-ajax","time":"2016-11-23","title":"GitHub - JulianBirch/cljs-ajax: simple Ajax client for ClojureScript and Clojure"}

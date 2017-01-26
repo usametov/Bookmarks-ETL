@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "30402e48b88de7c98e1bf8fbe18204e5", 
-    "uri": "http://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/", 
-    "title": "Jupyter Notebook Viewer"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "69197288b27b6a986847efe8137ceddf", 
-    "uri": "https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks", 
-    "title": "A gallery of interesting IPython Notebooks \u00b7 ipython/ipython Wiki \u00b7 GitHub"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"266CFF6F86DD4BE283A404DFB6E58FC6","uri":"https://www.packtpub.com/books/content/increase-your-productivity-ipython","title":"Increase your productivity with IPython | PACKT Books"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C0D440DE339C7F9201E0A640ED19DADD","uri":"https://jupyter.readthedocs.org/en/latest/install.html","title":"Installation â€” Jupyter Documentation 4.1.0 documentation"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"018E3C3024B45A77B44FFC3EA2260BC2","uri":"https://www.packtpub.com/books/content/getting-started-jupyter-notebook-part-1","title":"Getting started with the Jupyter notebook (part 1 and 2)"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"DD9803C5BA4A9B86EAC210261BE429B2","uri":"https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition","title":"ptwobrussell/Mining-the-Social-Web-2nd-Edition"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"40D646F41D82A867D8ADC8552E88195C","uri":"http://data.gdeltproject.org/blog/google-cloud-datalab-demos/Getting%20Started%20with%20GDELT%20%2B%20Google%20Cloud%20Datalab%20-%20Simple%20Network%20Visualizations.html","title":"Getting Started with GDELT + Google Cloud Datalab - Simple Network Visualizations"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CCD22B24B7D4EDA24E1C9F89952D7014","uri":"https://github.com/graphific/DeepDreamVideo","title":"graphific/DeepDreamVideo Â· GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"937421214BA7DD835D34E9B10225CA18","uri":"http://ipython.org/notebook.html","title":"The IPython Notebook â€” web-based interactive computational environment"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"30402E48B88DE7C98E1BF8FBE18204E5","uri":"http://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/","title":"Jupyter Notebook Viewer"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"69197288B27B6A986847EFE8137CEDDF","uri":"https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks","title":"A gallery of interesting IPython Notebooks · ipython/ipython Wiki · GitHub"}]

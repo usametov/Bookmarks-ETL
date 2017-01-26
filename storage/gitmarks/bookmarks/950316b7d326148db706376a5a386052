@@ -1,9 +1,1 @@
-{
-    "hash": "950316b7d326148db706376a5a386052", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/weavejester/hiccup/", 
-    "private": false, 
-    "time": "2016-06-29T14:08:39Z", 
-    "title": "GitHub - weavejester/hiccup: Fast library for rendering HTML in Clojure"
-}
+{"hash":"950316B7D326148DB706376A5A386052","rights":"CC BY","creator":"batch","uri":"https://github.com/weavejester/hiccup/","time":"2016-11-23","title":"GitHub - weavejester/hiccup: Fast library for rendering HTML in Clojure"}

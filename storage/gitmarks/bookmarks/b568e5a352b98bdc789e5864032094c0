@@ -1,9 +1,1 @@
-{
-    "hash": "b568e5a352b98bdc789e5864032094c0", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://hashrocket.com/blog/posts/using-datomic-as-a-graph-database", 
-    "private": false, 
-    "time": "2016-08-26T15:49:14Z", 
-    "title": "Using Datomic as a Graph Database | The Hashrocket Blog"
-}
+{"hash":"B568E5A352B98BDC789E5864032094C0","rights":"CC BY","creator":"batch","uri":"https://hashrocket.com/blog/posts/using-datomic-as-a-graph-database","time":"2016-11-23","title":"Using Datomic as a Graph Database | The Hashrocket Blog"}

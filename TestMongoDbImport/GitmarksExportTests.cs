@@ -17,8 +17,8 @@ namespace TestMongoDbImport
             GitmarksExportUtil.ExportBookmarks(bookmarksFile, bookmarksDir);
         }
 
-        [TestCase(@"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge-nov22-2016.json"
-                , @"C:\code\csharp6\Tagging-Util\storage\gitmarks2\tags")]
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge-nov22-2016.json"
+        //        , @"C:\code\csharp6\Tagging-Util\storage\gitmarks2\tags")]
         public void TestExportTags(string bookmarksFile, string tagsDir)
         {
             GitmarksExportUtil.ExportTags(bookmarksFile, tagsDir);

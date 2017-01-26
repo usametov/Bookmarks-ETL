@@ -1,9 +1,1 @@
-{
-    "hash": "4b2bc9c0b6d9ad99df0db44cd4c8fa38", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/weavejester/clucy", 
-    "private": false, 
-    "time": "2016-06-29T11:09:33Z", 
-    "title": "GitHub - weavejester/clucy: Clojure interface to Lucene"
-}
+{"hash":"4B2BC9C0B6D9AD99DF0DB44CD4C8FA38","rights":"CC BY","creator":"batch","uri":"https://github.com/weavejester/clucy","time":"2016-11-23","title":"GitHub - weavejester/clucy: Clojure interface to Lucene"}

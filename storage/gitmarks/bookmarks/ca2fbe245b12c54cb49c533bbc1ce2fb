@@ -1,9 +1,1 @@
-{
-    "hash": "ca2fbe245b12c54cb49c533bbc1ce2fb", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/ptaoussanis/carmine", 
-    "private": false, 
-    "time": "2016-06-29T11:39:11Z", 
-    "title": "GitHub - ptaoussanis/carmine: Redis client and message queue for Clojure"
-}
+{"hash":"CA2FBE245B12C54CB49C533BBC1CE2FB","rights":"CC BY","creator":"batch","uri":"https://github.com/ptaoussanis/carmine","time":"2016-11-23","title":"GitHub - ptaoussanis/carmine: Redis client and message queue for Clojure"}

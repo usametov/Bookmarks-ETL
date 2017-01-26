@@ -1,9 +1,1 @@
-{
-    "hash": "a2a0e361f87fe5a7958c53877d6de085", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/App-vNext/Polly", 
-    "private": false, 
-    "time": "2016-09-14T12:45:01Z", 
-    "title": "GitHub - App-vNext/Polly: Polly is a .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner."
-}
+{"hash":"A2A0E361F87FE5A7958C53877D6DE085","rights":"CC BY","creator":"batch","uri":"https://github.com/App-vNext/Polly","time":"2016-11-23","title":"GitHub - App-vNext/Polly: Polly is a .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner."}

@@ -1,9 +1,1 @@
-{
-    "hash": "45a436c38d5aabbaf8cb5414f26cf0cb", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html", 
-    "private": false, 
-    "time": "2016-07-09T20:59:46Z", 
-    "title": "Code Like a Pythonista: Idiomatic Python"
-}
+{"hash":"45A436C38D5AABBAF8CB5414F26CF0CB","rights":"CC BY","creator":"batch","uri":"http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html","time":"2016-11-23","title":"Code Like a Pythonista: Idiomatic Python"}

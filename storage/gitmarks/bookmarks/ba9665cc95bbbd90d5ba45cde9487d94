@@ -1,9 +1,1 @@
-{
-    "hash": "ba9665cc95bbbd90d5ba45cde9487d94", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://docs.asp.net/en/latest/security/authentication/azure-active-directory/index.html", 
-    "private": false, 
-    "time": "2016-04-17T14:29:25Z", 
-    "title": "Azure Active Directory &mdash; ASP.NET  documentation"
-}
+{"hash":"BA9665CC95BBBD90D5BA45CDE9487D94","rights":"CC BY","creator":"batch","uri":"https://docs.asp.net/en/latest/security/authentication/azure-active-directory/index.html","time":"2016-11-23","title":"Azure Active Directory &mdash; ASP.NET  documentation"}

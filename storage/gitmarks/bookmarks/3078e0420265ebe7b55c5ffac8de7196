@@ -1,9 +1,1 @@
-{
-    "hash": "3078e0420265ebe7b55c5ffac8de7196", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.deadcoderising.com/2015-09-22-concurrency-made-easy-with-clojure-and-pulsar/", 
-    "private": false, 
-    "time": "2016-09-13T16:21:13Z", 
-    "title": "Concurrency made easy with Clojure and Pulsar"
-}
+{"hash":"3078E0420265EBE7B55C5FFAC8DE7196","rights":"CC BY","creator":"batch","uri":"http://www.deadcoderising.com/2015-09-22-concurrency-made-easy-with-clojure-and-pulsar/","time":"2016-11-23","title":"Concurrency made easy with Clojure and Pulsar"}

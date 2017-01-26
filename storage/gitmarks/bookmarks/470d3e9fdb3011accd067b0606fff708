@@ -1,9 +1,1 @@
-{
-    "hash": "470d3e9fdb3011accd067b0606fff708", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://dev.clojure.org/display/doc/Getting+Started+with+CLR+and+Visual+Studio", 
-    "private": false, 
-    "time": "2016-09-11T21:34:54Z", 
-    "title": "Getting Started with CLR and Visual Studio - Clojure Documentation - Clojure Development"
-}
+{"hash":"470D3E9FDB3011ACCD067B0606FFF708","rights":"CC BY","creator":"batch","uri":"http://dev.clojure.org/display/doc/Getting+Started+with+CLR+and+Visual+Studio","time":"2016-11-23","title":"Getting Started with CLR and Visual Studio - Clojure Documentation - Clojure Development"}

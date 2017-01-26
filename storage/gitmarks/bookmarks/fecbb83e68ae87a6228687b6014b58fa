@@ -1,9 +1,1 @@
-{
-    "hash": "fecbb83e68ae87a6228687b6014b58fa", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://msdn.microsoft.com/en-us/library/ee353738.aspx", 
-    "private": false, 
-    "time": "2016-03-21T13:11:19Z", 
-    "title": "Collections.List Module (F#)"
-}
+{"hash":"FECBB83E68AE87A6228687B6014B58FA","rights":"CC BY","creator":"batch","uri":"http://msdn.microsoft.com/en-us/library/ee353738.aspx","time":"2016-11-23","title":"Collections.List Module (F#)"}

@@ -1,9 +1,1 @@
-{
-    "hash": "18d2aab1b5d67271f84c619faebea188", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://devcenter.heroku.com/articles/java-memory-issues", 
-    "private": false, 
-    "time": "2016-08-13T10:16:52Z", 
-    "title": "Troubleshooting Memory Issues in Java Applications | Heroku Dev Center"
-}
+{"hash":"18D2AAB1B5D67271F84C619FAEBEA188","rights":"CC BY","creator":"batch","uri":"https://devcenter.heroku.com/articles/java-memory-issues","time":"2016-11-23","title":"Troubleshooting Memory Issues in Java Applications | Heroku Dev Center"}

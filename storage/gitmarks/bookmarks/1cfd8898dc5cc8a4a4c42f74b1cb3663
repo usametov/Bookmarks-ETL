@@ -1,9 +1,1 @@
-{
-    "hash": "1cfd8898dc5cc8a4a4c42f74b1cb3663", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/emezeske/lein-cljsbuild", 
-    "private": false, 
-    "time": "2016-05-02T18:43:47Z", 
-    "title": "GitHub - emezeske/lein-cljsbuild: Leiningen plugin to make ClojureScript development easy."
-}
+{"hash":"1CFD8898DC5CC8A4A4C42F74B1CB3663","rights":"CC BY","creator":"batch","uri":"https://github.com/emezeske/lein-cljsbuild","time":"2016-11-23","title":"GitHub - emezeske/lein-cljsbuild: Leiningen plugin to make ClojureScript development easy."}

@@ -1,9 +1,1 @@
-{
-    "hash": "b6bf8375823ed8b41ffd6b609d273a89", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/ctford/vim-fireplace-easy", 
-    "private": false, 
-    "time": "2016-06-29T12:16:45Z", 
-    "title": "GitHub - ctford/vim-fireplace-easy: A simple setup for getting started with Clojure and Vim."
-}
+{"hash":"B6BF8375823ED8B41FFD6B609D273A89","rights":"CC BY","creator":"batch","uri":"https://github.com/ctford/vim-fireplace-easy","time":"2016-11-23","title":"GitHub - ctford/vim-fireplace-easy: A simple setup for getting started with Clojure and Vim."}

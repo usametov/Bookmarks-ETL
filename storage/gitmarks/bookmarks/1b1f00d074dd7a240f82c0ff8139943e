@@ -1,9 +1,1 @@
-{
-    "hash": "1b1f00d074dd7a240f82c0ff8139943e", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/lvh/caesium", 
-    "private": false, 
-    "time": "2016-08-20T16:52:30Z", 
-    "title": "GitHub - lvh/caesium: Modern cryptography (libsodium/NaCl) for Clojure"
-}
+{"hash":"1B1F00D074DD7A240F82C0FF8139943E","rights":"CC BY","creator":"batch","uri":"https://github.com/lvh/caesium","time":"2016-11-23","title":"GitHub - lvh/caesium: Modern cryptography (libsodium/NaCl) for Clojure"}

@@ -1,9 +1,1 @@
-{
-    "hash": "768bb0f0578fee5a8316f8c58cb6c1ec", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/thenewmotion/akka-rabbitmq", 
-    "private": false, 
-    "time": "2016-04-19T12:46:44Z", 
-    "title": "GitHub - thenewmotion/akka-rabbitmq: RabbitMq client in Scala and Akka actors"
-}
+{"hash":"768BB0F0578FEE5A8316F8C58CB6C1EC","rights":"CC BY","creator":"batch","uri":"https://github.com/thenewmotion/akka-rabbitmq","time":"2016-11-23","title":"GitHub - thenewmotion/akka-rabbitmq: RabbitMq client in Scala and Akka actors"}

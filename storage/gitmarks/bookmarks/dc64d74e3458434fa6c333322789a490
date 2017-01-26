@@ -1,9 +1,1 @@
-{
-    "hash": "dc64d74e3458434fa6c333322789a490", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/fogus/bacwn", 
-    "private": false, 
-    "time": "2016-09-08T10:09:12Z", 
-    "title": "GitHub - fogus/bacwn: clojure + datalog = &lt;3"
-}
+{"hash":"DC64D74E3458434FA6C333322789A490","rights":"CC BY","creator":"batch","uri":"https://github.com/fogus/bacwn","time":"2016-11-23","title":"GitHub - fogus/bacwn: clojure + datalog = &lt;3"}

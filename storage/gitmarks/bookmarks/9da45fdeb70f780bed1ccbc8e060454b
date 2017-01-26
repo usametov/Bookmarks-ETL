@@ -1,9 +1,1 @@
-{
-    "hash": "9da45fdeb70f780bed1ccbc8e060454b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/peterschwarz/clj-firmata", 
-    "private": false, 
-    "time": "2016-06-03T17:17:53Z", 
-    "title": "GitHub - peterschwarz/clj-firmata: clj-firmata provides access to Standard Firmata (http://firmata.org/) commands via clojure."
-}
+{"hash":"9DA45FDEB70F780BED1CCBC8E060454B","rights":"CC BY","creator":"batch","uri":"https://github.com/peterschwarz/clj-firmata","time":"2016-11-23","title":"GitHub - peterschwarz/clj-firmata: clj-firmata provides access to Standard Firmata (http://firmata.org/) commands via clojure."}

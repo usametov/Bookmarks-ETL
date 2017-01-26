@@ -1,9 +1,1 @@
-{
-    "hash": "0fdf27a9616e68dba4521cbb8de53327", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://blog.jayfields.com/2010/07/clojure-destructuring.html", 
-    "private": false, 
-    "time": "2016-06-29T13:37:22Z", 
-    "title": "Jay Fields' Thoughts: Clojure: Destructuring"
-}
+{"hash":"0FDF27A9616E68DBA4521CBB8DE53327","rights":"CC BY","creator":"batch","uri":"http://blog.jayfields.com/2010/07/clojure-destructuring.html","time":"2016-11-23","title":"Jay Fields' Thoughts: Clojure: Destructuring"}

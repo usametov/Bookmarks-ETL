@@ -1,7 +1,13 @@
-{
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"344D44955E202DFD98C2A79FE3A6513F","uri":"http://debug.elm-lang.org/","title":"Home"},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "344d44955e202dfd98c2a79fe3a6513f", 
-    "uri": "http://debug.elm-lang.org/", 
-    "title": "Home"
-}
+    "hash": "3197a860b7e84ae85f61fcbff1af12d4", 
+    "uri": "https://en.wikibooks.org/wiki/Haskell/Denotational_semantics", 
+    "title": "Haskell/Denotational semantics - Wikibooks, open books for an open world"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "15702cb850f4f01e5ce48e5022ae1c83", 
+    "uri": "https://github.com/cyclejs-community/awesome-cyclejs", 
+    "title": "GitHub - cyclejs-community/awesome-cyclejs: A curated list of awesome Cycle.js resources"
+}]

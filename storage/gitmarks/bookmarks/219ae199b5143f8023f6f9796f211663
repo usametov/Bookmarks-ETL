@@ -1,9 +1,1 @@
-{
-    "hash": "219ae199b5143f8023f6f9796f211663", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/clojure/clojurescript/", 
-    "private": false, 
-    "time": "2016-05-02T19:13:22Z", 
-    "title": "GitHub - clojure/clojurescript: Clojure to JS compiler"
-}
+{"hash":"219AE199B5143F8023F6F9796F211663","rights":"CC BY","creator":"batch","uri":"https://github.com/clojure/clojurescript/","time":"2016-11-23","title":"GitHub - clojure/clojurescript: Clojure to JS compiler"}

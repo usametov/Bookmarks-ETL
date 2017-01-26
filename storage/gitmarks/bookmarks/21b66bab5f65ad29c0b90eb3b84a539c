@@ -1,9 +1,1 @@
-{
-    "hash": "21b66bab5f65ad29c0b90eb3b84a539c", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/droope/droopescan", 
-    "private": false, 
-    "time": "2016-04-23T13:26:58Z", 
-    "title": "GitHub - droope/droopescan: A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal &amp; Silverstripe."
-}
+{"hash":"21B66BAB5F65AD29C0B90EB3B84A539C","rights":"CC BY","creator":"batch","uri":"https://github.com/droope/droopescan","time":"2016-11-23","title":"droopyscan - security scaner ... GitHub - droope/droopescan: A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal &amp; Silverstripe."}

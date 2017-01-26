@@ -1,7 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "cc1c5e3212c2a0ca79e46aadd8e65de3", 
-    "uri": "http://www.meetup.com/Clojure-Toronto/", 
-    "title": "[No Title]"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CC1C5E3212C2A0CA79E46AADD8E65DE3","uri":"http://www.meetup.com/Clojure-Toronto/","title":"[No Title]"}]

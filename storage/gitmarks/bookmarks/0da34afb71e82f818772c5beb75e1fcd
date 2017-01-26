@@ -1,9 +1,1 @@
-{
-    "hash": "0da34afb71e82f818772c5beb75e1fcd", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/technomancy/lein-heroku", 
-    "private": false, 
-    "time": "2016-09-06T13:56:35Z", 
-    "title": "GitHub - technomancy/lein-heroku: Experimental Leiningen plugin for managing Heroku apps"
-}
+{"hash":"0DA34AFB71E82F818772C5BEB75E1FCD","rights":"CC BY","creator":"batch","uri":"https://github.com/technomancy/lein-heroku","time":"2016-11-23","title":"GitHub - technomancy/lein-heroku: Experimental Leiningen plugin for managing Heroku apps"}

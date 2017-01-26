@@ -1,9 +1,1 @@
-{
-    "hash": "2e71e7e10cd51686c0365ee69f1712da", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://web.archive.org/web/20131112190634/http://www.nsa.gov/business/programs/elliptic_curve.shtml", 
-    "private": false, 
-    "time": "2016-07-10T12:48:53Z", 
-    "title": "The Case for Elliptic Curve Cryptography  - NSA/CSS"
-}
+{"hash":"2E71E7E10CD51686C0365EE69F1712DA","rights":"CC BY","creator":"batch","uri":"http://web.archive.org/web/20131112190634/http://www.nsa.gov/business/programs/elliptic_curve.shtml","time":"2016-11-23","title":"The Case for Elliptic Curve Cryptography  - NSA/CSS"}

@@ -1,9 +1,1 @@
-{
-    "hash": "46c49679b707093b83d49e610aa5f719", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://clojure.github.io/clojure/clojure.test-api.html", 
-    "private": false, 
-    "time": "2016-06-29T19:52:29Z", 
-    "title": "clojure.test - Clojure v1.8 API documentation"
-}
+{"hash":"46C49679B707093B83D49E610AA5F719","rights":"CC BY","creator":"batch","uri":"http://clojure.github.io/clojure/clojure.test-api.html","time":"2016-11-23","title":"clojure.test - Clojure v1.8 API documentation"}

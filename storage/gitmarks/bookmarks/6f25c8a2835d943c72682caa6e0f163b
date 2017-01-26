@@ -1,9 +1,1 @@
-{
-    "hash": "6f25c8a2835d943c72682caa6e0f163b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html", 
-    "private": false, 
-    "time": "2016-06-28T20:07:18Z", 
-    "title": "[No Title]"
-}
+{"hash":"6F25C8A2835D943C72682CAA6E0F163B","rights":"CC BY","creator":"batch","uri":"http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html","time":"2016-11-23","title":"[No Title]"}

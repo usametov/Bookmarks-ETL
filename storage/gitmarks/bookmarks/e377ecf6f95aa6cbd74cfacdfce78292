@@ -1,9 +1,1 @@
-{
-    "hash": "e377ecf6f95aa6cbd74cfacdfce78292", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://components.xamarin.com/gettingstarted/rxforxamarin", 
-    "private": false, 
-    "time": "2016-10-21T20:05:34Z", 
-    "title": "Getting Started with Reactive Extensions (Rx) for Xamarin"
-}
+{"hash":"E377ECF6F95AA6CBD74CFACDFCE78292","rights":"CC BY","creator":"batch","uri":"https://components.xamarin.com/gettingstarted/rxforxamarin","time":"2016-11-23","title":"Getting Started with Reactive Extensions (Rx) for Xamarin"}

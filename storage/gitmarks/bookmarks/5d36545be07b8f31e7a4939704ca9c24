@@ -1,9 +1,1 @@
-{
-    "hash": "5d36545be07b8f31e7a4939704ca9c24", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://nakkaya.com/2012/08/20/poor-man-s-vpn-using-ppp-over-ssh/", 
-    "private": false, 
-    "time": "2016-07-17T18:03:58Z", 
-    "title": "Poor man's VPN using PPP over SSH"
-}
+{"hash":"5D36545BE07B8F31E7A4939704CA9C24","rights":"CC BY","creator":"batch","uri":"http://nakkaya.com/2012/08/20/poor-man-s-vpn-using-ppp-over-ssh/","time":"2016-11-23","title":"Poor man's VPN using PPP over SSH"}

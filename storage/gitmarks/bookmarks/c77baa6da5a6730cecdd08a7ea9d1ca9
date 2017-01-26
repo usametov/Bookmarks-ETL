@@ -1,9 +1,1 @@
-{
-    "hash": "c77baa6da5a6730cecdd08a7ea9d1ca9", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://eslint.org", 
-    "private": false, 
-    "time": "2016-09-08T18:36:30Z", 
-    "title": "ESLint - Pluggable JavaScript linter"
-}
+{"hash":"C77BAA6DA5A6730CECDD08A7EA9D1CA9","rights":"CC BY","creator":"batch","uri":"http://eslint.org","time":"2016-11-23","title":"ESLint - Pluggable JavaScript linter"}

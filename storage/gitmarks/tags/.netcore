@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "a3369baf5f4a0f35dcfe1a977cb38490", 
-    "uri": "https://github.com/thangchung/awesome-dotnet-core", 
-    "title": "GitHub - thangchung/awesome-dotnet-core: A collection of awesome .NET core libraries, tools, frameworks and software"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "c910a36ae9ecbba77c32cbace10f65de", 
-    "uri": "http://hangfire.io/", 
-    "title": "Hangfire \u2013 Background jobs and workers for ASP.NET"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"06F3EE0148CE66C3D9AA6DD2D7482E09","uri":"http://www.hanselman.com/blog/ASPNET5AndNETCoreRC1InContextPlusAllTheConnect2015News.aspx","title":"ASP.NET 5 and .NET Core RC1 - Scott Hanselman"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"A3369BAF5F4A0F35DCFE1A977CB38490","uri":"https://github.com/thangchung/awesome-dotnet-core","title":"GitHub - thangchung/awesome-dotnet-core: A collection of awesome .NET core libraries, tools, frameworks and software"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C910A36AE9ECBBA77C32CBACE10F65DE","uri":"http://hangfire.io/","title":"Hangfire – Background jobs and workers for ASP.NET"}]

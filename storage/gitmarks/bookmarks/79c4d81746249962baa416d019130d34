@@ -1,9 +1,1 @@
-{
-    "hash": "79c4d81746249962baa416d019130d34", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/funcool/buddy", 
-    "private": false, 
-    "time": "2016-07-11T18:33:06Z", 
-    "title": "GitHub - funcool/buddy: Security library for Clojure"
-}
+{"hash":"79C4D81746249962BAA416D019130D34","rights":"CC BY","creator":"batch","uri":"https://github.com/funcool/buddy","time":"2016-11-23","title":"GitHub - funcool/buddy: Security library for Clojure"}

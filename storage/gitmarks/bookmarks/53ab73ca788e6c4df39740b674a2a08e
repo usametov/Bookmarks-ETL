@@ -1,9 +1,1 @@
-{
-    "hash": "53ab73ca788e6c4df39740b674a2a08e", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/tomekw/hikari-cp", 
-    "private": false, 
-    "time": "2016-06-29T11:07:24Z", 
-    "title": "GitHub - tomekw/hikari-cp: A Clojure wrapper to HikariCP JDBC connection pool"
-}
+{"hash":"53AB73CA788E6C4DF39740B674A2A08E","rights":"CC BY","creator":"batch","uri":"https://github.com/tomekw/hikari-cp","time":"2016-11-23","title":"GitHub - tomekw/hikari-cp: A Clojure wrapper to HikariCP JDBC connection pool"}

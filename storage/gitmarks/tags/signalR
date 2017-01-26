@@ -1,7 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "b5d03eb32ef93230d50d9e27e2c50814", 
-    "uri": "http://stackoverflow.com/questions/32573823/how-to-use-signalr-in-android", 
-    "title": "Access denied | stackoverflow.com used CloudFlare to restrict access"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"B5D03EB32EF93230D50D9E27E2C50814","uri":"http://stackoverflow.com/questions/32573823/how-to-use-signalr-in-android","title":"Access denied | stackoverflow.com used CloudFlare to restrict access"}]

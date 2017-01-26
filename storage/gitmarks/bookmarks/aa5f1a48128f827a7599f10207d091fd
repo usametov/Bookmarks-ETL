@@ -1,9 +1,1 @@
-{
-    "hash": "aa5f1a48128f827a7599f10207d091fd", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://blog.armbruster-it.de/2014/10/deep-dive-on-fulltext-indexing-with-neo4j/", 
-    "private": false, 
-    "time": "2016-08-23T12:25:49Z", 
-    "title": "deep dive on fulltext indexing with Neo4j - Armbruster IT Blog"
-}
+{"hash":"AA5F1A48128F827A7599F10207D091FD","rights":"CC BY","creator":"batch","uri":"http://blog.armbruster-it.de/2014/10/deep-dive-on-fulltext-indexing-with-neo4j/","time":"2016-11-23","title":"deep dive on fulltext indexing with Neo4j - Armbruster IT Blog"}

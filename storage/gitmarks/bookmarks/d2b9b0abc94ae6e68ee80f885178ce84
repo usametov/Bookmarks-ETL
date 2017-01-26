@@ -1,9 +1,1 @@
-{
-    "hash": "d2b9b0abc94ae6e68ee80f885178ce84", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://dragan.rocks/talks/EuroClojure2016/clojure-is-not-afraid-of-the-gpu.html", 
-    "private": false, 
-    "time": "2016-10-21T11:12:40Z", 
-    "title": "Clojure is not afraid of the GPU"
-}
+{"hash":"D2B9B0ABC94AE6E68EE80F885178CE84","rights":"CC BY","creator":"batch","uri":"http://dragan.rocks/talks/EuroClojure2016/clojure-is-not-afraid-of-the-gpu.html","time":"2016-11-23","title":"Clojure is not afraid of the GPU"}

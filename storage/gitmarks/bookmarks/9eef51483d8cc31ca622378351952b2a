@@ -1,9 +1,1 @@
-{
-    "hash": "9eef51483d8cc31ca622378351952b2a", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/travis/lein-storm-project-template", 
-    "private": false, 
-    "time": "2016-06-29T18:48:02Z", 
-    "title": "GitHub - travis/lein-storm-project-template: a leiningen template for creating new storm projects"
-}
+{"hash":"9EEF51483D8CC31CA622378351952B2A","rights":"CC BY","creator":"batch","uri":"https://github.com/travis/lein-storm-project-template","time":"2016-11-23","title":"GitHub - travis/lein-storm-project-template: a leiningen template for creating new storm projects"}

@@ -1,7 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "923a951351ea1a911ce0acf8d8072201", 
-    "uri": "http://nd4j.org", 
-    "title": "[No Title]"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"831F21B50479A02BD8AB6314769FC1BE","uri":"http://www.nag.com/","title":"Numerical Algorithms Group"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"44C7259233E79311A5954716890F1EEF","uri":"https://github.com/skelterjohn/go.matrix","title":"skelterjohn/go.matrix Â· GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"5E2C89B5FE13876B350F7CC3DE1127A1","uri":"http://sourceforge.net/projects/octave/","title":"SourceForge.net: A collection of pkgs for extra Octave functionality"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C3F69A3823F4FDFE296AB75D8218E9B9","uri":"http://www.nrbook.com/","title":"None"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"923A951351EA1A911CE0ACF8D8072201","uri":"http://nd4j.org","title":"[No Title]"}]

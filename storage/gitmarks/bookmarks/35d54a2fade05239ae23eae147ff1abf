@@ -1,9 +1,1 @@
-{
-    "hash": "35d54a2fade05239ae23eae147ff1abf", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://blog.maartenballiauw.be/post/2016/08/17/building-nuget-netcore-using-atlassian-bitbucket-pipelines.html", 
-    "private": false, 
-    "time": "2016-09-09T10:02:17Z", 
-    "title": "Access denied | blog.maartenballiauw.be used CloudFlare to restrict access"
-}
+{"hash":"35D54A2FADE05239AE23EAE147FF1ABF","rights":"CC BY","creator":"batch","uri":"https://blog.maartenballiauw.be/post/2016/08/17/building-nuget-netcore-using-atlassian-bitbucket-pipelines.html","time":"2016-11-23","title":"Access denied | blog.maartenballiauw.be used CloudFlare to restrict access"}

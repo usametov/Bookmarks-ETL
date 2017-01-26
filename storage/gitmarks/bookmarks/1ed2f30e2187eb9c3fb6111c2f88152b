@@ -1,9 +1,1 @@
-{
-    "hash": "1ed2f30e2187eb9c3fb6111c2f88152b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://clojure.github.io/clojure/clojure.java.io-api.html", 
-    "private": false, 
-    "time": "2016-05-06T19:53:08Z", 
-    "title": "clojure.java.io - Clojure v1.8 API documentation"
-}
+{"hash":"1ED2F30E2187EB9C3FB6111C2F88152B","rights":"CC BY","creator":"batch","uri":"https://clojure.github.io/clojure/clojure.java.io-api.html","time":"2016-11-23","title":"clojure.java.io - Clojure v1.8 API documentation"}

@@ -1,9 +1,1 @@
-{
-    "hash": "47adabc56ff0e2cb3577b26a8af05888", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://alexott.net/ru/clojure/video.html", 
-    "private": false, 
-    "time": "2016-06-08T18:38:25Z", 
-    "title": "\u0412\u0438\u0434\u0435\u043e-\u043b\u0435\u043a\u0446\u0438\u0438 \u0438 \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u0440\u043e Clojure"
-}
+{"hash":"47ADABC56FF0E2CB3577B26A8AF05888","rights":"CC BY","creator":"batch","uri":"http://alexott.net/ru/clojure/video.html","time":"2016-11-23","title":"Видео-лекции и презентации про Clojure"}

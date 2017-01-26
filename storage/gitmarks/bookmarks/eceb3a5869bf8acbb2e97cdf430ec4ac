@@ -1,9 +1,1 @@
-{
-    "hash": "eceb3a5869bf8acbb2e97cdf430ec4ac", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://developer.microsoft.com/en-us/windows/iot/samples/Potentiometer.htm", 
-    "private": false, 
-    "time": "2016-09-09T08:53:59Z", 
-    "title": "Potentiometer sensor - Windows IoT"
-}
+{"hash":"ECEB3A5869BF8ACBB2E97CDF430EC4AC","rights":"CC BY","creator":"batch","uri":"https://developer.microsoft.com/en-us/windows/iot/samples/Potentiometer.htm","time":"2016-11-23","title":"Potentiometer sensor - Windows IoT"}

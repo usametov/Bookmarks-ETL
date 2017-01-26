@@ -1,9 +1,1 @@
-{
-    "hash": "7d903c575741700a14fa98c5e70915c9", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/ducky427/electron-template", 
-    "private": false, 
-    "time": "2016-06-09T10:57:40Z", 
-    "title": "GitHub - ducky427/electron-template: A Leiningen template for projects using Electron with ClojureScript."
-}
+{"hash":"7D903C575741700A14FA98C5E70915C9","rights":"CC BY","creator":"batch","uri":"https://github.com/ducky427/electron-template","time":"2016-11-23","title":"GitHub - ducky427/electron-template: A Leiningen template for projects using Electron with ClojureScript."}

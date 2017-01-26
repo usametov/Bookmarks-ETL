@@ -1,9 +1,1 @@
-{
-    "hash": "ad6a937e9050287dcc761786f06c9053", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://clojurecassandra.info/", 
-    "private": false, 
-    "time": "2016-06-29T11:35:40Z", 
-    "title": "Cassaforte, a modern Clojure client for Apache Cassandra"
-}
+{"hash":"AD6A937E9050287DCC761786F06C9053","rights":"CC BY","creator":"batch","uri":"http://clojurecassandra.info/","time":"2016-11-23","title":"Cassaforte, a modern Clojure client for Apache Cassandra"}

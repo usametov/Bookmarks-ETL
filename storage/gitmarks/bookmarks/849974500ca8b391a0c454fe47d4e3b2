@@ -1,9 +1,1 @@
-{
-    "hash": "849974500ca8b391a0c454fe47d4e3b2", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://eslint.org/docs/user-guide/getting-started", 
-    "private": false, 
-    "time": "2016-08-04T22:23:14Z", 
-    "title": "Getting Started with ESLint - ESLint - Pluggable JavaScript linter"
-}
+{"hash":"849974500CA8B391A0C454FE47D4E3B2","rights":"CC BY","creator":"batch","uri":"http://eslint.org/docs/user-guide/getting-started","time":"2016-11-23","title":"Getting Started with ESLint - ESLint - Pluggable JavaScript linter"}

@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "f2824ad7dc770d5f5d27a0219398c722", 
-    "uri": "http://joxa.org", 
-    "title": "Joxa"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "7699ad66c1d5c67a2b67d0610bad8c83", 
-    "uri": "https://github.com/h4cc/awesome-elixir", 
-    "title": "GitHub - h4cc/awesome-elixir: A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"BF77124F188759A4F8C608D0D9833666","uri":"https://www.ejabberd.im/","title":"ejabberd Community Site | the Erlang Jabber/XMPP daemon"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CCF172621935C69D56BAB8C36AD5C4DB","uri":"http://lintool.github.io/MapReduceAlgorithms/","title":"None"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"03DD1CB0ED6D39768F361DB4F3DA5BB9","uri":"https://github.com/0xAX/erlang-bookmarks/blob/master/ErlangBookmarks.md","title":"erlang-bookmarks/ErlangBookmarks.md at master Â· 0xAX/erlang-bookmarks Â· GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"7699AD66C1D5C67A2B67D0610BAD8C83","uri":"https://github.com/h4cc/awesome-elixir","title":"GitHub - h4cc/awesome-elixir: A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"F2824AD7DC770D5F5D27A0219398C722","uri":"http://joxa.org","title":"Joxa"}]

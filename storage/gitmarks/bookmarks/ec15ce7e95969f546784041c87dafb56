@@ -1,9 +1,1 @@
-{
-    "hash": "ec15ce7e95969f546784041c87dafb56", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/oubiwann/hoplon-reveal-js", 
-    "private": false, 
-    "time": "2016-07-24T13:04:06Z", 
-    "title": "GitHub - oubiwann/hoplon-reveal-js: Slide decks in ClojureScript; derived from cndreisbach&#39;s Hoplon + Reveal.js work"
-}
+{"hash":"EC15CE7E95969F546784041C87DAFB56","rights":"CC BY","creator":"batch","uri":"https://github.com/oubiwann/hoplon-reveal-js","time":"2016-11-23","title":"GitHub - oubiwann/hoplon-reveal-js: Slide decks in ClojureScript; derived from cndreisbach&#39;s Hoplon + Reveal.js work"}

@@ -1,9 +1,1 @@
-{
-    "hash": "1f79aa6772d67d4fb4fbccbbda28400a", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://www.youtube.com/watch?v=f6kdp27TYZs", 
-    "private": false, 
-    "time": "2016-05-06T18:27:46Z", 
-    "title": "Google I/O 2012 - Go Concurrency Patterns - YouTube"
-}
+{"hash":"1F79AA6772D67D4FB4FBCCBBDA28400A","rights":"CC BY","creator":"batch","uri":"https://www.youtube.com/watch?v=f6kdp27TYZs","time":"2016-11-23","title":"Google I/O 2012 - Go Concurrency Patterns - YouTube"}

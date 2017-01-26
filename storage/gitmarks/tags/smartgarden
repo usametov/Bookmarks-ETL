@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "29429a363fe8e320fc6d7a0854be1c33", 
-    "uri": "http://www.clickandgrow.com/", 
-    "title": "Click &amp; Grow - Indoor Garden and Herb Kits | Click &amp; Grow"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "c37ee75a0b226ebb78ec2ed3231bb6e8", 
-    "uri": "http://greeniq.co/product_tech.htm", 
-    "title": "GreenIQ Smart Garden Hub - The System Technology"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"29429A363FE8E320FC6D7A0854BE1C33","uri":"http://www.clickandgrow.com/","title":"Click &amp; Grow - Indoor Garden and Herb Kits | Click &amp; Grow"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C37EE75A0B226EBB78EC2ED3231BB6E8","uri":"http://greeniq.co/product_tech.htm","title":"GreenIQ Smart Garden Hub - The System Technology"}]

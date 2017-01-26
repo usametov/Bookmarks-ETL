@@ -1,9 +1,1 @@
-{
-    "hash": "31e5ac35b9e26d7d67fe16ab14e4392d", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://folktalejs.org/", 
-    "private": false, 
-    "time": "2016-03-24T14:47:44Z", 
-    "title": "Overview - The Folktale framework for generic programming in JavaScript"
-}
+{"hash":"31E5AC35B9E26D7D67FE16AB14E4392D","rights":"CC BY","creator":"batch","uri":"http://folktalejs.org/","time":"2016-11-23","title":"Overview - The Folktale framework for generic programming in JavaScript"}

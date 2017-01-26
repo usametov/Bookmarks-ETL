@@ -1,9 +1,1 @@
-{
-    "hash": "1905bc59da4dfe0036470dacbbb45de5", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://bsonspec.org/", 
-    "private": false, 
-    "time": "2016-05-25T13:28:25Z", 
-    "title": "BSON - Binary JSON"
-}
+{"hash":"1905BC59DA4DFE0036470DACBBB45DE5","rights":"CC BY","creator":"batch","uri":"http://bsonspec.org/","time":"2016-11-23","title":"BSON - Binary JSON"}

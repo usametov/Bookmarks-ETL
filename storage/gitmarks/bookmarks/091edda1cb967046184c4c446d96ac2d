@@ -1,9 +1,1 @@
-{
-    "hash": "091edda1cb967046184c4c446d96ac2d", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/zsoltk/RxAndroidLibs", 
-    "private": false, 
-    "time": "2016-04-09T13:50:59Z", 
-    "title": "GitHub - zsoltk/RxAndroidLibs: A curated list of libraries to aid reactive development on Android"
-}
+{"hash":"091EDDA1CB967046184C4C446D96AC2D","rights":"CC BY","creator":"batch","uri":"https://github.com/zsoltk/RxAndroidLibs","time":"2016-11-23","title":"GitHub - zsoltk/RxAndroidLibs: A curated list of libraries to aid reactive development on Android"}

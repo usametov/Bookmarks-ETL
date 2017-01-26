@@ -1,9 +1,1 @@
-{
-    "hash": "e9fbde6df366cd4d3871aa064a10a6c1", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/samyk/proxygambit", 
-    "private": false, 
-    "time": "2016-07-14T16:52:47Z", 
-    "title": "GitHub - samyk/proxygambit: Anonymize and fracture network traffic/Internet access over a point-to-point wireless link or through TCP-&gt;GSM-&gt;wifi tunnel (advanced resurrection of ProxyHam)"
-}
+{"hash":"E9FBDE6DF366CD4D3871AA064A10A6C1","rights":"CC BY","creator":"batch","uri":"https://github.com/samyk/proxygambit","time":"2016-11-23","title":"GitHub - samyk/proxygambit: Anonymize and fracture network traffic/Internet access over a point-to-point wireless link or through TCP-&gt;GSM-&gt;wifi tunnel (advanced resurrection of ProxyHam)"}

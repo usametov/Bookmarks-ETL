@@ -1,9 +1,1 @@
-{
-    "hash": "6ac8b41abcb4eac2bf56b38a3e50a7c2", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/sjl/clojure-lanterna", 
-    "private": false, 
-    "time": "2016-06-27T10:24:43Z", 
-    "title": "GitHub - sjl/clojure-lanterna: A Clojurey wrapper around the Lanterna terminal output library."
-}
+{"hash":"6AC8B41ABCB4EAC2BF56B38A3E50A7C2","rights":"CC BY","creator":"batch","uri":"https://github.com/sjl/clojure-lanterna","time":"2016-11-23","title":"GitHub - sjl/clojure-lanterna: A Clojurey wrapper around the Lanterna terminal output library."}

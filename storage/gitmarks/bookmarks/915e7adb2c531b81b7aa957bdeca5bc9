@@ -1,9 +1,1 @@
-{
-    "hash": "915e7adb2c531b81b7aa957bdeca5bc9", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.tecmint.com/install-rootkit-hunter-scan-for-rootkits-backdoors-in-linux/", 
-    "private": false, 
-    "time": "2016-06-12T14:31:33Z", 
-    "title": "How to Scan for Rootkits, backdoors and Exploits Using 'Rootkit Hunter' in Linux"
-}
+{"hash":"915E7ADB2C531B81B7AA957BDECA5BC9","rights":"CC BY","creator":"batch","uri":"http://www.tecmint.com/install-rootkit-hunter-scan-for-rootkits-backdoors-in-linux/","time":"2016-11-23","title":"How to Scan for Rootkits, backdoors and Exploits Using 'Rootkit Hunter' in Linux"}

@@ -1,9 +1,1 @@
-{
-    "hash": "5b0f01a730ec91433bec1085af622734", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/weavejester/lein-beanstalk", 
-    "private": false, 
-    "time": "2016-09-06T13:57:18Z", 
-    "title": "GitHub - weavejester/lein-beanstalk: Leiningen plugin for Amazon&#39;s Elastic Beanstalk service"
-}
+{"hash":"5B0F01A730EC91433BEC1085AF622734","rights":"CC BY","creator":"batch","uri":"https://github.com/weavejester/lein-beanstalk","time":"2016-11-23","title":"GitHub - weavejester/lein-beanstalk: Leiningen plugin for Amazon&#39;s Elastic Beanstalk service"}

@@ -1,9 +1,1 @@
-{
-    "hash": "03b0a58e9e1a10c48b00de4ea952d34f", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/clojurewerkz/machine_head", 
-    "private": false, 
-    "time": "2016-06-29T10:34:27Z", 
-    "title": "GitHub - clojurewerkz/machine_head: Clojure MQTT client"
-}
+{"hash":"03B0A58E9E1A10C48B00DE4EA952D34F","rights":"CC BY","creator":"batch","uri":"https://github.com/clojurewerkz/machine_head","time":"2016-11-23","title":"GitHub - clojurewerkz/machine_head: Clojure MQTT client"}

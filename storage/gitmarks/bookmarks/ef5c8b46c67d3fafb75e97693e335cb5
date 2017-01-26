@@ -1,9 +1,1 @@
-{
-    "hash": "ef5c8b46c67d3fafb75e97693e335cb5", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://langintro.com/icljs/", 
-    "private": false, 
-    "time": "2016-08-30T22:53:15Z", 
-    "title": "Transforming Data with ClojureScript &mdash; Transforming Data with ClojureScript"
-}
+{"hash":"EF5C8B46C67D3FAFB75E97693E335CB5","rights":"CC BY","creator":"batch","uri":"http://langintro.com/icljs/","time":"2016-11-23","title":"Transforming Data with ClojureScript &mdash; Transforming Data with ClojureScript"}

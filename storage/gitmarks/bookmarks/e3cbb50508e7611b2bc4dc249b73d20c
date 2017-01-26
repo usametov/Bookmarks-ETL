@@ -1,9 +1,1 @@
-{
-    "hash": "e3cbb50508e7611b2bc4dc249b73d20c", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/antoniogarrote/clj-tesseract", 
-    "private": false, 
-    "time": "2016-06-07T14:11:12Z", 
-    "title": "GitHub - antoniogarrote/clj-tesseract: Clojure wrapper for the Tesseract OCR software"
-}
+{"hash":"E3CBB50508E7611B2BC4DC249B73D20C","rights":"CC BY","creator":"batch","uri":"https://github.com/antoniogarrote/clj-tesseract","time":"2016-11-23","title":"GitHub - antoniogarrote/clj-tesseract: Clojure wrapper for the Tesseract OCR software"}

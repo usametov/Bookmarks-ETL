@@ -1,9 +1,1 @@
-{
-    "hash": "35777546f25749f5e778745a76baf251", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://vimeo.com/11236603", 
-    "private": false, 
-    "time": "2016-05-17T13:44:38Z", 
-    "title": "Clojure 1.2 Protocols on Vimeo"
-}
+{"hash":"35777546F25749F5E778745A76BAF251","rights":"CC BY","creator":"batch","uri":"https://vimeo.com/11236603","time":"2016-11-23","title":"Clojure 1.2 Protocols on Vimeo"}

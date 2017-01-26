@@ -1,9 +1,1 @@
-{
-    "hash": "ca488e7115c17fd9fe7e3fb1cef68adc", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://msdn.microsoft.com/en-us/library/dd233182.aspx", 
-    "private": false, 
-    "time": "2016-03-21T21:02:35Z", 
-    "title": "Computation Expressions (F#)"
-}
+{"hash":"CA488E7115C17FD9FE7E3FB1CEF68ADC","rights":"CC BY","creator":"batch","uri":"http://msdn.microsoft.com/en-us/library/dd233182.aspx","time":"2016-11-23","title":"Computation Expressions (F#)"}

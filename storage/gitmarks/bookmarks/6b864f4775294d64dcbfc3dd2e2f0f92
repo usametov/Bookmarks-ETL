@@ -1,9 +1,1 @@
-{
-    "hash": "6b864f4775294d64dcbfc3dd2e2f0f92", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://alexott.net/ru/clojure/ClojureHadoop.html", 
-    "private": false, 
-    "time": "2016-05-17T12:58:38Z", 
-    "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 Hadoop \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e Clojure"
-}
+{"hash":"6B864F4775294D64DCBFC3DD2E2F0F92","rights":"CC BY","creator":"batch","uri":"http://alexott.net/ru/clojure/ClojureHadoop.html","time":"2016-11-23","title":"Программирование Hadoop с помощью Clojure"}

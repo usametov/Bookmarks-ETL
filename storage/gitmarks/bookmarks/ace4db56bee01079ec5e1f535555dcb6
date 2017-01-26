@@ -1,9 +1,1 @@
-{
-    "hash": "ace4db56bee01079ec5e1f535555dcb6", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://leastprivilege.com/2012/06/25/important-setting-the-client-principal-in-asp-net-web-api/", 
-    "private": false, 
-    "time": "2016-10-02T11:40:51Z", 
-    "title": "Important: Setting the Client Principal in ASP.NET Web API | leastprivilege.com"
-}
+{"hash":"ACE4DB56BEE01079EC5E1F535555DCB6","rights":"CC BY","creator":"batch","uri":"https://leastprivilege.com/2012/06/25/important-setting-the-client-principal-in-asp-net-web-api/","time":"2016-11-23","title":"Important: Setting the Client Principal in ASP.NET Web API | leastprivilege.com"}

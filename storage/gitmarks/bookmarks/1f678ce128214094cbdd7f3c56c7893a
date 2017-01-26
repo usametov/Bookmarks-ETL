@@ -1,9 +1,1 @@
-{
-    "hash": "1f678ce128214094cbdd7f3c56c7893a", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://clojure.news/", 
-    "private": false, 
-    "time": "2016-08-20T17:01:26Z", 
-    "title": "Access denied | clojure.news used CloudFlare to restrict access"
-}
+{"hash":"1F678CE128214094CBDD7F3C56C7893A","rights":"CC BY","creator":"batch","uri":"https://clojure.news/","time":"2016-11-23","title":"Access denied | clojure.news used CloudFlare to restrict access"}

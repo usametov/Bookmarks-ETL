@@ -1,9 +1,1 @@
-{
-    "hash": "15383be54c6a5dab19147a1e29138e3e", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/cliftonm/DatabaseExplorer", 
-    "private": false, 
-    "time": "2016-03-22T11:48:26Z", 
-    "title": "GitHub - cliftonm/DatabaseExplorer: Source code for the Imperative to Functional Programming e-book that I wrote and is published by Syncfusion."
-}
+{"hash":"15383BE54C6A5DAB19147A1E29138E3E","rights":"CC BY","creator":"batch","uri":"https://github.com/cliftonm/DatabaseExplorer","time":"2016-11-23","title":"GitHub - cliftonm/DatabaseExplorer: Source code for the Imperative to Functional Programming e-book that I wrote and is published by Syncfusion."}

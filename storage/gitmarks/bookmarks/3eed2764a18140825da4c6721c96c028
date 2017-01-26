@@ -1,9 +1,1 @@
-{
-    "hash": "3eed2764a18140825da4c6721c96c028", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/hyPiRion/nt", 
-    "private": false, 
-    "time": "2016-06-24T13:53:55Z", 
-    "title": "GitHub - hyPiRion/nt: Number theory in Clojure"
-}
+{"hash":"3EED2764A18140825DA4C6721C96C028","rights":"CC BY","creator":"batch","uri":"https://github.com/hyPiRion/nt","time":"2016-11-23","title":"GitHub - hyPiRion/nt: Number theory in Clojure"}

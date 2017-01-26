@@ -1,9 +1,1 @@
-{
-    "hash": "305e773fc44e8993d8366e832342ae19", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/jbakic/Shielded", 
-    "private": false, 
-    "time": "2016-10-21T12:06:56Z", 
-    "title": "GitHub - jbakic/Shielded: A strict and mostly lock-free Software Transactional Memory (STM) for .NET"
-}
+{"hash":"305E773FC44E8993D8366E832342AE19","rights":"CC BY","creator":"batch","uri":"https://github.com/jbakic/Shielded","time":"2016-11-23","title":"GitHub - jbakic/Shielded: A strict and mostly lock-free Software Transactional Memory (STM) for .NET"}

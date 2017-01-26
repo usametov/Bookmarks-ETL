@@ -1,9 +1,1 @@
-{
-    "hash": "37944a4ce402bc5d547884988b5303ee", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/pw4ever/tbnl", 
-    "private": false, 
-    "time": "2016-04-30T23:01:17Z", 
-    "title": "GitHub - pw4ever/tbnl: TBNL: Rule your Android, as the Root, fully programmable, in Clojure"
-}
+{"hash":"37944A4CE402BC5D547884988B5303EE","rights":"CC BY","creator":"batch","uri":"https://github.com/pw4ever/tbnl","time":"2016-11-23","title":"GitHub - pw4ever/tbnl: TBNL: Rule your Android, as the Root, fully programmable, in Clojure"}

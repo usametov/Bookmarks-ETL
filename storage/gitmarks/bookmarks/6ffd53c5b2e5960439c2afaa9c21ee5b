@@ -1,9 +1,1 @@
-{
-    "hash": "6ffd53c5b2e5960439c2afaa9c21ee5b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/dominionenterprises/mongo-queue-csharp", 
-    "private": false, 
-    "time": "2016-04-04T13:38:55Z", 
-    "title": "GitHub - dominionenterprises/mongo-queue-csharp: C# message queue using MongoDB as a backend"
-}
+{"hash":"6FFD53C5B2E5960439C2AFAA9C21EE5B","rights":"CC BY","creator":"batch","uri":"https://github.com/dominionenterprises/mongo-queue-csharp","time":"2016-11-23","title":"GitHub - dominionenterprises/mongo-queue-csharp: C# message queue using MongoDB as a backend"}

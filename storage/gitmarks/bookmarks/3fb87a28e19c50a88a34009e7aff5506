@@ -1,9 +1,1 @@
-{
-    "hash": "3fb87a28e19c50a88a34009e7aff5506", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://leastprivilege.com/2013/03/11/alternative-to-thread-currentprincipal-in-asp-net-web-api/", 
-    "private": false, 
-    "time": "2016-10-02T11:41:59Z", 
-    "title": "Alternative to Thread.CurrentPrincipal in ASP.NET Web API | leastprivilege.com"
-}
+{"hash":"3FB87A28E19C50A88A34009E7AFF5506","rights":"CC BY","creator":"batch","uri":"https://leastprivilege.com/2013/03/11/alternative-to-thread-currentprincipal-in-asp-net-web-api/","time":"2016-11-23","title":"Alternative to Thread.CurrentPrincipal in ASP.NET Web API | leastprivilege.com"}

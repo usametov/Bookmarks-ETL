@@ -1,9 +1,1 @@
-{
-    "hash": "408ae5c49f7ced2e2100e6d712da2c61", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://blog.cryptographyengineering.com/2016/08/attack-of-week-64-bit-ciphers-in-tls.html", 
-    "private": false, 
-    "time": "2016-08-29T11:57:25Z", 
-    "title": "A Few Thoughts on Cryptographic Engineering: Attack of the week: 64-bit ciphers in TLS"
-}
+{"hash":"408AE5C49F7CED2E2100E6D712DA2C61","rights":"CC BY","creator":"batch","uri":"http://blog.cryptographyengineering.com/2016/08/attack-of-week-64-bit-ciphers-in-tls.html","time":"2016-11-23","title":"A Few Thoughts on Cryptographic Engineering: Attack of the week: 64-bit ciphers in TLS"}

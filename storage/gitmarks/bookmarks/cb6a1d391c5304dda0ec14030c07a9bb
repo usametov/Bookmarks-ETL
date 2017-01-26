@@ -1,9 +1,1 @@
-{
-    "hash": "cb6a1d391c5304dda0ec14030c07a9bb", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://minikanren.org/", 
-    "private": false, 
-    "time": "2016-06-27T23:53:44Z", 
-    "title": "miniKanren.org"
-}
+{"hash":"CB6A1D391C5304DDA0EC14030C07A9BB","rights":"CC BY","creator":"batch","uri":"http://minikanren.org/","time":"2016-11-23","title":"miniKanren.org"}

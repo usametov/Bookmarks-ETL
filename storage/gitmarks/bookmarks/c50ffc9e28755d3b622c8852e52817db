@@ -1,9 +1,1 @@
-{
-    "hash": "c50ffc9e28755d3b622c8852e52817db", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://clojure.org/api/cheatsheet", 
-    "private": false, 
-    "time": "2016-03-28T11:02:00Z", 
-    "title": "Clojure - Cheatsheet"
-}
+{"hash":"C50FFC9E28755D3B622C8852E52817DB","rights":"CC BY","creator":"batch","uri":"http://clojure.org/api/cheatsheet","time":"2016-11-23","title":"Clojure - Cheatsheet"}

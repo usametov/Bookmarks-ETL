@@ -1,9 +1,1 @@
-{
-    "hash": "68c95b9c78136ee09d4fbd69c3ee4a81", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/mcohen01/amazonica", 
-    "private": false, 
-    "time": "2016-10-20T13:11:53Z", 
-    "title": "GitHub - mcohen01/amazonica: A comprehensive Clojure client for the entire Amazon AWS api."
-}
+{"hash":"68C95B9C78136EE09D4FBD69C3EE4A81","rights":"CC BY","creator":"batch","uri":"https://github.com/mcohen01/amazonica","time":"2016-11-23","title":"GitHub - mcohen01/amazonica: A comprehensive Clojure client for the entire Amazon AWS api."}

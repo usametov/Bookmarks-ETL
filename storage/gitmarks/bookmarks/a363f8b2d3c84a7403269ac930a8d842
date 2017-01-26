@@ -1,9 +1,1 @@
-{
-    "hash": "a363f8b2d3c84a7403269ac930a8d842", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://keminglabs.com/c2/", 
-    "private": false, 
-    "time": "2016-05-03T14:14:01Z", 
-    "title": "C2: Clojure(Script) data visualization"
-}
+{"hash":"A363F8B2D3C84A7403269AC930A8D842","rights":"CC BY","creator":"batch","uri":"https://keminglabs.com/c2/","time":"2016-11-23","title":"C2: Clojure(Script) data visualization"}

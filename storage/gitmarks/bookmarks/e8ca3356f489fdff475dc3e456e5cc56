@@ -1,9 +1,1 @@
-{
-    "hash": "e8ca3356f489fdff475dc3e456e5cc56", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://azure.microsoft.com/en-us/documentation/articles/data-factory-build-your-first-pipeline/", 
-    "private": false, 
-    "time": "2016-09-11T21:25:07Z", 
-    "title": "Data Factory tutorial: First data pipeline | Microsoft Azure"
-}
+{"hash":"E8CA3356F489FDFF475DC3E456E5CC56","rights":"CC BY","creator":"batch","uri":"https://azure.microsoft.com/en-us/documentation/articles/data-factory-build-your-first-pipeline/","time":"2016-11-23","title":"Data Factory tutorial: First data pipeline | Microsoft Azure"}

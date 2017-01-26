@@ -1,9 +1,1 @@
-{
-    "hash": "5b282c15c738617d338acaddc434593f", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.androiddesignpatterns.com/2013/04/retaining-objects-across-config-changes.html", 
-    "private": false, 
-    "time": "2016-04-10T12:35:08Z", 
-    "title": "Handling Configuration Changes with Fragments | Android Design Patterns"
-}
+{"hash":"5B282C15C738617D338ACADDC434593F","rights":"CC BY","creator":"batch","uri":"http://www.androiddesignpatterns.com/2013/04/retaining-objects-across-config-changes.html","time":"2016-11-23","title":"Handling Configuration Changes with Fragments | Android Design Patterns"}

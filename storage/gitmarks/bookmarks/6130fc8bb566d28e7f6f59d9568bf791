@@ -1,9 +1,1 @@
-{
-    "hash": "6130fc8bb566d28e7f6f59d9568bf791", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://www.infoq.com/presentations/Datomic-Database-Value", 
-    "private": false, 
-    "time": "2016-06-18T21:00:51Z", 
-    "title": "The Database as a Value"
-}
+{"hash":"6130FC8BB566D28E7F6F59D9568BF791","rights":"CC BY","creator":"batch","uri":"https://www.infoq.com/presentations/Datomic-Database-Value","time":"2016-11-23","title":"The Database as a Value"}

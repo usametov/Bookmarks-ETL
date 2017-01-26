@@ -1,9 +1,1 @@
-{
-    "hash": "8162a8d4d1ba33f4a451b606f71f37f6", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://fgiasson.com/blog/index.php/2016/09/28/using-cognonto-to-generate-domain-specific-word2vec-models/", 
-    "private": false, 
-    "time": "2016-10-01T18:44:44Z", 
-    "title": "Using Cognonto to Generate Domain Specific word2vec Models | Frederick Giasson"
-}
+{"hash":"8162A8D4D1BA33F4A451B606F71F37F6","rights":"CC BY","creator":"batch","uri":"http://fgiasson.com/blog/index.php/2016/09/28/using-cognonto-to-generate-domain-specific-word2vec-models/","time":"2016-11-23","title":"Using Cognonto to Generate Domain Specific word2vec Models | Frederick Giasson"}

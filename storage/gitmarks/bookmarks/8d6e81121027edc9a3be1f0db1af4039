@@ -1,9 +1,1 @@
-{
-    "hash": "8d6e81121027edc9a3be1f0db1af4039", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/plumatic/schema", 
-    "private": false, 
-    "time": "2016-06-29T18:30:15Z", 
-    "title": "GitHub - plumatic/schema: Clojure(Script) library for declarative data description and validation"
-}
+{"hash":"8D6E81121027EDC9A3BE1F0DB1AF4039","rights":"CC BY","creator":"batch","uri":"https://github.com/plumatic/schema","time":"2016-11-23","title":"GitHub - plumatic/schema: Clojure(Script) library for declarative data description and validation"}

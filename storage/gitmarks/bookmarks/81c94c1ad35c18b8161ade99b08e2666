@@ -1,9 +1,1 @@
-{
-    "hash": "81c94c1ad35c18b8161ade99b08e2666", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-rserver-ssh-publickey", 
-    "private": false, 
-    "time": "2016-10-20T15:40:21Z", 
-    "title": "azure-quickstart-templates/101-hdinsight-rserver-ssh-publickey at master \u00b7 Azure/azure-quickstart-templates \u00b7 GitHub"
-}
+{"hash":"81C94C1AD35C18B8161ADE99B08E2666","rights":"CC BY","creator":"batch","uri":"https://github.com/Azure/azure-quickstart-templates/tree/master/101-hdinsight-rserver-ssh-publickey","time":"2016-11-23","title":"azure-quickstart-templates/101-hdinsight-rserver-ssh-publickey at master · Azure/azure-quickstart-templates · GitHub"}

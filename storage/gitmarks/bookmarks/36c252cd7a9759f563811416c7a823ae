@@ -1,9 +1,1 @@
-{
-    "hash": "36c252cd7a9759f563811416c7a823ae", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://ufldl.stanford.edu/tutorial/", 
-    "private": false, 
-    "time": "2016-04-18T16:07:15Z", 
-    "title": "Unsupervised Feature Learning and Deep Learning Tutorial"
-}
+{"hash":"36C252CD7A9759F563811416C7A823AE","rights":"CC BY","creator":"batch","uri":"http://ufldl.stanford.edu/tutorial/","time":"2016-11-23","title":"Unsupervised Feature Learning and Deep Learning Tutorial"}

@@ -1,9 +1,1 @@
-{
-    "hash": "4ac6cf9e1694ba1a5e3c6f43493c9d80", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://msdn.microsoft.com/en-us/library/ee353894.aspx", 
-    "private": false, 
-    "time": "2016-03-21T12:28:31Z", 
-    "title": "List.fold&lt;'T,'State&gt; Function (F#)"
-}
+{"hash":"4AC6CF9E1694BA1A5E3C6F43493C9D80","rights":"CC BY","creator":"batch","uri":"http://msdn.microsoft.com/en-us/library/ee353894.aspx","time":"2016-11-23","title":"List.fold&lt;'T,'State&gt; Function (F#)"}

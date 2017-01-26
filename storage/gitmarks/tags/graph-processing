@@ -1,79 +1,19 @@
-{
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"26432445329779637BFE465C29C0572A","uri":"https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2#.k8dnru3tp","title":"Access denied | medium.com used CloudFlare to restrict access"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"EF03EA00F022CE2ABB52F454D52D9221","uri":"http://pinboard.in/t:neo4j","title":"Pinboard bookmarks tagged neo4j"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"0FA943AC239BBCC3CB78D4422145DA4B","uri":"http://jexp.github.io/blog/html/full-text-and-spatial-search-in-neo4j-3.html","title":"Neo4j 3.x Spatial and Fulltext capabilities"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"34D1505C27ADEE79C2D2379359721432","uri":"https://neo4j.com/graphgists/","title":"Neo4j GraphGists: Example Graph Data Models and Cypher Queries"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"3D90F2E2D6AC1450636DFBA5944D1D93","uri":"https://neo4j.com/developer/kb/fulltext-search-in-neo4j/","title":"Neo4j :: Fulltext Search in Neo4j - Neo4j Graph Database"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"4FD0A34B9C9EDA1433D21977340060B5","uri":"https://github.com/HazyResearch/EmptyHeaded","title":"GitHub - HazyResearch/EmptyHeaded: Make databases great again!"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"5156886D216AA165A187C2F1084C0F79","uri":"http://www.graphanalysis.org/index.html","title":"GraphAnalysis.org: High Performance Computing for solving large-scale graph problems"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"AA5F1A48128F827A7599F10207D091FD","uri":"http://blog.armbruster-it.de/2014/10/deep-dive-on-fulltext-indexing-with-neo4j/","title":"deep dive on fulltext indexing with Neo4j - Armbruster IT Blog"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"B568E5A352B98BDC789E5864032094C0","uri":"https://hashrocket.com/blog/posts/using-datomic-as-a-graph-database","title":"Using Datomic as a Graph Database | The Hashrocket Blog"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"B7F1BC9A382116A214678797D24A9C74","uri":"https://dzone.com/refcardz/querying-graphs-neo4j","title":"[No Title]"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"E6A5D352B694CF23DEC1CDB98A3342B7","uri":"https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide","title":"[No Title]"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"FE0137B67F3A55DC8D8D4B79FF8DAACD","uri":"https://github.com/aysylu/loom","title":"GitHub - aysylu/loom: Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"FFA01C2759D3C16D14709A654E88DB63","uri":"http://socialite-lang.github.io/","title":"Home | SociaLite"},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "26432445329779637bfe465c29c0572a", 
-    "uri": "https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2#.k8dnru3tp", 
+    "hash": "66fbf6423030f599c285192b72875061", 
+    "uri": "https://dev-blog.apollodata.com/tutorial-building-a-graphql-server-cddaa023c035", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
-}{
+},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "ef03ea00f022ce2abb52f454d52d9221", 
-    "uri": "http://pinboard.in/t:neo4j", 
-    "title": "Pinboard bookmarks tagged neo4j"
-}{
+    "hash": "5c052b42503381bd2c029ba69ae0289f", 
+    "uri": "http://graphql.org/code/", 
+    "title": "Code | GraphQL"
+},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "fe0137b67f3a55dc8d8d4b79ff8daacd", 
-    "uri": "https://github.com/aysylu/loom", 
-    "title": "GitHub - aysylu/loom: Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "34d1505c27adee79c2d2379359721432", 
-    "uri": "https://neo4j.com/graphgists/", 
-    "title": "Neo4j GraphGists: Example Graph Data Models and Cypher Queries"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "3d90f2e2d6ac1450636dfba5944d1d93", 
-    "uri": "https://neo4j.com/developer/kb/fulltext-search-in-neo4j/", 
-    "title": "Neo4j :: Fulltext Search in Neo4j - Neo4j Graph Database"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "aa5f1a48128f827a7599f10207d091fd", 
-    "uri": "http://blog.armbruster-it.de/2014/10/deep-dive-on-fulltext-indexing-with-neo4j/", 
-    "title": "deep dive on fulltext indexing with Neo4j - Armbruster IT Blog"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "0fa943ac239bbcc3cb78d4422145da4b", 
-    "uri": "http://jexp.github.io/blog/html/full-text-and-spatial-search-in-neo4j-3.html", 
-    "title": "Neo4j 3.x Spatial and Fulltext capabilities"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "b568e5a352b98bdc789e5864032094c0", 
-    "uri": "https://hashrocket.com/blog/posts/using-datomic-as-a-graph-database", 
-    "title": "Using Datomic as a Graph Database | The Hashrocket Blog"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "ffa01c2759d3c16d14709a654e88db63", 
-    "uri": "http://socialite-lang.github.io/", 
-    "title": "Home | SociaLite"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "4fd0a34b9c9eda1433d21977340060b5", 
-    "uri": "https://github.com/HazyResearch/EmptyHeaded", 
-    "title": "GitHub - HazyResearch/EmptyHeaded: Make databases great again!"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "b7f1bc9a382116a214678797d24a9c74", 
-    "uri": "https://dzone.com/refcardz/querying-graphs-neo4j", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "e6a5d352b694cf23dec1cdb98a3342b7", 
-    "uri": "https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "5156886d216aa165a187c2f1084c0f79", 
-    "uri": "http://www.graphanalysis.org/index.html", 
-    "title": "GraphAnalysis.org: High Performance Computing for solving large-scale graph problems"
-}
+    "hash": "9f244a7157fddf90a7d4310f3aa3ab30", 
+    "uri": "https://github.com/chentsulin/awesome-graphql", 
+    "title": "GitHub - chentsulin/awesome-graphql: Awesome list of GraphQL &amp; Relay"
+}]

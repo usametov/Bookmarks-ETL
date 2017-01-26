@@ -1,9 +1,1 @@
-{
-    "hash": "187870f70a2569db40c21dad79dc49f3", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/also/node-cljs", 
-    "private": false, 
-    "time": "2016-06-12T19:18:52Z", 
-    "title": "GitHub - also/node-cljs: node.js command-line runner for ClojureScript"
-}
+{"hash":"187870F70A2569DB40C21DAD79DC49F3","rights":"CC BY","creator":"batch","uri":"https://github.com/also/node-cljs","time":"2016-11-23","title":"GitHub - also/node-cljs: node.js command-line runner for ClojureScript"}

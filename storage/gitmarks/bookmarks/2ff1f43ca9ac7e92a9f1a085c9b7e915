@@ -1,9 +1,1 @@
-{
-    "hash": "2ff1f43ca9ac7e92a9f1a085c9b7e915", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/clojure/tools.logging/blob/master/README.md", 
-    "private": false, 
-    "time": "2016-06-29T18:37:42Z", 
-    "title": "tools.logging/README.md at master \u00b7 clojure/tools.logging \u00b7 GitHub"
-}
+{"hash":"2FF1F43CA9AC7E92A9F1A085C9B7E915","rights":"CC BY","creator":"batch","uri":"https://github.com/clojure/tools.logging/blob/master/README.md","time":"2016-11-23","title":"tools.logging/README.md at master · clojure/tools.logging · GitHub"}

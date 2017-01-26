@@ -1,9 +1,1 @@
-{
-    "hash": "a408ffa7ca904bd0ef24f8b8b0360cc4", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://dmlc.cs.washington.edu/xgboost.html", 
-    "private": false, 
-    "time": "2016-03-23T19:48:54Z", 
-    "title": "XGBoost"
-}
+{"hash":"A408FFA7CA904BD0EF24F8B8B0360CC4","rights":"CC BY","creator":"batch","uri":"http://dmlc.cs.washington.edu/xgboost.html","time":"2016-11-23","title":"XGBoost"}

@@ -1,9 +1,1 @@
-{
-    "hash": "a1df589382d63bcb244c6051830917b1", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/sshnet/SSH.NET", 
-    "private": false, 
-    "time": "2016-10-21T12:34:18Z", 
-    "title": "GitHub - sshnet/SSH.NET: SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."
-}
+{"hash":"A1DF589382D63BCB244C6051830917B1","rights":"CC BY","creator":"batch","uri":"https://github.com/sshnet/SSH.NET","time":"2016-11-23","title":"GitHub - sshnet/SSH.NET: SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."}

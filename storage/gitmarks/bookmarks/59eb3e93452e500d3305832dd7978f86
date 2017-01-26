@@ -1,9 +1,1 @@
-{
-    "hash": "59eb3e93452e500d3305832dd7978f86", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://armpit.sourceforge.net/", 
-    "private": false, 
-    "time": "2016-06-03T16:51:25Z", 
-    "title": "A Scheme Interpreter for ARM Microcontrollers"
-}
+{"hash":"59EB3E93452E500D3305832DD7978F86","rights":"CC BY","creator":"batch","uri":"http://armpit.sourceforge.net/","time":"2016-11-23","title":"A Scheme Interpreter for ARM Microcontrollers"}

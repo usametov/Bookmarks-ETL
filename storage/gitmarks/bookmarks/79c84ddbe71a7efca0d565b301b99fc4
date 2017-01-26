@@ -1,9 +1,1 @@
-{
-    "hash": "79c84ddbe71a7efca0d565b301b99fc4", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://cascalog.org/articles/getting_started.html", 
-    "private": false, 
-    "time": "2016-09-08T08:00:50Z", 
-    "title": "Getting Started with Cascalog"
-}
+{"hash":"79C84DDBE71A7EFCA0D565B301B99FC4","rights":"CC BY","creator":"batch","uri":"http://cascalog.org/articles/getting_started.html","time":"2016-11-23","title":"Getting Started with Cascalog"}

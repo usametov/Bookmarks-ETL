@@ -1,9 +1,1 @@
-{
-    "hash": "226990a3fa6594b94fdfe4c22e826d63", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://flowtype.org/", 
-    "private": false, 
-    "time": "2016-03-24T11:23:14Z", 
-    "title": "Flow | A static type checker for JavaScript"
-}
+{"hash":"226990A3FA6594B94FDFE4C22E826D63","rights":"CC BY","creator":"batch","uri":"http://flowtype.org/","time":"2016-11-23","title":"Flow | A static type checker for JavaScript"}

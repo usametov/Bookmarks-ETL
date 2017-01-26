@@ -1,9 +1,1 @@
-{
-    "hash": "f60356b68923e9c43314db4db6bcc544", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/briansmith/ring", 
-    "private": false, 
-    "time": "2016-08-29T11:39:59Z", 
-    "title": "GitHub - briansmith/ring: Safe, fast, small crypto using Rust"
-}
+{"hash":"F60356B68923E9C43314DB4DB6BCC544","rights":"CC BY","creator":"batch","uri":"https://github.com/briansmith/ring","time":"2016-11-23","title":"GitHub - briansmith/ring: Safe, fast, small crypto using Rust"}

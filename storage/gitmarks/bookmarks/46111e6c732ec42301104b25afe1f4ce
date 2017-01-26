@@ -1,9 +1,1 @@
-{
-    "hash": "46111e6c732ec42301104b25afe1f4ce", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://www.oreilly.com/learning/a-quick-introduction-to-docker-security", 
-    "private": false, 
-    "time": "2016-04-24T11:06:03Z", 
-    "title": "A quick introduction to Docker security - O&#39;Reilly Media"
-}
+{"hash":"46111E6C732EC42301104B25AFE1F4CE","rights":"CC BY","creator":"batch","uri":"https://www.oreilly.com/learning/a-quick-introduction-to-docker-security","time":"2016-11-23","title":"A quick introduction to Docker security - O&#39;Reilly Media"}

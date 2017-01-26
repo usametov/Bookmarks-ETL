@@ -1,9 +1,1 @@
-{
-    "hash": "b98b7431295cbf91f241925f0a953fda", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/Sauermann/emacs-aes", 
-    "private": false, 
-    "time": "2016-09-19T11:15:12Z", 
-    "title": "GitHub - Sauermann/emacs-aes: Emacs Lisp implementation of AES"
-}
+{"hash":"B98B7431295CBF91F241925F0A953FDA","rights":"CC BY","creator":"batch","uri":"https://github.com/Sauermann/emacs-aes","time":"2016-11-23","title":"GitHub - Sauermann/emacs-aes: Emacs Lisp implementation of AES"}

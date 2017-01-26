@@ -1,9 +1,1 @@
-{
-    "hash": "0d7e02d026c7d512d0df0562f93c00d2", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/", 
-    "private": false, 
-    "time": "2016-06-04T13:07:25Z", 
-    "title": "ClojureScript: JavaScript Interop &#8211; Rafal Spacjer blog"
-}
+{"hash":"0D7E02D026C7D512D0DF0562F93C00D2","rights":"CC BY","creator":"batch","uri":"http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/","time":"2016-11-23","title":"ClojureScript: JavaScript Interop &#8211; Rafal Spacjer blog"}

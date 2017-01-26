@@ -1,9 +1,1 @@
-{
-    "hash": "d8b1ddbef40a592897b9e30a46a4e53d", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/drcode/clll", 
-    "private": false, 
-    "time": "2016-06-08T21:55:03Z", 
-    "title": "GitHub - drcode/clll: Run Ethereum LLL contract code directly in Clojure"
-}
+{"hash":"D8B1DDBEF40A592897B9E30A46A4E53D","rights":"CC BY","creator":"batch","uri":"https://github.com/drcode/clll","time":"2016-11-23","title":"GitHub - drcode/clll: Run Ethereum LLL contract code directly in Clojure"}

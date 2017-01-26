@@ -1,9 +1,1 @@
-{
-    "hash": "eb007c8ca4dbd3dfe7fc29b11608c2f5", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://docs.datomic.com/best-practices.html", 
-    "private": false, 
-    "time": "2016-06-29T11:58:36Z", 
-    "title": "Datomic Best Practices | Datomic"
-}
+{"hash":"EB007C8CA4DBD3DFE7FC29B11608C2F5","rights":"CC BY","creator":"batch","uri":"http://docs.datomic.com/best-practices.html","time":"2016-11-23","title":"Datomic Best Practices | Datomic"}

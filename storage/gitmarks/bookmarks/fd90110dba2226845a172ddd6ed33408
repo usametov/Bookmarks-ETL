@@ -1,9 +1,1 @@
-{
-    "hash": "fd90110dba2226845a172ddd6ed33408", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://msdn.microsoft.com/en-us/library/dd233199.aspx", 
-    "private": false, 
-    "time": "2016-03-21T22:04:56Z", 
-    "title": "Verbose Syntax (F#)"
-}
+{"hash":"FD90110DBA2226845A172DDD6ED33408","rights":"CC BY","creator":"batch","uri":"http://msdn.microsoft.com/en-us/library/dd233199.aspx","time":"2016-11-23","title":"Verbose Syntax (F#)"}

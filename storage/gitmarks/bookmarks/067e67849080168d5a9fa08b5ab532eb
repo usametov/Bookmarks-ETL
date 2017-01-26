@@ -1,9 +1,1 @@
-{
-    "hash": "067e67849080168d5a9fa08b5ab532eb", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/mars/create-react-app-buildpack", 
-    "private": false, 
-    "time": "2016-09-01T10:37:32Z", 
-    "title": "GitHub - mars/create-react-app-buildpack: Heroku Buildpack for create-react-app: static hosting for React.js web apps"
-}
+{"hash":"067E67849080168D5A9FA08B5AB532EB","rights":"CC BY","creator":"batch","uri":"https://github.com/mars/create-react-app-buildpack","time":"2016-11-23","title":"GitHub - mars/create-react-app-buildpack: Heroku Buildpack for create-react-app: static hosting for React.js web apps"}

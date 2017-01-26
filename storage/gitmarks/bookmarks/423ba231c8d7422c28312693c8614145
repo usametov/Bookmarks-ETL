@@ -1,9 +1,1 @@
-{
-    "hash": "423ba231c8d7422c28312693c8614145", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://geojson.org/geojson-spec.html", 
-    "private": false, 
-    "time": "2016-06-20T18:02:29Z", 
-    "title": "GeoJSON Specification"
-}
+{"hash":"423BA231C8D7422C28312693C8614145","rights":"CC BY","creator":"batch","uri":"http://geojson.org/geojson-spec.html","time":"2016-11-23","title":"GeoJSON Specification"}

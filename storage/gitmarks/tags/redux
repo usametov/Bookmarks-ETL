@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "ecb86a3cb25cac7added0e0154be706f", 
-    "uri": "https://habrahabr.ru/post/269831/", 
-    "title": "\u0421 0 \u0434\u043e 1. \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c\u0441\u044f \u0441 Redux / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "b952108f7f461a818ee61c9df5644439", 
-    "uri": "https://github.com/xgrommx/awesome-redux", 
-    "title": "GitHub - xgrommx/awesome-redux: Awesome list of Redux examples and middlewares"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D3B978951FF55ED7509B8C4D0F4DDFCC","uri":"https://medium.com/google-developer-experts/angular-2-introduction-to-redux-1cf18af27e6e#.irqouerbd","title":"Angular 2â€Šâ€”â€ŠIntroduction to Redux"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"B952108F7F461A818EE61C9DF5644439","uri":"https://github.com/xgrommx/awesome-redux","title":"GitHub - xgrommx/awesome-redux: Awesome list of Redux examples and middlewares"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"ECB86A3CB25CAC7ADDED0E0154BE706F","uri":"https://habrahabr.ru/post/269831/","title":"С 0 до 1. Разбираемся с Redux / Хабрахабр"}]

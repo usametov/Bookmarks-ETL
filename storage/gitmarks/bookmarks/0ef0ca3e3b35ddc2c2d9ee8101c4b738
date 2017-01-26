@@ -1,9 +1,1 @@
-{
-    "hash": "0ef0ca3e3b35ddc2c2d9ee8101c4b738", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://nakkaya.com/2010/06/22/finite-state-machine-implementation-in-clojure/", 
-    "private": false, 
-    "time": "2016-07-17T18:06:41Z", 
-    "title": "Finite State Machine Implementation in Clojure"
-}
+{"hash":"0EF0CA3E3B35DDC2C2D9EE8101C4B738","rights":"CC BY","creator":"batch","uri":"http://nakkaya.com/2010/06/22/finite-state-machine-implementation-in-clojure/","time":"2016-11-23","title":"Finite State Machine Implementation in Clojure"}

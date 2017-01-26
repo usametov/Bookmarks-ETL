@@ -1,9 +1,1 @@
-{
-    "hash": "c1198ad38b5fd75f071e3441c2856ac9", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/scsibug/feedparser-clj", 
-    "private": false, 
-    "time": "2016-06-29T10:26:20Z", 
-    "title": "GitHub - scsibug/feedparser-clj: Atom/RSS Feed Parsing for Clojure"
-}
+{"hash":"C1198AD38B5FD75F071E3441C2856AC9","rights":"CC BY","creator":"batch","uri":"https://github.com/scsibug/feedparser-clj","time":"2016-11-23","title":"GitHub - scsibug/feedparser-clj: Atom/RSS Feed Parsing for Clojure"}

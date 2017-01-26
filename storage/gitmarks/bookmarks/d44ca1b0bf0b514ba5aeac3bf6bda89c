@@ -1,9 +1,1 @@
-{
-    "hash": "d44ca1b0bf0b514ba5aeac3bf6bda89c", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.braveclojure.com/multimethods-records-protocols/", 
-    "private": false, 
-    "time": "2016-05-07T04:18:53Z", 
-    "title": "Creating and Extending Abstractions with Multimethods, Protocols, and Records | Clojure for the Brave and True"
-}
+{"hash":"D44CA1B0BF0B514BA5AEAC3BF6BDA89C","rights":"CC BY","creator":"batch","uri":"http://www.braveclojure.com/multimethods-records-protocols/","time":"2016-11-23","title":"Creating and Extending Abstractions with Multimethods, Protocols, and Records | Clojure for the Brave and True"}

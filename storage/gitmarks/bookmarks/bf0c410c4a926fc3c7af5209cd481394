@@ -1,9 +1,1 @@
-{
-    "hash": "bf0c410c4a926fc3c7af5209cd481394", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/weavejester/compojure", 
-    "private": false, 
-    "time": "2016-06-29T13:33:50Z", 
-    "title": "GitHub - weavejester/compojure: A concise routing library for Ring/Clojure"
-}
+{"hash":"BF0C410C4A926FC3C7AF5209CD481394","rights":"CC BY","creator":"batch","uri":"https://github.com/weavejester/compojure","time":"2016-11-23","title":"GitHub - weavejester/compojure: A concise routing library for Ring/Clojure"}

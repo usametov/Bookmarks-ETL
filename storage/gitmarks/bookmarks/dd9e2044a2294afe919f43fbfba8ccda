@@ -1,9 +1,1 @@
-{
-    "hash": "dd9e2044a2294afe919f43fbfba8ccda", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/michaelklishin/pantomime", 
-    "private": false, 
-    "time": "2016-08-24T07:03:06Z", 
-    "title": "GitHub - michaelklishin/pantomime: A tiny Clojure library that deals with MIME types (Internet media types)"
-}
+{"hash":"DD9E2044A2294AFE919F43FBFBA8CCDA","rights":"CC BY","creator":"batch","uri":"https://github.com/michaelklishin/pantomime","time":"2016-11-23","title":"GitHub - michaelklishin/pantomime: A tiny Clojure library that deals with MIME types (Internet media types)"}

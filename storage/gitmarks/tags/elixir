@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "7699ad66c1d5c67a2b67d0610bad8c83", 
-    "uri": "https://github.com/h4cc/awesome-elixir", 
-    "title": "GitHub - h4cc/awesome-elixir: A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "c4b1b64ec20c3abb6572a5b7ba7bdcf9", 
-    "uri": "https://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/", 
-    "title": "Embedding ejabberd into an Elixir Phoenix Web application | ProcessOne \u2014 Blog"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"7699AD66C1D5C67A2B67D0610BAD8C83","uri":"https://github.com/h4cc/awesome-elixir","title":"GitHub - h4cc/awesome-elixir: A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C4B1B64EC20C3ABB6572A5B7BA7BDCF9","uri":"https://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/","title":"Embedding ejabberd into an Elixir Phoenix Web application | ProcessOne — Blog"}]

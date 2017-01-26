@@ -1,9 +1,1 @@
-{
-    "hash": "3cb4c5958772583cf99f8d29e917f8ed", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.ibm.com/developerworks/library/j-clojure-protocols/", 
-    "private": false, 
-    "time": "2016-05-13T09:48:07Z", 
-    "title": "Solving the Expression Problem with Clojure 1.2"
-}
+{"hash":"3CB4C5958772583CF99F8D29E917F8ED","rights":"CC BY","creator":"batch","uri":"http://www.ibm.com/developerworks/library/j-clojure-protocols/","time":"2016-11-23","title":"Solving the Expression Problem with Clojure 1.2"}

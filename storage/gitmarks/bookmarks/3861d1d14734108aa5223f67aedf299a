@@ -1,9 +1,1 @@
-{
-    "hash": "3861d1d14734108aa5223f67aedf299a", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://crossclj.info/", 
-    "private": false, 
-    "time": "2016-05-24T15:00:55Z", 
-    "title": "CrossClj - cross-referencing the clojure ecosystem"
-}
+{"hash":"3861D1D14734108AA5223F67AEDF299A","rights":"CC BY","creator":"batch","uri":"https://crossclj.info/","time":"2016-11-23","title":"CrossClj - cross-referencing the clojure ecosystem"}

@@ -1,9 +1,1 @@
-{
-    "hash": "47cd11d7fbfde2559029b4ff769b8f30", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.indexden.com/", 
-    "private": false, 
-    "time": "2016-04-12T16:14:35Z", 
-    "title": "IndexDen - full-text search as a service, hosted search API, 100% compatible with IndexTank API (IndexTank alternative)"
-}
+{"hash":"47CD11D7FBFDE2559029B4FF769B8F30","rights":"CC BY","creator":"batch","uri":"http://www.indexden.com/","time":"2016-11-23","title":"IndexDen - full-text search as a service, hosted search API, 100% compatible with IndexTank API (IndexTank alternative)"}

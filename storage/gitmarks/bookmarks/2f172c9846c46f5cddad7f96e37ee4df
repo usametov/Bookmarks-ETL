@@ -1,9 +1,1 @@
-{
-    "hash": "2f172c9846c46f5cddad7f96e37ee4df", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/AngleSharp/AngleSharp", 
-    "private": false, 
-    "time": "2016-10-21T18:29:48Z", 
-    "title": "GitHub - AngleSharp/AngleSharp: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications."
-}
+{"hash":"2F172C9846C46F5CDDAD7F96E37EE4DF","rights":"CC BY","creator":"batch","uri":"https://github.com/AngleSharp/AngleSharp","time":"2016-11-23","title":"GitHub - AngleSharp/AngleSharp: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications."}

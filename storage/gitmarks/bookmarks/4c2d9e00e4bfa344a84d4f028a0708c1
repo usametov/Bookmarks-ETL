@@ -1,9 +1,1 @@
-{
-    "hash": "4c2d9e00e4bfa344a84d4f028a0708c1", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/ptaoussanis/timbre", 
-    "private": false, 
-    "time": "2016-06-29T18:25:31Z", 
-    "title": "GitHub - ptaoussanis/timbre: Pure Clojure/Script logging library"
-}
+{"hash":"4C2D9E00E4BFA344A84D4F028A0708C1","rights":"CC BY","creator":"batch","uri":"https://github.com/ptaoussanis/timbre","time":"2016-11-23","title":"GitHub - ptaoussanis/timbre: Pure Clojure/Script logging library"}

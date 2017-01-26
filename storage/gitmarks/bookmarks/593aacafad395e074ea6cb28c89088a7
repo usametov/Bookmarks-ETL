@@ -1,9 +1,1 @@
-{
-    "hash": "593aacafad395e074ea6cb28c89088a7", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/hozumi/clj-commons-exec", 
-    "private": false, 
-    "time": "2016-06-28T13:26:35Z", 
-    "title": "GitHub - hozumi/clj-commons-exec: Apache Commons Exec wrapper for Clojure"
-}
+{"hash":"593AACAFAD395E074EA6CB28C89088A7","rights":"CC BY","creator":"batch","uri":"https://github.com/hozumi/clj-commons-exec","time":"2016-11-23","title":"GitHub - hozumi/clj-commons-exec: Apache Commons Exec wrapper for Clojure"}

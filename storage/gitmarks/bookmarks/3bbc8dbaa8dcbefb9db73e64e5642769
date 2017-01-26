@@ -1,9 +1,1 @@
-{
-    "hash": "3bbc8dbaa8dcbefb9db73e64e5642769", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://nakkaya.com/clodiuno.html", 
-    "private": false, 
-    "time": "2016-06-03T17:13:37Z", 
-    "title": "Clodiuno - Clojure API for Arduino"
-}
+{"hash":"3BBC8DBAA8DCBEFB9DB73E64E5642769","rights":"CC BY","creator":"batch","uri":"http://nakkaya.com/clodiuno.html","time":"2016-11-23","title":"Clodiuno - Clojure API for Arduino"}

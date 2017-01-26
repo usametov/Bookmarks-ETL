@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "f14e80aec43d9ff5c33c645a96d59b9f", 
-    "uri": "https://github.com/donnut/typescript-ramda", 
-    "title": "GitHub - donnut/typescript-ramda: TypeScript&#39;s type definitions for Ramda"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "4acd447deaa21540c85fd6a2c88aa867", 
-    "uri": "http://definitelytyped.org/", 
-    "title": "Home | DefinitelyTyped"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"9DE9E14694185C9D32DD1A1E2D298B28","uri":"https://github.com/Microsoft/TypeScript-Handbook","title":"GitHub - Microsoft/TypeScript-Handbook: The TypeScript Handbook is a comprehensive guide to the TypeScript language"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"4BD706C4A79FFE23D924D304AE76D0F9","uri":"https://msdn.microsoft.com/en-us/magazine/jj883955.aspx","title":"JavaScript - TypeScript: Making .NET Developers Comfortable with JavaScript"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"4ACD447DEAA21540C85FD6A2C88AA867","uri":"http://definitelytyped.org/","title":"Home | DefinitelyTyped"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"F14E80AEC43D9FF5C33C645A96D59B9F","uri":"https://github.com/donnut/typescript-ramda","title":"GitHub - donnut/typescript-ramda: TypeScript&#39;s type definitions for Ramda"}]

@@ -1,9 +1,1 @@
-{
-    "hash": "667a6be209c86dbf025628b5707d9627", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/Chouser/talk-finger-tree", 
-    "private": false, 
-    "time": "2016-07-30T00:55:12Z", 
-    "title": "GitHub - Chouser/talk-finger-tree: Slides for (first clojure-conj) talk, &quot;Finger Trees, Custom Persistent Collections&quot;"
-}
+{"hash":"667A6BE209C86DBF025628B5707D9627","rights":"CC BY","creator":"batch","uri":"https://github.com/Chouser/talk-finger-tree","time":"2016-11-23","title":"GitHub - Chouser/talk-finger-tree: Slides for (first clojure-conj) talk, &quot;Finger Trees, Custom Persistent Collections&quot;"}

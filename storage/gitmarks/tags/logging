@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "4c2d9e00e4bfa344a84d4f028a0708c1", 
-    "uri": "https://github.com/ptaoussanis/timbre", 
-    "title": "GitHub - ptaoussanis/timbre: Pure Clojure/Script logging library"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "2ff1f43ca9ac7e92a9f1a085c9b7e915", 
-    "uri": "https://github.com/clojure/tools.logging/blob/master/README.md", 
-    "title": "tools.logging/README.md at master \u00b7 clojure/tools.logging \u00b7 GitHub"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"156D35CBA61EA0F7DBE99F6332E6FB01","uri":"https://github.com/openzipkin/zipkin","title":"GitHub - openzipkin/zipkin: Zipkin is a distributed tracing system"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"BC21AEC089AB1C08C4D9FFE988B95F8F","uri":"https://twitter.github.io/twitter-server/Migration.html","title":"Migration from Ostrich â€” TwitterServer 1.18.0 documentation"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"AD9BDC224136B67164CE758100471A69","uri":"http://developer.android.com/distribute/googleplay/developer-console.html","title":"Developer Console | Android Developers"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"0B5C871B337F2B19BD0052697EB08F38","uri":"https://github.com/guangliang2014/logger","title":"guangliang2014/logger Â· GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"11AA1B6C0531E2BBE5CF565116468723","uri":"http://stackoverflow.com/questions/255669/how-to-enable-assembly-bind-failure-logging-fusion-in-net","title":"c# - How to enable assembly bind failure logging (FUSION) in .NET - Stack Overflow"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"98AB752E188E7E1834B742C661018006","uri":"https://github.com/ACRA/acra","title":"ACRA/acra Â· GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"2FF1F43CA9AC7E92A9F1A085C9B7E915","uri":"https://github.com/clojure/tools.logging/blob/master/README.md","title":"tools.logging/README.md at master · clojure/tools.logging · GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"4C2D9E00E4BFA344A84D4F028A0708C1","uri":"https://github.com/ptaoussanis/timbre","title":"GitHub - ptaoussanis/timbre: Pure Clojure/Script logging library"}]

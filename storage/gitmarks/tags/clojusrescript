@@ -1,7 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "de66350a195fe4f4377b4693837ead34", 
-    "uri": "http://hoplon.io/", 
-    "title": "Hoplon, a ClojureScript Web Framework"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"DE66350A195FE4F4377B4693837EAD34","uri":"http://hoplon.io/","title":"Hoplon, a ClojureScript Web Framework"}]

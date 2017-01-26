@@ -1,9 +1,1 @@
-{
-    "hash": "f8baa1f1e60a2631078ccb5641f1e6b5", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://www.emacswiki.org/emacs/EmacsForWindows", 
-    "private": false, 
-    "time": "2016-06-18T15:40:36Z", 
-    "title": "EmacsWiki: Emacs For Windows"
-}
+{"hash":"F8BAA1F1E60A2631078CCB5641F1E6B5","rights":"CC BY","creator":"batch","uri":"https://www.emacswiki.org/emacs/EmacsForWindows","time":"2016-11-23","title":"EmacsWiki: Emacs For Windows"}

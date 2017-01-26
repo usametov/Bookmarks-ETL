@@ -1,9 +1,1 @@
-{
-    "hash": "0066b6e5abf8e17dc37e6a1b07d1549d", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.stuttaford.me/2016/01/15/how-cognician-uses-onyx/", 
-    "private": false, 
-    "time": "2016-08-30T21:17:56Z", 
-    "title": "How Cognician uses Onyx &middot; Robert Stuttaford, Clojure Enthusiast"
-}
+{"hash":"0066B6E5ABF8E17DC37E6A1B07D1549D","rights":"CC BY","creator":"batch","uri":"http://www.stuttaford.me/2016/01/15/how-cognician-uses-onyx/","time":"2016-11-23","title":"How Cognician uses Onyx &middot; Robert Stuttaford, Clojure Enthusiast"}

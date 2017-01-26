@@ -1,9 +1,1 @@
-{
-    "hash": "972f5e9f57091c6c9ccd1213b9c704ee", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://blog.jetbrains.com/kotlin/2015/11/webinar-recording-functional-programming-with-kotlin/", 
-    "private": false, 
-    "time": "2016-04-09T12:46:20Z", 
-    "title": "Webinar Recording: Functional Programming with Kotlin | Kotlin Blog"
-}
+{"hash":"972F5E9F57091C6C9CCD1213B9C704EE","rights":"CC BY","creator":"batch","uri":"http://blog.jetbrains.com/kotlin/2015/11/webinar-recording-functional-programming-with-kotlin/","time":"2016-11-23","title":"Webinar Recording: Functional Programming with Kotlin | Kotlin Blog"}

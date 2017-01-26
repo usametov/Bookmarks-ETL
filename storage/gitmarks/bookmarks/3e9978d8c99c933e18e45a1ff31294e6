@@ -1,9 +1,1 @@
-{
-    "hash": "3e9978d8c99c933e18e45a1ff31294e6", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://msdn.microsoft.com/en-us/library/dd233226%28v=vs.110%29.aspx", 
-    "private": false, 
-    "time": "2016-03-21T14:14:28Z", 
-    "title": "Discriminated Unions (F#)"
-}
+{"hash":"3E9978D8C99C933E18E45A1FF31294E6","rights":"CC BY","creator":"batch","uri":"http://msdn.microsoft.com/en-us/library/dd233226%28v=vs.110%29.aspx","time":"2016-11-23","title":"Discriminated Unions (F#)"}

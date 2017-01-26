@@ -1,103 +1,13 @@
-{
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"7546D531573A044A1A3C8332D5D594C5","uri":"http://www.cheatography.com/","title":"Cheat Sheet Generator and Cheat Sheet Repository - Cheatography.com"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"6A196B6A3A35EE9A83E896082C58CEF3","uri":"http://engineroom.trackmaven.com/blog/getting-started-drf-angularjs-part-2/","title":"Getting Started with Django REST Framework (DRF) and AngularJS (Part 2) - The Engine Room - TrackMaven"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CA4BA9FDF00772F55C97305DEC122BD7","uri":"https://medium.com/google-developer-experts","title":"Google Developer Experts"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D3B978951FF55ED7509B8C4D0F4DDFCC","uri":"https://medium.com/google-developer-experts/angular-2-introduction-to-redux-1cf18af27e6e#.irqouerbd","title":"Angular 2â€Šâ€”â€ŠIntroduction to Redux"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"E6AC253F28EA088AB17C13D462A3CAA3","uri":"https://github.com/timjacobi/angular-education","title":"timjacobi/angular-education Â· GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"3AAE604D46ADDB7D440CF24AED732C1A","uri":"http://weblogs.asp.net/dwahlin/video-tutorial-angularjs-fundamentals-in-60-ish-minutes","title":"Dan Wahlin - Video Tutorial: AngularJS Fundamentals in 60-ish Minutes"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"4220F2DA4C2A36762C782BEFA9B9D9AD","uri":"http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs","title":"Dan Wahlin - Dynamically Loading Controllers and Views with AngularJS/$controllerProvider and RequireJS"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"AF2D0CECF4E281DD338BADE4789D2F5D","uri":"https://blog.angularjs.org/2012/07/angularjs-now-hosted-on-google-cdn.html","title":"AngularJS Now Hosted on Google CDN | AngularJS"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"4BD275E0C92E7F4FB8C7BA3CE69D5D9D","uri":"http://karma-runner.github.io/0.12/index.html","title":"Karma - Spectacular Test Runner for Javascript"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"86B058FB2EF5C8F349A6918BEAE47BA7","uri":"https://github.com/angular/angularjs-batarang","title":"angular/angularjs-batarang"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D20538FBCA818C0E885B34D97CB98A81","uri":"http://www.yearofmoo.com/","title":"Welcome to Yearofmoo"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"51F6C0F41EA9C05ABF307FC3C79CB87E","uri":"https://github.com/fdietz/recipes-with-angular-js-examples","title":"fdietz/recipes-with-angular-js-examples"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"AB66C21A543CC4E2174CF0F9FF72FED5","uri":"http://www.torontopubliclibrary.ca/search.jsp?N=37910&Ntt=AngularJS","title":"AngularJS : eBooks & Online Content : Toronto Public Library"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"642D16B6A928F210D2A500CABC4ECEEE","uri":"https://jhipster.github.io/","title":"JHipster home page"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"21A9602B33F238C1DAF12050A0B0E513","uri":"http://stackoverflow.com/questions/13047923/working-with-ng-options-in-angular","title":"javascript - Working with ng-options in angular - Stack Overflow"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"FA398EFCAE758782EEC298A56F169AA6","uri":"http://sravi-kiran.blogspot.ca/2013/09/ABetterWayOfUsingAspNetSignalRWithAngularJs.html","title":"My online Notebook: A Better Way of Using ASP.NET SignalR With Angular JS"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"E132FF968D6C441F752940D6895C33AC","uri":"http://ngmodules.org/modules/ng-pdfviewer","title":"ng-pdfviewer - AngularJS Modules, Plugins and Directives"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"F10AFDD7856E68B5FB44E4C544D0A5FE","uri":"http://docs.angularjs.org/tutorial/","title":"AngularJS: Tutorial"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"667BCCE1CEA12E84B2C0EA4A92EB2959","uri":"https://github.com/ajoslin/angular-mobile-nav","title":"ajoslin/angular-mobile-nav"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"A9B0AF7BCC56C2E0ACE94AEF452188CD","uri":"http://habrahabr.ru/post/142590/","title":"7 Ð¿Ñ€Ð¸Ñ‡Ð¸Ð½, Ð¿Ð¾Ñ‡ÐµÐ¼Ñƒ AngularJS ÐºÑ€ÑƒÑ‚"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CBFD48213D6E9F3B20CD1BD1FF49C87C","uri":"http://www.wintellect.com/Search?q=AngularJS&_cldee=dXNhbWV0b3ZAZ21haWwuY29t","title":"Wintellect | Search"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"DC482AA5E1AB10E6477AF81D9998455F","uri":"http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/","title":"Modeling Data and State in Your AngularJS Application - @jhooks"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"B39ACE6DF4B42C46751F58210634A1A1","uri":"http://habrahabr.ru/post/149757/","title":"ÐŸÑ€Ð°ÐºÑ‚Ð¸ÐºÑƒÐ¼ AngularJS â€” Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ð¾Ð¹ Ð¿Ð°Ð½ÐµÐ»Ð¸ / Ð¥Ð°Ð±Ñ€Ð°Ñ…Ð°Ð±Ñ€"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CD56C66F97FF45E7707A34B30282A304","uri":"https://www.codeschool.com/paths/javascript","title":"JavaScript Path - Code School"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"FC1907949F1064ED3BDA584C8883C047","uri":"https://egghead.io/","title":"egghead.io: Learn AngularJS with Tutorial Videos & Training @eggheadio"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"97C69D5045DB742DE1A8A9DF844FE514","uri":"http://docs.angularjs.org/api","title":"AngularJS: API Reference"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"029ADEBBFD515BA3DE9262367C62AACD","uri":"https://habrahabr.ru/post/215607/","title":"AngularJS и ReactJS или как сделать ваше приложение быстрее / Хабрахабр"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"15529AFB9CF30189805C3F08AA01B8C9","uri":"http://ngmodules.org/","title":"Popular Modules - AngularJS Modules, Plugins and Directives"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"1C99B73AFF06E7AA1E8AA78D4DB8264C","uri":"http://www.slideshare.net/borisdinkevich/using-reactjs-in-angularjs","title":"Using ReactJS in AngularJS"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"25FDE6096FCDDCE3A48D3C1668D4C6B6","uri":"http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html","title":"Getting Started with Django Rest Framework and AngularJS"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"313A4E8F57DD8432C396F388F8F1EBA7","uri":"https://github.com/ramda/ramdangular","title":"GitHub - ramda/ramdangular: Ramda adapter for AngularJS"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"6948D27DAD5D9D41C1E02042D37FE52F","uri":"https://github.com/Reactive-Extensions/rx.angular.js","title":"GitHub - Reactive-Extensions/rx.angular.js: AngularJS Bindings for RxJS"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"7B83391FAF1D50875187375D79EE3955","uri":"https://www.youtube.com/watch?v=i9MHigUZKEM","title":"AngularJS Fundamentals In 60-ish Minutes - YouTube"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"7C38254CA02FB2C2D65D51838BC1634E","uri":"https://www.youtube.com/watch?v=HCR7i5F5L8c","title":"Google I/O 2013 - Design Decisions in AngularJS - YouTube"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"84610344A4DB40BD40646D742D273A4F","uri":"http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/","title":"Boost the Performance of an AngularJS Application Using Immutable Data &#8211; Minko Gechev's blog"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"BB4FD8098940486EDB6855B3D668BE47","uri":"Boost the Performance of an AngularJS Application Using Immutable Data","title":"[No Title]"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C01CEA4F56B6A01482A2226B55E13F17","uri":"https://github.com/lauripiispanen/angular-bacon","title":"GitHub - lauripiispanen/angular-bacon: Angular-bacon.js bindings"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C1164A77995347941C2BF9A62DA15439","uri":"http://tinyurl.com/AngularJSJumpStart","title":"[No Title]"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CEB3DDA9AF298A78969206CA0EFB0B57","uri":"bacon.js bindings for angularJs","title":"[No Title]"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D25D2FBE3CFC4971C841C2FC497A6A2D","uri":"http://stackoverflow.com/questions/20947191/using-reactjs-with-angularjs","title":"Access denied | stackoverflow.com used CloudFlare to restrict access"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D38D69CA23170665B8E882C56BD83139","uri":"https://github.com/ninya-io/ninya.io","title":"GitHub - ninya-io/ninya.io: Find StackOverflow users near you by tags and reputation"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D3BC9C505B9E08104398916166AA136B","uri":"https://angular-ui.github.io/bootstrap/#/getting_started","title":"Angular directives for Bootstrap"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"FE57CBC79FD36020192CF0A1C611AA40","uri":"http://weblogs.asp.net/dwahlin/angularjs-in-60-ish-minutes-the-ebook","title":"Dan Wahlin - AngularJS in 60-ish Minutes – The eBook"},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "313a4e8f57dd8432c396f388f8f1eba7", 
-    "uri": "https://github.com/ramda/ramdangular", 
-    "title": "GitHub - ramda/ramdangular: Ramda adapter for AngularJS"
-}{
+    "hash": "c02fc17e7cde63d8de9ee04669fba570", 
+    "uri": "https://github.com/hdjirdeh/angular2-hn", 
+    "title": "GitHub - hdjirdeh/angular2-hn: Angular 2 and RxJS powered Hacker News client"
+},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "84610344a4db40bd40646d742d273a4f", 
-    "uri": "http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/", 
-    "title": "Boost the Performance of an AngularJS Application Using Immutable Data &#8211; Minko Gechev's blog"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "bb4fd8098940486edb6855b3d668be47", 
-    "uri": "Boost the Performance of an AngularJS Application Using Immutable Data", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "c01cea4f56b6a01482a2226b55e13f17", 
-    "uri": "https://github.com/lauripiispanen/angular-bacon", 
-    "title": "GitHub - lauripiispanen/angular-bacon: Angular-bacon.js bindings"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "ceb3dda9af298a78969206ca0efb0b57", 
-    "uri": "bacon.js bindings for angularJs", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "029adebbfd515ba3de9262367c62aacd", 
-    "uri": "https://habrahabr.ru/post/215607/", 
-    "title": "AngularJS \u0438 ReactJS \u0438\u043b\u0438 \u043a\u0430\u043a \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0430\u0448\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0431\u044b\u0441\u0442\u0440\u0435\u0435 / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "d25d2fbe3cfc4971c841c2fc497a6a2d", 
-    "uri": "http://stackoverflow.com/questions/20947191/using-reactjs-with-angularjs", 
-    "title": "Access denied | stackoverflow.com used CloudFlare to restrict access"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "1c99b73aff06e7aa1e8aa78d4db8264c", 
-    "uri": "http://www.slideshare.net/borisdinkevich/using-reactjs-in-angularjs", 
-    "title": "Using ReactJS in AngularJS"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "6948d27dad5d9d41c1e02042d37fe52f", 
-    "uri": "https://github.com/Reactive-Extensions/rx.angular.js", 
-    "title": "GitHub - Reactive-Extensions/rx.angular.js: AngularJS Bindings for RxJS"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "d3bc9c505b9e08104398916166aa136b", 
-    "uri": "https://angular-ui.github.io/bootstrap/#/getting_started", 
-    "title": "Angular directives for Bootstrap"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "15529afb9cf30189805c3f08aa01b8c9", 
-    "uri": "http://ngmodules.org/", 
-    "title": "Popular Modules - AngularJS Modules, Plugins and Directives"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "7c38254ca02fb2c2d65d51838bc1634e", 
-    "uri": "https://www.youtube.com/watch?v=HCR7i5F5L8c", 
-    "title": "Google I/O 2013 - Design Decisions in AngularJS - YouTube"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "7b83391faf1d50875187375d79ee3955", 
-    "uri": "https://www.youtube.com/watch?v=i9MHigUZKEM", 
-    "title": "AngularJS Fundamentals In 60-ish Minutes - YouTube"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "c1164a77995347941c2bf9a62da15439", 
-    "uri": "http://tinyurl.com/AngularJSJumpStart", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "fe57cbc79fd36020192cf0a1c611aa40", 
-    "uri": "http://weblogs.asp.net/dwahlin/angularjs-in-60-ish-minutes-the-ebook", 
-    "title": "Dan Wahlin - AngularJS in 60-ish Minutes \u2013 The eBook"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "d38d69ca23170665b8e882c56bd83139", 
-    "uri": "https://github.com/ninya-io/ninya.io", 
-    "title": "GitHub - ninya-io/ninya.io: Find StackOverflow users near you by tags and reputation"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "25fde6096fcddce3a48d3c1668d4c6b6", 
-    "uri": "http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html", 
-    "title": "Getting Started with Django Rest Framework and AngularJS"
-}
+    "hash": "fe8af4c1635f2789402fc5dfd4f0cd52", 
+    "uri": "https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+}]

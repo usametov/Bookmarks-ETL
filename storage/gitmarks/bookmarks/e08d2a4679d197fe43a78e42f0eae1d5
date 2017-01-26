@@ -1,9 +1,1 @@
-{
-    "hash": "e08d2a4679d197fe43a78e42f0eae1d5", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/timgalebach/clj-workflow-template", 
-    "private": false, 
-    "time": "2016-05-25T10:18:08Z", 
-    "title": "GitHub - timgalebach/clj-workflow-template: Shows an example of an application instance created as a variable"
-}
+{"hash":"E08D2A4679D197FE43A78E42F0EAE1D5","rights":"CC BY","creator":"batch","uri":"https://github.com/timgalebach/clj-workflow-template","time":"2016-11-23","title":"GitHub - timgalebach/clj-workflow-template: Shows an example of an application instance created as a variable"}

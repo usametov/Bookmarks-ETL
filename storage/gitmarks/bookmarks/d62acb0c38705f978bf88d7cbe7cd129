@@ -1,9 +1,1 @@
-{
-    "hash": "d62acb0c38705f978bf88d7cbe7cd129", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://vvvvalvalval.github.io/posts/2016-07-24-datomic-web-app-a-practical-guide.html", 
-    "private": false, 
-    "time": "2016-10-16T17:38:09Z", 
-    "title": "Val on Programming: Using Datomic in your app: a practical guide"
-}
+{"hash":"D62ACB0C38705F978BF88D7CBE7CD129","rights":"CC BY","creator":"batch","uri":"http://vvvvalvalval.github.io/posts/2016-07-24-datomic-web-app-a-practical-guide.html","time":"2016-11-23","title":"Val on Programming: Using Datomic in your app: a practical guide"}

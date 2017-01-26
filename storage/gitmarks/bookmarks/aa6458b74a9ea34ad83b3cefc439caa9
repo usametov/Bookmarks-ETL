@@ -1,9 +1,1 @@
-{
-    "hash": "aa6458b74a9ea34ad83b3cefc439caa9", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/zerokarmaleft/similarity", 
-    "private": false, 
-    "time": "2016-09-08T09:36:34Z", 
-    "title": "GitHub - zerokarmaleft/similarity: A Cascalog library for finding similar documents with minhashing/locality-sensitive hashing."
-}
+{"hash":"AA6458B74A9EA34AD83B3CEFC439CAA9","rights":"CC BY","creator":"batch","uri":"https://github.com/zerokarmaleft/similarity","time":"2016-11-23","title":"GitHub - zerokarmaleft/similarity: A Cascalog library for finding similar documents with minhashing/locality-sensitive hashing."}

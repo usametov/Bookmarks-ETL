@@ -1,9 +1,1 @@
-{
-    "hash": "ae99c6b8a77383ba47a37b77d7066e1d", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://cascalog.org/", 
-    "private": false, 
-    "time": "2016-06-29T18:43:22Z", 
-    "title": "Cascalog | Data processing on Hadoop without the hassle"
-}
+{"hash":"AE99C6B8A77383BA47A37B77D7066E1D","rights":"CC BY","creator":"batch","uri":"http://cascalog.org/","time":"2016-11-23","title":"Cascalog | Data processing on Hadoop without the hassle"}

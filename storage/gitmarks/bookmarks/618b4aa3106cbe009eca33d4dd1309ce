@@ -1,9 +1,1 @@
-{
-    "hash": "618b4aa3106cbe009eca33d4dd1309ce", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/octokit/octokit.net", 
-    "private": false, 
-    "time": "2016-10-21T12:39:04Z", 
-    "title": "GitHub - octokit/octokit.net: A GitHub API client library for .NET"
-}
+{"hash":"618B4AA3106CBE009ECA33D4DD1309CE","rights":"CC BY","creator":"batch","uri":"https://github.com/octokit/octokit.net","time":"2016-11-23","title":"GitHub - octokit/octokit.net: A GitHub API client library for .NET"}

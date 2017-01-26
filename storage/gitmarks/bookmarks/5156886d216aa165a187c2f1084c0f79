@@ -1,9 +1,1 @@
-{
-    "hash": "5156886d216aa165a187c2f1084c0f79", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.graphanalysis.org/index.html", 
-    "private": false, 
-    "time": "2016-09-17T21:08:58Z", 
-    "title": "GraphAnalysis.org: High Performance Computing for solving large-scale graph problems"
-}
+{"hash":"5156886D216AA165A187C2F1084C0F79","rights":"CC BY","creator":"batch","uri":"http://www.graphanalysis.org/index.html","time":"2016-11-23","title":"GraphAnalysis.org: High Performance Computing for solving large-scale graph problems"}

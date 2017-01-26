@@ -1,9 +1,1 @@
-{
-    "hash": "0e6ebb42864a19682576a2ca695d0426", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://cljsjs.github.io", 
-    "private": false, 
-    "time": "2016-07-13T21:02:48Z", 
-    "title": "Javascript Libraries packaged for ClojureScript"
-}
+{"hash":"0E6EBB42864A19682576A2CA695D0426","rights":"CC BY","creator":"batch","uri":"http://cljsjs.github.io","time":"2016-11-23","title":"Javascript Libraries packaged for ClojureScript"}

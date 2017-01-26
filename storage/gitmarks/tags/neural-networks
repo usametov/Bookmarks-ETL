@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "cade6cb529a8a612012622126931301c", 
-    "uri": "https://github.com/jtoy/awesome-tensorflow/", 
-    "title": "GitHub - jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources http://tensorflow.org"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "bd3140e61c2aceda38f4b7fc77cf0de4", 
-    "uri": "https://github.com/tensorflow/models/tree/master/syntaxnet", 
-    "title": "models/syntaxnet at master \u00b7 tensorflow/models \u00b7 GitHub"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"BD3140E61C2ACEDA38F4B7FC77CF0DE4","uri":"https://github.com/tensorflow/models/tree/master/syntaxnet","title":"models/syntaxnet at master · tensorflow/models · GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CADE6CB529A8A612012622126931301C","uri":"https://github.com/jtoy/awesome-tensorflow/","title":"GitHub - jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources http://tensorflow.org"}]

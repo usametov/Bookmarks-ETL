@@ -1,9 +1,1 @@
-{
-    "hash": "26ea124c8023c670614745d327e0dc8d", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.scs.stanford.edu/brop/", 
-    "private": false, 
-    "time": "2016-06-01T09:42:43Z", 
-    "title": "Blind Return Oriented Programming (BROP)"
-}
+{"hash":"26EA124C8023C670614745D327E0DC8D","rights":"CC BY","creator":"batch","uri":"http://www.scs.stanford.edu/brop/","time":"2016-11-23","title":"Blind Return Oriented Programming (BROP)"}

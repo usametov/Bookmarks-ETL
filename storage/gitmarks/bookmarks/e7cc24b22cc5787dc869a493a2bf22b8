@@ -1,9 +1,1 @@
-{
-    "hash": "e7cc24b22cc5787dc869a493a2bf22b8", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://msdn.microsoft.com/en-us/library/hh967652.aspx", 
-    "private": false, 
-    "time": "2016-03-21T13:13:50Z", 
-    "title": "F# Collection Types"
-}
+{"hash":"E7CC24B22CC5787DC869A493A2BF22B8","rights":"CC BY","creator":"batch","uri":"http://msdn.microsoft.com/en-us/library/hh967652.aspx","time":"2016-11-23","title":"F# Collection Types"}

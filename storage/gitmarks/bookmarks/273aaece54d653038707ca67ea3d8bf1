@@ -1,9 +1,1 @@
-{
-    "hash": "273aaece54d653038707ca67ea3d8bf1", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://open-source.braveclojure.com/", 
-    "private": false, 
-    "time": "2016-09-20T21:47:01Z", 
-    "title": "Open Source Clojure Projects"
-}
+{"hash":"273AAECE54D653038707CA67EA3D8BF1","rights":"CC BY","creator":"batch","uri":"http://open-source.braveclojure.com/","time":"2016-11-23","title":"Open Source Clojure Projects"}

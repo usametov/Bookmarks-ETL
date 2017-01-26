@@ -1,9 +1,1 @@
-{
-    "hash": "5bbea03a3fabe9d19ffbf3feed55d424", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://msdn.microsoft.com/en-us/library/dd233240.aspx", 
-    "private": false, 
-    "time": "2016-03-22T08:04:02Z", 
-    "title": "Resource Management: The use Keyword (F#)"
-}
+{"hash":"5BBEA03A3FABE9D19FFBF3FEED55D424","rights":"CC BY","creator":"batch","uri":"http://msdn.microsoft.com/en-us/library/dd233240.aspx","time":"2016-11-23","title":"Resource Management: The use Keyword (F#)"}

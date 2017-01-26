@@ -1,9 +1,1 @@
-{
-    "hash": "3e3ee1efc177b31fd0b009fd2edd0205", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html", 
-    "private": false, 
-    "time": "2016-06-28T20:22:56Z", 
-    "title": "Clojure :: Reducers - A Library and Model for Collection Processing"
-}
+{"hash":"3E3EE1EFC177B31FD0B009FD2EDD0205","rights":"CC BY","creator":"batch","uri":"http://www.clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html","time":"2016-11-23","title":"Clojure :: Reducers - A Library and Model for Collection Processing"}

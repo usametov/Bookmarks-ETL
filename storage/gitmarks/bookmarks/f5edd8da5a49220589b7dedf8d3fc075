@@ -1,9 +1,1 @@
-{
-    "hash": "f5edd8da5a49220589b7dedf8d3fc075", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://aphyr.com/posts/306-clojure-from-the-ground-up-state", 
-    "private": false, 
-    "time": "2016-09-10T10:12:41Z", 
-    "title": "Clojure from the ground up: state"
-}
+{"hash":"F5EDD8DA5A49220589B7DEDF8D3FC075","rights":"CC BY","creator":"batch","uri":"https://aphyr.com/posts/306-clojure-from-the-ground-up-state","time":"2016-11-23","title":"Clojure from the ground up: state"}

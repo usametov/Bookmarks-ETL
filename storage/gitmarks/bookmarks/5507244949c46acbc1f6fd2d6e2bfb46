@@ -1,9 +1,1 @@
-{
-    "hash": "5507244949c46acbc1f6fd2d6e2bfb46", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://code.visualstudio.com/docs?start=true", 
-    "private": false, 
-    "time": "2016-09-28T20:12:39Z", 
-    "title": "Documentation for Visual Studio Code"
-}
+{"hash":"5507244949C46ACBC1F6FD2D6E2BFB46","rights":"CC BY","creator":"batch","uri":"https://code.visualstudio.com/docs?start=true","time":"2016-11-23","title":"Documentation for Visual Studio Code"}

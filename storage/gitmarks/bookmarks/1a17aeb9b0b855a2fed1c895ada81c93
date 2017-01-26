@@ -1,9 +1,1 @@
-{
-    "hash": "1a17aeb9b0b855a2fed1c895ada81c93", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.cs.tau.ac.il/~tromer/ecdh/", 
-    "private": false, 
-    "time": "2016-06-12T14:38:06Z", 
-    "title": "ECDH Key-Extraction via Low-Bandwidth Electromagnetic Attacks on PCs"
-}
+{"hash":"1A17AEB9B0B855A2FED1C895ADA81C93","rights":"CC BY","creator":"batch","uri":"http://www.cs.tau.ac.il/~tromer/ecdh/","time":"2016-11-23","title":"ECDH Key-Extraction via Low-Bandwidth Electromagnetic Attacks on PCs"}

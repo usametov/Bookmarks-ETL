@@ -1,9 +1,1 @@
-{
-    "hash": "227a12d43b58390f4c2dbe77b224ac3f", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://www.infoq.com/clojure/", 
-    "private": false, 
-    "time": "2016-07-18T13:12:52Z", 
-    "title": "Clojure"
-}
+{"hash":"227A12D43B58390F4C2DBE77B224AC3F","rights":"CC BY","creator":"batch","uri":"https://www.infoq.com/clojure/","time":"2016-11-23","title":"Clojure"}

@@ -1,9 +1,1 @@
-{
-    "hash": "71979ffa50817ed4e997cdf6574f949a", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.luminusweb.net/", 
-    "private": false, 
-    "time": "2016-05-07T17:28:16Z", 
-    "title": "Luminus - a Clojure web framework"
-}
+{"hash":"71979FFA50817ED4E997CDF6574F949A","rights":"CC BY","creator":"batch","uri":"http://www.luminusweb.net/","time":"2016-11-23","title":"Luminus - a Clojure web framework"}

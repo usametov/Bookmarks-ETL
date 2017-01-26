@@ -1,9 +1,1 @@
-{
-    "hash": "8f84245ba3212bfa095d755746184793", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://blog.shriphani.com/2016/11/16/a-clojure-dsl-for-web-crawling/", 
-    "private": false, 
-    "time": "2016-11-17T23:28:39Z", 
-    "title": "A Clojure DSL for Web-Crawling"
-}
+{"hash":"8F84245BA3212BFA095D755746184793","rights":"CC BY","creator":"batch","uri":"http://blog.shriphani.com/2016/11/16/a-clojure-dsl-for-web-crawling/","time":"2016-11-23","title":"A Clojure DSL for Web-Crawling"}

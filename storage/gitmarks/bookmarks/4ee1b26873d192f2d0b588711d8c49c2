@@ -1,9 +1,1 @@
-{
-    "hash": "4ee1b26873d192f2d0b588711d8c49c2", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/clojure-liberator/liberator", 
-    "private": false, 
-    "time": "2016-06-29T13:39:08Z", 
-    "title": "GitHub - clojure-liberator/liberator: Liberator is a Clojure library for building RESTful applications."
-}
+{"hash":"4EE1B26873D192F2D0B588711D8C49C2","rights":"CC BY","creator":"batch","uri":"https://github.com/clojure-liberator/liberator","time":"2016-11-23","title":"GitHub - clojure-liberator/liberator: Liberator is a Clojure library for building RESTful applications."}

@@ -1,9 +1,1 @@
-{
-    "hash": "88936d5a46e7872ebf18c47933ba5339", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/ptaoussanis/tufte", 
-    "private": false, 
-    "time": "2016-08-20T16:55:12Z", 
-    "title": "GitHub - ptaoussanis/tufte: Simple profiling and performance monitoring for Clojure/Script"
-}
+{"hash":"88936D5A46E7872EBF18C47933BA5339","rights":"CC BY","creator":"batch","uri":"https://github.com/ptaoussanis/tufte","time":"2016-11-23","title":"GitHub - ptaoussanis/tufte: Simple profiling and performance monitoring for Clojure/Script"}

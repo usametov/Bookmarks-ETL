@@ -1,9 +1,1 @@
-{
-    "hash": "69995aabb9ee55f1541cc5d9b75e49be", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://www.youtube.com/watch?v=n7aE6k8o_BU", 
-    "private": false, 
-    "time": "2016-06-27T22:18:04Z", 
-    "title": "Sean Johnson - Pattern Matching in Clojure - YouTube"
-}
+{"hash":"69995AABB9EE55F1541CC5D9B75E49BE","rights":"CC BY","creator":"batch","uri":"https://www.youtube.com/watch?v=n7aE6k8o_BU","time":"2016-11-23","title":"Sean Johnson - Pattern Matching in Clojure - YouTube"}

@@ -1,31 +1,7 @@
-{
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"5CED139CB0B179615770BD3CC17913FC","uri":"https://mitpress.mit.edu/sicp/","title":"Structure and Interpretation of Computer Programs"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"9ABBA88DB662A5F6C416FD917E899C00","uri":"http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/","title":"MIT OpenCourseWare | Mathematics | 18.06 Linear Algebra, Spring 2010 | Video Lectures"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"186B94353A73133CE90B0685D3FB8867","uri":"http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm","title":"MIT OpenCourseWare | Electrical Engineering and Computer Science | 6.042J Mathematics for Computer Science, Fall 2010 | Home"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"BF588965ADEBA8639225C5B64961C834","uri":"http://socialmachines.media.mit.edu/","title":"The Laboratory for Social Machines |"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"23F990A1B777A901BA7A5077010631CC","uri":"https://www.battlecode.org/info/","title":"Battlecode - AI Programming Competition"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"3BC5FE0134EDF44E5CC8F38BE5E7E32E","uri":"http://www.computerscienceonline.org/courses/","title":"Online CS Courses | Computer Science"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"A520A721A70C423C689B888DA23A282C","uri":"http://www.amazon.com/exec/obidos/ASIN/1573980137/ref=nosim/mitopencourse-20","title":"Lions' Commentary on Unix: John Lions:"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"DCC0C24D6C3D38FD1BB7556CBC34A47E","uri":"http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2006/","title":"MIT OpenCourseWare | Electrical Engineering and Computer Science | 6.828 Operating System Engineering, Fall 2006 | Home"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"1F02440E12D67BDB81B99019EBEC9303","uri":"http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/","title":"Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"46B54B398FE32AC19CA500183C75104F","uri":"http://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/","title":"MIT OpenCourseWare | Mathematics | 18.02 Multivariable Calculus, Fall 2007 | Home"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"03E664450B9F0872F53407CEC086FD75","uri":"https://www.edx.org/","title":"edX"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"6D4074797C87EDE91243AA2E4B422B48","uri":"http://www.draper.com/","title":"Charles Stark Draper Laboratory"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"ED87E5B469A8F65645D4A2487CE88D66","uri":"http://ocw.mit.edu/courses/mathematics/","title":"Free Online Course Materials | Mathematics | MIT OpenCourseWare"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"8D925210DFD4E627EED7658678EEACC2","uri":"http://www.csail.mit.edu/","title":"MIT Computer Science and Artificial Intelligence Laboratory | CSAIL"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"1200F39CF0582132BB309F126B512DCA","uri":"http://www.deeplearningbook.org/","title":"Deep Learning"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"6929D8343B168923911DB9C5F5FEF3C5","uri":"http://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/unit-iii-fourier-series-and-laplace-transform/fourier-series-basics/","title":"Fourier Series: Basics | Unit III: Fourier Series and Laplace Transform | Differential Equations | Mathematics | MIT OpenCourseWare"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"919564F2B5A80398FE1A4C5B7D08E6CF","uri":"https://mitpress.mit.edu/books/little-prover","title":"The Little Prover | The MIT Press"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D23D3F570911D72A5401D203A834D035","uri":"http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/index.htm","title":"Geometric Folding Algorithms: Linkages, Origami, Polyhedra | Electrical Engineering and Computer Science | MIT OpenCourseWare"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D599EC3D4913909DCA59DAE8A34E32D3","uri":"http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/","title":"Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare"},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "1200f39cf0582132bb309f126b512dca", 
-    "uri": "http://www.deeplearningbook.org/", 
-    "title": "Deep Learning"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "d599ec3d4913909dca59dae8a34e32d3", 
-    "uri": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/", 
-    "title": "Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "919564f2b5a80398fe1a4c5b7d08e6cf", 
-    "uri": "https://mitpress.mit.edu/books/little-prover", 
-    "title": "The Little Prover | The MIT Press"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "d23d3f570911d72a5401d203a834d035", 
-    "uri": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/index.htm", 
-    "title": "Geometric Folding Algorithms: Linkages, Origami, Polyhedra | Electrical Engineering and Computer Science | MIT OpenCourseWare"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "6929d8343b168923911db9c5f5fef3c5", 
-    "uri": "http://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/unit-iii-fourier-series-and-laplace-transform/fourier-series-basics/", 
-    "title": "Fourier Series: Basics | Unit III: Fourier Series and Laplace Transform | Differential Equations | Mathematics | MIT OpenCourseWare"
-}
+    "hash": "e5adaf094376a9a1ae9acda266537ee5", 
+    "uri": "https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/", 
+    "title": "Quantum Computation | Mathematics | MIT OpenCourseWare"
+}]

@@ -1,9 +1,1 @@
-{
-    "hash": "fcb4923f8bec7585a059a9df60956c4b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://descjop.org/", 
-    "private": false, 
-    "time": "2016-06-09T10:59:29Z", 
-    "title": "descjop | A Leiningen template for Web based desktop application."
-}
+{"hash":"FCB4923F8BEC7585A059A9DF60956C4B","rights":"CC BY","creator":"batch","uri":"http://descjop.org/","time":"2016-11-23","title":"descjop | A Leiningen template for Web based desktop application."}

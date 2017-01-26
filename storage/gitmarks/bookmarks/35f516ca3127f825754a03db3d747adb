@@ -1,9 +1,1 @@
-{
-    "hash": "35f516ca3127f825754a03db3d747adb", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://mongodb.github.io/mongo-csharp-driver/", 
-    "private": false, 
-    "time": "2016-04-08T22:41:05Z", 
-    "title": "MongoDB .NET Driver"
-}
+{"hash":"35F516CA3127F825754A03DB3D747ADB","rights":"CC BY","creator":"batch","uri":"http://mongodb.github.io/mongo-csharp-driver/","time":"2016-11-23","title":"MongoDB .NET Driver"}

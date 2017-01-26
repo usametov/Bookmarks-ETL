@@ -1,9 +1,1 @@
-{
-    "hash": "45c638ea90218877736c1c94aa72027b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/clojure/tools.cli", 
-    "private": false, 
-    "time": "2016-06-26T21:16:54Z", 
-    "title": "GitHub - clojure/tools.cli: Command-line processing"
-}
+{"hash":"45C638EA90218877736C1C94AA72027B","rights":"CC BY","creator":"batch","uri":"https://github.com/clojure/tools.cli","time":"2016-11-23","title":"GitHub - clojure/tools.cli: Command-line processing"}

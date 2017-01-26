@@ -1,9 +1,1 @@
-{
-    "hash": "53e2076eb4f6fb7b5da76dc4dfd87ce4", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://feeds.feedburner.com/RussianClojurePlanet", 
-    "private": false, 
-    "time": "2016-06-16T09:36:54Z", 
-    "title": "Russian Clojure Planet"
-}
+{"hash":"53E2076EB4F6FB7B5DA76DC4DFD87CE4","rights":"CC BY","creator":"batch","uri":"http://feeds.feedburner.com/RussianClojurePlanet","time":"2016-11-23","title":"Russian Clojure Planet"}

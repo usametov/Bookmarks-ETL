@@ -1,9 +1,1 @@
-{
-    "hash": "d2d8c404ef353162ef6b464948847f02", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/ibdknox/jayq", 
-    "private": false, 
-    "time": "2016-05-03T14:15:07Z", 
-    "title": "GitHub - ibdknox/jayq: A ClojureScript wrapper for jQuery"
-}
+{"hash":"D2D8C404EF353162EF6B464948847F02","rights":"CC BY","creator":"batch","uri":"https://github.com/ibdknox/jayq","time":"2016-11-23","title":"GitHub - ibdknox/jayq: A ClojureScript wrapper for jQuery"}

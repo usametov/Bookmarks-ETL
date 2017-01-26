@@ -1,9 +1,1 @@
-{
-    "hash": "2796fd9acdae6c39f619cf5fefb9e02f", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/michenriksen/gitrob", 
-    "private": false, 
-    "time": "2016-09-14T12:06:12Z", 
-    "title": "GitHub - michenriksen/gitrob: Reconnaissance tool for GitHub organizations"
-}
+{"hash":"2796FD9ACDAE6C39F619CF5FEFB9E02F","rights":"CC BY","creator":"batch","uri":"https://github.com/michenriksen/gitrob","time":"2016-11-23","title":"GitHub - michenriksen/gitrob: Reconnaissance tool for GitHub organizations"}

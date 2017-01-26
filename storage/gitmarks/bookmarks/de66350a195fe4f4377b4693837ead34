@@ -1,9 +1,1 @@
-{
-    "hash": "de66350a195fe4f4377b4693837ead34", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://hoplon.io/", 
-    "private": false, 
-    "time": "2016-09-20T21:27:55Z", 
-    "title": "Hoplon, a ClojureScript Web Framework"
-}
+{"hash":"DE66350A195FE4F4377B4693837EAD34","rights":"CC BY","creator":"batch","uri":"http://hoplon.io/","time":"2016-11-23","title":"Hoplon, a ClojureScript Web Framework"}

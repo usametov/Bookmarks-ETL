@@ -1,9 +1,1 @@
-{
-    "hash": "6741343e1a6d69708e7c05fb9730eb97", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://clojure.org/reference/transients", 
-    "private": false, 
-    "time": "2016-06-19T13:03:53Z", 
-    "title": "Clojure - Transient Data Structures"
-}
+{"hash":"6741343E1A6D69708E7C05FB9730EB97","rights":"CC BY","creator":"batch","uri":"http://clojure.org/reference/transients","time":"2016-11-23","title":"Clojure - Transient Data Structures"}

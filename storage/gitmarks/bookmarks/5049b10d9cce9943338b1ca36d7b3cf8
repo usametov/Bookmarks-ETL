@@ -1,9 +1,1 @@
-{
-    "hash": "5049b10d9cce9943338b1ca36d7b3cf8", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/clojure/test.check", 
-    "private": false, 
-    "time": "2016-06-29T19:58:52Z", 
-    "title": "GitHub - clojure/test.check: QuickCheck for Clojure"
-}
+{"hash":"5049B10D9CCE9943338B1CA36D7B3CF8","rights":"CC BY","creator":"batch","uri":"https://github.com/clojure/test.check","time":"2016-11-23","title":"GitHub - clojure/test.check: QuickCheck for Clojure"}

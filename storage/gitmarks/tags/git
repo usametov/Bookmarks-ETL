@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "89ce80da8e45037ea2b56da7256cb142", 
-    "uri": "https://github.com/sheimi/SGit", 
-    "title": "GitHub - sheimi/SGit: A Git client for Android."
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "24b8ce845313f6bf92ba0e2f633332bb", 
-    "uri": "http://gitup.co/", 
-    "title": "GitUp"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"8343A70DE0C00D3354CB3D4283669267","uri":"http://git-scm.com/book/en/v2","title":"Git - Book"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"468BF593AE69D56C590425B08B69DC2D","uri":"http://blogs.msdn.com/b/visualstudioalm/archive/2014/06/10/git-pull-request-visual-studio-online.aspx","title":"Conduct a Git pull request on Visual Studio Online - Microsoft Application Lifecycle Management - Site Home - MSDN Blogs"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"1AE2A73E8966FA8175250A461FD15BE6","uri":"https://github.com/heineman/python-algorithms","title":"heineman/python-algorithms Â· GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D72D14654CAAC6DDBB26845F96160825","uri":"https://github.com/hmason/gitmarks","title":"hmason/gitmarks - GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"808816995626DA1CC45AE4B53AE71FA5","uri":"https://android.googlesource.com/","title":"android Git repositories - Git at Google"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"1CD793745DEDBEECF1E3ADF1A6B9D762","uri":"https://appharbor.com/","title":"AppHarbor - AppHarbor"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C9E52E92D312733B80527450CA7EEFE1","uri":"http://git-scm.com/download/win","title":"Git - Downloading Package"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"264E877B435E4006A856135FAD99304C","uri":"http://gitorious.org/","title":"None"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"F9D2D6A748BB3FE55A99BF4599CDD352","uri":"http://resume.github.com/","title":"None"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"89CE80DA8E45037EA2B56DA7256CB142","uri":"https://github.com/sheimi/SGit","title":"GitHub - sheimi/SGit: A Git client for Android."},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"24B8CE845313F6BF92BA0E2F633332BB","uri":"http://gitup.co/","title":"GitUp"}]

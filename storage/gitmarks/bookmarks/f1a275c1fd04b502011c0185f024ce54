@@ -1,9 +1,1 @@
-{
-    "hash": "f1a275c1fd04b502011c0185f024ce54", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/tensorflow/models/tree/master/textsum", 
-    "private": false, 
-    "time": "2016-09-06T14:35:05Z", 
-    "title": "models/textsum at master \u00b7 tensorflow/models \u00b7 GitHub"
-}
+{"hash":"F1A275C1FD04B502011C0185F024CE54","rights":"CC BY","creator":"batch","uri":"https://github.com/tensorflow/models/tree/master/textsum","time":"2016-11-23","title":"models/textsum at master · tensorflow/models · GitHub"}

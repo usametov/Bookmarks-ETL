@@ -1,9 +1,1 @@
-{
-    "hash": "1516238ca9efa45f73cfad88cb1a2af3", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/Microsoft/Mobius", 
-    "private": false, 
-    "time": "2016-05-02T22:28:40Z", 
-    "title": "GitHub - Microsoft/Mobius: C# language binding and extensions to Apache Spark"
-}
+{"hash":"1516238CA9EFA45F73CFAD88CB1A2AF3","rights":"CC BY","creator":"batch","uri":"https://github.com/Microsoft/Mobius","time":"2016-11-23","title":"GitHub - Microsoft/Mobius: C# language binding and extensions to Apache Spark"}

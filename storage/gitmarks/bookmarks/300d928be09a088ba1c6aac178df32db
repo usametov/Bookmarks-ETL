@@ -1,9 +1,1 @@
-{
-    "hash": "300d928be09a088ba1c6aac178df32db", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://docs.mongodb.com/manual/reference/sql-aggregation-comparison/", 
-    "private": false, 
-    "time": "2016-06-22T11:03:42Z", 
-    "title": "SQL to Aggregation Mapping Chart &mdash; MongoDB Manual 3.2"
-}
+{"hash":"300D928BE09A088BA1C6AAC178DF32DB","rights":"CC BY","creator":"batch","uri":"https://docs.mongodb.com/manual/reference/sql-aggregation-comparison/","time":"2016-11-23","title":"SQL to Aggregation Mapping Chart &mdash; MongoDB Manual 3.2"}

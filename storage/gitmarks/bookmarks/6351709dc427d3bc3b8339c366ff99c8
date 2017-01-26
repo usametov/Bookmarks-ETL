@@ -1,9 +1,1 @@
-{
-    "hash": "6351709dc427d3bc3b8339c366ff99c8", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/martinklepsch/electron-and-clojurescript", 
-    "private": false, 
-    "time": "2016-05-14T14:17:55Z", 
-    "title": "GitHub - martinklepsch/electron-and-clojurescript: Make an electron app with nothing but ClojureScript!"
-}
+{"hash":"6351709DC427D3BC3B8339C366FF99C8","rights":"CC BY","creator":"batch","uri":"https://github.com/martinklepsch/electron-and-clojurescript","time":"2016-11-23","title":"GitHub - martinklepsch/electron-and-clojurescript: Make an electron app with nothing but ClojureScript!"}

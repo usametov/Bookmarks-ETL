@@ -1,9 +1,1 @@
-{
-    "hash": "81cf8989a4b2ae9530f6f35d16779f4f", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/LonoCloud/synthread", 
-    "private": false, 
-    "time": "2016-10-01T11:02:19Z", 
-    "title": "GitHub - LonoCloud/synthread: Syntax threading macros for Clojure"
-}
+{"hash":"81CF8989A4B2AE9530F6F35D16779F4F","rights":"CC BY","creator":"batch","uri":"https://github.com/LonoCloud/synthread","time":"2016-11-23","title":"GitHub - LonoCloud/synthread: Syntax threading macros for Clojure"}

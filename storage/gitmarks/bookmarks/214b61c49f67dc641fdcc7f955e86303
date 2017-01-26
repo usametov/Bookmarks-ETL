@@ -1,9 +1,1 @@
-{
-    "hash": "214b61c49f67dc641fdcc7f955e86303", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html", 
-    "private": false, 
-    "time": "2016-06-29T10:48:57Z", 
-    "title": "Clojure :: Clojure core.async Channels"
-}
+{"hash":"214B61C49F67DC641FDCC7F955E86303","rights":"CC BY","creator":"batch","uri":"http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html","time":"2016-11-23","title":"Clojure :: Clojure core.async Channels"}

@@ -1,9 +1,1 @@
-{
-    "hash": "84ad91f00c4bdb34f4e61841f47393da", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/r0man/cascalog-nutch", 
-    "private": false, 
-    "time": "2016-09-10T10:17:32Z", 
-    "title": "GitHub - r0man/cascalog-nutch: Cascading Schemes and Cascalog helpers for Nutch sequence files."
-}
+{"hash":"84AD91F00C4BDB34F4E61841F47393DA","rights":"CC BY","creator":"batch","uri":"https://github.com/r0man/cascalog-nutch","time":"2016-11-23","title":"GitHub - r0man/cascalog-nutch: Cascading Schemes and Cascalog helpers for Nutch sequence files."}

@@ -1,9 +1,1 @@
-{
-    "hash": "515ff193b98c9eee6d6fbe7a357e1ab4", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/kappy/FlatMapper", 
-    "private": false, 
-    "time": "2016-10-21T12:15:38Z", 
-    "title": "GitHub - kappy/FlatMapper: FlatMapper is a library to import and export data from and to plain text files."
-}
+{"hash":"515FF193B98C9EEE6D6FBE7A357E1AB4","rights":"CC BY","creator":"batch","uri":"https://github.com/kappy/FlatMapper","time":"2016-11-23","title":"GitHub - kappy/FlatMapper: FlatMapper is a library to import and export data from and to plain text files."}

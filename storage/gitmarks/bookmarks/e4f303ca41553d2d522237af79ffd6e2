@@ -1,9 +1,1 @@
-{
-    "hash": "e4f303ca41553d2d522237af79ffd6e2", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/weavejester/clout", 
-    "private": false, 
-    "time": "2016-06-29T14:00:01Z", 
-    "title": "GitHub - weavejester/clout: HTTP route-matching library for Clojure"
-}
+{"hash":"E4F303CA41553D2D522237AF79FFD6E2","rights":"CC BY","creator":"batch","uri":"https://github.com/weavejester/clout","time":"2016-11-23","title":"GitHub - weavejester/clout: HTTP route-matching library for Clojure"}

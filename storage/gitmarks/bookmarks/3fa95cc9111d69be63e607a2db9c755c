@@ -1,9 +1,1 @@
-{
-    "hash": "3fa95cc9111d69be63e607a2db9c755c", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://koajs.com/", 
-    "private": false, 
-    "time": "2016-04-24T19:08:09Z", 
-    "title": "Koa - next generation web framework for node.js"
-}
+{"hash":"3FA95CC9111D69BE63E607A2DB9C755C","rights":"CC BY","creator":"batch","uri":"http://koajs.com/","time":"2016-11-23","title":"Koa - next generation web framework for node.js"}

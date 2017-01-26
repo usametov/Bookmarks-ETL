@@ -1,9 +1,1 @@
-{
-    "hash": "e54c7696157a18c9afff4bc89da7ee88", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/ptaoussanis/nippy", 
-    "private": false, 
-    "time": "2016-06-29T11:40:10Z", 
-    "title": "GitHub - ptaoussanis/nippy: High-performance serialization library for Clojure"
-}
+{"hash":"E54C7696157A18C9AFFF4BC89DA7EE88","rights":"CC BY","creator":"batch","uri":"https://github.com/ptaoussanis/nippy","time":"2016-11-23","title":"GitHub - ptaoussanis/nippy: High-performance serialization library for Clojure"}

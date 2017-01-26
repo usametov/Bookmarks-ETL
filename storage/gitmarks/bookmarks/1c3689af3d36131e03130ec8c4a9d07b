@@ -1,9 +1,1 @@
-{
-    "hash": "1c3689af3d36131e03130ec8c4a9d07b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://clojure-android.info/", 
-    "private": false, 
-    "time": "2016-04-30T22:51:47Z", 
-    "title": "Clojure on Android"
-}
+{"hash":"1C3689AF3D36131E03130EC8C4A9D07B","rights":"CC BY","creator":"batch","uri":"http://clojure-android.info/","time":"2016-11-23","title":"Clojure on Android"}

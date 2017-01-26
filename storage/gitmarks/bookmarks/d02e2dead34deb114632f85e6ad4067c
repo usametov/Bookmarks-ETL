@@ -1,9 +1,1 @@
-{
-    "hash": "d02e2dead34deb114632f85e6ad4067c", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://node-ardx.org/", 
-    "private": false, 
-    "time": "2016-04-22T10:23:49Z", 
-    "title": "Arduino Experimenter&#39;s Guide for NodeJS"
-}
+{"hash":"D02E2DEAD34DEB114632F85E6AD4067C","rights":"CC BY","creator":"batch","uri":"http://node-ardx.org/","time":"2016-11-23","title":"Arduino Experimenter&#39;s Guide for NodeJS"}

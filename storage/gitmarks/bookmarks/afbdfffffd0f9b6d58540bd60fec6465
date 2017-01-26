@@ -1,9 +1,1 @@
-{
-    "hash": "afbdfffffd0f9b6d58540bd60fec6465", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/semperos/clj-webdriver", 
-    "private": false, 
-    "time": "2016-06-29T20:01:58Z", 
-    "title": "GitHub - semperos/clj-webdriver: Clojure API for Selenium-WebDriver"
-}
+{"hash":"AFBDFFFFFD0F9B6D58540BD60FEC6465","rights":"CC BY","creator":"batch","uri":"https://github.com/semperos/clj-webdriver","time":"2016-11-23","title":"GitHub - semperos/clj-webdriver: Clojure API for Selenium-WebDriver"}

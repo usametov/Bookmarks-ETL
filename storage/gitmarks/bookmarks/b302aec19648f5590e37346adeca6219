@@ -1,9 +1,1 @@
-{
-    "hash": "b302aec19648f5590e37346adeca6219", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/pkrumins/the-little-schemer", 
-    "private": false, 
-    "time": "2016-08-21T14:03:57Z", 
-    "title": "GitHub - pkrumins/the-little-schemer: All the Scheme code examples from the book &quot;The Little Schemer&quot;"
-}
+{"hash":"B302AEC19648F5590E37346ADECA6219","rights":"CC BY","creator":"batch","uri":"https://github.com/pkrumins/the-little-schemer","time":"2016-11-23","title":"GitHub - pkrumins/the-little-schemer: All the Scheme code examples from the book &quot;The Little Schemer&quot;"}

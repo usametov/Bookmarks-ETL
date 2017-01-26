@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "18bb22c8d9b0fd239045279ae9656d61", 
-    "uri": "http://deeplearning4j.org/word2vec", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "d52824f845689f645943aa3840e4c039", 
-    "uri": "https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html", 
-    "title": "Vector Representations of Words"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"18BB22C8D9B0FD239045279AE9656D61","uri":"http://deeplearning4j.org/word2vec","title":"[No Title]"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"D52824F845689F645943AA3840E4C039","uri":"https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html","title":"Vector Representations of Words"}]

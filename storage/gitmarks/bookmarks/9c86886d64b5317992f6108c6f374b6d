@@ -1,9 +1,1 @@
-{
-    "hash": "9c86886d64b5317992f6108c6f374b6d", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://reactivex.io/learnrx/", 
-    "private": false, 
-    "time": "2016-03-26T23:39:56Z", 
-    "title": "Functional Programming in Javascript"
-}
+{"hash":"9C86886D64B5317992F6108C6F374B6D","rights":"CC BY","creator":"batch","uri":"http://reactivex.io/learnrx/","time":"2016-11-23","title":"Functional Programming in Javascript"}

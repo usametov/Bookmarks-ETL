@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "b92a1b34c49a2a89c1b04f53ef0dc90b", 
-    "uri": "https://en.wikipedia.org/wiki/Substructural_type_system", 
-    "title": "Substructural type system - Wikipedia, the free encyclopedia"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "ca7dc56718dc2980c73353e31b11e806", 
-    "uri": "https://en.wikipedia.org/wiki/Exception_handling", 
-    "title": "Exception handling - Wikipedia, the free encyclopedia"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"B92A1B34C49A2A89C1B04F53EF0DC90B","uri":"https://en.wikipedia.org/wiki/Substructural_type_system","title":"Substructural type system - Wikipedia, the free encyclopedia"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CA7DC56718DC2980C73353E31B11E806","uri":"https://en.wikipedia.org/wiki/Exception_handling","title":"Exception handling - Wikipedia, the free encyclopedia"}]

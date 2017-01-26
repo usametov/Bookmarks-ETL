@@ -1,9 +1,1 @@
-{
-    "hash": "d1f2532f3c9ddcd20966707a9e029255", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://blog.screen6.io/post/57428073723/introduction-to-testing-cascalog-with-midje", 
-    "private": false, 
-    "time": "2016-09-08T09:33:25Z", 
-    "title": "Screen6 \u2014 Introduction to testing Cascalog with Midje."
-}
+{"hash":"D1F2532F3C9DDCD20966707A9E029255","rights":"CC BY","creator":"batch","uri":"http://blog.screen6.io/post/57428073723/introduction-to-testing-cascalog-with-midje","time":"2016-11-23","title":"Screen6 — Introduction to testing Cascalog with Midje."}

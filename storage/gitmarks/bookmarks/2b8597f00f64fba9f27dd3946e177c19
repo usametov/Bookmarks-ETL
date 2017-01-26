@@ -1,9 +1,1 @@
-{
-    "hash": "2b8597f00f64fba9f27dd3946e177c19", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/yogthos/clojure-error-message-catalog", 
-    "private": false, 
-    "time": "2016-09-20T21:40:49Z", 
-    "title": "GitHub - yogthos/clojure-error-message-catalog: a catalog of common Clojure errors and their meaning"
-}
+{"hash":"2B8597F00F64FBA9F27DD3946E177C19","rights":"CC BY","creator":"batch","uri":"https://github.com/yogthos/clojure-error-message-catalog","time":"2016-11-23","title":"GitHub - yogthos/clojure-error-message-catalog: a catalog of common Clojure errors and their meaning"}

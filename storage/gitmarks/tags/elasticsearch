@@ -1,7 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "ef20643ebd4f977ae41c9bca77695775", 
-    "uri": "http://clojureelasticsearch.info/", 
-    "title": "Elastisch, a minimalistic Clojure client for ElasticSearch | ElasticSearch Clojure client"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"46365D3813ECFCAFFBAEC68218C69181","uri":"https://hub.openshift.com/","title":"Web Hosting | OpenShift Hub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"F19C24CA1AD4F2675D9EF17D56B5E224","uri":"https://www.mapr.com/products/mapr-sandbox-hadoop/tutorials","title":"Hadoop Tutorials | MapR"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"814AE4C2633DF23DA5B85F5439295B1C","uri":"http://www.found.no/foundation/elasticsearch-in-production/","title":"Elasticsearch in production"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"EF20643EBD4F977AE41C9BCA77695775","uri":"http://clojureelasticsearch.info/","title":"Elastisch, a minimalistic Clojure client for ElasticSearch | ElasticSearch Clojure client"}]

@@ -1,9 +1,1 @@
-{
-    "hash": "39d0c97abec3d80b97790f803774f629", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://f-droid.org/manual/fdroid.html", 
-    "private": false, 
-    "time": "2016-07-23T17:39:18Z", 
-    "title": "F-Droid Server Manual"
-}
+{"hash":"39D0C97ABEC3D80B97790F803774F629","rights":"CC BY","creator":"batch","uri":"https://f-droid.org/manual/fdroid.html","time":"2016-11-23","title":"F-Droid Server Manual"}

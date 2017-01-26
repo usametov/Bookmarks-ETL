@@ -1,9 +1,1 @@
-{
-    "hash": "2fa1f29d94374997616eaff2e74435f5", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://dev.clojure.org/display/doc/Getting+Started", 
-    "private": false, 
-    "time": "2016-03-27T21:17:39Z", 
-    "title": "Getting Started - Clojure Documentation - Clojure Development"
-}
+{"hash":"2FA1F29D94374997616EAFF2E74435F5","rights":"CC BY","creator":"batch","uri":"http://dev.clojure.org/display/doc/Getting+Started","time":"2016-11-23","title":"Getting Started - Clojure Documentation - Clojure Development"}

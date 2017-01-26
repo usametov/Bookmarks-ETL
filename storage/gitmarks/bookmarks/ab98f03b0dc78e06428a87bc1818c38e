@@ -1,9 +1,1 @@
-{
-    "hash": "ab98f03b0dc78e06428a87bc1818c38e", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/dotliquid/dotliquid", 
-    "private": false, 
-    "time": "2016-03-19T22:38:40Z", 
-    "title": "GitHub - dotliquid/dotliquid: .NET Port of Tobias L\u00fctke&#39;s Liquid template language."
-}
+{"hash":"AB98F03B0DC78E06428A87BC1818C38E","rights":"CC BY","creator":"batch","uri":"https://github.com/dotliquid/dotliquid","time":"2016-11-23","title":"GitHub - dotliquid/dotliquid: .NET Port of Tobias Lütke&#39;s Liquid template language."}

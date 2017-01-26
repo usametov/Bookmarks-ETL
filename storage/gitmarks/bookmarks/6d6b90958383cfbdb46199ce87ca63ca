@@ -1,9 +1,1 @@
-{
-    "hash": "6d6b90958383cfbdb46199ce87ca63ca", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/pelle/clothereum", 
-    "private": false, 
-    "time": "2016-06-08T21:55:50Z", 
-    "title": "GitHub - pelle/clothereum: Native clojure library for Ethereum"
-}
+{"hash":"6D6B90958383CFBDB46199CE87CA63CA","rights":"CC BY","creator":"batch","uri":"https://github.com/pelle/clothereum","time":"2016-11-23","title":"GitHub - pelle/clothereum: Native clojure library for Ethereum"}

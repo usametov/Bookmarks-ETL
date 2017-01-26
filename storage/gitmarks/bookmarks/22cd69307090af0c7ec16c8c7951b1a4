@@ -1,9 +1,1 @@
-{
-    "hash": "22cd69307090af0c7ec16c8c7951b1a4", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://www.youtube.com/watch?v=mi3OtBc73-k", 
-    "private": false, 
-    "time": "2016-06-27T22:17:31Z", 
-    "title": "Understanding pattern matching in Clojure with core.match - YouTube"
-}
+{"hash":"22CD69307090AF0C7EC16C8C7951B1A4","rights":"CC BY","creator":"batch","uri":"https://www.youtube.com/watch?v=mi3OtBc73-k","time":"2016-11-23","title":"Understanding pattern matching in Clojure with core.match - YouTube"}

@@ -1,9 +1,1 @@
-{
-    "hash": "9cde8e4da5aba3bbffc618f5b1c32dd3", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://blog.japila.pl/2012/03/clojures-java-interop-in-java/", 
-    "private": false, 
-    "time": "2016-07-20T19:28:05Z", 
-    "title": "Clojure&#8217;s Java interop in Java | Japila :: verba docent, exempla trahunt"
-}
+{"hash":"9CDE8E4DA5ABA3BBFFC618F5B1C32DD3","rights":"CC BY","creator":"batch","uri":"http://blog.japila.pl/2012/03/clojures-java-interop-in-java/","time":"2016-11-23","title":"Clojure&#8217;s Java interop in Java | Japila :: verba docent, exempla trahunt"}

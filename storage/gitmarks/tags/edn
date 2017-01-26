@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "fd8f262e6cb7cd5f2dcfda5aadcb5a32", 
-    "uri": "https://github.com/miner/tagged", 
-    "title": "GitHub - miner/tagged: Clojure library for encoding Records as EDN tagged literals"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "aa6d87999440a2fd8fd7aa39b0fc9711", 
-    "uri": "https://github.com/edn-format/edn/wiki/Implementations", 
-    "title": "Implementations \u00b7 edn-format/edn Wiki \u00b7 GitHub"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"AA6D87999440A2FD8FD7AA39B0FC9711","uri":"https://github.com/edn-format/edn/wiki/Implementations","title":"Implementations · edn-format/edn Wiki · GitHub"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"FD8F262E6CB7CD5F2DCFDA5AADCB5A32","uri":"https://github.com/miner/tagged","title":"GitHub - miner/tagged: Clojure library for encoding Records as EDN tagged literals"}]

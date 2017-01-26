@@ -1,9 +1,1 @@
-{
-    "hash": "ba388be19e102b96821c9c364b5aa6c8", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://dnsleaktest.com", 
-    "private": false, 
-    "time": "2016-07-14T16:35:42Z", 
-    "title": "DNS leak test"
-}
+{"hash":"BA388BE19E102B96821C9C364B5AA6C8","rights":"CC BY","creator":"batch","uri":"https://dnsleaktest.com","time":"2016-11-23","title":"DNS leak test"}

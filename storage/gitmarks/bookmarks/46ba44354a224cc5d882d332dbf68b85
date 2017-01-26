@@ -1,9 +1,1 @@
-{
-    "hash": "46ba44354a224cc5d882d332dbf68b85", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://data-sorcery.org/book-recommendations/", 
-    "private": false, 
-    "time": "2016-08-13T16:05:21Z", 
-    "title": "Book Recommendations | Data Sorcery with Clojure"
-}
+{"hash":"46BA44354A224CC5D882D332DBF68B85","rights":"CC BY","creator":"batch","uri":"https://data-sorcery.org/book-recommendations/","time":"2016-11-23","title":"Book Recommendations | Data Sorcery with Clojure"}

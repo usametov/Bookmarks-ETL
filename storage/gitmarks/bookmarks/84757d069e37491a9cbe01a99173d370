@@ -1,9 +1,1 @@
-{
-    "hash": "84757d069e37491a9cbe01a99173d370", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/facebook/graphql", 
-    "private": false, 
-    "time": "2016-09-11T21:18:52Z", 
-    "title": "GitHub - facebook/graphql: GraphQL is a query language and execution engine tied to any backend service."
-}
+{"hash":"84757D069E37491A9CBE01A99173D370","rights":"CC BY","creator":"batch","uri":"https://github.com/facebook/graphql","time":"2016-11-23","title":"GitHub - facebook/graphql: GraphQL is a query language and execution engine tied to any backend service."}

@@ -1,9 +1,1 @@
-{
-    "hash": "d15c0e1742687aa10d339bf02f0baf32", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://docs.datomic.com/query.html", 
-    "private": false, 
-    "time": "2016-09-08T07:55:06Z", 
-    "title": "Datomic Queries and Rules | Datomic"
-}
+{"hash":"D15C0E1742687AA10D339BF02F0BAF32","rights":"CC BY","creator":"batch","uri":"http://docs.datomic.com/query.html","time":"2016-11-23","title":"Datomic Queries and Rules | Datomic"}

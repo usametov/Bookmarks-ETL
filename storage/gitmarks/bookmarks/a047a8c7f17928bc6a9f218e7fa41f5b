@@ -1,9 +1,1 @@
-{
-    "hash": "a047a8c7f17928bc6a9f218e7fa41f5b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://clojure.org/reference/transducers", 
-    "private": false, 
-    "time": "2016-07-30T00:36:03Z", 
-    "title": "Clojure - Transducers"
-}
+{"hash":"A047A8C7F17928BC6A9F218E7FA41F5B","rights":"CC BY","creator":"batch","uri":"http://clojure.org/reference/transducers","time":"2016-11-23","title":"Clojure - Transducers"}

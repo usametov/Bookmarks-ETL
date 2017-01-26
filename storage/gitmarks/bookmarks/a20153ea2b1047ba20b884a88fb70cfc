@@ -1,9 +1,1 @@
-{
-    "hash": "a20153ea2b1047ba20b884a88fb70cfc", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://www.infoq.com/presentations/Cascalog-Hadoop", 
-    "private": false, 
-    "time": "2016-09-08T09:51:19Z", 
-    "title": "Cascalog: Logic Programming over Hadoop"
-}
+{"hash":"A20153EA2B1047BA20B884A88FB70CFC","rights":"CC BY","creator":"batch","uri":"https://www.infoq.com/presentations/Cascalog-Hadoop","time":"2016-11-23","title":"Cascalog: Logic Programming over Hadoop"}

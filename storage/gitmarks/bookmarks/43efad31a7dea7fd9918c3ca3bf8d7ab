@@ -1,9 +1,1 @@
-{
-    "hash": "43efad31a7dea7fd9918c3ca3bf8d7ab", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.braveclojure.com/java/", 
-    "private": false, 
-    "time": "2016-05-06T19:51:00Z", 
-    "title": "Working with the JVM | Clojure for the Brave and True"
-}
+{"hash":"43EFAD31A7DEA7FD9918C3CA3BF8D7AB","rights":"CC BY","creator":"batch","uri":"http://www.braveclojure.com/java/","time":"2016-11-23","title":"Working with the JVM | Clojure for the Brave and True"}

@@ -1,9 +1,1 @@
-{
-    "hash": "b58344056747ebcd3a6c38244412d745", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://habrahabr.ru/post/173071/", 
-    "private": false, 
-    "time": "2016-05-17T12:54:12Z", 
-    "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0441\u0442\u043e\u0438\u0442 \u0438\u0437\u0443\u0447\u0438\u0442\u044c Clojure? / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
-}
+{"hash":"B58344056747EBCD3A6C38244412D745","rights":"CC BY","creator":"batch","uri":"https://habrahabr.ru/post/173071/","time":"2016-11-23","title":"Почему стоит изучить Clojure? / Хабрахабр"}

@@ -1,9 +1,1 @@
-{
-    "hash": "0c0be63e485e8516c0a5f699a9faa66a", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://blog.higher-order.net/2009/02/01/understanding-clojures-persistentvector-implementation.html", 
-    "private": false, 
-    "time": "2016-06-18T21:02:24Z", 
-    "title": "Understanding Clojure's PersistentVector implementation"
-}
+{"hash":"0C0BE63E485E8516C0A5F699A9FAA66A","rights":"CC BY","creator":"batch","uri":"http://blog.higher-order.net/2009/02/01/understanding-clojures-persistentvector-implementation.html","time":"2016-11-23","title":"Understanding Clojure's PersistentVector implementation"}

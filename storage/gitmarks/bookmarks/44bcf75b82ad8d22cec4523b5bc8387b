@@ -1,9 +1,1 @@
-{
-    "hash": "44bcf75b82ad8d22cec4523b5bc8387b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://my.datomic.com/downloads/free", 
-    "private": false, 
-    "time": "2016-05-11T18:18:00Z", 
-    "title": "Datomic"
-}
+{"hash":"44BCF75B82AD8D22CEC4523B5BC8387B","rights":"CC BY","creator":"batch","uri":"https://my.datomic.com/downloads/free","time":"2016-11-23","title":"Datomic"}

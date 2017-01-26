@@ -1,9 +1,1 @@
-{
-    "hash": "9d660e3f6cd25641055f2985cdb5d6d2", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://planet.clojure.in/", 
-    "private": false, 
-    "time": "2016-05-17T13:01:49Z", 
-    "title": "Planet Clojure"
-}
+{"hash":"9D660E3F6CD25641055F2985CDB5D6D2","rights":"CC BY","creator":"batch","uri":"http://planet.clojure.in/","time":"2016-11-23","title":"Planet Clojure"}

@@ -1,9 +1,1 @@
-{
-    "hash": "3e5e5da57f07ff2f541041839360b90c", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://www.youtube.com/watch?v=tBnu2JmK4p0", 
-    "private": false, 
-    "time": "2016-05-14T14:09:16Z", 
-    "title": "Desktop Apps with ClojureScript - Martin Klepsch - YouTube"
-}
+{"hash":"3E5E5DA57F07FF2F541041839360B90C","rights":"CC BY","creator":"batch","uri":"https://www.youtube.com/watch?v=tBnu2JmK4p0","time":"2016-11-23","title":"Desktop Apps with ClojureScript - Martin Klepsch - YouTube"}

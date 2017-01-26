@@ -1,9 +1,1 @@
-{
-    "hash": "712d6049cdb7c24bba131c9eb7fb02c3", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/rkneufeld/lein-try", 
-    "private": false, 
-    "time": "2016-06-24T15:35:35Z", 
-    "title": "GitHub - rkneufeld/lein-try: A Leiningen plugin for trying out new libraries"
-}
+{"hash":"712D6049CDB7C24BBA131C9EB7FB02C3","rights":"CC BY","creator":"batch","uri":"https://github.com/rkneufeld/lein-try","time":"2016-11-23","title":"GitHub - rkneufeld/lein-try: A Leiningen plugin for trying out new libraries"}

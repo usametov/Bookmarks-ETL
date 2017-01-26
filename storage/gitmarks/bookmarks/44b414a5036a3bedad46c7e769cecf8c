@@ -1,9 +1,1 @@
-{
-    "hash": "44b414a5036a3bedad46c7e769cecf8c", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/suvash/one-time", 
-    "private": false, 
-    "time": "2016-08-26T20:28:15Z", 
-    "title": "GitHub - suvash/one-time: One Time Password (TOTP and HOTP) library for Clojure. TOTP/HOTP is widely used for Two / Multi Factor Authentication."
-}
+{"hash":"44B414A5036A3BEDAD46C7E769CECF8C","rights":"CC BY","creator":"batch","uri":"https://github.com/suvash/one-time","time":"2016-11-23","title":"GitHub - suvash/one-time: One Time Password (TOTP and HOTP) library for Clojure. TOTP/HOTP is widely used for Two / Multi Factor Authentication."}

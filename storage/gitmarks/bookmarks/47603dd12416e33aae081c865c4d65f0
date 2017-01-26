@@ -1,9 +1,1 @@
-{
-    "hash": "47603dd12416e33aae081c865c4d65f0", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://martinfowler.com/articles/injection.html", 
-    "private": false, 
-    "time": "2016-09-26T10:29:44Z", 
-    "title": "[No Title]"
-}
+{"hash":"47603DD12416E33AAE081C865C4D65F0","rights":"CC BY","creator":"batch","uri":"http://martinfowler.com/articles/injection.html","time":"2016-11-23","title":"Inversion of Control Containers and the Dependency Injection pattern ... [No Title]"}

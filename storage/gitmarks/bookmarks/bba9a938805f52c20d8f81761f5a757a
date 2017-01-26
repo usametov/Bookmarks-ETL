@@ -1,9 +1,1 @@
-{
-    "hash": "bba9a938805f52c20d8f81761f5a757a", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://docs.oracle.com/javase/7/docs/api/java/util/zip/GZIPInputStream.html", 
-    "private": false, 
-    "time": "2016-06-28T23:08:27Z", 
-    "title": "GZIPInputStream (Java Platform SE 7 )"
-}
+{"hash":"BBA9A938805F52C20D8F81761F5A757A","rights":"CC BY","creator":"batch","uri":"http://docs.oracle.com/javase/7/docs/api/java/util/zip/GZIPInputStream.html","time":"2016-11-23","title":"GZIPInputStream (Java Platform SE 7 )"}

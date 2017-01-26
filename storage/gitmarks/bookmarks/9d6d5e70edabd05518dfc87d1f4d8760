@@ -1,9 +1,1 @@
-{
-    "hash": "9d6d5e70edabd05518dfc87d1f4d8760", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://numergent.com/2016-10/Deploying-a-Clojure-application-from-Gitlab-CI-to-Heroku.html", 
-    "private": false, 
-    "time": "2016-10-18T20:09:12Z", 
-    "title": "Deploying a Clojure application from Gitlab CI to Heroku | Numergent"
-}
+{"hash":"9D6D5E70EDABD05518DFC87D1F4D8760","rights":"CC BY","creator":"batch","uri":"http://numergent.com/2016-10/Deploying-a-Clojure-application-from-Gitlab-CI-to-Heroku.html","time":"2016-11-23","title":"Deploying a Clojure application from Gitlab CI to Heroku | Numergent"}

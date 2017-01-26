@@ -1,9 +1,1 @@
-{
-    "hash": "8dac10302620c743c1bf408f4f6c4511", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://docs.asp.net/en/latest/security/app-secrets.html", 
-    "private": false, 
-    "time": "2016-04-17T21:52:53Z", 
-    "title": "Safe Storage of Application Secrets &mdash; ASP.NET  documentation"
-}
+{"hash":"8DAC10302620C743C1BF408F4F6C4511","rights":"CC BY","creator":"batch","uri":"https://docs.asp.net/en/latest/security/app-secrets.html","time":"2016-11-23","title":"Safe Storage of Application Secrets &mdash; ASP.NET  documentation"}

@@ -1,9 +1,1 @@
-{
-    "hash": "8deea2f22f371b1ebf85647fa4d37d82", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://gregorowicz.blogspot.com/2010/12/using-underscorejs-with-mongodb.html", 
-    "private": false, 
-    "time": "2016-04-12T10:14:54Z", 
-    "title": "Andy's Blog: Using Underscore.js with MongoDB"
-}
+{"hash":"8DEEA2F22F371B1EBF85647FA4D37D82","rights":"CC BY","creator":"batch","uri":"http://gregorowicz.blogspot.com/2010/12/using-underscorejs-with-mongodb.html","time":"2016-11-23","title":"Andy's Blog: Using Underscore.js with MongoDB"}

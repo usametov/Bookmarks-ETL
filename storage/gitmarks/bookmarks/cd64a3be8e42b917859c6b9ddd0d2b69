@@ -1,9 +1,1 @@
-{
-    "hash": "cd64a3be8e42b917859c6b9ddd0d2b69", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://habrahabr.ru/post/222737/", 
-    "private": false, 
-    "time": "2016-05-06T20:22:05Z", 
-    "title": "\u041a\u0430\u043a \u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043b web-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0442\u043e\u043b\u044c\u043a\u043e clojure / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
-}
+{"hash":"CD64A3BE8E42B917859C6B9DDD0D2B69","rights":"CC BY","creator":"batch","uri":"https://habrahabr.ru/post/222737/","time":"2016-11-23","title":"Как я написал web-приложение, используя только clojure / Хабрахабр"}

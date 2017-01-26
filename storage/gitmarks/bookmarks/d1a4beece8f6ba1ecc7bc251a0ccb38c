@@ -1,9 +1,1 @@
-{
-    "hash": "d1a4beece8f6ba1ecc7bc251a0ccb38c", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/SparkFund/spec-tacular", 
-    "private": false, 
-    "time": "2016-09-08T08:56:39Z", 
-    "title": "GitHub - SparkFund/spec-tacular: Make the border between Clojure and Datomic a more convenient and safe place to live."
-}
+{"hash":"D1A4BEECE8F6BA1ECC7BC251A0CCB38C","rights":"CC BY","creator":"batch","uri":"https://github.com/SparkFund/spec-tacular","time":"2016-11-23","title":"GitHub - SparkFund/spec-tacular: Make the border between Clojure and Datomic a more convenient and safe place to live."}

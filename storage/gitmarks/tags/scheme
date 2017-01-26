@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "9e31d980003bf3bd73a5a0b3949b82e0", 
-    "uri": "http://gambitscheme.org/wiki/index.php/Main_Page", 
-    "title": "Main Page - Gambit wiki"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "b302aec19648f5590e37346adeca6219", 
-    "uri": "https://github.com/pkrumins/the-little-schemer", 
-    "title": "GitHub - pkrumins/the-little-schemer: All the Scheme code examples from the book &quot;The Little Schemer&quot;"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"9E31D980003BF3BD73A5A0B3949B82E0","uri":"http://gambitscheme.org/wiki/index.php/Main_Page","title":"Main Page - Gambit wiki"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"B302AEC19648F5590E37346ADECA6219","uri":"https://github.com/pkrumins/the-little-schemer","title":"GitHub - pkrumins/the-little-schemer: All the Scheme code examples from the book &quot;The Little Schemer&quot;"},{"ver":"manual-edit","creator":"alansamet","hash":"cc14ba988c6fa75196c732d0e916e749","uri": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html","title":"simply scheme"}]

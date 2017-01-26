@@ -1,9 +1,1 @@
-{
-    "hash": "e3dbf57d6f71f5922195be0fcc8d1455", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/pcarrasco23/FootlooseFinancialServices", 
-    "private": false, 
-    "time": "2016-04-15T14:34:05Z", 
-    "title": "GitHub - pcarrasco23/FootlooseFinancialServices: Sample online banking system using C#, .NET, SQL Server, Entity Framework, MongoDB, WCF, WebAPI, AngularJS, and AWS EC2 and SNS/Lamba"
-}
+{"hash":"E3DBF57D6F71F5922195BE0FCC8D1455","rights":"CC BY","creator":"batch","uri":"https://github.com/pcarrasco23/FootlooseFinancialServices","time":"2016-11-23","title":"GitHub - pcarrasco23/FootlooseFinancialServices: Sample online banking system using C#, .NET, SQL Server, Entity Framework, MongoDB, WCF, WebAPI, AngularJS, and AWS EC2 and SNS/Lamba"}

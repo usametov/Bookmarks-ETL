@@ -1,9 +1,1 @@
-{
-    "hash": "c97766eb75ebf3301cf0f7645c44c9e3", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://tromp.github.io/cl/cl.html", 
-    "private": false, 
-    "time": "2016-07-25T19:34:51Z", 
-    "title": "John's Combinatory Logic Playground"
-}
+{"hash":"C97766EB75EBF3301CF0F7645C44C9E3","rights":"CC BY","creator":"batch","uri":"http://tromp.github.io/cl/cl.html","time":"2016-11-23","title":"John's Combinatory Logic Playground"}

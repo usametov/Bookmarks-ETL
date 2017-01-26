@@ -1,9 +1,1 @@
-{
-    "hash": "e518a9e5d52ba3404cf66ce02b7da6bf", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://clojure.org/guides/threading_macros", 
-    "private": false, 
-    "time": "2016-10-01T10:57:34Z", 
-    "title": "Clojure - Threading Macros Guide"
-}
+{"hash":"E518A9E5D52BA3404CF66CE02B7DA6BF","rights":"CC BY","creator":"batch","uri":"http://clojure.org/guides/threading_macros","time":"2016-11-23","title":"Clojure - Threading Macros Guide"}

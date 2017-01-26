@@ -1,49 +1,7 @@
-{
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"272EBFB99E7F5EC3A6A530B1F6229C7F","uri":"http://reactiveui.net/","title":"ReactiveUI: Home"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"27B2456CDBCDF501170C487FF392E202","uri":"http://reactiveui.net","title":"ReactiveUI: Home"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"303DDC42F4A14F0E4FD5A9EC89691FBC","uri":"https://github.com/benoitjadinon/awesome-xamarin","title":"GitHub - benoitjadinon/awesome-xamarin: A collection of interesting libraries/tools for Xamarin mobile projects"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"3FBEC83298DC992BDB6B153867B3C16F","uri":"https://blog.xamarin.com/webinar-recording-building-better-apps-with-microsoft-cognitive-services-and-xamarin/","title":"[No Title]"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"5823283832FE082BA5A378BB5DEB3412","uri":"https://github.com/pierceboggan/smarter-apps","title":"GitHub - pierceboggan/smarter-apps: Learn how to build smarter mobile apps using Microsoft Cognitive Services &amp; Xamarin."},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"6945B03343852C0D0C8946A577EE0BCA","uri":"https://realm.io/news/introducing-realm-xamarin/","title":"Introducing Realm Xamarin "},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"E37184608F29384FC23186EC235A0EF3","uri":"https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/","title":"Creating Mobile Apps with Xamarin.Forms Book First Edition - Xamarin"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"E377ECF6F95AA6CBD74CFACDFCE78292","uri":"https://components.xamarin.com/gettingstarted/rxforxamarin","title":"Getting Started with Reactive Extensions (Rx) for Xamarin"},{
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "e377ecf6f95aa6cbd74cfacdfce78292", 
-    "uri": "https://components.xamarin.com/gettingstarted/rxforxamarin", 
-    "title": "Getting Started with Reactive Extensions (Rx) for Xamarin"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "272ebfb99e7f5ec3a6a530b1f6229c7f", 
-    "uri": "http://reactiveui.net/", 
-    "title": "ReactiveUI: Home"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "e37184608f29384fc23186ec235a0ef3", 
-    "uri": "https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/", 
-    "title": "Creating Mobile Apps with Xamarin.Forms Book First Edition - Xamarin"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "303ddc42f4a14f0e4fd5a9ec89691fbc", 
-    "uri": "https://github.com/benoitjadinon/awesome-xamarin", 
-    "title": "GitHub - benoitjadinon/awesome-xamarin: A collection of interesting libraries/tools for Xamarin mobile projects"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "5823283832fe082ba5a378bb5deb3412", 
-    "uri": "https://github.com/pierceboggan/smarter-apps", 
-    "title": "GitHub - pierceboggan/smarter-apps: Learn how to build smarter mobile apps using Microsoft Cognitive Services &amp; Xamarin."
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "6945b03343852c0d0c8946a577ee0bca", 
-    "uri": "https://realm.io/news/introducing-realm-xamarin/", 
-    "title": "Introducing Realm Xamarin "
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "3fbec83298dc992bdb6b153867b3c16f", 
-    "uri": "https://blog.xamarin.com/webinar-recording-building-better-apps-with-microsoft-cognitive-services-and-xamarin/", 
-    "title": "[No Title]"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "27b2456cdbcdf501170c487ff392e202", 
-    "uri": "http://reactiveui.net", 
-    "title": "ReactiveUI: Home"
-}
+    "hash": "275ed8d3048808b387d8dea29c523178", 
+    "uri": "https://github.com/paulcbetts/refit", 
+    "title": "GitHub - paulcbetts/refit: The automatic type-safe REST library for Xamarin and .NET"
+}]

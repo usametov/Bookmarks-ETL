@@ -1,9 +1,1 @@
-{
-    "hash": "97562ab025c7c767b8b0bdcac2f65543", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://blog.klipse.tech//clojure/2016/10/25/core-match.html", 
-    "private": false, 
-    "time": "2016-10-27T22:57:28Z", 
-    "title": "Core.match interactive tutorial"
-}
+{"hash":"97562AB025C7C767B8B0BDCAC2F65543","rights":"CC BY","creator":"batch","uri":"http://blog.klipse.tech//clojure/2016/10/25/core-match.html","time":"2016-11-23","title":"Core.match interactive tutorial"}

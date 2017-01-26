@@ -1,9 +1,1 @@
-{
-    "hash": "a71fc2d26c9b5f177c98618f32d260a9", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://pschwarz.bicycle.io/blog/2014/01/28/serial_access_via_clojure.html", 
-    "private": false, 
-    "time": "2016-06-03T17:23:29Z", 
-    "title": "Serial Access via Clojure"
-}
+{"hash":"A71FC2D26C9B5F177C98618F32D260A9","rights":"CC BY","creator":"batch","uri":"http://pschwarz.bicycle.io/blog/2014/01/28/serial_access_via_clojure.html","time":"2016-11-23","title":"Serial Access via Clojure"}

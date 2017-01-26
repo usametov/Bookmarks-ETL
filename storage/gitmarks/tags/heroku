@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "cfd153aea42668e8ffe6e3c18a228ccb", 
-    "uri": "https://devcenter.heroku.com/articles/clojure-web-application", 
-    "title": "Building a Database-Backed Clojure Web Application | Heroku Dev Center"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "0da34afb71e82f818772c5beb75e1fcd", 
-    "uri": "https://github.com/technomancy/lein-heroku", 
-    "title": "GitHub - technomancy/lein-heroku: Experimental Leiningen plugin for managing Heroku apps"
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"08A1A0BAFDD311A0FFA9C9412B65EB9A","uri":"https://elements.heroku.com/buttons/cantino/huginn","title":"cantino/Huginn - Buttons - Heroku Elements"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"5EC15421924B5CB3FA71962275303F5B","uri":"https://github.com/ether-camp/heroku-buildpack-gradle-bower","title":"GitHub - ether-camp/heroku-buildpack-gradle-bower"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"6E381DE7D99EC8FABE63CA2DBD438EE4","uri":"https://github.com/passy/generator-heroku","title":"passy/generator-heroku"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"64E561EBE3F431DC9F569EC9532B14EC","uri":"http://www.wiredforcode.com/blog/2014/02/11/deploy-to-heroku-with-gradle","title":"Deploy to Heroku With Gradle - Wired For Code"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"F0D127B349BA1C51955C007781DA6813","uri":"https://www.heroku.com/","title":"Heroku | Cloud Application Platform"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"0DA34AFB71E82F818772C5BEB75E1FCD","uri":"https://github.com/technomancy/lein-heroku","title":"GitHub - technomancy/lein-heroku: Experimental Leiningen plugin for managing Heroku apps"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CFD153AEA42668E8FFE6E3C18A228CCB","uri":"https://devcenter.heroku.com/articles/clojure-web-application","title":"Building a Database-Backed Clojure Web Application | Heroku Dev Center"}]

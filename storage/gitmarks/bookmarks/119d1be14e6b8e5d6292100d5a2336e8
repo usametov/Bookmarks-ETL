@@ -1,9 +1,1 @@
-{
-    "hash": "119d1be14e6b8e5d6292100d5a2336e8", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/clojure/clojure-clr/wiki/Using-ClojureCLR-in-a-C%23-project", 
-    "private": false, 
-    "time": "2016-09-11T21:29:46Z", 
-    "title": "Using ClojureCLR in a C# project \u00b7 clojure/clojure-clr Wiki \u00b7 GitHub"
-}
+{"hash":"119D1BE14E6B8E5D6292100D5A2336E8","rights":"CC BY","creator":"batch","uri":"https://github.com/clojure/clojure-clr/wiki/Using-ClojureCLR-in-a-C%23-project","time":"2016-11-23","title":"Using ClojureCLR in a C# project · clojure/clojure-clr Wiki · GitHub"}

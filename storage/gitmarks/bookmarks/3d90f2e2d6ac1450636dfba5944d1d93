@@ -1,9 +1,1 @@
-{
-    "hash": "3d90f2e2d6ac1450636dfba5944d1d93", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://neo4j.com/developer/kb/fulltext-search-in-neo4j/", 
-    "private": false, 
-    "time": "2016-08-23T12:24:03Z", 
-    "title": "Neo4j :: Fulltext Search in Neo4j - Neo4j Graph Database"
-}
+{"hash":"3D90F2E2D6AC1450636DFBA5944D1D93","rights":"CC BY","creator":"batch","uri":"https://neo4j.com/developer/kb/fulltext-search-in-neo4j/","time":"2016-11-23","title":"Neo4j :: Fulltext Search in Neo4j - Neo4j Graph Database"}

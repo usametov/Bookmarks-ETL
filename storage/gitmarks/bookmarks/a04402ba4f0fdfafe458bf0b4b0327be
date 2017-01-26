@@ -1,9 +1,1 @@
-{
-    "hash": "a04402ba4f0fdfafe458bf0b4b0327be", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/Azure/amqpnetlite", 
-    "private": false, 
-    "time": "2016-04-04T13:37:25Z", 
-    "title": "GitHub - Azure/amqpnetlite: AMQP 1.0 .NET Client Library"
-}
+{"hash":"A04402BA4F0FDFAFE458BF0B4B0327BE","rights":"CC BY","creator":"batch","uri":"https://github.com/Azure/amqpnetlite","time":"2016-11-23","title":"GitHub - Azure/amqpnetlite: AMQP 1.0 .NET Client Library"}

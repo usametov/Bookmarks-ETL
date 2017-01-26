@@ -1,9 +1,1 @@
-{
-    "hash": "36b263a023a94abc0689a553921cdb91", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/gigasquid/clj-roomba", 
-    "private": false, 
-    "time": "2016-05-16T12:26:44Z", 
-    "title": "GitHub - gigasquid/clj-roomba: Sample project to control your Roomba with the Clojure REPL"
-}
+{"hash":"36B263A023A94ABC0689A553921CDB91","rights":"CC BY","creator":"batch","uri":"https://github.com/gigasquid/clj-roomba","time":"2016-11-23","title":"GitHub - gigasquid/clj-roomba: Sample project to control your Roomba with the Clojure REPL"}

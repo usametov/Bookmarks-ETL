@@ -1,13 +1,1 @@
-{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "84757d069e37491a9cbe01a99173d370", 
-    "uri": "https://github.com/facebook/graphql", 
-    "title": "GitHub - facebook/graphql: GraphQL is a query language and execution engine tied to any backend service."
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
-    "hash": "ee18e4595654fcbb73ef9e6894016ada", 
-    "uri": "https://github.com/briatte/awesome-network-analysis", 
-    "title": "GitHub - briatte/awesome-network-analysis: A curated list of awesome network analysis resources."
-}
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"84757D069E37491A9CBE01A99173D370","uri":"https://github.com/facebook/graphql","title":"GitHub - facebook/graphql: GraphQL is a query language and execution engine tied to any backend service."},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"EE18E4595654FCBB73EF9E6894016ADA","uri":"https://github.com/briatte/awesome-network-analysis","title":"GitHub - briatte/awesome-network-analysis: A curated list of awesome network analysis resources."}]

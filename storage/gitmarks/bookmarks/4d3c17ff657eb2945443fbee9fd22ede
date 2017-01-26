@@ -1,9 +1,1 @@
-{
-    "hash": "4d3c17ff657eb2945443fbee9fd22ede", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/mynomoto/repetition-hunter", 
-    "private": false, 
-    "time": "2016-08-26T20:29:03Z", 
-    "title": "GitHub - mynomoto/repetition-hunter: A tool to find repetitions in clojure code."
-}
+{"hash":"4D3C17FF657EB2945443FBEE9FD22EDE","rights":"CC BY","creator":"batch","uri":"https://github.com/mynomoto/repetition-hunter","time":"2016-11-23","title":"GitHub - mynomoto/repetition-hunter: A tool to find repetitions in clojure code."}

@@ -1,9 +1,1 @@
-{
-    "hash": "f8af8124c8b07e7f044291fa5b28611b", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://www.gigamonkeys.com/book/", 
-    "private": false, 
-    "time": "2016-07-19T12:59:21Z", 
-    "title": "Practical Common Lisp"
-}
+{"hash":"F8AF8124C8B07E7F044291FA5B28611B","rights":"CC BY","creator":"batch","uri":"http://www.gigamonkeys.com/book/","time":"2016-11-23","title":"Practical Common Lisp"}

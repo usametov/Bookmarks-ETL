@@ -1,9 +1,1 @@
-{
-    "hash": "83c4e33aae908cff94ec28d9ff44dfb1", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/clojure-emacs/cider", 
-    "private": false, 
-    "time": "2016-06-18T15:27:27Z", 
-    "title": "GitHub - clojure-emacs/cider: The Clojure Interactive Development Environment that Rocks for Emacs"
-}
+{"hash":"83C4E33AAE908CFF94EC28D9FF44DFB1","rights":"CC BY","creator":"batch","uri":"https://github.com/clojure-emacs/cider","time":"2016-11-23","title":"GitHub - clojure-emacs/cider: The Clojure Interactive Development Environment that Rocks for Emacs"}

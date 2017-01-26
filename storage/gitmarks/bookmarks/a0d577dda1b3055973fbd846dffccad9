@@ -1,9 +1,1 @@
-{
-    "hash": "a0d577dda1b3055973fbd846dffccad9", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://msdn.microsoft.com/en-us/library/dd233248.aspx", 
-    "private": false, 
-    "time": "2016-03-21T14:18:47Z", 
-    "title": "Active Patterns (F#)"
-}
+{"hash":"A0D577DDA1B3055973FBD846DFFCCAD9","rights":"CC BY","creator":"batch","uri":"http://msdn.microsoft.com/en-us/library/dd233248.aspx","time":"2016-11-23","title":"Active Patterns (F#)"}

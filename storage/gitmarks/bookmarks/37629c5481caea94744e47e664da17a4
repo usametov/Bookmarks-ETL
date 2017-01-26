@@ -1,9 +1,1 @@
-{
-    "hash": "37629c5481caea94744e47e664da17a4", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://nakkaya.com/vision.html", 
-    "private": false, 
-    "time": "2016-06-07T14:12:09Z", 
-    "title": "Vision - OpenCV wrapper for Clojure"
-}
+{"hash":"37629C5481CAEA94744E47E664DA17A4","rights":"CC BY","creator":"batch","uri":"http://nakkaya.com/vision.html","time":"2016-11-23","title":"Vision - OpenCV wrapper for Clojure"}

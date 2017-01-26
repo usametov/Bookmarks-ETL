@@ -1,9 +1,1 @@
-{
-    "hash": "858224dcee01af5ea17aeb46f6b70da4", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/daveray/seesaw", 
-    "private": false, 
-    "time": "2016-06-01T10:25:04Z", 
-    "title": "GitHub - daveray/seesaw: Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library"
-}
+{"hash":"858224DCEE01AF5EA17AEB46F6B70DA4","rights":"CC BY","creator":"batch","uri":"https://github.com/daveray/seesaw","time":"2016-11-23","title":"GitHub - daveray/seesaw: Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library"}

@@ -1,9 +1,1 @@
-{
-    "hash": "a3645e7cb66d34a3bf4ec209049d542f", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/aboekhoff/congomongo", 
-    "private": false, 
-    "time": "2016-06-29T11:37:25Z", 
-    "title": "GitHub - aboekhoff/congomongo: Clojure wrapper for the mongo-db java api"
-}
+{"hash":"A3645E7CB66D34A3BF4EC209049D542F","rights":"CC BY","creator":"batch","uri":"https://github.com/aboekhoff/congomongo","time":"2016-11-23","title":"GitHub - aboekhoff/congomongo: Clojure wrapper for the mongo-db java api"}
