@@ -20,15 +20,18 @@ namespace TestMongoDbImport
         //        , @"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge.json")]
         [TestCase(@"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge-nov22-2016.json"
                 , @"C:\code\csharp6\Tagging-Util\storage\gitmarks-jan25.json"
-                , @"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge-jan26.json")]
+                , @"C:\code\csharp6\Tagging-Util\storage\bookmarks-merge-feb2.json")]
         public void TestMergeBookmarks(string file1, string file2, string outputPath)
         {
             var bookmarks = MergeBookmarks.Merge(file1, file2);
-            var content = JsonConvert.SerializeObject(bookmarks);
+
+            string content = Bookmarks2Json.ExportToMongoFormat(bookmarks);
+
             using (var writer = new StreamWriter(outputPath))
             {
                 writer.Write(content);
             }
+
         }
     }
 }
