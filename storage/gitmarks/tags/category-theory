@@ -1,0 +1,37 @@
+[{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "df0d508fa0d0628dd0d0c8271bb450b8", 
+    "uri": "http://www.cs.ox.ac.uk/people/samson.abramsky/calco05.pdf", 
+    "title": "[No Title]"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ddf6f4d4f75e5c5e9da26ac284ae476e", 
+    "uri": "https://arxiv.org/abs/quant-ph/0402130", 
+    "title": "[quant-ph/0402130] A categorical semantics of quantum protocols"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ecdbc18d9b677582eb89164e6e2faa6e", 
+    "uri": "https://arxiv.org/abs/quant-ph/0512114", 
+    "title": "[quant-ph/0512114] A Categorical Quantum Logic"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e6a4dd2b0b5a28541532f095f3d0e5f7", 
+    "uri": "http://www.cs.ox.ac.uk/people/bob.coecke/AbrNikos.pdf", 
+    "title": "[No Title]"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b93196c639c0d78e1bc7d3e4481c6787", 
+    "uri": "http://www.math.stonybrook.edu/~kirillov/tensor/tensor.html", 
+    "title": "Lectures on tensor categories and modular functor"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b0efc593e4e4d98868c7fd780efab8c5", 
+    "uri": "http://publish.uwo.ca/~jbell/catlogprime.pdf", 
+    "title": "[No Title]"
+}]

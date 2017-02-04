@@ -1,0 +1,13 @@
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"88CB50F773A150821A3AB4A557F14C0D","uri":"http://www.gpg4win.org/download.html","title":"Gpg4win - EMail-Security using GnuPG for Windows"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"C9DB2EDA2895C22AC8D7851602ED377F","uri":"http://aopensource.com/index.php?more=24","title":"AOpenSource.com Android Open Source Details: APG"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"948B9970B60F8570409F4F4C2577D25A","uri":"http://www.openpgp.org/resources/downloads.shtml","title":"OpenPGP.org - Downloads"},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "531dcafb4786a9b9ca23dc913099bf93", 
+    "uri": "http://arstechnica.com/security/2016/12/op-ed-im-giving-up-on-pgp/", 
+    "title": "Op-ed: I\u2019m throwing in the towel on PGP, and I work in security | Ars Technica"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "920a4df46ca4d2412f176a8c8eeebb0d", 
+    "uri": "https://blog.filippo.io/giving-up-on-long-term-pgp/", 
+    "title": "I&#x27;m giving up on PGP"
+}]

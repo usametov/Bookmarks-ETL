@@ -1,0 +1,7 @@
+[{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"0BADFA809021BDE6DBDA1D40804F7D60","uri":"https://en.wikipedia.org/wiki/Power_analysis","title":"Power analysis - Wikipedia, the free encyclopedia"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"CF712168308B4DDD6B2C45B894C9F929","uri":"https://hashes.org/mdxfind.php","title":"Hashes.org - MDXfind by Waffle"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"1EAEAD2EFF55CB5EFE9A7BF310A623AE","uri":"http://eprint.iacr.org/","title":"Cryptology ePrint Archive"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"FADBA43DCD2A0A8883CD5AD98B237CAF","uri":"http://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM3045808&R=3045808","title":"Cryptology classical and modern with maplets : Klima, Richard E. : eBook : Toronto Public Library"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"4F6A4506A0E6048E415AFC314317426E","uri":"http://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM3133879&R=3133879","title":"American cryptology two centuries of tradition : eBook : Toronto Public Library"},{"ver":"BookmarksEtl.0.0.1","creator":"batch","hash":"7C113B1D75EECA66B1617BAE6F9BFB10","uri":"https://opencryptoaudit.org/","title":"Open Crypto Audit Project"},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bc28b57d678d9fc7aa2644bfdd781ed4", 
+    "uri": "https://github.com/google/wycheproof", 
+    "title": "GitHub - google/wycheproof: Project Wycheproof tests crypto libraries against known attacks."
+}]

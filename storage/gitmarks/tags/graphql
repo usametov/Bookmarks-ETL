@@ -1,0 +1,31 @@
+[{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "66fbf6423030f599c285192b72875061", 
+    "uri": "https://dev-blog.apollodata.com/tutorial-building-a-graphql-server-cddaa023c035", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5c052b42503381bd2c029ba69ae0289f", 
+    "uri": "http://graphql.org/code/", 
+    "title": "Code | GraphQL"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f244a7157fddf90a7d4310f3aa3ab30", 
+    "uri": "https://github.com/chentsulin/awesome-graphql", 
+    "title": "GitHub - chentsulin/awesome-graphql: Awesome list of GraphQL &amp; Relay"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bdea8a7c5a6f3686e2488cf328ff25f", 
+    "uri": "https://github.com/ckimes89/graphql-net", 
+    "title": "GitHub - ckimes89/graphql-net: Convert GraphQL to IQueryable"
+},{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd1de65de093c201d658286d09b9822f", 
+    "uri": "https://learngraphql.com/basics/introduction", 
+    "title": "learn graphql"
+}]
