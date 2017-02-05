@@ -6,7 +6,7 @@ namespace Bookmarks.Common
     public class Bookmark : IBookmark
     {        
         /// <summary>
-        /// Should be set to MD5 hash of linkUrl
+        /// Should be MD5 hash of linkUrl
         /// </summary>
         public string Id { get; set; }
 

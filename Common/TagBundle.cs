@@ -3,9 +3,6 @@ namespace Bookmarks.Common
 {    
     public class TagBundle 
     {
-        /// <summary>
-        /// should be set to hash of Name + BookmarkCollectionId
-        /// </summary>
         public string Id { get; set; }
 
         public string BookmarkCollectionId { get; set; }

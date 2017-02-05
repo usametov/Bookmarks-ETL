@@ -48,6 +48,7 @@
     <Compile Include="BookmarksCollections.cs" />
     <Compile Include="IBookmark.cs" />
     <Compile Include="IBookmarkParser.cs" />
+    <Compile Include="IBookmarksContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TagBundle.cs" />
     <Compile Include="TagCount.cs" />
