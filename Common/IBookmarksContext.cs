@@ -19,8 +19,8 @@ namespace Bookmarks.Common
 
         void EditTagBundle(string tagBundleId, string tagBundleName);
 
-        IEnumerable<string> ExtractExcludeTags(string[] excludeTagBundles
-                                            , Bookmarks.Common.TagBundle tagBundle);
+        //IEnumerable<string> ExtractExcludeTags(string[] excludeTagBundles
+        //                                    , Bookmarks.Common.TagBundle tagBundle);
 
         IEnumerable<Bookmark> GetBookmarksByTagBundle(string tagBundleName, int? skip, int? take);
 
@@ -47,5 +47,7 @@ namespace Bookmarks.Common
         IEnumerable<TagCount> CalculateRemainingTermCounts(int bufferSize, string[] excludeTagBundles);
 
         IEnumerable<Bookmarks.Common.Bookmark> BackupBookmarks();
+
+        void UpdateExcludeTagBundlesList(string tagBundleId, string[] excludeTagBundles);
     }
 }
