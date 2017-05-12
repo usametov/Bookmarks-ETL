@@ -90,6 +90,10 @@
       <Project>{4d01d72d-f2de-4549-8e3a-b46281d2545c}</Project>
       <Name>BibsonomyParser</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ChromeBookmarksParser\ChromeBookmarksParser.csproj">
+      <Project>{21258b17-3fbf-43f9-9431-a011c2e8add1}</Project>
+      <Name>ChromeBookmarksParser</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Bookmarks.Common.csproj">
       <Project>{917aafd0-6698-4476-93e6-0ddfb7154ca9}</Project>
       <Name>Bookmarks.Common</Name>
