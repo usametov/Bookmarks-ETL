@@ -32,7 +32,7 @@ namespace Bookmarks.Common
 
         IEnumerable<TagBundle> GetTagBundles(string name);
 
-        User GetUserByUsernameAndPasswdHash(string userName, string passwordHash);
+        User GetUserByUsername(string userName);
 
         void UpdateTagBundle(TagBundle tagBundle);
         
