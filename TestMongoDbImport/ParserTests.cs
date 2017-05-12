@@ -37,5 +37,13 @@ namespace TestMongoDbImport
             var bookmarks = parser.ParseBookmarks(bookmarksRepo);
             Assert.IsNotEmpty(bookmarks);
         }
+
+        //[TestCase(@"C:\code\csharp6\Tagging-Util\storage\chrome-bookmarks_11_05_2017.html")]        
+        public void TestChromeBookmarksParser(string bookmarksFile)
+        {
+            var parser = new ChromeBookmarksParser.Parser();
+            var bookmarks = parser.ParseBookmarks(bookmarksFile);
+            Assert.IsNotEmpty(bookmarks);
+        }
     }
 }

@@ -74,6 +74,10 @@
       <Project>{4bf8d6a1-c882-4c64-9193-e72d3243a5d6}</Project>
       <Name>BookmarksBatchConsole</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ChromeBookmarksParser\ChromeBookmarksParser.csproj">
+      <Project>{21258b17-3fbf-43f9-9431-a011c2e8add1}</Project>
+      <Name>ChromeBookmarksParser</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Bookmarks.Common.csproj">
       <Project>{917aafd0-6698-4476-93e6-0ddfb7154ca9}</Project>
       <Name>Bookmarks.Common</Name>

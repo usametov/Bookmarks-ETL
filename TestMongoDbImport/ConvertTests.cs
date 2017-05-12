@@ -11,6 +11,7 @@ namespace TestMongoDbImport
         //[TestCase("delicious", @"C:\code\csharp6\Tagging-Util\storage\delicious-2016-03-16.html", @"C:\code\csharp6\Tagging-Util\storage\delicious-2016-03-16.json")]
         //[TestCase("gitmarks", @"C:\code\csharp6\Tagging-Util\storage\gitmarks", @"C:\code\csharp6\Tagging-Util\storage\gitmarks-jan25.json")]
         //[TestCase("pinterest", @"C:\code\csharp6\Tagging-Util\storage\pins.txt", @"C:\code\csharp6\Tagging-Util\storage\pinterest-nov21-2016.json")]
+        //[TestCase("chrome", @"C:\code\csharp6\Tagging-Util\storage\chrome-bookmarks_11_05_2017.html", @"C:\code\csharp6\Tagging-Util\storage\chrome-bookmarks_11_05_2017.json")]
         public void TestConvert(string parserType, string bookmarksFile, string outputPath)
         {
             Program.ParseBookmarks(parserType, bookmarksFile, outputPath);
