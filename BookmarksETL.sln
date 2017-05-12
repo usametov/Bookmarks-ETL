@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinterestParser", "Pinteres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMongoDbImport", "TestMongoDbImport\TestMongoDbImport.csproj", "{2767B390-D154-45B2-9930-ADCB927C8A8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeBookmarksParser", "ChromeBookmarksParser\ChromeBookmarksParser.csproj", "{21258B17-3FBF-43F9-9431-A011C2E8ADD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{2767B390-D154-45B2-9930-ADCB927C8A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2767B390-D154-45B2-9930-ADCB927C8A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2767B390-D154-45B2-9930-ADCB927C8A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21258B17-3FBF-43F9-9431-A011C2E8ADD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21258B17-3FBF-43F9-9431-A011C2E8ADD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21258B17-3FBF-43F9-9431-A011C2E8ADD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21258B17-3FBF-43F9-9431-A011C2E8ADD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
