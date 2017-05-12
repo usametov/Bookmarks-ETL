@@ -8,7 +8,8 @@ Currently you can import bookmarks from
 * Bibsonomy, 
 * Gitmarks, 
 * Pinterest, 
-* Delicious web sites.
+* Delicious web sites,
+* Chrome Bookmarks
 
 Once you exported bookmarks from these web sites to a file, you feed the that file to BookmarksBatchConsole.    
 The ouput file will have a format defined by Bookmarks.Common.Bookmark class.
