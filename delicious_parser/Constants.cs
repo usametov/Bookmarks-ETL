@@ -15,5 +15,7 @@ namespace DeliciousParser
         public const string HREF_ATTR = "HREF";
 
         public const string ONE_STR = "1";
+
+        public const string DT_NODE = "dt";
     }
 }
