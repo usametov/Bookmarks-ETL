@@ -63,6 +63,9 @@ merge --file1 [file1] --file2 [file2]");
                 case "gitmarks":
                     converter = new Bookmarks2Json(new GitmarksParser.Parser());
                     break;
+                case "chrome":
+                    converter = new Bookmarks2Json(new ChromeBookmarksParser.Parser());
+                    break;
             }
             
             var content = converter.Write(bookmarksFile);
