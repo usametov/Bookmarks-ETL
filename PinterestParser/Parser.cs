@@ -21,7 +21,7 @@ namespace PinterestParser
 
                 var title = pb.note;
 
-                var tags = new List<string> { pb.board.name };
+                var tags = new List<string> { pb.board?.name ?? string.Empty };
 
                 var bookmark = new PinterestBookmark
                 {

@@ -23,5 +23,10 @@ namespace Bookmarks.Common
                              , hashAlgo.ComputeHash(Encoding.ASCII.GetBytes(str2hash))
                                                                   .Select(b => b.ToString("X2")));
         }
+
+        public static bool SafeEquals(this string s1, string s2) {
+
+            return (s1 ?? string.Empty).Equals(s2 ?? string.Empty);
+        }
     }
 }

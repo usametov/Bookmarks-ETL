@@ -127,7 +127,7 @@ namespace GitmarksParser
     {
         public bool Equals(TagContent x, TagContent y)
         {
-            return x.hash.Equals(y.hash);
+            return x.hash.SafeEquals(y.hash);
         }
 
         public int GetHashCode(TagContent obj)

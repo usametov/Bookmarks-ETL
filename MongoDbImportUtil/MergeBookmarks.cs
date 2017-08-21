@@ -50,9 +50,9 @@ namespace MongoDbImportUtil
             var tag1 = new HashSet<string>(b1.Tags.Distinct());
             var tag2 = new HashSet<string>(b2.Tags.Distinct());
                         
-            return (b1.LinkUrl.Equals(b2.LinkUrl)
-                    && b1.LinkText.Equals(b2.LinkText)
-                    && b1.Description.Equals(b2.Description)
+            return (b1.LinkUrl.SafeEquals(b2.LinkUrl)
+                    && b1.LinkText.SafeEquals(b2.LinkText)
+                    && b1.Description.SafeEquals(b2.Description)
                     && tag1.SetEquals(tag2));
         }
     }
