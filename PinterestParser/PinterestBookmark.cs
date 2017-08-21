@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using Bookmarks.Common;
-using NullGuard;
 
 namespace PinterestParser
 {
@@ -11,7 +10,7 @@ namespace PinterestParser
         {
             get; set;
         }
-        [AllowNull]
+        
         public string Description
         {
             get; set;

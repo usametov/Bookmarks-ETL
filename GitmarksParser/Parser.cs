@@ -4,7 +4,6 @@ using Bookmarks.Common;
 using Newtonsoft.Json;
 using System;
 using System.Linq;
-using NullGuard;
 
 namespace GitmarksParser
 {
@@ -95,8 +94,7 @@ namespace GitmarksParser
         public string uri { get; set; }
 
         public string time { get; set; }
-
-        [AllowNull]
+        
         public string title { get; set; }
     }
 
@@ -121,8 +119,7 @@ namespace GitmarksParser
 
         /// <summary>
         /// this is link text
-        /// </summary>
-        [AllowNull]
+        /// </summary>        
         public string title { get; set; }
     }
 

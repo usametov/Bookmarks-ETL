@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using Bookmarks.Common;
-using NullGuard;
 
 namespace GitmarksParser
 {
@@ -16,8 +15,7 @@ namespace GitmarksParser
         {
             get; set;
         }
-
-        [AllowNull]
+                
         public string LinkText
         {
             get; set;
